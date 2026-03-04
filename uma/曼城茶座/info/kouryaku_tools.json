@@ -1,0 +1,219 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/manhattancafe",
+  "fetched_at_utc": "2026-03-04T08:16:11.534843+00:00",
+  "slug": "manhattancafe",
+  "name_ja": "マンハッタンカフェ",
+  "name_zh": "曼城茶座",
+  "folder_name": "曼城茶座",
+  "data": {
+    "id": 1025,
+    "name": "マンハッタンカフェ",
+    "alphabetId": "manhattancafe",
+    "alphabetName": "Manhattan Cafe",
+    "imageColorMain": "3D3935",
+    "imageColorSub": "BBBE6C",
+    "uiColorMain": "494541",
+    "uiColorSub": "E8DD4C",
+    "uiTrainingColor1": "e9d001",
+    "uiTrainingColor2": "c79b00",
+    "uiBorderColor": "c79b00",
+    "uiNumColor1": "e6ce00",
+    "uiNumColor2": "e2b500",
+    "uiTurnColor": "e2b500",
+    "uiWipeColor1": "fff299",
+    "uiWipeColor2": "fff7bf",
+    "uiWipeColor3": "fffce4",
+    "uiSpeechColor1": "dabe00",
+    "uiSpeechColor2": "dabe00",
+    "uiNameplateColor1": "dabe00",
+    "uiNameplateColor2": "f6e257",
+    "castId": 23,
+    "comics": [
+      {
+        "id": "1036_02",
+        "mainCharacterId": 1036,
+        "new": false,
+        "mainCharacter": {
+          "id": 1036,
+          "name": "エアシャカール",
+          "castId": 37,
+          "alphabetId": "airshakur",
+          "uiColorSub": "E1E000",
+          "uiColorMain": "2459B4",
+          "alphabetName": "Air Shakur",
+          "uiSpeechColor1": "2b61bf"
+        }
+      },
+      {
+        "id": "1092_01",
+        "mainCharacterId": 1092,
+        "new": false,
+        "mainCharacter": {
+          "id": 1092,
+          "name": "ダンツフレーム",
+          "castId": 113,
+          "alphabetId": "dantsuflame",
+          "uiColorSub": "119d76",
+          "uiColorMain": "e97d97",
+          "alphabetName": "Dantsu Flame",
+          "uiSpeechColor1": "f67594"
+        }
+      },
+      {
+        "id": "1136_01",
+        "mainCharacterId": 1136,
+        "new": true,
+        "mainCharacter": {
+          "id": 1136,
+          "name": "レッドディザイア",
+          "castId": 139,
+          "alphabetId": "reddesire",
+          "uiColorSub": "802f2d",
+          "uiColorMain": "cb3a43",
+          "alphabetName": "Red Desire",
+          "uiSpeechColor1": "FFFFFF"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1025_01",
+        "mainCharacterId": 1025,
+        "new": false
+      },
+      {
+        "id": "1025_02",
+        "mainCharacterId": 1025,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10031,
+        "name": "マンハッタンカフェ",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 1,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 20008,
+        "name": "マンハッタンカフェ",
+        "title": "[雨の独奏、私の独創]",
+        "rarity": 2,
+        "command": 1,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30075,
+        "name": "マンハッタンカフェ",
+        "title": "[独奏・螺旋追走曲]",
+        "rarity": 3,
+        "command": 1,
+        "publishedAt": "$D2021-12-14T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30110,
+        "name": "マンハッタンカフェ",
+        "title": "[It's on the house.]",
+        "rarity": 3,
+        "command": 1,
+        "publishedAt": "$D2022-08-19T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30157,
+        "name": "マンハッタンカフェ",
+        "title": "[君と見る泡沫]",
+        "rarity": 3,
+        "command": 4,
+        "publishedAt": "$D2023-07-31T03:00:00.000Z",
+        "ev": false
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "102501",
+        "publishedAt": "$D2021-10-20T03:00:00.000Z",
+        "talentSpeed": 0,
+        "talentStamina": 30,
+        "talentPow": 0,
+        "talentGuts": 0,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 1,
+        "aptitudeMile": 2,
+        "aptitudeMiddle": 6,
+        "aptitudeLong": 7,
+        "aptitudeRunner": 1,
+        "aptitudeLeader": 5,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 5,
+        "rank": 3,
+        "title": "[Creeping Black]",
+        "limited": false,
+        "characterId": 1025,
+        "commonName": "カフェ",
+        "dressId": 102501,
+        "ev": false
+      },
+      {
+        "id": "102502",
+        "publishedAt": "$D2024-01-31T03:00:00.000Z",
+        "talentSpeed": 0,
+        "talentStamina": 20,
+        "talentPow": 10,
+        "talentGuts": 0,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 1,
+        "aptitudeMile": 2,
+        "aptitudeMiddle": 6,
+        "aptitudeLong": 7,
+        "aptitudeRunner": 1,
+        "aptitudeLeader": 5,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 7,
+        "rank": 3,
+        "title": "[柳緑小夜]",
+        "limited": false,
+        "characterId": 1025,
+        "commonName": "猫カフェ、抹茶カフェ、抹茶ラテ、メイドカフェ、チョコカフェ、バレカフェ",
+        "dressId": 102513,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 25,
+      "birthYear": 1998,
+      "birthMonth": 3,
+      "birthDate": 5,
+      "description": "影の薄い不思議な少女。人に見えないものが見え、指先で奇妙な紋様を描き、いつも壁際に1人でいる。しかし彼女日く1人ではなく……常に“お友だち”といるらしい。コーヒーが好きだが、いっぺんに飲むとお腹が痛くなるため、ゆっくり飲む。",
+      "height": 155,
+      "weight": "増減なし",
+      "dormitory": "",
+      "threesize": "B73・W54・H78",
+      "schoolGrade": "",
+      "characterId": 1025,
+      "prizeMoney": 522830000,
+      "bad": "快晴の日",
+      "ear": "彼女にだけ聞こえる声があるらしい",
+      "family": "家族でコーヒー愛好家のため、豆は直輸入",
+      "good": "コーヒーを淹れること",
+      "shoes": "左右ともに22.0cm",
+      "tail": "なにもしなくても、しっとりサラサラ毛質",
+      "before": "目を閉じて闇夜をイメージする",
+      "boast": "",
+      "buy": "",
+      "myrule": "黄昏時はなるべくひとりで過ごす",
+      "spbg": "山頂で撮影した満月の浮かぶ夜空",
+      "subject": ""
+    }
+  }
+}

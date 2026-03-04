@@ -1,0 +1,142 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/twinturbo",
+  "fetched_at_utc": "2026-03-04T08:16:50.059922+00:00",
+  "slug": "twinturbo",
+  "name_ja": "ツインターボ",
+  "name_zh": "双涡轮",
+  "folder_name": "双涡轮",
+  "data": {
+    "id": 1066,
+    "name": "ツインターボ",
+    "alphabetId": "twinturbo",
+    "alphabetName": "Twin Turbo",
+    "imageColorMain": "0050C8",
+    "imageColorSub": "FF5FCC",
+    "uiColorMain": "1985d2",
+    "uiColorSub": "27b784",
+    "uiTrainingColor1": "2a8bd5",
+    "uiTrainingColor2": "2061b2",
+    "uiBorderColor": "2061b2",
+    "uiNumColor1": "46a8f2",
+    "uiNumColor2": "2878d1",
+    "uiTurnColor": "3682d7",
+    "uiWipeColor1": "2998e6",
+    "uiWipeColor2": "3ca4ee",
+    "uiWipeColor3": "82e0bf",
+    "uiSpeechColor1": "0d7dcd",
+    "uiSpeechColor2": "0d7dcd",
+    "uiNameplateColor1": "1985d2",
+    "uiNameplateColor2": "81ceff",
+    "castId": 67,
+    "comics": [],
+    "mainComics": [
+      {
+        "id": "1066_01",
+        "mainCharacterId": 1066,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10051,
+        "name": "ツインターボ",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 0,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30026,
+        "name": "ツインターボ",
+        "title": "[ターボエンジン全開宣言！]",
+        "rarity": 3,
+        "command": 0,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30060,
+        "name": "ツインターボ",
+        "title": "[集まってコンステレーション]",
+        "rarity": 3,
+        "command": 3,
+        "publishedAt": "$D2021-07-19T15:00:00.000Z",
+        "ev": true
+      },
+      {
+        "id": 30112,
+        "name": "ツインターボ",
+        "title": "[TT Ignition!]",
+        "rarity": 3,
+        "command": 3,
+        "publishedAt": "$D2022-08-29T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30181,
+        "name": "ツインターボ",
+        "title": "[ウタエミンナノ]",
+        "rarity": 3,
+        "command": 1,
+        "publishedAt": "$D2023-12-28T03:00:00.000Z",
+        "ev": true
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "106601",
+        "publishedAt": "$D2023-02-24T03:00:00.000Z",
+        "talentSpeed": 30,
+        "talentStamina": 0,
+        "talentPow": 0,
+        "talentGuts": 0,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 2,
+        "aptitudeShort": 1,
+        "aptitudeMile": 7,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 3,
+        "aptitudeRunner": 7,
+        "aptitudeLeader": 1,
+        "aptitudeBetweener": 1,
+        "aptitudeChaser": 1,
+        "rank": 1,
+        "title": "[爆走！ターボエンジン]",
+        "limited": false,
+        "characterId": 1066,
+        "commonName": "ターボ",
+        "dressId": 106601,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 66,
+      "birthYear": 1988,
+      "birthMonth": 4,
+      "birthDate": 13,
+      "description": "暴走!爆走!いつでも走り回っている全力少女。自分の限界を知らないため、ギリギリまで追い込んでしまう……のだが、極限状態を楽しんでいるフシもある。同世代に比べ幼い性格で、臆面なく人に感情を伝えられる、よく言えば素直、悪く言えばワガママだけど憎めないムラッ気ウマ娘。",
+      "height": 146,
+      "weight": "計測不能",
+      "dormitory": "",
+      "threesize": "B72・W51・H74",
+      "schoolGrade": "",
+      "characterId": 1066,
+      "prizeMoney": 183980000,
+      "bad": "漢字",
+      "ear": "追い詰められるほど、嬉しそうにピクつく",
+      "family": "虚弱だった娘の無茶は、親的には成長の証",
+      "good": "限界突破",
+      "shoes": "左：20.0cm 右：19.5cm",
+      "tail": "落ち着きなく、あっちこっちフラフラ",
+      "before": "",
+      "boast": "",
+      "buy": "",
+      "myrule": "",
+      "spbg": "",
+      "subject": ""
+    }
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/airshakur",
+  "fetched_at_utc": "2026-03-04T08:16:21.805203+00:00",
+  "slug": "airshakur",
+  "name_ja": "エアシャカール",
+  "name_zh": "气槽沙卡",
+  "folder_name": "气槽沙卡",
+  "data": {
+    "id": 1036,
+    "name": "エアシャカール",
+    "alphabetId": "airshakur",
+    "alphabetName": "Air Shakur",
+    "imageColorMain": "D1D13E",
+    "imageColorSub": "679EF1",
+    "uiColorMain": "2459B4",
+    "uiColorSub": "E1E000",
+    "uiTrainingColor1": "3873d8",
+    "uiTrainingColor2": "2053a9",
+    "uiBorderColor": "2053a9",
+    "uiNumColor1": "4b9cf7",
+    "uiNumColor2": "346fd4",
+    "uiTurnColor": "2d69ce",
+    "uiWipeColor1": "94bbff",
+    "uiWipeColor2": "a6ceff",
+    "uiWipeColor3": "ffffbf",
+    "uiSpeechColor1": "2b61bf",
+    "uiSpeechColor2": "2b61bf",
+    "uiNameplateColor1": "2c65c7",
+    "uiNameplateColor2": "3d9def",
+    "castId": 37,
+    "comics": [
+      {
+        "id": "1022_01",
+        "mainCharacterId": 1022,
+        "new": false,
+        "mainCharacter": {
+          "id": 1022,
+          "name": "ファインモーション",
+          "castId": 25,
+          "alphabetId": "finemotion",
+          "uiColorSub": "EE5340",
+          "uiColorMain": "20A95C",
+          "alphabetName": "Fine Motion",
+          "uiSpeechColor1": "3cc377"
+        }
+      },
+      {
+        "id": "1058_01",
+        "mainCharacterId": 1058,
+        "new": false,
+        "mainCharacter": {
+          "id": 1058,
+          "name": "メイショウドトウ",
+          "castId": 58,
+          "alphabetId": "meishodoto",
+          "uiColorSub": "D64388",
+          "uiColorMain": "46449B",
+          "alphabetName": "Meisho Doto",
+          "uiSpeechColor1": "617cf5"
+        }
+      },
+      {
+        "id": "1111_01",
+        "mainCharacterId": 1111,
+        "new": false,
+        "mainCharacter": {
+          "id": 1111,
+          "name": "エアメサイア",
+          "castId": 109,
+          "alphabetId": "airmessiah",
+          "uiColorSub": "fffd8c",
+          "uiColorMain": "2c2f9d",
+          "alphabetName": "Air Messiah",
+          "uiSpeechColor1": "585df0"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1036_01",
+        "mainCharacterId": 1036,
+        "new": false
+      },
+      {
+        "id": "1036_02",
+        "mainCharacterId": 1036,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10037,
+        "name": "エアシャカール",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 4,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 20076,
+        "name": "エアシャカール",
+        "title": "[道端フィードバック]",
+        "rarity": 2,
+        "command": 2,
+        "publishedAt": "$D2024-04-09T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30013,
+        "name": "エアシャカール",
+        "title": "[7センチの先へ]",
+        "rarity": 3,
+        "command": 4,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30092,
+        "name": "エアシャカール",
+        "title": "[mag!c number]",
+        "rarity": 3,
+        "command": 0,
+        "publishedAt": "$D2022-03-29T03:00:00.000Z",
+        "ev": true
+      },
+      {
+        "id": 30226,
+        "name": "エアシャカール",
+        "title": "[Cocoon]",
+        "rarity": 3,
+        "command": 1,
+        "publishedAt": "$D2024-10-29T03:00:00.000Z",
+        "ev": false
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "103601",
+        "publishedAt": "$D2022-07-11T03:00:00.000Z",
+        "talentSpeed": 0,
+        "talentStamina": 0,
+        "talentPow": 0,
+        "talentGuts": 0,
+        "talentWiz": 30,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 1,
+        "aptitudeMile": 3,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 7,
+        "aptitudeRunner": 1,
+        "aptitudeLeader": 5,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 7,
+        "rank": 3,
+        "title": "[unsigned]",
+        "limited": false,
+        "characterId": 1036,
+        "commonName": "シャカール",
+        "dressId": 103601,
+        "ev": false
+      },
+      {
+        "id": "103602",
+        "publishedAt": "$D2023-09-29T03:00:00.000Z",
+        "talentSpeed": 0,
+        "talentStamina": 14,
+        "talentPow": 8,
+        "talentGuts": 0,
+        "talentWiz": 8,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 1,
+        "aptitudeMile": 3,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 7,
+        "aptitudeRunner": 1,
+        "aptitudeLeader": 5,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 7,
+        "rank": 3,
+        "title": "[Belphegor's Prime]",
+        "limited": false,
+        "characterId": 1036,
+        "commonName": "ハロシャカ、黒シャカ、デビシャカ、悪魔シャカール",
+        "dressId": 103640,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 36,
+      "birthYear": 1997,
+      "birthMonth": 2,
+      "birthDate": 26,
+      "description": "アナーキーなデータ至上主義者。頭も性格もキレキレで、アバウトな勝利ではなく、ロジックによる絶対的な勝利を追い求める。何度計算しても、三冠獲得には7cm足りないと出ており、自分の計算に対する自信と絶望を抱えながら、一縷の可能性を探し続ける。",
+      "height": 168,
+      "weight": "計測不可能",
+      "dormitory": "",
+      "threesize": "B77・W56・H85",
+      "schoolGrade": "",
+      "characterId": 1036,
+      "prizeMoney": 545050000,
+      "bad": "アブラゼミ",
+      "ear": "ロジカルな思考中は直立する",
+      "family": "母からの仕送りの箱は、開けたことがない",
+      "good": "プログラミング",
+      "shoes": "左：26.0cm 右：25.5cm",
+      "tail": "走りに適した長さと毛量を計算し、維持中",
+      "before": "熟考中につき呼んでも反応が鈍い",
+      "boast": "",
+      "buy": "",
+      "myrule": "SNSの通知は全部オフ",
+      "spbg": "黒が基調の格子柄",
+      "subject": ""
+    }
+  }
+}

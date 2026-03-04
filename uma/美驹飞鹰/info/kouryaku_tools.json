@@ -1,0 +1,149 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/bikopegasus",
+  "fetched_at_utc": "2026-03-04T08:16:38.516217+00:00",
+  "slug": "bikopegasus",
+  "name_ja": "ビコーペガサス",
+  "name_zh": "美驹飞鹰",
+  "folder_name": "美驹飞鹰",
+  "data": {
+    "id": 1054,
+    "name": "ビコーペガサス",
+    "alphabetId": "bikopegasus",
+    "alphabetName": "Biko Pegasus",
+    "imageColorMain": "F20C46",
+    "imageColorSub": "F2C2E7",
+    "uiColorMain": "E7396F",
+    "uiColorSub": "D162B8",
+    "uiTrainingColor1": "f0467b",
+    "uiTrainingColor2": "d1275c",
+    "uiBorderColor": "d1275c",
+    "uiNumColor1": "f25c8b",
+    "uiNumColor2": "e6356c",
+    "uiTurnColor": "e6356c",
+    "uiWipeColor1": "fbb9ce",
+    "uiWipeColor2": "fddce7",
+    "uiWipeColor3": "ffe8fa",
+    "uiSpeechColor1": "f0467b",
+    "uiSpeechColor2": "f0467b",
+    "uiNameplateColor1": "f0467b",
+    "uiNameplateColor2": "f083d7",
+    "castId": 52,
+    "comics": [
+      {
+        "id": "1028_01",
+        "mainCharacterId": 1028,
+        "new": false,
+        "mainCharacter": {
+          "id": 1028,
+          "name": "ヒシアケボノ",
+          "castId": 26,
+          "alphabetId": "hishiakebono",
+          "uiColorSub": "FA6F8B",
+          "uiColorMain": "208BCD",
+          "alphabetName": "Hishi Akebono",
+          "uiSpeechColor1": "269fe9"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1054_01",
+        "mainCharacterId": 1054,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10042,
+        "name": "ビコーペガサス",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 0,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 20090,
+        "name": "ビコーペガサス",
+        "title": "[ニャンともイカすヒーローさ]",
+        "rarity": 2,
+        "command": 4,
+        "publishedAt": "$D2025-09-09T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30020,
+        "name": "ビコーペガサス",
+        "title": "[必殺！Wキャロットパンチ！]",
+        "rarity": 3,
+        "command": 0,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30132,
+        "name": "ビコーペガサス",
+        "title": "[変身！ギャルソンフォーム！]",
+        "rarity": 3,
+        "command": 2,
+        "publishedAt": "$D2023-01-30T03:00:00.000Z",
+        "ev": false
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "105401",
+        "publishedAt": "$D2024-02-14T03:00:00.000Z",
+        "talentSpeed": 10,
+        "talentStamina": 0,
+        "talentPow": 10,
+        "talentGuts": 10,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 3,
+        "aptitudeShort": 7,
+        "aptitudeMile": 6,
+        "aptitudeMiddle": 1,
+        "aptitudeLong": 1,
+        "aptitudeRunner": 1,
+        "aptitudeLeader": 3,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 6,
+        "rank": 2,
+        "title": "[疾風ペガサス・零式]",
+        "limited": false,
+        "characterId": 1054,
+        "commonName": "ビコペ",
+        "dressId": 105401,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 54,
+      "birthYear": 1991,
+      "birthMonth": 2,
+      "birthDate": 8,
+      "description": "特撮ヒーロー『キャロットマン』に憧れる、ウマ娘。番組のとある回で、レースに出走するキャロットマンの姿を見て、自分もいつかあんな風に!と夢見るようになった。学園内でいつもヒーローごっこをしており、おもちゃ屋に入るとしばらく出てこない。",
+      "height": 144,
+      "weight": "微増（いっぱい食べて大きくなる！）",
+      "dormitory": "",
+      "threesize": "B72・W54・H75",
+      "schoolGrade": "",
+      "characterId": 1054,
+      "prizeMoney": 357850000,
+      "bad": "いっぱい食べること（無自覚）",
+      "ear": "助けを求める声には必ず反応する",
+      "family": "日曜の朝は、家族みんなで特撮鑑賞タイム！",
+      "good": "木登り",
+      "shoes": "左右ともに19.5cm",
+      "tail": "ヒーローポーズを取る時、踏みつけがち",
+      "before": "",
+      "boast": "",
+      "buy": "",
+      "myrule": "",
+      "spbg": "",
+      "subject": ""
+    }
+  }
+}

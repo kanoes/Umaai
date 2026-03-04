@@ -1,0 +1,104 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/victoirepisa",
+  "fetched_at_utc": "2026-03-04T08:17:53.192257+00:00",
+  "slug": "victoirepisa",
+  "name_ja": "ヴィクトワールピサ",
+  "name_zh": "比萨胜驹",
+  "folder_name": "比萨胜驹",
+  "data": {
+    "id": 1143,
+    "name": "ヴィクトワールピサ",
+    "alphabetId": "victoirepisa",
+    "alphabetName": "Victoire Pisa",
+    "imageColorMain": "1D23AB",
+    "imageColorSub": "F1EB9D",
+    "uiColorMain": "4146b8",
+    "uiColorSub": "f1eb9d",
+    "uiTrainingColor1": "6064c2",
+    "uiTrainingColor2": "3a40b8",
+    "uiBorderColor": "3a40b8",
+    "uiNumColor1": "6064c2",
+    "uiNumColor2": "3f45c7",
+    "uiTurnColor": "3f45c7",
+    "uiWipeColor1": "b1b4ef",
+    "uiWipeColor2": "d9daee",
+    "uiWipeColor3": "fffce2",
+    "uiSpeechColor1": "6064c2",
+    "uiSpeechColor2": "6064c2",
+    "uiNameplateColor1": "6064c2",
+    "uiNameplateColor2": "b0b2ec",
+    "castId": 145,
+    "comics": [
+      {
+        "id": "1145_01",
+        "mainCharacterId": 1145,
+        "new": true,
+        "mainCharacter": {
+          "id": 1145,
+          "name": "ルーラーシップ",
+          "castId": 147,
+          "alphabetId": "rulership",
+          "uiColorSub": "3a4c5c",
+          "uiColorMain": "beab08",
+          "alphabetName": "Rulership",
+          "uiSpeechColor1": "FFFFFF"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1143_01",
+        "mainCharacterId": 1143,
+        "new": true
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10143,
+        "name": "ヴィクトワールピサ",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 0,
+        "publishedAt": "$D2026-02-24T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30291,
+        "name": "ヴィクトワールピサ",
+        "title": "[Let's Go Together!]",
+        "rarity": 3,
+        "command": 0,
+        "publishedAt": "$D2026-02-24T03:00:00.000Z",
+        "ev": true
+      }
+    ],
+    "characterCards": [],
+    "characterProfile": {
+      "id": 140,
+      "birthYear": 2007,
+      "birthMonth": 3,
+      "birthDate": 31,
+      "description": "純粋で温かな心を持ち、『ひとりぼっち』や『孤独』を嫌うウマ娘。 そんな状況に陥っている人を見かけたらすかさず駆け付け、その心が『希望』へと繋がるまで寄り添うのをやめない。 その姿を『まるで天使のよう』と評する者も多いとか。 趣味は天体観測と芸術鑑賞。",
+      "height": 161,
+      "weight": "微増",
+      "dormitory": "",
+      "threesize": "B80・W53・H78",
+      "schoolGrade": "",
+      "characterId": 1143,
+      "prizeMoney": 595950000,
+      "bad": "",
+      "ear": "",
+      "family": "",
+      "good": "",
+      "shoes": "",
+      "tail": "",
+      "before": "",
+      "boast": "",
+      "buy": "",
+      "myrule": "",
+      "spbg": "",
+      "subject": ""
+    }
+  }
+}

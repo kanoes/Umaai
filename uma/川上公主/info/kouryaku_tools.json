@@ -1,0 +1,180 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/kawakamiprincess",
+  "fetched_at_utc": "2026-03-04T08:16:24.323138+00:00",
+  "slug": "kawakamiprincess",
+  "name_ja": "カワカミプリンセス",
+  "name_zh": "川上公主",
+  "folder_name": "川上公主",
+  "data": {
+    "id": 1039,
+    "name": "カワカミプリンセス",
+    "alphabetId": "kawakamiprincess",
+    "alphabetName": "Kawakami Princess",
+    "imageColorMain": "EC77C0",
+    "imageColorSub": "4AD6C7",
+    "uiColorMain": "E146A7",
+    "uiColorSub": "00C7B1",
+    "uiTrainingColor1": "ff6fc9",
+    "uiTrainingColor2": "f440b1",
+    "uiBorderColor": "f440b1",
+    "uiNumColor1": "ff81d0",
+    "uiNumColor2": "f93eb3",
+    "uiTurnColor": "f93eb3",
+    "uiWipeColor1": "ffc7ea",
+    "uiWipeColor2": "fde3f3",
+    "uiWipeColor3": "ebfcfa",
+    "uiSpeechColor1": "fd66c4",
+    "uiSpeechColor2": "fd66c4",
+    "uiNameplateColor1": "fd66c4",
+    "uiNameplateColor2": "fd9bd8",
+    "castId": 38,
+    "comics": [
+      {
+        "id": "1042_01",
+        "mainCharacterId": 1042,
+        "new": false,
+        "mainCharacter": {
+          "id": 1042,
+          "name": "シーキングザパール",
+          "castId": 41,
+          "alphabetId": "seekingthepearl",
+          "uiColorSub": "1690D4",
+          "uiColorMain": "B02D40",
+          "alphabetName": "Seeking the Pearl",
+          "uiSpeechColor1": "d7455b"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1039_01",
+        "mainCharacterId": 1039,
+        "new": false
+      },
+      {
+        "id": "1039_02",
+        "mainCharacterId": 1039,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10063,
+        "name": "カワカミプリンセス",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 0,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 20089,
+        "name": "カワカミプリンセス",
+        "title": "[私たちのプリンセス流儀]",
+        "rarity": 2,
+        "command": 3,
+        "publishedAt": "$D2025-07-11T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30039,
+        "name": "カワカミプリンセス",
+        "title": "[花嫁たるもの！！]",
+        "rarity": 3,
+        "command": 0,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30096,
+        "name": "カワカミプリンセス",
+        "title": "[フレフレ☆プリンセス！]",
+        "rarity": 3,
+        "command": 2,
+        "publishedAt": "$D2022-04-28T03:00:00.000Z",
+        "ev": true
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "103901",
+        "publishedAt": "$D2021-10-11T03:00:00.000Z",
+        "talentSpeed": 0,
+        "talentStamina": 0,
+        "talentPow": 10,
+        "talentGuts": 20,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 4,
+        "aptitudeMile": 6,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 2,
+        "aptitudeRunner": 1,
+        "aptitudeLeader": 5,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 4,
+        "rank": 3,
+        "title": "[プリンセス・オブ・ピンク]",
+        "limited": false,
+        "characterId": 1039,
+        "commonName": "カワカミ",
+        "dressId": 103901,
+        "ev": false
+      },
+      {
+        "id": "103902",
+        "publishedAt": "$D2023-10-30T03:00:00.000Z",
+        "talentSpeed": 0,
+        "talentStamina": 8,
+        "talentPow": 8,
+        "talentGuts": 14,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 4,
+        "aptitudeMile": 6,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 2,
+        "aptitudeRunner": 1,
+        "aptitudeLeader": 5,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 4,
+        "rank": 3,
+        "title": "[水干撫子]",
+        "limited": false,
+        "characterId": 1039,
+        "commonName": "和装カワカミ、和服カワカミ、秋カワカミ",
+        "dressId": 103943,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 39,
+      "birthYear": 2003,
+      "birthMonth": 6,
+      "birthDate": 5,
+      "description": "庶民からプリンセスを目指すおてんば少女。手に余る元気娘だったが、とあるアニメから『王子さまと手を取り、戦うお姫様』という前向きな将来像を得る。以来、プリンセス道を遭進しながら、自分にとっての王子様と出会う日を夢見ている。キングヘイローを師と慕う。",
+      "height": 154,
+      "weight": "増減なし（に決まってるでしょ！）",
+      "dormitory": "",
+      "threesize": "B91・W57・H87",
+      "schoolGrade": "",
+      "characterId": 1039,
+      "prizeMoney": 350890000,
+      "bad": "無駄遣い",
+      "ear": "ウマ娘の中で最もティアラの似合う耳と自負",
+      "family": "服は可愛くて丈夫なものを選んでくれていた",
+      "good": "Gの駆除（物理）",
+      "shoes": "左右ともに21.5cm",
+      "tail": "『プリンセステール』と自称している",
+      "before": "正拳突きで気合いを入れる",
+      "boast": "",
+      "buy": "",
+      "myrule": "王子様へのプロポーズは自分から",
+      "spbg": "執事服を着せた愛犬のセバスチャン",
+      "subject": ""
+    }
+  }
+}

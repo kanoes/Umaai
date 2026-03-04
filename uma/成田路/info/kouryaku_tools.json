@@ -1,0 +1,171 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/naritatoproad",
+  "fetched_at_utc": "2026-03-04T08:16:59.845351+00:00",
+  "slug": "naritatoproad",
+  "name_ja": "ナリタトップロード",
+  "name_zh": "成田路",
+  "folder_name": "成田路",
+  "data": {
+    "id": 1077,
+    "name": "ナリタトップロード",
+    "alphabetId": "naritatoproad",
+    "alphabetName": "Narita Top Road",
+    "imageColorMain": "E280D2",
+    "imageColorSub": "863586",
+    "uiColorMain": "ea5bc0",
+    "uiColorSub": "8f3d7d",
+    "uiTrainingColor1": "f577d0",
+    "uiTrainingColor2": "cb4faf",
+    "uiBorderColor": "cb4faf",
+    "uiNumColor1": "f480d5",
+    "uiNumColor2": "e75ccb",
+    "uiTurnColor": "d755bd",
+    "uiWipeColor1": "f2acde",
+    "uiWipeColor2": "f8c0e8",
+    "uiWipeColor3": "f5d0ed",
+    "uiSpeechColor1": "cb4faf",
+    "uiSpeechColor2": "cb4faf",
+    "uiNameplateColor1": "f166c8",
+    "uiNameplateColor2": "ffb1d6",
+    "castId": 75,
+    "comics": [
+      {
+        "id": "1033_02",
+        "mainCharacterId": 1033,
+        "new": false,
+        "mainCharacter": {
+          "id": 1033,
+          "name": "アドマイヤベガ",
+          "castId": 32,
+          "alphabetId": "admirevega",
+          "uiColorSub": "78D5E1",
+          "uiColorMain": "3865A1",
+          "alphabetName": "Admire Vega",
+          "uiSpeechColor1": "4d7ec0"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1077_01",
+        "mainCharacterId": 1077,
+        "new": false
+      },
+      {
+        "id": "1077_02",
+        "mainCharacterId": 1077,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10077,
+        "name": "ナリタトップロード",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 0,
+        "publishedAt": "$D2022-02-24T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 20053,
+        "name": "ナリタトップロード",
+        "title": "[ストップ、委員長！]",
+        "rarity": 2,
+        "command": 2,
+        "publishedAt": "$D2022-11-17T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30086,
+        "name": "ナリタトップロード",
+        "title": "[桃色のバックショット]",
+        "rarity": 3,
+        "command": 0,
+        "publishedAt": "$D2022-02-24T03:00:00.000Z",
+        "ev": false
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "107701",
+        "publishedAt": "$D2023-08-24T03:00:00.000Z",
+        "talentSpeed": 20,
+        "talentStamina": 10,
+        "talentPow": 0,
+        "talentGuts": 0,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 1,
+        "aptitudeMile": 5,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 7,
+        "aptitudeRunner": 2,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 6,
+        "aptitudeChaser": 4,
+        "rank": 3,
+        "title": "[The Proud Road]",
+        "limited": false,
+        "characterId": 1077,
+        "commonName": "トプロ",
+        "dressId": 107701,
+        "ev": false
+      },
+      {
+        "id": "107702",
+        "publishedAt": "$D2024-11-28T03:00:00.000Z",
+        "talentSpeed": 0,
+        "talentStamina": 10,
+        "talentPow": 20,
+        "talentGuts": 0,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 1,
+        "aptitudeMile": 5,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 7,
+        "aptitudeRunner": 2,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 6,
+        "aptitudeChaser": 4,
+        "rank": 3,
+        "title": "[Celestial Road]",
+        "limited": false,
+        "characterId": 1077,
+        "commonName": "クリトプロ",
+        "dressId": 107746,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 75,
+      "birthYear": 1996,
+      "birthMonth": 4,
+      "birthDate": 4,
+      "description": "スポーツマンシップあふれる爽やかウマ娘。\n寄せられる期待に応えたいー心で、困難にもひたむきに挑み続ける頑張り屋。\nいいところを認めて相手を立てる謙虚さも持ち合わせており、みんなから慕われている。\n主人公っぽいのになぜか脇役におさまりがち。",
+      "height": 166,
+      "weight": "理想的",
+      "dormitory": "",
+      "threesize": "B86・W56・H83",
+      "schoolGrade": "",
+      "characterId": 1077,
+      "prizeMoney": 990110000,
+      "bad": "猫、カラス",
+      "ear": "耳のパーツモデルをやったことがある",
+      "family": "怒ると目つきが悪くなるのは、父親譲り",
+      "good": "サッカーの超ロングパス、単語帳を作ること",
+      "shoes": "左：26.5cm 右：26.0cm",
+      "tail": "湿気で少し広がるのを気にしている",
+      "before": "地下バ道でみんなに元気な挨拶",
+      "boast": "",
+      "buy": "",
+      "myrule": "寮部屋の冷蔵庫に1L牛乳パックを3本常備",
+      "spbg": "クラスのみんなと作ったてるてる坊主",
+      "subject": ""
+    }
+  }
+}

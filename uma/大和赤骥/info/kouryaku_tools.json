@@ -1,0 +1,253 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/daiwascarlet",
+  "fetched_at_utc": "2026-03-04T08:15:56.288126+00:00",
+  "slug": "daiwascarlet",
+  "name_ja": "ダイワスカーレット",
+  "name_zh": "大和赤骥",
+  "folder_name": "大和赤骥",
+  "data": {
+    "id": 1009,
+    "name": "ダイワスカーレット",
+    "alphabetId": "daiwascarlet",
+    "alphabetName": "Daiwa Scarlet",
+    "imageColorMain": "8DA3E7",
+    "imageColorSub": "3B61FF",
+    "uiColorMain": "4F64D8",
+    "uiColorSub": "E73472",
+    "uiTrainingColor1": "7396F5",
+    "uiTrainingColor2": "4D75E3",
+    "uiBorderColor": "4D75E3",
+    "uiNumColor1": "80A1F8",
+    "uiNumColor2": "5880EE",
+    "uiTurnColor": "5880EE",
+    "uiWipeColor1": "C8CFFA",
+    "uiWipeColor2": "E1E5FA",
+    "uiWipeColor3": "FBDCE7",
+    "uiSpeechColor1": "7C9EFC",
+    "uiSpeechColor2": "7C9EFC",
+    "uiNameplateColor1": "648BF9",
+    "uiNameplateColor2": "9CB6FC",
+    "castId": 8,
+    "comics": [
+      {
+        "id": "1008_01",
+        "mainCharacterId": 1008,
+        "new": false,
+        "mainCharacter": {
+          "id": 1008,
+          "name": "ウオッカ",
+          "castId": 9,
+          "alphabetId": "vodka",
+          "uiColorSub": "3DD1D7",
+          "uiColorMain": "D4C200",
+          "alphabetName": "Vodka",
+          "uiSpeechColor1": "F8D90D"
+        }
+      },
+      {
+        "id": "1024_01",
+        "mainCharacterId": 1024,
+        "new": false,
+        "mainCharacter": {
+          "id": 1024,
+          "name": "マヤノトップガン",
+          "castId": 24,
+          "alphabetId": "mayanotopgun",
+          "uiColorSub": "FFC845",
+          "uiColorMain": "F57D38",
+          "alphabetName": "Mayano Top Gun",
+          "uiSpeechColor1": "FF9D47"
+        }
+      },
+      {
+        "id": "1032_02",
+        "mainCharacterId": 1032,
+        "new": false,
+        "mainCharacter": {
+          "id": 1032,
+          "name": "アグネスタキオン",
+          "castId": 31,
+          "alphabetId": "agnestachyon",
+          "uiColorSub": "E2E868",
+          "uiColorMain": "35B2B6",
+          "alphabetName": "Agnes Tachyon",
+          "uiSpeechColor1": "56DAE6"
+        }
+      },
+      {
+        "id": "1059_01",
+        "mainCharacterId": 1059,
+        "new": false,
+        "mainCharacter": {
+          "id": 1059,
+          "name": "メジロドーベル",
+          "castId": 59,
+          "alphabetId": "mejirodober",
+          "uiColorSub": "6F3B42",
+          "uiColorMain": "19B49E",
+          "alphabetName": "Mejiro Dober",
+          "uiSpeechColor1": "16c4ac"
+        }
+      },
+      {
+        "id": "1087_01",
+        "mainCharacterId": 1087,
+        "new": false,
+        "mainCharacter": {
+          "id": 1087,
+          "name": "アストンマーチャン",
+          "castId": 83,
+          "alphabetId": "astonmachan",
+          "uiColorSub": "E1DCCB",
+          "uiColorMain": "CF4436",
+          "alphabetName": "Aston Machan",
+          "uiSpeechColor1": "e44a3e"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1009_01",
+        "mainCharacterId": 1009,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10023,
+        "name": "ダイワスカーレット",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 4,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 20002,
+        "name": "ダイワスカーレット",
+        "title": "[努力は裏切らない！]",
+        "rarity": 2,
+        "command": 4,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30047,
+        "name": "ダイワスカーレット",
+        "title": "[トライフル☆バケーション]",
+        "rarity": 3,
+        "command": 2,
+        "publishedAt": "$D2021-07-29T03:00:00.000Z",
+        "ev": true
+      },
+      {
+        "id": 30093,
+        "name": "ダイワスカーレット",
+        "title": "[Outfit as No.1]",
+        "rarity": 3,
+        "command": 2,
+        "publishedAt": "$D2022-04-11T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30148,
+        "name": "ダイワスカーレット",
+        "title": "[Something Blue]",
+        "rarity": 3,
+        "command": 3,
+        "publishedAt": "$D2023-05-29T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30227,
+        "name": "ダイワスカーレット",
+        "title": "[緋色の君へ風が吹く]",
+        "rarity": 3,
+        "command": 4,
+        "publishedAt": "$D2024-10-29T03:00:00.000Z",
+        "ev": false
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "100901",
+        "publishedAt": "$D2021-02-24T00:00:00.000Z",
+        "talentSpeed": 10,
+        "talentStamina": 0,
+        "talentPow": 0,
+        "talentGuts": 20,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 2,
+        "aptitudeMile": 7,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 6,
+        "aptitudeRunner": 7,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 3,
+        "aptitudeChaser": 1,
+        "rank": 2,
+        "title": "[トップ・オブ・ブルー]",
+        "limited": false,
+        "characterId": 1009,
+        "commonName": "ダスカ",
+        "dressId": 100901,
+        "ev": false
+      },
+      {
+        "id": "100902",
+        "publishedAt": "$D2022-11-28T03:00:00.000Z",
+        "talentSpeed": 20,
+        "talentStamina": 0,
+        "talentPow": 0,
+        "talentGuts": 0,
+        "talentWiz": 10,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 2,
+        "aptitudeMile": 6,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 7,
+        "aptitudeRunner": 7,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 3,
+        "aptitudeChaser": 1,
+        "rank": 3,
+        "title": "[緋色のニュイ・エトワレ]",
+        "limited": false,
+        "characterId": 1009,
+        "commonName": "クリダスカ、クリスマスダスカ",
+        "dressId": 100946,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 9,
+      "birthYear": 2004,
+      "birthMonth": 5,
+      "birthDate": 13,
+      "description": "勝気で強気で生意気で、1番になることを目指し続けるウマ娘。表向きは優等生でおとなしいふりをしているが、その正体は負けん気の塊。ー番になるためなら、どんな努カも苦労もいとわない。常に目立つ同室のウオッカに、ライバル心を燃やしている。",
+      "height": 163,
+      "weight": "不明（計測拒否）",
+      "dormitory": "",
+      "threesize": "B90・W56・H82",
+      "schoolGrade": "",
+      "characterId": 1009,
+      "prizeMoney": 786680000,
+      "bad": "妥協すること",
+      "ear": "隠している本音が無意識に漏れ出てしまう",
+      "family": "仕事熱心な母親に憧れと恋しい思いがある",
+      "good": "勉強、家事全般",
+      "shoes": "左右ともに24.5cm",
+      "tail": "毎朝、癖を伸ばすため櫛で格闘している",
+      "before": "トレーナーに自分の後ろを歩かせたがる",
+      "boast": "",
+      "buy": "",
+      "myrule": "手帳は目標を赤いペンで、反省は青いペンで",
+      "spbg": "誕生日にママがくれた花束の写真",
+      "subject": ""
+    }
+  }
+}

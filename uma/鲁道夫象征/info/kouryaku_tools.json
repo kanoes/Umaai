@@ -1,0 +1,258 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/symbolirudolf",
+  "fetched_at_utc": "2026-03-04T08:16:03.768942+00:00",
+  "slug": "symbolirudolf",
+  "name_ja": "シンボリルドルフ",
+  "name_zh": "鲁道夫象征",
+  "folder_name": "鲁道夫象征",
+  "data": {
+    "id": 1017,
+    "name": "シンボリルドルフ",
+    "alphabetId": "symbolirudolf",
+    "alphabetName": "Symboli Rudolf",
+    "imageColorMain": "27B798",
+    "imageColorSub": "FFFFFF",
+    "uiColorMain": "1C7763",
+    "uiColorSub": "C6314B",
+    "uiTrainingColor1": "49CDB1",
+    "uiTrainingColor2": "2EB396",
+    "uiBorderColor": "2EB396",
+    "uiNumColor1": "49CDB1",
+    "uiNumColor2": "20AB8E",
+    "uiTurnColor": "20AB8E",
+    "uiWipeColor1": "BFF2E6",
+    "uiWipeColor2": "D8F2EC",
+    "uiWipeColor3": "FFE0E7",
+    "uiSpeechColor1": "49CDB1",
+    "uiSpeechColor2": "49CDB1",
+    "uiNameplateColor1": "3AC4A6",
+    "uiNameplateColor2": "78DDC8",
+    "castId": 20,
+    "comics": [
+      {
+        "id": "1057_01",
+        "mainCharacterId": 1057,
+        "new": false,
+        "mainCharacter": {
+          "id": 1057,
+          "name": "ミスターシービー",
+          "castId": 57,
+          "alphabetId": "mrcb",
+          "uiColorSub": "FBE122",
+          "uiColorMain": "6FC346",
+          "alphabetName": "Mr. C.B.",
+          "uiSpeechColor1": "63bb38"
+        }
+      },
+      {
+        "id": "1070_01",
+        "mainCharacterId": 1070,
+        "new": false,
+        "mainCharacter": {
+          "id": 1070,
+          "name": "シリウスシンボリ",
+          "castId": 71,
+          "alphabetId": "siriussymboli",
+          "uiColorSub": "e3628c",
+          "uiColorMain": "248379",
+          "alphabetName": "Sirius Symboli",
+          "uiSpeechColor1": "2a988c"
+        }
+      },
+      {
+        "id": "1099_01",
+        "mainCharacterId": 1099,
+        "new": false,
+        "mainCharacter": {
+          "id": 1099,
+          "name": "ホッコータルマエ",
+          "castId": 79,
+          "alphabetId": "hokkotarumae",
+          "uiColorSub": "cddee0",
+          "uiColorMain": "d94149",
+          "alphabetName": "Hokko Tarumae",
+          "uiSpeechColor1": "f1646c"
+        }
+      },
+      {
+        "id": "1142_01",
+        "mainCharacterId": 1142,
+        "new": true,
+        "mainCharacter": {
+          "id": 1142,
+          "name": "ロゴタイプ",
+          "castId": 144,
+          "alphabetId": "logotype",
+          "uiColorSub": "bd9b60",
+          "uiColorMain": "7e2d40",
+          "alphabetName": "Logotype",
+          "uiSpeechColor1": "FFFFFF"
+        }
+      },
+      {
+        "id": "9047_01",
+        "mainCharacterId": 9047,
+        "new": false,
+        "mainCharacter": {
+          "id": 9047,
+          "name": "スピードシンボリ",
+          "castId": null,
+          "alphabetId": "speedsymboli",
+          "uiColorSub": "E3E3E3",
+          "uiColorMain": "10A546",
+          "alphabetName": "speedSymboli",
+          "uiSpeechColor1": "4C91F1"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1017_01",
+        "mainCharacterId": 1017,
+        "new": false
+      },
+      {
+        "id": "1017_02",
+        "mainCharacterId": 1017,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10013,
+        "name": "シンボリルドルフ",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 4,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 20058,
+        "name": "シンボリルドルフ",
+        "title": "[放課後、君が笑った]",
+        "rarity": 2,
+        "command": 1,
+        "publishedAt": "$D2023-02-24T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30037,
+        "name": "シンボリルドルフ",
+        "title": "[絶対皇帝]",
+        "rarity": 3,
+        "command": 3,
+        "publishedAt": "$D2023-04-18T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30067,
+        "name": "玉座に集いし者たち",
+        "title": "[尊尚親愛]",
+        "rarity": 3,
+        "command": 6,
+        "publishedAt": "$D2022-07-20T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30090,
+        "name": "シンボリルドルフ",
+        "title": "[Enchaînement]",
+        "rarity": 3,
+        "command": 1,
+        "publishedAt": "$D2022-03-29T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30233,
+        "name": "シンボリルドルフ",
+        "title": "[雲煙飛動]",
+        "rarity": 3,
+        "command": 4,
+        "publishedAt": "$D2024-12-27T03:00:00.000Z",
+        "ev": false
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "101702",
+        "publishedAt": "$D2021-10-28T03:00:00.000Z",
+        "talentSpeed": 8,
+        "talentStamina": 14,
+        "talentPow": 0,
+        "talentGuts": 0,
+        "talentWiz": 8,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 3,
+        "aptitudeMile": 5,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 7,
+        "aptitudeRunner": 6,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 5,
+        "rank": 3,
+        "title": "[皓月の弓取り]",
+        "limited": false,
+        "characterId": 1017,
+        "commonName": "秋ルドルフ、秋ルド、弓ルドルフ",
+        "dressId": 101743,
+        "ev": false
+      },
+      {
+        "id": "101701",
+        "publishedAt": "$D2021-02-24T00:00:00.000Z",
+        "talentSpeed": 0,
+        "talentStamina": 20,
+        "talentPow": 0,
+        "talentGuts": 10,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 3,
+        "aptitudeMile": 5,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 7,
+        "aptitudeRunner": 6,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 5,
+        "rank": 3,
+        "title": "[ロード・オブ・エンペラー]",
+        "limited": false,
+        "characterId": 1017,
+        "commonName": "ルドルフ、会長",
+        "dressId": 101701,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 17,
+      "birthYear": 1981,
+      "birthMonth": 3,
+      "birthDate": 13,
+      "description": "別名“皇帝”。トレセン学園の生徒会長を務め、レースでの実力、政治力、人格はどれも飛び抜けている。エゴイストではなく、常に己が正しい規範となることを意識し、ウマ娘誰もが幸福になれる時代を目指す理想主義者。トウカイテイオーから慕われている。",
+      "height": 165,
+      "weight": "かなり理想的",
+      "dormitory": "",
+      "threesize": "B86・W59・H85",
+      "schoolGrade": "",
+      "characterId": 1017,
+      "prizeMoney": 684820000,
+      "bad": "くだけたやり取りをすること",
+      "ear": "ダジャレを思いつくと、ピクンと大きく動く",
+      "family": "幼い頃から、帝王学を両親自ら教えていた",
+      "good": "チェス",
+      "shoes": "左右ともに25.0cm",
+      "tail": "演説の時などは毛の一本さえも迫力満点",
+      "before": "道を譲られる",
+      "boast": "",
+      "buy": "",
+      "myrule": "遠出した際は、生徒会にお土産を買って帰る",
+      "spbg": "ふと撮った、生徒会室の窓からの学園の写真",
+      "subject": ""
+    }
+  }
+}

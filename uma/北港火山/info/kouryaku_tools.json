@@ -1,0 +1,196 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/hokkotarumae",
+  "fetched_at_utc": "2026-03-04T08:17:19.583415+00:00",
+  "slug": "hokkotarumae",
+  "name_ja": "ホッコータルマエ",
+  "name_zh": "北港火山",
+  "folder_name": "北港火山",
+  "data": {
+    "id": 1099,
+    "name": "ホッコータルマエ",
+    "alphabetId": "hokkotarumae",
+    "alphabetName": "Hokko Tarumae",
+    "imageColorMain": "DFF0F2",
+    "imageColorSub": "F0444D",
+    "uiColorMain": "d94149",
+    "uiColorSub": "cddee0",
+    "uiTrainingColor1": "e7676e",
+    "uiTrainingColor2": "c74545",
+    "uiBorderColor": "c74545",
+    "uiNumColor1": "f66f6f",
+    "uiNumColor2": "e75b5b",
+    "uiTurnColor": "e75b5b",
+    "uiWipeColor1": "f16169",
+    "uiWipeColor2": "fa7178",
+    "uiWipeColor3": "cddee0",
+    "uiSpeechColor1": "f1646c",
+    "uiSpeechColor2": "f1646c",
+    "uiNameplateColor1": "e7676e",
+    "uiNameplateColor2": "ff969c",
+    "castId": 79,
+    "comics": [
+      {
+        "id": "1007_02",
+        "mainCharacterId": 1007,
+        "new": false,
+        "mainCharacter": {
+          "id": 1007,
+          "name": "ゴールドシップ",
+          "castId": 7,
+          "alphabetId": "goldship",
+          "uiColorSub": "E9DA36",
+          "uiColorMain": "DA3C57",
+          "alphabetName": "Gold Ship",
+          "uiSpeechColor1": "FB758C"
+        }
+      },
+      {
+        "id": "1046_02",
+        "mainCharacterId": 1046,
+        "new": false,
+        "mainCharacter": {
+          "id": 1046,
+          "name": "スマートファルコン",
+          "castId": 48,
+          "alphabetId": "smartfalcon",
+          "uiColorSub": "403A35",
+          "uiColorMain": "F8587B",
+          "alphabetName": "Smart Falcon",
+          "uiSpeechColor1": "ff99af"
+        }
+      },
+      {
+        "id": "9051_01",
+        "mainCharacterId": 9051,
+        "new": true,
+        "mainCharacter": {
+          "id": 9051,
+          "name": "ユノハナブルーム",
+          "castId": null,
+          "alphabetId": "yunohanabloom",
+          "uiColorSub": "FFDA93",
+          "uiColorMain": "DA483A",
+          "alphabetName": "yunohanabloom",
+          "uiSpeechColor1": "4C91F1"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1099_01",
+        "mainCharacterId": 1099,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10090,
+        "name": "ホッコータルマエ",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 1,
+        "publishedAt": "$D2024-01-19T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 20092,
+        "name": "ホッコータルマエ",
+        "title": "[続け故郷へ、けっぱり道！]",
+        "rarity": 2,
+        "command": 2,
+        "publishedAt": "$D2025-11-10T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30182,
+        "name": "ホッコータルマエ",
+        "title": "[白い翼は舞い戻りて]",
+        "rarity": 3,
+        "command": 1,
+        "publishedAt": "$D2024-01-19T03:00:00.000Z",
+        "ev": false
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "109901",
+        "publishedAt": "$D2023-01-10T03:00:00.000Z",
+        "talentSpeed": 10,
+        "talentStamina": 10,
+        "talentPow": 0,
+        "talentGuts": 0,
+        "talentWiz": 10,
+        "aptitudeTurf": 1,
+        "aptitudeDirt": 7,
+        "aptitudeShort": 2,
+        "aptitudeMile": 7,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 3,
+        "aptitudeRunner": 6,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 1,
+        "aptitudeChaser": 1,
+        "rank": 3,
+        "title": "[スター・ライト・シップ]",
+        "limited": false,
+        "characterId": 1099,
+        "commonName": "タルマエ",
+        "dressId": 109901,
+        "ev": false
+      },
+      {
+        "id": "109902",
+        "publishedAt": "$D2024-07-29T03:00:00.000Z",
+        "talentSpeed": 15,
+        "talentStamina": 10,
+        "talentPow": 0,
+        "talentGuts": 0,
+        "talentWiz": 5,
+        "aptitudeTurf": 1,
+        "aptitudeDirt": 7,
+        "aptitudeShort": 2,
+        "aptitudeMile": 7,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 3,
+        "aptitudeRunner": 6,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 1,
+        "aptitudeChaser": 1,
+        "rank": 3,
+        "title": "[パステルマリン・ロコドル]",
+        "limited": false,
+        "characterId": 1099,
+        "commonName": "水着タルマエ、夏タルマエ",
+        "dressId": 109930,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 79,
+      "birthYear": 2009,
+      "birthMonth": 5,
+      "birthDate": 26,
+      "description": "苫小牧からやってきたローカルアイドルウマ娘。\nその熱い郷土愛は地元の人々から正式に 『とまこまい観光大使』に任命されるほど。\n自分の走りとライブで苫小牧をPRすべく、日々真面目に試行錯誤中。\n真面目すぎて迷走しがちなのが玉にきず。",
+      "height": 162,
+      "weight": "増減なし",
+      "dormitory": "",
+      "threesize": "B86・W56・H85",
+      "schoolGrade": "",
+      "characterId": 1099,
+      "prizeMoney": 1078700000,
+      "bad": "運頼み、船に乗ること",
+      "ear": "メンコは絶対つけ忘れない",
+      "family": "仕送りには、必ず苫小牧銘菓が入っている",
+      "good": "苫小牧クイズ、山登り",
+      "shoes": "左右ともに24.5cm",
+      "tail": "ロコドルモードの時は、より動く",
+      "before": "こっそり鼻歌でオリジナルの応援ソング",
+      "boast": "",
+      "buy": "",
+      "myrule": "外出前は帽子の角度を納得いくまで整える",
+      "spbg": "応援してくれる地元のみんなと横断幕",
+      "subject": ""
+    }
+  }
+}

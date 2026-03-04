@@ -1,0 +1,214 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/mejiropalmer",
+  "fetched_at_utc": "2026-03-04T08:16:48.317450+00:00",
+  "slug": "mejiropalmer",
+  "name_ja": "メジロパーマー",
+  "name_zh": "目白善信",
+  "folder_name": "目白善信",
+  "data": {
+    "id": 1064,
+    "name": "メジロパーマー",
+    "alphabetId": "mejiropalmer",
+    "alphabetName": "Mejiro Palmer",
+    "imageColorMain": "00A499",
+    "imageColorSub": "FFFFFF",
+    "uiColorMain": "27c79c",
+    "uiColorSub": "865432",
+    "uiTrainingColor1": "18c395",
+    "uiTrainingColor2": "049989",
+    "uiBorderColor": "049989",
+    "uiNumColor1": "2ddfb7",
+    "uiNumColor2": "0bb198",
+    "uiTurnColor": "13b69d",
+    "uiWipeColor1": "6dedcb",
+    "uiWipeColor2": "92f2d1",
+    "uiWipeColor3": "baffea",
+    "uiSpeechColor1": "0db98b",
+    "uiSpeechColor2": "0db98b",
+    "uiNameplateColor1": "0db98b",
+    "uiNameplateColor2": "78fed6",
+    "castId": 61,
+    "comics": [
+      {
+        "id": "1051_01",
+        "mainCharacterId": 1051,
+        "new": false,
+        "mainCharacter": {
+          "id": 1051,
+          "name": "ニシノフラワー",
+          "castId": 54,
+          "alphabetId": "nishinoflower",
+          "uiColorSub": "F6EB61",
+          "uiColorMain": "E26ECB",
+          "alphabetName": "Nishino Flower",
+          "uiSpeechColor1": "ec68d2"
+        }
+      },
+      {
+        "id": "1065_01",
+        "mainCharacterId": 1065,
+        "new": false,
+        "mainCharacter": {
+          "id": 1065,
+          "name": "ダイタクヘリオス",
+          "castId": 65,
+          "alphabetId": "daitakuhelios",
+          "uiColorSub": "fbe247",
+          "uiColorMain": "5b64d5",
+          "alphabetName": "Daitaku Helios",
+          "uiSpeechColor1": "6d77f3"
+        }
+      },
+      {
+        "id": "1071_01",
+        "mainCharacterId": 1071,
+        "new": false,
+        "mainCharacter": {
+          "id": 1071,
+          "name": "メジロアルダン",
+          "castId": 72,
+          "alphabetId": "mejiroardan",
+          "uiColorSub": "bfe4eb",
+          "uiColorMain": "28baa5",
+          "alphabetName": "Mejiro Ardan",
+          "uiSpeechColor1": "28baa5"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1064_01",
+        "mainCharacterId": 1064,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10054,
+        "name": "メジロパーマー",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 3,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 20036,
+        "name": "メジロパーマー",
+        "title": "[救いはあるよっ♪]",
+        "rarity": 2,
+        "command": 1,
+        "publishedAt": "$D2024-08-14T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30027,
+        "name": "メジロパーマー",
+        "title": "[バカと笑え]",
+        "rarity": 3,
+        "command": 3,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30115,
+        "name": "メジロパーマー",
+        "title": "[月下の悪魔ちゃん♪]",
+        "rarity": 3,
+        "command": 1,
+        "publishedAt": "$D2022-09-29T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30154,
+        "name": "メジロパーマー",
+        "title": "[カモメのように]",
+        "rarity": 3,
+        "command": 0,
+        "publishedAt": "$D2023-06-29T03:00:00.000Z",
+        "ev": false
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "106401",
+        "publishedAt": "$D2022-05-20T03:00:00.000Z",
+        "talentSpeed": 10,
+        "talentStamina": 10,
+        "talentPow": 0,
+        "talentGuts": 10,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 1,
+        "aptitudeMile": 2,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 7,
+        "aptitudeRunner": 7,
+        "aptitudeLeader": 3,
+        "aptitudeBetweener": 2,
+        "aptitudeChaser": 1,
+        "rank": 3,
+        "title": "[Line Breakthrough]",
+        "limited": false,
+        "characterId": 1064,
+        "commonName": "パーマー",
+        "dressId": 106401,
+        "ev": false
+      },
+      {
+        "id": "106402",
+        "publishedAt": "$D2023-11-30T03:00:00.000Z",
+        "talentSpeed": 10,
+        "talentStamina": 20,
+        "talentPow": 0,
+        "talentGuts": 0,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 1,
+        "aptitudeMile": 2,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 7,
+        "aptitudeRunner": 7,
+        "aptitudeLeader": 3,
+        "aptitudeBetweener": 2,
+        "aptitudeChaser": 1,
+        "rank": 3,
+        "title": "[赤心のトナカイさん]",
+        "limited": false,
+        "characterId": 1064,
+        "commonName": "クリパーマー、赤パーマー",
+        "dressId": 106446,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 64,
+      "birthYear": 1987,
+      "birthMonth": 3,
+      "birthDate": 21,
+      "description": "メジロ家のご令嬢……だが、社交的で親しみやすいムードメーカー的なウマ娘。他人のちょっとした変化にも気づけるいいヤツだが、優秀な親戚たちと自分を比べ悩んでいた過去も。そんな彼女が見出した道は……逃げること!ポジティブに逃げまくれば、いつか道は切り開けるさ。",
+      "height": 160,
+      "weight": "微減",
+      "dormitory": "",
+      "threesize": "B84・W57・H86",
+      "schoolGrade": "",
+      "characterId": 1064,
+      "prizeMoney": 527850000,
+      "bad": "ハードル走",
+      "ear": "風向きと風の強さを感知できる",
+      "family": "父はゴルフの師匠だが、スコアは逆転した",
+      "good": "ゴルフ、穴掘り",
+      "shoes": "左右ともに24.0cm",
+      "tail": "他人の脚をくすぐって笑わせることがある",
+      "before": "ライバルでも緊張している子は励ましにいく",
+      "boast": "",
+      "buy": "",
+      "myrule": "「逃げてもいい」と言う時は自分が逃げ場に",
+      "spbg": "ギャル仲間たちとの集合写真",
+      "subject": ""
+    }
+  }
+}

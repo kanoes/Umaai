@@ -1,0 +1,128 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/daringheart",
+  "fetched_at_utc": "2026-03-04T08:17:29.897693+00:00",
+  "slug": "daringheart",
+  "name_ja": "デアリングハート",
+  "name_zh": "勇敢之心",
+  "folder_name": "勇敢之心",
+  "data": {
+    "id": 1112,
+    "name": "デアリングハート",
+    "alphabetId": "daringheart",
+    "alphabetName": "Daring Heart",
+    "imageColorMain": "FFFA1C",
+    "imageColorSub": "3B3632",
+    "uiColorMain": "d0ba00",
+    "uiColorSub": "38312b",
+    "uiTrainingColor1": "4C91F1",
+    "uiTrainingColor2": "2B75DD",
+    "uiBorderColor": "2B75DD",
+    "uiNumColor1": "71ADFF",
+    "uiNumColor2": "1667D9",
+    "uiTurnColor": "1667D9",
+    "uiWipeColor1": "BCD5F5",
+    "uiWipeColor2": "D6E4F6",
+    "uiWipeColor3": "FFEBF6",
+    "uiSpeechColor1": "4C91F1",
+    "uiSpeechColor2": "4C91F1",
+    "uiNameplateColor1": "4C91F1",
+    "uiNameplateColor2": "8DBCFD",
+    "castId": 110,
+    "comics": [
+      {
+        "id": "1075_01",
+        "mainCharacterId": 1075,
+        "new": false,
+        "mainCharacter": {
+          "id": 1075,
+          "name": "デアリングタクト",
+          "castId": 96,
+          "alphabetId": "daringtact",
+          "uiColorSub": "6c5953",
+          "uiColorMain": "79c6db",
+          "alphabetName": "Daring Tact",
+          "uiSpeechColor1": "4C91F1"
+        }
+      },
+      {
+        "id": "1109_01",
+        "mainCharacterId": 1109,
+        "new": false,
+        "mainCharacter": {
+          "id": 1109,
+          "name": "ラインクラフト",
+          "castId": 107,
+          "alphabetId": "rheinkraft",
+          "uiColorSub": "2c9679",
+          "uiColorMain": "f15b75",
+          "alphabetName": "Rhein Kraft",
+          "uiSpeechColor1": "f36b83"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1112_01",
+        "mainCharacterId": 1112,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10121,
+        "name": "デアリングハート",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 2,
+        "publishedAt": "$D2025-04-10T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 20087,
+        "name": "デアリングハート",
+        "title": "[Daring Music]",
+        "rarity": 2,
+        "command": 2,
+        "publishedAt": "$D2025-04-10T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30254,
+        "name": "デアリングハート",
+        "title": "[Blooming Buds]",
+        "rarity": 3,
+        "command": 4,
+        "publishedAt": "$D2025-05-30T03:00:00.000Z",
+        "ev": false
+      }
+    ],
+    "characterCards": [],
+    "characterProfile": {
+      "id": 104,
+      "birthYear": 2002,
+      "birthMonth": 3,
+      "birthDate": 9,
+      "description": "アメリカ育ちのリーダー気質なウマ娘。\n目立つことが好きで、いつも人に囲まれている。\n自分に頑固たる自信を持っており、そのプライドの高さゆえ、人に弱みを見せたがらない。\n強いハートを武器にして、目指すはトリプルティアラのクイーン。",
+      "height": 165,
+      "weight": "大胆",
+      "dormitory": "",
+      "threesize": "B82・W52・H84",
+      "schoolGrade": "",
+      "characterId": 1112,
+      "prizeMoney": 274860000,
+      "bad": "",
+      "ear": "",
+      "family": "",
+      "good": "",
+      "shoes": "",
+      "tail": "",
+      "before": "",
+      "boast": "",
+      "buy": "",
+      "myrule": "",
+      "spbg": "",
+      "subject": ""
+    }
+  }
+}

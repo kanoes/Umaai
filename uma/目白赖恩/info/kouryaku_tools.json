@@ -1,0 +1,228 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/mejiroryan",
+  "fetched_at_utc": "2026-03-04T08:16:13.261330+00:00",
+  "slug": "mejiroryan",
+  "name_ja": "メジロライアン",
+  "name_zh": "目白赖恩",
+  "folder_name": "目白赖恩",
+  "data": {
+    "id": 1027,
+    "name": "メジロライアン",
+    "alphabetId": "mejiroryan",
+    "alphabetName": "Mejiro Ryan",
+    "imageColorMain": "62D9D1",
+    "imageColorSub": "FFFFFF",
+    "uiColorMain": "14BAAE",
+    "uiColorSub": "7C4D3A",
+    "uiTrainingColor1": "4DD8C6",
+    "uiTrainingColor2": "33B8A6",
+    "uiBorderColor": "33B8A6",
+    "uiNumColor1": "53DCCA",
+    "uiNumColor2": "33B8A6",
+    "uiTurnColor": "33B8A6",
+    "uiWipeColor1": "B6F2ED",
+    "uiWipeColor2": "CDF1EE",
+    "uiWipeColor3": "EAF5F3",
+    "uiSpeechColor1": "50D9C7",
+    "uiSpeechColor2": "50D9C7",
+    "uiNameplateColor1": "32CAB5",
+    "uiNameplateColor2": "8CEBDF",
+    "castId": 28,
+    "comics": [
+      {
+        "id": "1026_02",
+        "mainCharacterId": 1026,
+        "new": false,
+        "mainCharacter": {
+          "id": 1026,
+          "name": "ミホノブルボン",
+          "castId": 29,
+          "alphabetId": "mihonobourbon",
+          "uiColorSub": "F0ED41",
+          "uiColorMain": "EE60A1",
+          "alphabetName": "Mihono Bourbon",
+          "uiSpeechColor1": "ff6ade"
+        }
+      },
+      {
+        "id": "1031_01",
+        "mainCharacterId": 1031,
+        "new": false,
+        "mainCharacter": {
+          "id": 1031,
+          "name": "アイネスフウジン",
+          "castId": 92,
+          "alphabetId": "inesfujin",
+          "uiColorSub": "54AE1B",
+          "uiColorMain": "F078C5",
+          "alphabetName": "Ines Fujin",
+          "uiSpeechColor1": "fa65c4"
+        }
+      },
+      {
+        "id": "1086_01",
+        "mainCharacterId": 1086,
+        "new": false,
+        "mainCharacter": {
+          "id": 1086,
+          "name": "メジロラモーヌ",
+          "castId": 87,
+          "alphabetId": "mejiroramonu",
+          "uiColorSub": "3c5161",
+          "uiColorMain": "4bb6af",
+          "alphabetName": "Mejiro Ramonu",
+          "uiSpeechColor1": "229ba6"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1027_01",
+        "mainCharacterId": 1027,
+        "new": false
+      },
+      {
+        "id": "1027_02",
+        "mainCharacterId": 1027,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10033,
+        "name": "メジロライアン",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 2,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 20010,
+        "name": "メジロライアン",
+        "title": "[鍛えて、応えて！]",
+        "rarity": 2,
+        "command": 2,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 20040,
+        "name": "メジロライアン",
+        "title": "[鼓動が速まるクールダウン]",
+        "rarity": 2,
+        "command": 1,
+        "publishedAt": "$D2022-02-24T03:00:00.000Z",
+        "ev": true
+      },
+      {
+        "id": 30048,
+        "name": "メジロライアン",
+        "title": "[爽快！ウイニングショット！]",
+        "rarity": 3,
+        "command": 3,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30176,
+        "name": "メジロライアン",
+        "title": "[選んで選んで、想いを込めて]",
+        "rarity": 3,
+        "command": 3,
+        "publishedAt": "$D2023-11-30T03:00:00.000Z",
+        "ev": true
+      },
+      {
+        "id": 30258,
+        "name": "メジロライアン",
+        "title": "[瞳に闘志を胸に勝利の渇望を]",
+        "rarity": 3,
+        "command": 1,
+        "publishedAt": "$D2025-07-11T03:00:00.000Z",
+        "ev": false
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "102701",
+        "publishedAt": "$D2021-02-24T00:00:00.000Z",
+        "talentSpeed": 0,
+        "talentStamina": 0,
+        "talentPow": 20,
+        "talentGuts": 0,
+        "talentWiz": 10,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 3,
+        "aptitudeMile": 5,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 6,
+        "aptitudeRunner": 2,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 2,
+        "rank": 1,
+        "title": "[ストレート・ライン]",
+        "limited": false,
+        "characterId": 1027,
+        "commonName": "ライアン",
+        "dressId": 102701,
+        "ev": false
+      },
+      {
+        "id": "102702",
+        "publishedAt": "$D2023-01-30T03:00:00.000Z",
+        "talentSpeed": 20,
+        "talentStamina": 0,
+        "talentPow": 0,
+        "talentGuts": 0,
+        "talentWiz": 10,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 3,
+        "aptitudeMile": 5,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 6,
+        "aptitudeRunner": 2,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 2,
+        "rank": 3,
+        "title": "[マーガレット・ラッテ]",
+        "limited": false,
+        "characterId": 1027,
+        "commonName": "チョコアン、バレアン、バレンタインライアン",
+        "dressId": 102713,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 27,
+      "birthYear": 1987,
+      "birthMonth": 4,
+      "birthDate": 11,
+      "description": "筋トレ大好きなスポーティー娘。名門メジロの生まれながら、名家ぶったところはなく、その性格は爽やかそのものである。幼なじみのメジロマックイーンに引け目を感じており、本当は彼女のように速く可愛くありたいと願っている。体は強いがハートは少し繊細。",
+      "height": 163,
+      "weight": "微増（筋トレ効果）",
+      "dormitory": "",
+      "threesize": "B87・W57・H86",
+      "schoolGrade": "",
+      "characterId": 1027,
+      "prizeMoney": 486930000,
+      "bad": "コレステロール",
+      "ear": "少女漫画を読んでいる時はくるくるよく動く",
+      "family": "父はとても若々しく、よく兄妹に間違われる",
+      "good": "筋トレ",
+      "shoes": "左右ともに24.5cm",
+      "tail": "汗をよく掻くので尻尾用タオルを常備してる",
+      "before": "あたしの筋肉が1番強い！と自分を励ます",
+      "boast": "",
+      "buy": "",
+      "myrule": "好きな少女漫画の新刊が出たら全巻読み直す",
+      "spbg": "ドーベルとブライト、3人での幼い頃の写真",
+      "subject": ""
+    }
+  }
+}

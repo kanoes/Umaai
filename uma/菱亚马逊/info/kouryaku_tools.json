@@ -1,0 +1,205 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/hishiamazon",
+  "fetched_at_utc": "2026-03-04T08:15:59.410560+00:00",
+  "slug": "hishiamazon",
+  "name_ja": "ヒシアマゾン",
+  "name_zh": "菱亚马逊",
+  "folder_name": "菱亚马逊",
+  "data": {
+    "id": 1012,
+    "name": "ヒシアマゾン",
+    "alphabetId": "hishiamazon",
+    "alphabetName": "Hishi Amazon",
+    "imageColorMain": "5BA5DD",
+    "imageColorSub": "FFFFFF",
+    "uiColorMain": "2185D0",
+    "uiColorSub": "E6453A",
+    "uiTrainingColor1": "40a5f7",
+    "uiTrainingColor2": "3e7dd6",
+    "uiBorderColor": "3e7dd6",
+    "uiNumColor1": "6eadff",
+    "uiNumColor2": "1e85d4",
+    "uiTurnColor": "1e85d4",
+    "uiWipeColor1": "cfe1ff",
+    "uiWipeColor2": "dbecff",
+    "uiWipeColor3": "fff0f0",
+    "uiSpeechColor1": "3a9ef0",
+    "uiSpeechColor2": "3a9ef0",
+    "uiNameplateColor1": "3795fa",
+    "uiNameplateColor2": "7acaff",
+    "castId": 11,
+    "comics": [
+      {
+        "id": "1016_01",
+        "mainCharacterId": 1016,
+        "new": false,
+        "mainCharacter": {
+          "id": 1016,
+          "name": "ナリタブライアン",
+          "castId": 16,
+          "alphabetId": "naritabrian",
+          "uiColorSub": "D638A3",
+          "uiColorMain": "75358C",
+          "alphabetName": "Narita Brian",
+          "uiSpeechColor1": "e18bff"
+        }
+      },
+      {
+        "id": "1043_01",
+        "mainCharacterId": 1043,
+        "new": false,
+        "mainCharacter": {
+          "id": 1043,
+          "name": "シンコウウインディ",
+          "castId": 45,
+          "alphabetId": "shinkowindy",
+          "uiColorSub": "6F2678",
+          "uiColorMain": "63666A",
+          "alphabetName": "Shinko Windy",
+          "uiSpeechColor1": "b558c0"
+        }
+      },
+      {
+        "id": "1054_01",
+        "mainCharacterId": 1054,
+        "new": false,
+        "mainCharacter": {
+          "id": 1054,
+          "name": "ビコーペガサス",
+          "castId": 52,
+          "alphabetId": "bikopegasus",
+          "uiColorSub": "D162B8",
+          "uiColorMain": "E7396F",
+          "alphabetName": "Biko Pegasus",
+          "uiSpeechColor1": "f0467b"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1012_01",
+        "mainCharacterId": 1012,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10024,
+        "name": "ヒシアマゾン",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 2,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 20003,
+        "name": "ヒシアマゾン",
+        "title": "[テッペンに立て！]",
+        "rarity": 2,
+        "command": 2,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30164,
+        "name": "ヒシアマゾン",
+        "title": "[炎々、闘志を抱き]",
+        "rarity": 3,
+        "command": 2,
+        "publishedAt": "$D2023-09-20T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30223,
+        "name": "ヒシアマゾン",
+        "title": "[牙を立て、リフレイン]",
+        "rarity": 3,
+        "command": 3,
+        "publishedAt": "$D2024-09-30T03:00:00.000Z",
+        "ev": false
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "101201",
+        "publishedAt": "$D2021-06-21T03:00:00.000Z",
+        "talentSpeed": 0,
+        "talentStamina": 0,
+        "talentPow": 20,
+        "talentGuts": 10,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 3,
+        "aptitudeShort": 4,
+        "aptitudeMile": 7,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 6,
+        "aptitudeRunner": 1,
+        "aptitudeLeader": 6,
+        "aptitudeBetweener": 5,
+        "aptitudeChaser": 7,
+        "rank": 3,
+        "title": "[アマゾネス・ラピス]",
+        "limited": false,
+        "characterId": 1012,
+        "commonName": "ヒシアマ",
+        "dressId": 101201,
+        "ev": false
+      },
+      {
+        "id": "101202",
+        "publishedAt": "$D2023-05-29T03:00:00.000Z",
+        "talentSpeed": 10,
+        "talentStamina": 0,
+        "talentPow": 10,
+        "talentGuts": 0,
+        "talentWiz": 10,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 3,
+        "aptitudeShort": 4,
+        "aptitudeMile": 7,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 6,
+        "aptitudeRunner": 1,
+        "aptitudeLeader": 6,
+        "aptitudeBetweener": 5,
+        "aptitudeChaser": 7,
+        "rank": 3,
+        "title": "[Hungry Veil]",
+        "limited": false,
+        "characterId": 1012,
+        "commonName": "嫁アマ、嫁アマゾン",
+        "dressId": 101226,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 12,
+      "birthYear": 1991,
+      "birthMonth": 3,
+      "birthDate": 26,
+      "description": "何かとタイマンで勝負したがる、熱血肌の姐御。野蛮に見られがちだが、相手が勝てば、その強さを称える潔さも持っている。美浦の寮長で血の気が多い反面、料理洗濯掃除も大得意。あらゆる場面で頼りがいのある存在である。雷や幽霊にはからっきし弱い。",
+      "height": 160,
+      "weight": "微増（ノーコメント）",
+      "dormitory": "",
+      "threesize": "B92・W59・H89",
+      "schoolGrade": "",
+      "characterId": 1012,
+      "prizeMoney": 695820000,
+      "bad": "頭を使うこと",
+      "ear": "『タイマン』という言葉にとても敏感",
+      "family": "姐御肌は母譲りで、こう見えて末っ子",
+      "good": "手料理を振る舞うこと",
+      "shoes": "左右ともに24.0cm",
+      "tail": "艶黒の毛並みは多くの生徒の憧れ",
+      "before": "寮生や後輩たちから温かな激励を受ける",
+      "boast": "",
+      "buy": "",
+      "myrule": "弁当の盛りつけには、愛嬌を忘れない",
+      "spbg": "美浦寮の子たちと撮った集合写真",
+      "subject": ""
+    }
+  }
+}

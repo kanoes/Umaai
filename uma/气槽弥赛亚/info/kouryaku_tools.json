@@ -1,0 +1,131 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/airmessiah",
+  "fetched_at_utc": "2026-03-04T08:17:29.058060+00:00",
+  "slug": "airmessiah",
+  "name_ja": "エアメサイア",
+  "name_zh": "气槽弥赛亚",
+  "folder_name": "气槽弥赛亚",
+  "data": {
+    "id": 1111,
+    "name": "エアメサイア",
+    "alphabetId": "airmessiah",
+    "alphabetName": "Air Messiah",
+    "imageColorMain": "272AA4",
+    "imageColorSub": "FFFC61",
+    "uiColorMain": "2c2f9d",
+    "uiColorSub": "fffd8c",
+    "uiTrainingColor1": "585df0",
+    "uiTrainingColor2": "393cb6",
+    "uiBorderColor": "393cb6",
+    "uiNumColor1": "7377ff",
+    "uiNumColor2": "4144c9",
+    "uiTurnColor": "4144c9",
+    "uiWipeColor1": "cdceff",
+    "uiWipeColor2": "e8e9ff",
+    "uiWipeColor3": "fcfbcf",
+    "uiSpeechColor1": "585df0",
+    "uiSpeechColor2": "585df0",
+    "uiNameplateColor1": "585df0",
+    "uiNameplateColor2": "a8aaff",
+    "castId": 109,
+    "comics": [
+      {
+        "id": "1109_01",
+        "mainCharacterId": 1109,
+        "new": false,
+        "mainCharacter": {
+          "id": 1109,
+          "name": "ラインクラフト",
+          "castId": 107,
+          "alphabetId": "rheinkraft",
+          "uiColorSub": "2c9679",
+          "uiColorMain": "f15b75",
+          "alphabetName": "Rhein Kraft",
+          "uiSpeechColor1": "f36b83"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1111_01",
+        "mainCharacterId": 1111,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10127,
+        "name": "エアメサイア",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 4,
+        "publishedAt": "$D2025-05-30T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30255,
+        "name": "エアメサイア",
+        "title": "[いつか深まる若草]",
+        "rarity": 3,
+        "command": 4,
+        "publishedAt": "$D2025-05-30T03:00:00.000Z",
+        "ev": true
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "111101",
+        "publishedAt": "$D2024-11-18T03:00:00.000Z",
+        "talentSpeed": 0,
+        "talentStamina": 0,
+        "talentPow": 15,
+        "talentGuts": 0,
+        "talentWiz": 15,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 5,
+        "aptitudeMile": 6,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 1,
+        "aptitudeRunner": 1,
+        "aptitudeLeader": 6,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 3,
+        "rank": 3,
+        "title": "[Inherited Hope]",
+        "limited": false,
+        "characterId": 1111,
+        "commonName": "メサイア",
+        "dressId": 111101,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 103,
+      "birthYear": 2002,
+      "birthMonth": 2,
+      "birthDate": 4,
+      "description": "誠実で堅実な努力家。 殻を破りたい、突き抜けたいと、様々なことに挑戦するも、いつも小さくまとまりがち。 トリプルティアラ全てで入着した母を持ち、娘の自分が勝利を重ねることで、母の繋いだ未来の素晴らしさを示したいと考えている。",
+      "height": 162,
+      "weight": "規則正しく",
+      "dormitory": "",
+      "threesize": "B83・W56・H81",
+      "schoolGrade": "",
+      "characterId": 1111,
+      "prizeMoney": 335530000,
+      "bad": "とっさのウインク",
+      "ear": "心を許している時ほど実は柔らかい",
+      "family": "全員、何らかの形で日記を書き留めている",
+      "good": "黒板掃除の際、チョーク跡を一切残さず消す",
+      "shoes": "左：24.0cm 右：24.5cm",
+      "tail": "母譲りの毛並みのよさ",
+      "before": "",
+      "boast": "",
+      "buy": "",
+      "myrule": "",
+      "spbg": "",
+      "subject": ""
+    }
+  }
+}

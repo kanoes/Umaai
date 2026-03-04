@@ -1,0 +1,85 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/rosekingdom",
+  "fetched_at_utc": "2026-03-04T08:17:54.101309+00:00",
+  "slug": "rosekingdom",
+  "name_ja": "ローズキングダム",
+  "name_zh": "玫瑰王国",
+  "folder_name": "玫瑰王国",
+  "data": {
+    "id": 1144,
+    "name": "ローズキングダム",
+    "alphabetId": "rosekingdom",
+    "alphabetName": "Rose Kingdom",
+    "imageColorMain": "A8C6FD",
+    "imageColorSub": "5277D6",
+    "uiColorMain": "cb363d",
+    "uiColorSub": "52606b",
+    "uiTrainingColor1": "FFFFFF",
+    "uiTrainingColor2": "FFFFFF",
+    "uiBorderColor": "FFFFFF",
+    "uiNumColor1": "FFFFFF",
+    "uiNumColor2": "FFFFFF",
+    "uiTurnColor": "FFFFFF",
+    "uiWipeColor1": "FFFFFF",
+    "uiWipeColor2": "FFFFFF",
+    "uiWipeColor3": "FFFFFF",
+    "uiSpeechColor1": "FFFFFF",
+    "uiSpeechColor2": "FFFFFF",
+    "uiNameplateColor1": "FFFFFF",
+    "uiNameplateColor2": "FFFFFF",
+    "castId": 146,
+    "comics": [
+      {
+        "id": "1145_01",
+        "mainCharacterId": 1145,
+        "new": true,
+        "mainCharacter": {
+          "id": 1145,
+          "name": "ルーラーシップ",
+          "castId": 147,
+          "alphabetId": "rulership",
+          "uiColorSub": "3a4c5c",
+          "uiColorMain": "beab08",
+          "alphabetName": "Rulership",
+          "uiSpeechColor1": "FFFFFF"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1144_01",
+        "mainCharacterId": 1144,
+        "new": true
+      }
+    ],
+    "supportCards": [],
+    "characterCards": [],
+    "characterProfile": {
+      "id": 141,
+      "birthYear": 2007,
+      "birthMonth": 5,
+      "birthDate": 10,
+      "description": "名門『薔薇一族』に生まれ、その立場に相応しき英才教育を修めてきた高貴なるウマ娘。 自分の走りで、レース界における一族の地位を単なる名門に留まらない高みへ導く――即ち一族を率いる『王』と成る、という使命を抱いている。 高貴すぎて、世俗のことにはやや疎い。",
+      "height": 155,
+      "weight": "高貴な仕上がり",
+      "dormitory": "",
+      "threesize": "B74・W54・H77",
+      "schoolGrade": "",
+      "characterId": 1144,
+      "prizeMoney": 694660000,
+      "bad": "",
+      "ear": "",
+      "family": "",
+      "good": "",
+      "shoes": "",
+      "tail": "",
+      "before": "",
+      "boast": "",
+      "buy": "",
+      "myrule": "",
+      "spbg": "",
+      "subject": ""
+    }
+  }
+}

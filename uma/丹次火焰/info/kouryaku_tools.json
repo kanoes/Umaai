@@ -1,0 +1,149 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/dantsuflame",
+  "fetched_at_utc": "2026-03-04T08:17:13.071026+00:00",
+  "slug": "dantsuflame",
+  "name_ja": "ダンツフレーム",
+  "name_zh": "丹次火焰",
+  "folder_name": "丹次火焰",
+  "data": {
+    "id": 1092,
+    "name": "ダンツフレーム",
+    "alphabetId": "dantsuflame",
+    "alphabetName": "Dantsu Flame",
+    "imageColorMain": "FFABBF",
+    "imageColorSub": "00B783",
+    "uiColorMain": "e97d97",
+    "uiColorSub": "119d76",
+    "uiTrainingColor1": "f67594",
+    "uiTrainingColor2": "dc466a",
+    "uiBorderColor": "dc466a",
+    "uiNumColor1": "f67594",
+    "uiNumColor2": "f04871",
+    "uiTurnColor": "f04871",
+    "uiWipeColor1": "ffd1dc",
+    "uiWipeColor2": "ffe7ed",
+    "uiWipeColor3": "cffaed",
+    "uiSpeechColor1": "f67594",
+    "uiSpeechColor2": "f67594",
+    "uiNameplateColor1": "f67594",
+    "uiNameplateColor2": "ffc3d1",
+    "castId": 113,
+    "comics": [
+      {
+        "id": "1110_01",
+        "mainCharacterId": 1110,
+        "new": false,
+        "mainCharacter": {
+          "id": 1110,
+          "name": "シーザリオ",
+          "castId": 108,
+          "alphabetId": "cesario",
+          "uiColorSub": "0a3874",
+          "uiColorMain": "948eab",
+          "alphabetName": "Cesario",
+          "uiSpeechColor1": "849cc3"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1092_01",
+        "mainCharacterId": 1092,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10108,
+        "name": "ダンツフレーム",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 4,
+        "publishedAt": "$D2024-05-10T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 20077,
+        "name": "ダンツフレーム",
+        "title": "[ぬりぬりシェイプアップ！]",
+        "rarity": 2,
+        "command": 4,
+        "publishedAt": "$D2024-05-10T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30209,
+        "name": "ダンツフレーム",
+        "title": "[そして幕は上がる]",
+        "rarity": 3,
+        "command": 1,
+        "publishedAt": "$D2024-07-09T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30269,
+        "name": "ダンツフレーム",
+        "title": "[今日が楽しかったから、]",
+        "rarity": 3,
+        "command": 0,
+        "publishedAt": "$D2025-08-29T03:00:00.000Z",
+        "ev": true
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "109201",
+        "publishedAt": "$D2025-10-18T12:00:00.000Z",
+        "talentSpeed": 0,
+        "talentStamina": 10,
+        "talentPow": 0,
+        "talentGuts": 20,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 2,
+        "aptitudeShort": 3,
+        "aptitudeMile": 6,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 4,
+        "aptitudeRunner": 1,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 6,
+        "aptitudeChaser": 4,
+        "rank": 3,
+        "title": "[まんなか◎スポットライト]",
+        "limited": false,
+        "characterId": 1092,
+        "commonName": "ダンツ",
+        "dressId": 109201,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 108,
+      "birthYear": 1998,
+      "birthMonth": 4,
+      "birthDate": 19,
+      "description": "他人に頼まれたらついつい付き合っちゃう、お人よしなウマ娘。 自分に自信はあんまりないけれど、いつまでもレースで走れたらいいな、と願ってひたむきに努力している。 流されやすいため、個性的な同期たちによく振り回されているようだ。",
+      "height": 163,
+      "weight": "自信なし",
+      "dormitory": "",
+      "threesize": "B90・W60・H88",
+      "schoolGrade": "",
+      "characterId": 1092,
+      "prizeMoney": 511420000,
+      "bad": "自分のための服選び",
+      "ear": "メンコの色を決めるのに3日悩んだ",
+      "family": "全員、引っ越しの荷造りスピードがプロ級",
+      "good": "「髪型ちょっと変えた？」の正解率100％",
+      "shoes": "左右ともに24.5cm",
+      "tail": "怪談を聞いているとピコピコ跳ねる",
+      "before": "",
+      "boast": "",
+      "buy": "",
+      "myrule": "",
+      "spbg": "",
+      "subject": ""
+    }
+  }
+}

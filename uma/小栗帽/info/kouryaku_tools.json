@@ -1,0 +1,251 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/oguricap",
+  "fetched_at_utc": "2026-03-04T08:15:53.483232+00:00",
+  "slug": "oguricap",
+  "name_ja": "オグリキャップ",
+  "name_zh": "小栗帽",
+  "folder_name": "小栗帽",
+  "data": {
+    "id": 1006,
+    "name": "オグリキャップ",
+    "alphabetId": "oguricap",
+    "alphabetName": "Oguri Cap",
+    "imageColorMain": "7991EC",
+    "imageColorSub": "293CB2",
+    "uiColorMain": "3A7AD2",
+    "uiColorSub": "ECE7E7",
+    "uiTrainingColor1": "5992DF",
+    "uiTrainingColor2": "3B76C4",
+    "uiBorderColor": "3B76C4",
+    "uiNumColor1": "71ADFF",
+    "uiNumColor2": "3578D4",
+    "uiTurnColor": "3578D4",
+    "uiWipeColor1": "BFD4F5",
+    "uiWipeColor2": "D8E4F6",
+    "uiWipeColor3": "FFE0DE",
+    "uiSpeechColor1": "5992DF",
+    "uiSpeechColor2": "5992DF",
+    "uiNameplateColor1": "5992DF",
+    "uiNameplateColor2": "87B7F8",
+    "castId": 6,
+    "comics": [
+      {
+        "id": "1021_01",
+        "mainCharacterId": 1021,
+        "new": false,
+        "mainCharacter": {
+          "id": 1021,
+          "name": "タマモクロス",
+          "castId": 22,
+          "alphabetId": "tamamocross",
+          "uiColorSub": "C6DAE7",
+          "uiColorMain": "3290D6",
+          "alphabetName": "Tamamo Cross",
+          "uiSpeechColor1": "55a5e1"
+        }
+      },
+      {
+        "id": "1021_02",
+        "mainCharacterId": 1021,
+        "new": false,
+        "mainCharacter": {
+          "id": 1021,
+          "name": "タマモクロス",
+          "castId": 22,
+          "alphabetId": "tamamocross",
+          "uiColorSub": "C6DAE7",
+          "uiColorMain": "3290D6",
+          "alphabetName": "Tamamo Cross",
+          "uiSpeechColor1": "55a5e1"
+        }
+      },
+      {
+        "id": "1045_02",
+        "mainCharacterId": 1045,
+        "new": false,
+        "mainCharacter": {
+          "id": 1045,
+          "name": "スーパークリーク",
+          "castId": 44,
+          "alphabetId": "supercreek",
+          "uiColorSub": "C8C9C7",
+          "uiColorMain": "5693DA",
+          "alphabetName": "Super Creek",
+          "uiSpeechColor1": "67AAF8"
+        }
+      },
+      {
+        "id": "1053_01",
+        "mainCharacterId": 1053,
+        "new": false,
+        "mainCharacter": {
+          "id": 1053,
+          "name": "バンブーメモリー",
+          "castId": 53,
+          "alphabetId": "bamboomemory",
+          "uiColorSub": "2D2926",
+          "uiColorMain": "366965",
+          "alphabetName": "Bamboo Memory",
+          "uiSpeechColor1": "29a89e"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1006_01",
+        "mainCharacterId": 1006,
+        "new": false
+      },
+      {
+        "id": "1006_02",
+        "mainCharacterId": 1006,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10005,
+        "name": "オグリキャップ",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 2,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 20048,
+        "name": "オグリキャップ",
+        "title": "[好きなんだ、ご飯が]",
+        "rarity": 2,
+        "command": 3,
+        "publishedAt": "$D2022-06-20T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30024,
+        "name": "オグリキャップ",
+        "title": "[『愛してもらうんだぞ』]",
+        "rarity": 3,
+        "command": 2,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30146,
+        "name": "オグリキャップ",
+        "title": "[駆けよ、駆けよ、駆けよ！！]",
+        "rarity": 3,
+        "command": 4,
+        "publishedAt": "$D2022-10-28T03:00:00.000Z",
+        "ev": false
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "100603",
+        "publishedAt": "$D2025-12-11T03:00:00.000Z",
+        "talentSpeed": 8,
+        "talentStamina": 0,
+        "talentPow": 8,
+        "talentGuts": 14,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 6,
+        "aptitudeShort": 3,
+        "aptitudeMile": 7,
+        "aptitudeMiddle": 6,
+        "aptitudeLong": 7,
+        "aptitudeRunner": 2,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 4,
+        "rank": 3,
+        "title": "[シンデレラグレイ]",
+        "limited": false,
+        "characterId": 1006,
+        "commonName": "シングレオグリ",
+        "dressId": 100602,
+        "ev": false
+      },
+      {
+        "id": "100601",
+        "publishedAt": "$D2021-02-24T00:00:00.000Z",
+        "talentSpeed": 20,
+        "talentStamina": 0,
+        "talentPow": 10,
+        "talentGuts": 0,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 6,
+        "aptitudeShort": 3,
+        "aptitudeMile": 7,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 6,
+        "aptitudeRunner": 2,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 4,
+        "rank": 3,
+        "title": "[スターライトビート]",
+        "limited": false,
+        "characterId": 1006,
+        "commonName": "オグリ",
+        "dressId": 100601,
+        "ev": false
+      },
+      {
+        "id": "100602",
+        "publishedAt": "$D2021-11-29T03:00:00.000Z",
+        "talentSpeed": 15,
+        "talentStamina": 15,
+        "talentPow": 0,
+        "talentGuts": 0,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 6,
+        "aptitudeShort": 3,
+        "aptitudeMile": 7,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 6,
+        "aptitudeRunner": 2,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 4,
+        "rank": 3,
+        "title": "[キセキの白星]",
+        "limited": false,
+        "characterId": 1006,
+        "commonName": "クリオグリ",
+        "dressId": 100646,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 6,
+      "birthYear": 1985,
+      "birthMonth": 3,
+      "birthDate": 27,
+      "description": "地方から転入してきたマイペース娘。地元で連戦連勝し、期待を背負ってトレセン学園へとやってきた。地元の期待を一身に背負い、頑張ろうと思っているが、その言動は天然全開でとぼけている。トレセン学園一の健啖家であり、一瞬で米びつも鍋も空にする。",
+      "height": 167,
+      "weight": "微増（食べ過ぎた）",
+      "dormitory": "",
+      "threesize": "B82・W57・H82",
+      "schoolGrade": "",
+      "characterId": 1006,
+      "prizeMoney": 911110000,
+      "bad": "泳ぐこと",
+      "ear": "歓声の中でも故郷の人の声は聞き分けられる",
+      "family": "家族旅行と言えば温泉で、ある秘湯の常連",
+      "good": "美味しくご飯を食べること",
+      "shoes": "左右ともに27.0cm",
+      "tail": "体が柔らかいので手入れできない場所がない",
+      "before": "応援してくれているみんなの笑顔を思い出す",
+      "boast": "周囲にとても、とても恵まれていること",
+      "buy": "靴下、ハガキ",
+      "myrule": "『いただきます』はどんな時でも忘れない",
+      "spbg": "やり方を学んだ際に設定した、母との写真",
+      "subject": "調理実習が好き、ダンスレッスン（※一部）"
+    }
+  }
+}

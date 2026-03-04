@@ -1,0 +1,180 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/sakuralaurel",
+  "fetched_at_utc": "2026-03-04T08:16:58.887203+00:00",
+  "slug": "sakuralaurel",
+  "name_ja": "サクラローレル",
+  "name_zh": "樱花桂冠",
+  "folder_name": "樱花桂冠",
+  "data": {
+    "id": 1076,
+    "name": "サクラローレル",
+    "alphabetId": "sakuralaurel",
+    "alphabetName": "Sakura Laurel",
+    "imageColorMain": "ED7092",
+    "imageColorSub": "EBD3CF",
+    "uiColorMain": "f0638a",
+    "uiColorSub": "fecdc9",
+    "uiTrainingColor1": "fc7894",
+    "uiTrainingColor2": "d45e85",
+    "uiBorderColor": "d45e85",
+    "uiNumColor1": "f87d92",
+    "uiNumColor2": "ee5d8a",
+    "uiTurnColor": "ed5481",
+    "uiWipeColor1": "ff9bb0",
+    "uiWipeColor2": "ffaabc",
+    "uiWipeColor3": "ffd1cd",
+    "uiSpeechColor1": "e65779",
+    "uiSpeechColor2": "e65779",
+    "uiNameplateColor1": "f36083",
+    "uiNameplateColor2": "ffaec3",
+    "castId": 81,
+    "comics": [
+      {
+        "id": "1024_02",
+        "mainCharacterId": 1024,
+        "new": false,
+        "mainCharacter": {
+          "id": 1024,
+          "name": "マヤノトップガン",
+          "castId": 24,
+          "alphabetId": "mayanotopgun",
+          "uiColorSub": "FFC845",
+          "uiColorMain": "F57D38",
+          "alphabetName": "Mayano Top Gun",
+          "uiSpeechColor1": "FF9D47"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1076_01",
+        "mainCharacterId": 1076,
+        "new": false
+      },
+      {
+        "id": "1076_02",
+        "mainCharacterId": 1076,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10085,
+        "name": "サクラローレル",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 1,
+        "publishedAt": "$D2022-11-28T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 20080,
+        "name": "サクラローレル",
+        "title": "[君の花衣]",
+        "rarity": 2,
+        "command": 4,
+        "publishedAt": "$D2024-09-10T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30125,
+        "name": "サクラローレル",
+        "title": "[ここからはDon't stop!]",
+        "rarity": 3,
+        "command": 1,
+        "publishedAt": "$D2022-11-28T03:00:00.000Z",
+        "ev": true
+      },
+      {
+        "id": 30142,
+        "name": "サクラローレル",
+        "title": "[刻下、桜花爛漫]",
+        "rarity": 3,
+        "command": 1,
+        "publishedAt": "$D2023-04-28T03:00:00.000Z",
+        "ev": false
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "107601",
+        "publishedAt": "$D2023-04-10T03:00:00.000Z",
+        "talentSpeed": 0,
+        "talentStamina": 20,
+        "talentPow": 10,
+        "talentGuts": 0,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 3,
+        "aptitudeShort": 1,
+        "aptitudeMile": 5,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 7,
+        "aptitudeRunner": 1,
+        "aptitudeLeader": 6,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 6,
+        "rank": 3,
+        "title": "[Saisir le rêve]",
+        "limited": false,
+        "characterId": 1076,
+        "commonName": "ローレル",
+        "dressId": 107601,
+        "ev": false
+      },
+      {
+        "id": "107602",
+        "publishedAt": "$D2025-12-26T03:00:00.000Z",
+        "talentSpeed": 0,
+        "talentStamina": 10,
+        "talentPow": 0,
+        "talentGuts": 20,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 3,
+        "aptitudeShort": 1,
+        "aptitudeMile": 5,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 7,
+        "aptitudeRunner": 1,
+        "aptitudeLeader": 6,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 6,
+        "rank": 3,
+        "title": "[Nouvelle pousse]",
+        "limited": false,
+        "characterId": 1076,
+        "commonName": "正月ローレル",
+        "dressId": 107610,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 81,
+      "birthYear": 1991,
+      "birthMonth": 5,
+      "birthDate": 8,
+      "description": "明るく前向きで、どんなことにもへこたれない不屈のポジティブウマ娘。生まれつき脚があまり強くなく､ケガに悩まされ続けてきたが、諦めず何度でも立ち上がってきた。同期のナリタブライアンには特別な感情があり、いつか必ず倒したい目標でもある。",
+      "height": 162,
+      "weight": "文句なし",
+      "dormitory": "",
+      "threesize": "B78・W54・H80",
+      "schoolGrade": "",
+      "characterId": 1076,
+      "prizeMoney": 626890000,
+      "bad": "飛行機の離陸の瞬間（それ以外は平気）",
+      "ear": "ラッパの音が聞こえるとピンと背筋が伸びる",
+      "family": "オムレツとガレットは父直伝のレシピがある",
+      "good": "サラダはわんこそばのように食べられる",
+      "shoes": "左右ともに23.0cm",
+      "tail": "母そっくりの毛質で、とてもふわふわ",
+      "before": "厳しい戦いの日こそ、口角を上げる",
+      "boast": "",
+      "buy": "",
+      "myrule": "冷える夜は、もらった薬膳茶を淹れる",
+      "spbg": "フランスで撮った桜のつぼみ",
+      "subject": ""
+    }
+  }
+}

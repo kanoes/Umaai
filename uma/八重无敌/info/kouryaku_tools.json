@@ -1,0 +1,195 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/yaenomuteki",
+  "fetched_at_utc": "2026-03-04T08:16:55.367864+00:00",
+  "slug": "yaenomuteki",
+  "name_ja": "ヤエノムテキ",
+  "name_zh": "八重无敌",
+  "folder_name": "八重无敌",
+  "data": {
+    "id": 1072,
+    "name": "ヤエノムテキ",
+    "alphabetId": "yaenomuteki",
+    "alphabetName": "Yaeno Muteki",
+    "imageColorMain": "CB2819",
+    "imageColorSub": "FFC658",
+    "uiColorMain": "da483a",
+    "uiColorSub": "ffda93",
+    "uiTrainingColor1": "e55345",
+    "uiTrainingColor2": "bd372a",
+    "uiBorderColor": "bd372a",
+    "uiNumColor1": "fb6029",
+    "uiNumColor2": "cc3a2c",
+    "uiTurnColor": "cc3a2c",
+    "uiWipeColor1": "ffa69d",
+    "uiWipeColor2": "ffbba6",
+    "uiWipeColor3": "ffe9c0",
+    "uiSpeechColor1": "e55345",
+    "uiSpeechColor2": "e55345",
+    "uiNameplateColor1": "e55345",
+    "uiNameplateColor2": "ff9f75",
+    "castId": 70,
+    "comics": [
+      {
+        "id": "1069_02",
+        "mainCharacterId": 1069,
+        "new": false,
+        "mainCharacter": {
+          "id": 1069,
+          "name": "サクラチヨノオー",
+          "castId": 69,
+          "alphabetId": "sakurachiyonoo",
+          "uiColorSub": "f7dde2",
+          "uiColorMain": "f9879d",
+          "alphabetName": "Sakura Chiyono O",
+          "uiSpeechColor1": "e54c6d"
+        }
+      },
+      {
+        "id": "1071_02",
+        "mainCharacterId": 1071,
+        "new": false,
+        "mainCharacter": {
+          "id": 1071,
+          "name": "メジロアルダン",
+          "castId": 72,
+          "alphabetId": "mejiroardan",
+          "uiColorSub": "bfe4eb",
+          "uiColorMain": "28baa5",
+          "alphabetName": "Mejiro Ardan",
+          "uiSpeechColor1": "28baa5"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1072_01",
+        "mainCharacterId": 1072,
+        "new": false
+      },
+      {
+        "id": "1072_02",
+        "mainCharacterId": 1072,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10058,
+        "name": "ヤエノムテキ",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 2,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 20074,
+        "name": "ヤエノムテキ",
+        "title": "[護るべきは無垢の瞳]",
+        "rarity": 2,
+        "command": 1,
+        "publishedAt": "$D2024-02-24T03:00:00.000Z",
+        "ev": true
+      },
+      {
+        "id": 30032,
+        "name": "ヤエノムテキ",
+        "title": "[押して忍べど燃ゆるもの]",
+        "rarity": 3,
+        "command": 2,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30120,
+        "name": "ヤエノムテキ",
+        "title": "[天まで焦がせ祈りの火]",
+        "rarity": 3,
+        "command": 3,
+        "publishedAt": "$D2022-10-28T03:00:00.000Z",
+        "ev": false
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "107201",
+        "publishedAt": "$D2022-04-19T03:00:00.000Z",
+        "talentSpeed": 0,
+        "talentStamina": 0,
+        "talentPow": 20,
+        "talentGuts": 10,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 3,
+        "aptitudeShort": 1,
+        "aptitudeMile": 6,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 3,
+        "aptitudeRunner": 2,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 1,
+        "rank": 3,
+        "title": "[四白流星の襲]",
+        "limited": false,
+        "characterId": 1072,
+        "commonName": "ヤエノ",
+        "dressId": 107201,
+        "ev": false
+      },
+      {
+        "id": "107202",
+        "publishedAt": "$D2024-04-30T03:00:00.000Z",
+        "talentSpeed": 0,
+        "talentStamina": 6,
+        "talentPow": 12,
+        "talentGuts": 12,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 3,
+        "aptitudeShort": 1,
+        "aptitudeMile": 6,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 3,
+        "aptitudeRunner": 2,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 1,
+        "rank": 3,
+        "title": "[黒将Zen]",
+        "limited": false,
+        "characterId": 1072,
+        "commonName": "黒ヤエノ、刀ヤエノ、緑ヤエノ",
+        "dressId": 107250,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 72,
+      "birthYear": 1985,
+      "birthMonth": 4,
+      "birthDate": 11,
+      "description": "拳で風を叩き、大地を蹴り、決して人を傷つけない武術――もとい、レースで日々己を磨くウマ娘。礼節を重んじる頑固者、と見せかけて、たまに子供っぽい血気盛んな本質がチラリと見える。祖父母を想う気持ちは人一倍、そんな彼女の夢は、実家の流派をさらに磨き上げることである。",
+      "height": 159,
+      "weight": "増減なし",
+      "dormitory": "",
+      "threesize": "B78・W54・H81",
+      "schoolGrade": "",
+      "characterId": 1072,
+      "prizeMoney": 518300000,
+      "bad": "正座、買い食い",
+      "ear": "可愛い声を聞くとほんのり赤くなる",
+      "family": "帰省した時は必ず祖父の肩たたきをする",
+      "good": "裁縫、雑巾がけ",
+      "shoes": "左右ともに24.0cm",
+      "tail": "飛来してきたものを叩き落せるほど強靭",
+      "before": "レース場には必ず一礼してから入る",
+      "boast": "",
+      "buy": "",
+      "myrule": "自分で買う靴下は無地の白色",
+      "spbg": "祖父母と見た八重咲きの椿",
+      "subject": ""
+    }
+  }
+}

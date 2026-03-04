@@ -1,0 +1,196 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/siriussymboli",
+  "fetched_at_utc": "2026-03-04T08:16:53.566736+00:00",
+  "slug": "siriussymboli",
+  "name_ja": "シリウスシンボリ",
+  "name_zh": "天狼象征",
+  "folder_name": "天狼象征",
+  "data": {
+    "id": 1070,
+    "name": "シリウスシンボリ",
+    "alphabetId": "siriussymboli",
+    "alphabetName": "Sirius Symboli",
+    "imageColorMain": "007763",
+    "imageColorSub": "A6093C",
+    "uiColorMain": "248379",
+    "uiColorSub": "e3628c",
+    "uiTrainingColor1": "299c90",
+    "uiTrainingColor2": "1b756b",
+    "uiBorderColor": "1b756b",
+    "uiNumColor1": "37a498",
+    "uiNumColor2": "1f877b",
+    "uiTurnColor": "21877c",
+    "uiWipeColor1": "44bfa6",
+    "uiWipeColor2": "6dd5c0",
+    "uiWipeColor3": "a5eade",
+    "uiSpeechColor1": "2a988c",
+    "uiSpeechColor2": "2a988c",
+    "uiNameplateColor1": "2a9388",
+    "uiNameplateColor2": "6bc8be",
+    "castId": 71,
+    "comics": [
+      {
+        "id": "1017_02",
+        "mainCharacterId": 1017,
+        "new": false,
+        "mainCharacter": {
+          "id": 1017,
+          "name": "シンボリルドルフ",
+          "castId": 20,
+          "alphabetId": "symbolirudolf",
+          "uiColorSub": "C6314B",
+          "uiColorMain": "1C7763",
+          "alphabetName": "Symboli Rudolf",
+          "uiSpeechColor1": "49CDB1"
+        }
+      },
+      {
+        "id": "1049_01",
+        "mainCharacterId": 1049,
+        "new": false,
+        "mainCharacter": {
+          "id": 1049,
+          "name": "ナカヤマフェスタ",
+          "castId": 46,
+          "alphabetId": "nakayamafesta",
+          "uiColorSub": "236192",
+          "uiColorMain": "C0453F",
+          "alphabetName": "Nakayama Festa",
+          "uiSpeechColor1": "d9514a"
+        }
+      },
+      {
+        "id": "9047_01",
+        "mainCharacterId": 9047,
+        "new": false,
+        "mainCharacter": {
+          "id": 9047,
+          "name": "スピードシンボリ",
+          "castId": null,
+          "alphabetId": "speedsymboli",
+          "uiColorSub": "E3E3E3",
+          "uiColorMain": "10A546",
+          "alphabetName": "speedSymboli",
+          "uiSpeechColor1": "4C91F1"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1070_01",
+        "mainCharacterId": 1070,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10071,
+        "name": "シリウスシンボリ",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 3,
+        "publishedAt": "$D2021-10-20T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 20038,
+        "name": "シリウスシンボリ",
+        "title": "[一等星は揺らがない]",
+        "rarity": 2,
+        "command": 3,
+        "publishedAt": "$D2021-10-20T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30091,
+        "name": "シリウスシンボリ",
+        "title": "[Escorte étoile]",
+        "rarity": 3,
+        "command": 4,
+        "publishedAt": "$D2022-03-29T03:00:00.000Z",
+        "ev": false
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "107001",
+        "publishedAt": "$D2023-07-21T03:00:00.000Z",
+        "talentSpeed": 0,
+        "talentStamina": 0,
+        "talentPow": 10,
+        "talentGuts": 0,
+        "talentWiz": 20,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 1,
+        "aptitudeMile": 6,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 5,
+        "aptitudeRunner": 3,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 5,
+        "aptitudeChaser": 3,
+        "rank": 3,
+        "title": "[Féroce]",
+        "limited": false,
+        "characterId": 1070,
+        "commonName": "シリウス",
+        "dressId": 107001,
+        "ev": false
+      },
+      {
+        "id": "107002",
+        "publishedAt": "$D2025-04-10T03:00:00.000Z",
+        "talentSpeed": 0,
+        "talentStamina": 0,
+        "talentPow": 10,
+        "talentGuts": 20,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 1,
+        "aptitudeMile": 6,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 5,
+        "aptitudeRunner": 3,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 3,
+        "rank": 3,
+        "title": "[Louve stellaire]",
+        "limited": false,
+        "characterId": 1070,
+        "commonName": "青シリウス、レジェシリウス",
+        "dressId": 107002,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 71,
+      "birthYear": 1982,
+      "birthMonth": 3,
+      "birthDate": 26,
+      "description": "「シリウスこそが最も明るい星だ」海外制覇を目指す、強気で自信家のウマ娘。粗野で口も悪いが、そのタフさと自信に伴った実力から、多くの人を惹きつけるカリスマ性を持つ。また、嘘や方便が嫌いなのでロから出る言葉は全て本気。つまり天性のタラシなのである。",
+      "height": 167,
+      "weight": "興味なし",
+      "dormitory": "",
+      "threesize": "B89・W55・H86",
+      "schoolGrade": "",
+      "characterId": 1070,
+      "prizeMoney": 108700000,
+      "bad": "無意味な話し合い、おべっか、ダジャレ",
+      "ear": "耳栓がないと眠れない",
+      "family": "父の意向で家庭教師が日替わりだった",
+      "good": "サバット、犬のしつけ",
+      "shoes": "左右ともに25.0cm",
+      "tail": "イライラするとクシャクシャにする癖がある",
+      "before": "床を蹴り上げるほど思いきり立ち上がる",
+      "boast": "",
+      "buy": "",
+      "myrule": "群れの新入りには最低限の躾をする",
+      "spbg": "詩集の一節",
+      "subject": ""
+    }
+  }
+}

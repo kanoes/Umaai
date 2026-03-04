@@ -1,0 +1,392 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/specialweek",
+  "fetched_at_utc": "2026-03-04T08:24:43.823261+00:00",
+  "slug": "specialweek",
+  "name_ja": "スペシャルウィーク",
+  "name_zh": "特别周",
+  "folder_name": "特别周",
+  "data": {
+    "id": 1001,
+    "name": "スペシャルウィーク",
+    "alphabetId": "specialweek",
+    "alphabetName": "Special Week",
+    "imageColorMain": "FCA7FF",
+    "imageColorSub": "FF58D9",
+    "uiColorMain": "EE6DCB",
+    "uiColorSub": "FFDEF9",
+    "uiTrainingColor1": "FF7FDD",
+    "uiTrainingColor2": "F759CD",
+    "uiBorderColor": "F759CD",
+    "uiNumColor1": "FF7FDD",
+    "uiNumColor2": "FA50CD",
+    "uiTurnColor": "FA50CD",
+    "uiWipeColor1": "FCCAEE",
+    "uiWipeColor2": "FCE3F5",
+    "uiWipeColor3": "FDEDFE",
+    "uiSpeechColor1": "FF7FDD",
+    "uiSpeechColor2": "FF7FDD",
+    "uiNameplateColor1": "FF7CDC",
+    "uiNameplateColor2": "FEB4EA",
+    "castId": 1,
+    "comics": [
+      {
+        "id": "1002_01",
+        "mainCharacterId": 1002,
+        "new": false,
+        "mainCharacter": {
+          "id": 1002,
+          "name": "サイレンススズカ",
+          "castId": 5,
+          "alphabetId": "silencesuzuka",
+          "uiColorSub": "FFCE48",
+          "uiColorMain": "29BD70",
+          "alphabetName": "Silence Suzuka",
+          "uiSpeechColor1": "4BD18C"
+        }
+      },
+      {
+        "id": "1004_01",
+        "mainCharacterId": 1004,
+        "new": false,
+        "mainCharacter": {
+          "id": 1004,
+          "name": "マルゼンスキー",
+          "castId": 4,
+          "alphabetId": "maruzensky",
+          "uiColorSub": "FFCD00",
+          "uiColorMain": "EA504A",
+          "alphabetName": "Maruzensky",
+          "uiSpeechColor1": "FF7D63"
+        }
+      },
+      {
+        "id": "1005_01",
+        "mainCharacterId": 1005,
+        "new": false,
+        "mainCharacter": {
+          "id": 1005,
+          "name": "フジキセキ",
+          "castId": 3,
+          "alphabetId": "fujikiseki",
+          "uiColorSub": "33B839",
+          "uiColorMain": "444745",
+          "alphabetName": "Fuji Kiseki",
+          "uiSpeechColor1": "41CC70"
+        }
+      },
+      {
+        "id": "1009_01",
+        "mainCharacterId": 1009,
+        "new": false,
+        "mainCharacter": {
+          "id": 1009,
+          "name": "ダイワスカーレット",
+          "castId": 8,
+          "alphabetId": "daiwascarlet",
+          "uiColorSub": "E73472",
+          "uiColorMain": "4F64D8",
+          "alphabetName": "Daiwa Scarlet",
+          "uiSpeechColor1": "7C9EFC"
+        }
+      },
+      {
+        "id": "1011_01",
+        "mainCharacterId": 1011,
+        "new": false,
+        "mainCharacter": {
+          "id": 1011,
+          "name": "グラスワンダー",
+          "castId": 12,
+          "alphabetId": "grasswonder",
+          "uiColorSub": "E3493F",
+          "uiColorMain": "3A34AC",
+          "alphabetName": "Grass Wonder",
+          "uiSpeechColor1": "8F8AF7"
+        }
+      },
+      {
+        "id": "1020_01",
+        "mainCharacterId": 1020,
+        "new": false,
+        "mainCharacter": {
+          "id": 1020,
+          "name": "セイウンスカイ",
+          "castId": 17,
+          "alphabetId": "seiunsky",
+          "uiColorSub": "F4DA40",
+          "uiColorMain": "65D283",
+          "alphabetName": "Seiun Sky",
+          "uiSpeechColor1": "6ADE8B"
+        }
+      },
+      {
+        "id": "1052_01",
+        "mainCharacterId": 1052,
+        "new": false,
+        "mainCharacter": {
+          "id": 1052,
+          "name": "ハルウララ",
+          "castId": 51,
+          "alphabetId": "haruurara",
+          "uiColorSub": "EDE04B",
+          "uiColorMain": "FA7395",
+          "alphabetName": "Haru Urara",
+          "uiSpeechColor1": "FF8AB9"
+        }
+      },
+      {
+        "id": "1055_02",
+        "mainCharacterId": 1055,
+        "new": false,
+        "mainCharacter": {
+          "id": 1055,
+          "name": "マーベラスサンデー",
+          "castId": 55,
+          "alphabetId": "marveloussunday",
+          "uiColorSub": "B52542",
+          "uiColorMain": "CA46B0",
+          "alphabetName": "Marvelous Sunday",
+          "uiSpeechColor1": "ac3a96"
+        }
+      },
+      {
+        "id": "1061_01",
+        "mainCharacterId": 1061,
+        "new": false,
+        "mainCharacter": {
+          "id": 1061,
+          "name": "キングヘイロー",
+          "castId": 63,
+          "alphabetId": "kinghalo",
+          "uiColorSub": "1C57A5",
+          "uiColorMain": "0E9451",
+          "alphabetName": "King Halo",
+          "uiSpeechColor1": "6ECB74"
+        }
+      },
+      {
+        "id": "1073_01",
+        "mainCharacterId": 1073,
+        "new": false,
+        "mainCharacter": {
+          "id": 1073,
+          "name": "ツルマルツヨシ",
+          "castId": 76,
+          "alphabetId": "tsurumarutsuyoshi",
+          "uiColorSub": "F5CD47",
+          "uiColorMain": "8F4DAC",
+          "alphabetName": "Tsurumaru Tsuyoshi",
+          "uiSpeechColor1": "b56bd5"
+        }
+      },
+      {
+        "id": "1114_01",
+        "mainCharacterId": 1114,
+        "new": false,
+        "mainCharacter": {
+          "id": 1114,
+          "name": "ブエナビスタ",
+          "castId": 122,
+          "alphabetId": "buenavista",
+          "uiColorSub": "583d3e",
+          "uiColorMain": "c0af3b",
+          "alphabetName": "Buena Vista",
+          "uiSpeechColor1": "c2b246"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1001_01",
+        "mainCharacterId": 1001,
+        "new": false
+      },
+      {
+        "id": "1001_02",
+        "mainCharacterId": 1001,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10001,
+        "name": "スペシャルウィーク",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 3,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 20043,
+        "name": "スペシャルウィーク",
+        "title": "[1日の終わりに]",
+        "rarity": 2,
+        "command": 2,
+        "publishedAt": "$D2022-02-24T03:00:00.000Z",
+        "ev": true
+      },
+      {
+        "id": 30001,
+        "name": "スペシャルウィーク",
+        "title": "[日本一のステージを]",
+        "rarity": 3,
+        "command": 3,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30025,
+        "name": "スペシャルウィーク",
+        "title": "[夕焼けはあこがれの色]",
+        "rarity": 3,
+        "command": 0,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": true
+      },
+      {
+        "id": 30081,
+        "name": "チーム＜シリウス＞",
+        "title": "[紡がれてゆく想い]",
+        "rarity": 3,
+        "command": 6,
+        "publishedAt": "$D2022-03-18T03:00:00.000Z",
+        "ev": true
+      },
+      {
+        "id": 30105,
+        "name": "スペシャルウィーク",
+        "title": "[私たちと夢、掴みましょう！]",
+        "rarity": 3,
+        "command": 3,
+        "publishedAt": "$D2022-07-20T03:00:00.000Z",
+        "ev": true
+      },
+      {
+        "id": 30127,
+        "name": "スペシャルウィーク",
+        "title": "[ハネ退け魔を退け願い込め]",
+        "rarity": 3,
+        "command": 1,
+        "publishedAt": "$D2022-12-29T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30180,
+        "name": "刻み続ける者たち",
+        "title": "[この先も！]",
+        "rarity": 3,
+        "command": 6,
+        "publishedAt": "$D2023-12-28T03:00:00.000Z",
+        "ev": true
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "100101",
+        "publishedAt": "$D2021-02-24T00:00:00.000Z",
+        "talentSpeed": 0,
+        "talentStamina": 20,
+        "talentPow": 0,
+        "talentGuts": 0,
+        "talentWiz": 10,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 2,
+        "aptitudeMile": 5,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 7,
+        "aptitudeRunner": 1,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 5,
+        "rank": 3,
+        "title": "[スペシャルドリーマー]",
+        "limited": false,
+        "characterId": 1001,
+        "commonName": "スペ",
+        "dressId": 100101,
+        "ev": false
+      },
+      {
+        "id": "100102",
+        "publishedAt": "$D2021-07-29T03:00:00.000Z",
+        "talentSpeed": 0,
+        "talentStamina": 10,
+        "talentPow": 10,
+        "talentGuts": 10,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 2,
+        "aptitudeMile": 5,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 7,
+        "aptitudeRunner": 1,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 5,
+        "rank": 3,
+        "title": "[ほっぴん♪ビタミンハート]",
+        "limited": false,
+        "characterId": 1001,
+        "commonName": "水着スペ",
+        "dressId": 100130,
+        "ev": false
+      },
+      {
+        "id": "100103",
+        "publishedAt": "$D2022-07-20T00:00:00.000Z",
+        "talentSpeed": 10,
+        "talentStamina": 10,
+        "talentPow": 0,
+        "talentGuts": 0,
+        "talentWiz": 10,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 2,
+        "aptitudeMile": 5,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 7,
+        "aptitudeRunner": 1,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 5,
+        "rank": 3,
+        "title": "[日之本一の総大将]",
+        "limited": true,
+        "characterId": 1001,
+        "commonName": "総大将スペ",
+        "dressId": 100102,
+        "ev": true
+      }
+    ],
+    "characterProfile": {
+      "id": 1,
+      "birthYear": 1995,
+      "birthMonth": 5,
+      "birthDate": 2,
+      "description": "北海道生まれの、素直で明るい頑張り屋。 生後すぐに実母を亡くし、その親友である人間の女性の元に預けられた。 『日本一のウマ娘になる』は2人の母に誓った約束。 憧れたりくじけたりを繰り返しながら、持ち前のガッツで夢に向かってひた走る。",
+      "height": 158,
+      "weight": "微減（レース前で緊張気味）",
+      "dormitory": "",
+      "threesize": "B81・W56・H81",
+      "schoolGrade": "",
+      "characterId": 1001,
+      "prizeMoney": 1092620000,
+      "bad": "改札のタッチ＆ゴー",
+      "ear": "料理の音に敏感で、ついそばだててしまう",
+      "family": "瞳の色は、産んでくれた母親譲り",
+      "good": "臨場感のある食レポ",
+      "shoes": "左：23.5cm 右：23.0cm",
+      "tail": "感情のまま動いてしまうのでポーカーは苦手",
+      "before": "故郷に向かって心の中で『行ってきます！』",
+      "boast": "日替わりメニューの予想的中率が7割以上",
+      "buy": "レターセット（お母ちゃんへの手紙用）",
+      "myrule": "トウモロコシを食べる時は無言で集中！",
+      "spbg": "お母ちゃんとの2ショット（帰省毎に更新）",
+      "subject": "体育なら…！"
+    }
+  }
+}

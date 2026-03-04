@@ -1,0 +1,190 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/yukinobijin",
+  "fetched_at_utc": "2026-03-04T08:16:15.087865+00:00",
+  "slug": "yukinobijin",
+  "name_ja": "ユキノビジン",
+  "name_zh": "雪之美人",
+  "folder_name": "雪之美人",
+  "data": {
+    "id": 1029,
+    "name": "ユキノビジン",
+    "alphabetId": "yukinobijin",
+    "alphabetName": "Yukino Bijin",
+    "imageColorMain": "A7DDFF",
+    "imageColorSub": "FFFFFF",
+    "uiColorMain": "AF7E51",
+    "uiColorSub": "C8D8EB",
+    "uiTrainingColor1": "85addd",
+    "uiTrainingColor2": "5688c5",
+    "uiBorderColor": "5688c5",
+    "uiNumColor1": "92c2f3",
+    "uiNumColor2": "659ad9",
+    "uiTurnColor": "5e92d1",
+    "uiWipeColor1": "bad6f9",
+    "uiWipeColor2": "d4e8ff",
+    "uiWipeColor3": "fff0e3",
+    "uiSpeechColor1": "6999d2",
+    "uiSpeechColor2": "6999d2",
+    "uiNameplateColor1": "85addd",
+    "uiNameplateColor2": "b6dfff",
+    "castId": 30,
+    "comics": [
+      {
+        "id": "1025_02",
+        "mainCharacterId": 1025,
+        "new": false,
+        "mainCharacter": {
+          "id": 1025,
+          "name": "マンハッタンカフェ",
+          "castId": 23,
+          "alphabetId": "manhattancafe",
+          "uiColorSub": "E8DD4C",
+          "uiColorMain": "494541",
+          "alphabetName": "Manhattan Cafe",
+          "uiSpeechColor1": "dabe00"
+        }
+      },
+      {
+        "id": "1040_01",
+        "mainCharacterId": 1040,
+        "new": false,
+        "mainCharacter": {
+          "id": 1040,
+          "name": "ゴールドシチー",
+          "castId": 39,
+          "alphabetId": "goldcity",
+          "uiColorSub": "E63C5C",
+          "uiColorMain": "245099",
+          "alphabetName": "Gold City",
+          "uiSpeechColor1": "5294FF"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1029_01",
+        "mainCharacterId": 1029,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10034,
+        "name": "ユキノビジン",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 3,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 20011,
+        "name": "ユキノビジン",
+        "title": "[シチーガール入門♯]",
+        "rarity": 2,
+        "command": 3,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30031,
+        "name": "ユキノビジン",
+        "title": "[ふるさと直送エール！]",
+        "rarity": 3,
+        "command": 4,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30070,
+        "name": "ユキノビジン",
+        "title": "[宵照らす奉納舞]",
+        "rarity": 3,
+        "command": 3,
+        "publishedAt": "$D2021-10-28T03:00:00.000Z",
+        "ev": true
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "102901",
+        "publishedAt": "$D2022-09-12T03:00:00.000Z",
+        "talentSpeed": 10,
+        "talentStamina": 0,
+        "talentPow": 0,
+        "talentGuts": 20,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 6,
+        "aptitudeShort": 4,
+        "aptitudeMile": 7,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 3,
+        "aptitudeRunner": 5,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 2,
+        "aptitudeChaser": 1,
+        "rank": 3,
+        "title": "[めんこいめんこいむつのはな]",
+        "limited": false,
+        "characterId": 1029,
+        "commonName": "ユキノ",
+        "dressId": 102901,
+        "ev": false
+      },
+      {
+        "id": "102902",
+        "publishedAt": "$D2024-01-31T03:00:00.000Z",
+        "talentSpeed": 8,
+        "talentStamina": 0,
+        "talentPow": 8,
+        "talentGuts": 14,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 7,
+        "aptitudeShort": 4,
+        "aptitudeMile": 7,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 3,
+        "aptitudeRunner": 5,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 2,
+        "aptitudeChaser": 1,
+        "rank": 3,
+        "title": "[茶の子雪ん子]",
+        "limited": false,
+        "characterId": 1029,
+        "commonName": "和ユキノ、バレユキノ、メイドユキノ",
+        "dressId": 102913,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 29,
+      "birthYear": 1990,
+      "birthMonth": 3,
+      "birthDate": 10,
+      "description": "岩手の田舎出身の純朴な娘。実家は農家で、よく手伝いをするいい子だった。その一方、都会に憧れ、いつかトゥインクル·シリーズに出て、キラキラな自分になりたいと望んでいた。素直だがひ弱ではなく、北国育ちのド根性持ち。憧れのウマ娘はゴールドシチー。",
+      "height": 156,
+      "weight": "増減なし",
+      "dormitory": "",
+      "threesize": "B80・W55・H80",
+      "schoolGrade": "",
+      "characterId": 1029,
+      "prizeMoney": 165850000,
+      "bad": "暑さ",
+      "ear": "めんこい耳当てをたくさん持っている",
+      "family": "上京後も方言が残る娘に、少し安心している",
+      "good": "鍋料理、雪合戦",
+      "shoes": "左右ともに22.5cm",
+      "tail": "プチプラお手入れグッズに挑戦中",
+      "before": "髪やメンコをしっかり整える",
+      "boast": "",
+      "buy": "",
+      "myrule": "冬は絶対こたつ。寮でもミニこたつを愛用",
+      "spbg": "上京する時に撮った美冬ちゃんとの写真",
+      "subject": ""
+    }
+  }
+}

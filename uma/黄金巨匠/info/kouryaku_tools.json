@@ -1,0 +1,155 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/orfevre",
+  "fetched_at_utc": "2026-03-04T08:17:32.536839+00:00",
+  "slug": "orfevre",
+  "name_ja": "オルフェーヴル",
+  "name_zh": "黄金巨匠",
+  "folder_name": "黄金巨匠",
+  "data": {
+    "id": 1115,
+    "name": "オルフェーヴル",
+    "alphabetId": "orfevre",
+    "alphabetName": "Orfevre",
+    "imageColorMain": "CB3E38",
+    "imageColorSub": "FFEAA5",
+    "uiColorMain": "be4134",
+    "uiColorSub": "ecd898",
+    "uiTrainingColor1": "ee5e4f",
+    "uiTrainingColor2": "c94336",
+    "uiBorderColor": "c94336",
+    "uiNumColor1": "ee5e4f",
+    "uiNumColor2": "d0483a",
+    "uiTurnColor": "d0483a",
+    "uiWipeColor1": "fdc0ba",
+    "uiWipeColor2": "fddedb",
+    "uiWipeColor3": "fdf0dc",
+    "uiSpeechColor1": "ee5e4f",
+    "uiSpeechColor2": "ee5e4f",
+    "uiNameplateColor1": "ee5e4f",
+    "uiNameplateColor2": "ffbfb8",
+    "castId": 117,
+    "comics": [
+      {
+        "id": "1135_01",
+        "mainCharacterId": 1135,
+        "new": false,
+        "mainCharacter": {
+          "id": 1135,
+          "name": "ステイゴールド",
+          "castId": 137,
+          "alphabetId": "staygold",
+          "uiColorSub": "49699c",
+          "uiColorMain": "bfb33e",
+          "alphabetName": "Stay Gold",
+          "uiSpeechColor1": "bfb33e"
+        }
+      },
+      {
+        "id": "1140_01",
+        "mainCharacterId": 1140,
+        "new": true,
+        "mainCharacter": {
+          "id": 1140,
+          "name": "マルシュロレーヌ",
+          "castId": 142,
+          "alphabetId": "marchelorraine",
+          "uiColorSub": "e9a2b2",
+          "uiColorMain": "8b1538",
+          "alphabetName": "Marche Lorraine",
+          "uiSpeechColor1": "c5355f"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1115_01",
+        "mainCharacterId": 1115,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10103,
+        "name": "オルフェーヴル",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 3,
+        "publishedAt": "$D2024-02-24T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30187,
+        "name": "オルフェーヴル",
+        "title": "[只、君臨す。]",
+        "rarity": 3,
+        "command": 3,
+        "publishedAt": "$D2024-02-24T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30280,
+        "name": "オルフェーヴル",
+        "title": "[黄金の夢に溺れよ]",
+        "rarity": 3,
+        "command": 1,
+        "publishedAt": "$D2025-11-28T03:00:00.000Z",
+        "ev": true
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "111501",
+        "publishedAt": "$D2025-02-24T03:00:00.000Z",
+        "talentSpeed": 10,
+        "talentStamina": 10,
+        "talentPow": 10,
+        "talentGuts": 0,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 4,
+        "aptitudeShort": 1,
+        "aptitudeMile": 5,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 7,
+        "aptitudeRunner": 1,
+        "aptitudeLeader": 2,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 7,
+        "rank": 3,
+        "title": "[総攬]",
+        "limited": false,
+        "characterId": 1115,
+        "commonName": "オルフェ",
+        "dressId": 111501,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 112,
+      "birthYear": 2008,
+      "birthMonth": 5,
+      "birthDate": 14,
+      "description": "天上天下唯我独尊、レース界の王を名乗ってはばからない、暴君ウマ娘。 ターフは我が領土、三冠は元より我がもの―― 故に、その手に取り戻しに行くのである。 学園では、圧倒的な実力とカリスマ性に魅了された生徒たちが臣下として常にはべっているとか……。",
+      "height": 165,
+      "weight": "黄金の輝き",
+      "dormitory": "",
+      "threesize": "B82・W55・H80",
+      "schoolGrade": "",
+      "characterId": 1115,
+      "prizeMoney": 1344080000,
+      "bad": "湿気",
+      "ear": "耳飾りは父の作",
+      "family": "優れた芸術的感性は両親譲り",
+      "good": "世の遍く総て、意のままに",
+      "shoes": "左右ともに25.0cm",
+      "tail": "姉上の手入れは常に完璧",
+      "before": "",
+      "boast": "",
+      "buy": "",
+      "myrule": "",
+      "spbg": "",
+      "subject": ""
+    }
+  }
+}

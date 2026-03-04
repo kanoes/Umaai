@@ -1,0 +1,128 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/currenbouquetdor",
+  "fetched_at_utc": "2026-03-04T08:17:46.475512+00:00",
+  "slug": "currenbouquetdor",
+  "name_ja": "カレンブーケドール",
+  "name_zh": "花束爱恋",
+  "folder_name": "花束爱恋",
+  "data": {
+    "id": 1134,
+    "name": "カレンブーケドール",
+    "alphabetId": "currenbouquetdor",
+    "alphabetName": "Curren Bouquetdor",
+    "imageColorMain": "E6E6E3",
+    "imageColorSub": "47443E",
+    "uiColorMain": "8e8180",
+    "uiColorSub": "473d3c",
+    "uiTrainingColor1": "4C91F1",
+    "uiTrainingColor2": "2B75DD",
+    "uiBorderColor": "2B75DD",
+    "uiNumColor1": "71ADFF",
+    "uiNumColor2": "1667D9",
+    "uiTurnColor": "1667D9",
+    "uiWipeColor1": "BCD5F5",
+    "uiWipeColor2": "D6E4F6",
+    "uiWipeColor3": "FFEBF6",
+    "uiSpeechColor1": "4C91F1",
+    "uiSpeechColor2": "4C91F1",
+    "uiNameplateColor1": "4C91F1",
+    "uiNameplateColor2": "8DBCFD",
+    "castId": 136,
+    "comics": [
+      {
+        "id": "1131_01",
+        "mainCharacterId": 1131,
+        "new": false,
+        "mainCharacter": {
+          "id": 1131,
+          "name": "グランアレグリア",
+          "castId": 133,
+          "alphabetId": "granalegria",
+          "uiColorSub": "ef4d60",
+          "uiColorMain": "53565a",
+          "alphabetName": "Gran Alegria",
+          "uiSpeechColor1": "ff6173"
+        }
+      },
+      {
+        "id": "1144_01",
+        "mainCharacterId": 1144,
+        "new": true,
+        "mainCharacter": {
+          "id": 1144,
+          "name": "ローズキングダム",
+          "castId": 146,
+          "alphabetId": "rosekingdom",
+          "uiColorSub": "52606b",
+          "uiColorMain": "cb363d",
+          "alphabetName": "Rose Kingdom",
+          "uiSpeechColor1": "FFFFFF"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1134_01",
+        "mainCharacterId": 1134,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10126,
+        "name": "カレンブーケドール",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 1,
+        "publishedAt": "$D2025-05-12T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 20088,
+        "name": "カレンブーケドール",
+        "title": "[一輪ずつ、喜びを束ねて]",
+        "rarity": 2,
+        "command": 1,
+        "publishedAt": "$D2025-05-12T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30274,
+        "name": "カレンブーケドール",
+        "title": "[決意のフローラ]",
+        "rarity": 3,
+        "command": 1,
+        "publishedAt": "$D2025-10-10T03:00:00.000Z",
+        "ev": false
+      }
+    ],
+    "characterCards": [],
+    "characterProfile": {
+      "id": 131,
+      "birthYear": 2016,
+      "birthMonth": 4,
+      "birthDate": 23,
+      "description": "花の世話やフラワーアレンジメントが好きな、優し過ぎるほどに優しいウマ娘。 常に他人を慮り、心を砕き、相手の気持ち第一で行動しがち。 それゆえいろいろと強烈な同世代ウマ娘たちの中で埋もれがちだが、その実力は間違いなく本物。 『時代』という花束には欠かせない一輪。",
+      "height": 153,
+      "weight": "調和のとれた推移",
+      "dormitory": "",
+      "threesize": "B78・W53・H77",
+      "schoolGrade": "",
+      "characterId": 1134,
+      "prizeMoney": 458050000,
+      "bad": "",
+      "ear": "",
+      "family": "",
+      "good": "",
+      "shoes": "",
+      "tail": "",
+      "before": "",
+      "boast": "",
+      "buy": "",
+      "myrule": "",
+      "spbg": "",
+      "subject": ""
+    }
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/mejiromcqueen",
+  "fetched_at_utc": "2026-03-04T08:16:00.338672+00:00",
+  "slug": "mejiromcqueen",
+  "name_ja": "メジロマックイーン",
+  "name_zh": "目白麦昆",
+  "folder_name": "目白麦昆",
+  "data": {
+    "id": 1013,
+    "name": "メジロマックイーン",
+    "alphabetId": "mejiromcqueen",
+    "alphabetName": "Mejiro McQueen",
+    "imageColorMain": "38BDC3",
+    "imageColorSub": "FFFFFF",
+    "uiColorMain": "00B5BE",
+    "uiColorSub": "DFC8E7",
+    "uiTrainingColor1": "3CCFD7",
+    "uiTrainingColor2": "22B7BF",
+    "uiBorderColor": "22B7BF",
+    "uiNumColor1": "3CCFD7",
+    "uiNumColor2": "22B7BF",
+    "uiTurnColor": "22B7BF",
+    "uiWipeColor1": "B5F2F5",
+    "uiWipeColor2": "CDF3F5",
+    "uiWipeColor3": "F3E3FC",
+    "uiSpeechColor1": "3CCFD7",
+    "uiSpeechColor2": "3CCFD7",
+    "uiNameplateColor1": "36C7CF",
+    "uiNameplateColor2": "7CE3E9",
+    "castId": 14,
+    "comics": [
+      {
+        "id": "1007_01",
+        "mainCharacterId": 1007,
+        "new": false,
+        "mainCharacter": {
+          "id": 1007,
+          "name": "ゴールドシップ",
+          "castId": 7,
+          "alphabetId": "goldship",
+          "uiColorSub": "E9DA36",
+          "uiColorMain": "DA3C57",
+          "alphabetName": "Gold Ship",
+          "uiSpeechColor1": "FB758C"
+        }
+      },
+      {
+        "id": "1027_01",
+        "mainCharacterId": 1027,
+        "new": false,
+        "mainCharacter": {
+          "id": 1027,
+          "name": "メジロライアン",
+          "castId": 28,
+          "alphabetId": "mejiroryan",
+          "uiColorSub": "7C4D3A",
+          "uiColorMain": "14BAAE",
+          "alphabetName": "Mejiro Ryan",
+          "uiSpeechColor1": "50D9C7"
+        }
+      },
+      {
+        "id": "1041_01",
+        "mainCharacterId": 1041,
+        "new": false,
+        "mainCharacter": {
+          "id": 1041,
+          "name": "サクラバクシンオー",
+          "castId": 42,
+          "alphabetId": "sakurabakushino",
+          "uiColorSub": "F2D4D7",
+          "uiColorMain": "EE6FAB",
+          "alphabetName": "Sakura Bakushin O",
+          "uiSpeechColor1": "FF8AC1"
+        }
+      },
+      {
+        "id": "1059_01",
+        "mainCharacterId": 1059,
+        "new": false,
+        "mainCharacter": {
+          "id": 1059,
+          "name": "メジロドーベル",
+          "castId": 59,
+          "alphabetId": "mejirodober",
+          "uiColorSub": "6F3B42",
+          "uiColorMain": "19B49E",
+          "alphabetName": "Mejiro Dober",
+          "uiSpeechColor1": "16c4ac"
+        }
+      },
+      {
+        "id": "1063_01",
+        "mainCharacterId": 1063,
+        "new": false,
+        "mainCharacter": {
+          "id": 1063,
+          "name": "イクノディクタス",
+          "castId": 64,
+          "alphabetId": "ikunodictus",
+          "uiColorSub": "c6d1d5",
+          "uiColorMain": "49b73f",
+          "alphabetName": "Ikuno Dictus",
+          "uiSpeechColor1": "62d358"
+        }
+      },
+      {
+        "id": "1067_02",
+        "mainCharacterId": 1067,
+        "new": false,
+        "mainCharacter": {
+          "id": 1067,
+          "name": "サトノダイヤモンド",
+          "castId": 68,
+          "alphabetId": "satonodiamond",
+          "uiColorSub": "f9eb39",
+          "uiColorMain": "94bf01",
+          "alphabetName": "Satono Diamond",
+          "uiSpeechColor1": "74c401"
+        }
+      },
+      {
+        "id": "1126_01",
+        "mainCharacterId": 1126,
+        "new": true,
+        "mainCharacter": {
+          "id": 1126,
+          "name": "サクラチトセオー",
+          "castId": 129,
+          "alphabetId": "sakurachitoseo",
+          "uiColorSub": "d8c8d1",
+          "uiColorMain": "fa83cb",
+          "alphabetName": "Sakura Chitose O",
+          "uiSpeechColor1": "4C91F1"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1013_01",
+        "mainCharacterId": 1013,
+        "new": false
+      },
+      {
+        "id": "1013_02",
+        "mainCharacterId": 1013,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10010,
+        "name": "メジロマックイーン",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 1,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 20085,
+        "name": "メジロマックイーン",
+        "title": "[メロンなささやき]",
+        "rarity": 2,
+        "command": 3,
+        "publishedAt": "$D2025-02-24T03:00:00.000Z",
+        "ev": true
+      },
+      {
+        "id": 30022,
+        "name": "メジロマックイーン",
+        "title": "[『エース』として]",
+        "rarity": 3,
+        "command": 1,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": true
+      },
+      {
+        "id": 30081,
+        "name": "チーム＜シリウス＞",
+        "title": "[紡がれてゆく想い]",
+        "rarity": 3,
+        "command": 6,
+        "publishedAt": "$D2022-03-18T03:00:00.000Z",
+        "ev": true
+      },
+      {
+        "id": 30139,
+        "name": "メジロマックイーン",
+        "title": "[心、夜風にさらわれて]",
+        "rarity": 3,
+        "command": 1,
+        "publishedAt": "$D2023-03-29T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30172,
+        "name": "メジロマックイーン",
+        "title": "[かっとばせー！ですわ！？]",
+        "rarity": 3,
+        "command": 4,
+        "publishedAt": "$D2023-11-09T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30260,
+        "name": "メジロマックイーン",
+        "title": "[グレイッシュPARTY☆]",
+        "rarity": 3,
+        "command": 0,
+        "publishedAt": "$D2025-04-30T03:00:00.000Z",
+        "ev": true
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "101301",
+        "publishedAt": "$D2021-02-24T00:00:00.000Z",
+        "talentSpeed": 0,
+        "talentStamina": 20,
+        "talentPow": 0,
+        "talentGuts": 0,
+        "talentWiz": 10,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 3,
+        "aptitudeShort": 1,
+        "aptitudeMile": 2,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 7,
+        "aptitudeRunner": 6,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 4,
+        "aptitudeChaser": 2,
+        "rank": 3,
+        "title": "[エレガンス・ライン]",
+        "limited": false,
+        "characterId": 1013,
+        "commonName": "マック、黒マック、黒饅頭",
+        "dressId": 101301,
+        "ev": false
+      },
+      {
+        "id": "101302",
+        "publishedAt": "$D2021-03-30T03:00:00.000Z",
+        "talentSpeed": 0,
+        "talentStamina": 10,
+        "talentPow": 10,
+        "talentGuts": 0,
+        "talentWiz": 10,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 3,
+        "aptitudeShort": 1,
+        "aptitudeMile": 2,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 7,
+        "aptitudeRunner": 6,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 4,
+        "aptitudeChaser": 2,
+        "rank": 3,
+        "title": "[エンド・オブ・スカイ]",
+        "limited": false,
+        "characterId": 1013,
+        "commonName": "白マック、白饅頭",
+        "dressId": 101302,
+        "ev": false
+      },
+      {
+        "id": "101303",
+        "publishedAt": "$D2022-07-29T03:00:00.000Z",
+        "talentSpeed": 8,
+        "talentStamina": 8,
+        "talentPow": 0,
+        "talentGuts": 0,
+        "talentWiz": 14,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 3,
+        "aptitudeShort": 1,
+        "aptitudeMile": 2,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 7,
+        "aptitudeRunner": 6,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 4,
+        "aptitudeChaser": 2,
+        "rank": 3,
+        "title": "[さざ波フェアレディ]",
+        "limited": false,
+        "characterId": 1013,
+        "commonName": "水着マック、水饅頭",
+        "dressId": 101330,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 13,
+      "birthYear": 1987,
+      "birthMonth": 4,
+      "birthDate": 3,
+      "description": "名門メジロ家に生まれたお嬢様。優雅ながら思い上がらない性格と品格は、他のウマ娘の羨望の的である。長距離走者としての才覚は一級で、メジロ家にとって特別なレース『天皇賞』の勝利を第一に目指している。休日は同家の者でアフタヌーンティーを楽しむ。",
+      "height": 159,
+      "weight": "微増（現在必死に調整中！）",
+      "dormitory": "",
+      "threesize": "B71・W54・H76",
+      "schoolGrade": "",
+      "characterId": 1013,
+      "prizeMoney": 998100000,
+      "bad": "スイーツの誘惑に耐えること",
+      "ear": "人前ではツンと立ててしまいがち",
+      "family": "両親には「マックちゃん」と呼ばれている",
+      "good": "テーブルマナー",
+      "shoes": "左右ともに22.5cm",
+      "tail": "スポーツの話をしていると振りが激しくなる",
+      "before": "体温計で体調チェック。幼い頃からの習慣",
+      "boast": "他人の奇行に前ほど動じなくなってきた",
+      "buy": "観終わった映画のパンフレット",
+      "myrule": "アーリーモーニングティーで目覚めること",
+      "spbg": "ロック画面はメジロ家紋章、ホームは秘密",
+      "subject": "レース史、レース戦略、スポーツ栄養学"
+    }
+  }
+}

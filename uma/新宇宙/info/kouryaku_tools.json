@@ -1,0 +1,196 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/neouniverse",
+  "fetched_at_utc": "2026-03-04T08:17:23.929637+00:00",
+  "slug": "neouniverse",
+  "name_ja": "ネオユニヴァース",
+  "name_zh": "新宇宙",
+  "folder_name": "新宇宙",
+  "data": {
+    "id": 1105,
+    "name": "ネオユニヴァース",
+    "alphabetId": "neouniverse",
+    "alphabetName": "neouniverse",
+    "imageColorMain": "FDF16C",
+    "imageColorSub": "6EC0E3",
+    "uiColorMain": "5abae6",
+    "uiColorSub": "f8db55",
+    "uiTrainingColor1": "47c2fb",
+    "uiTrainingColor2": "1292cd",
+    "uiBorderColor": "1292cd",
+    "uiNumColor1": "5ac8fa",
+    "uiNumColor2": "22a0da",
+    "uiTurnColor": "2ca6de",
+    "uiWipeColor1": "86d9ff",
+    "uiWipeColor2": "a1e1ff",
+    "uiWipeColor3": "fff4c0",
+    "uiSpeechColor1": "5ac3f3",
+    "uiSpeechColor2": "5ac3f3",
+    "uiNameplateColor1": "2db1ee",
+    "uiNameplateColor2": "a8e4ff",
+    "castId": 93,
+    "comics": [
+      {
+        "id": "1106_01",
+        "mainCharacterId": 1106,
+        "new": false,
+        "mainCharacter": {
+          "id": 1106,
+          "name": "ヒシミラクル",
+          "castId": 95,
+          "alphabetId": "hishimiracle",
+          "uiColorSub": "bdd1e9",
+          "uiColorMain": "4a71b2",
+          "alphabetName": "Hishi Miracle",
+          "uiSpeechColor1": "4a71b2"
+        }
+      },
+      {
+        "id": "1130_01",
+        "mainCharacterId": 1130,
+        "new": false,
+        "mainCharacter": {
+          "id": 1130,
+          "name": "ラッキーライラック",
+          "castId": 132,
+          "alphabetId": "luckylilac",
+          "uiColorSub": "907594",
+          "uiColorMain": "454152",
+          "alphabetName": "Lucky Lilac",
+          "uiSpeechColor1": "4C91F1"
+        }
+      },
+      {
+        "id": "1143_01",
+        "mainCharacterId": 1143,
+        "new": true,
+        "mainCharacter": {
+          "id": 1143,
+          "name": "ヴィクトワールピサ",
+          "castId": 145,
+          "alphabetId": "victoirepisa",
+          "uiColorSub": "f1eb9d",
+          "uiColorMain": "4146b8",
+          "alphabetName": "Victoire Pisa",
+          "uiSpeechColor1": "6064c2"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1105_01",
+        "mainCharacterId": 1105,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10106,
+        "name": "ネオユニヴァース",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 4,
+        "publishedAt": "$D2024-04-09T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30198,
+        "name": "ネオユニヴァース",
+        "title": "[V.E.R.2285のあなたへ]",
+        "rarity": 3,
+        "command": 4,
+        "publishedAt": "$D2024-04-09T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30287,
+        "name": "ネオユニヴァース",
+        "title": "[星跨ぐメッセージ]",
+        "rarity": 3,
+        "command": 2,
+        "publishedAt": "$D2026-01-30T03:00:00.000Z",
+        "ev": false
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "110501",
+        "publishedAt": "$D2023-04-19T03:00:00.000Z",
+        "talentSpeed": 0,
+        "talentStamina": 0,
+        "talentPow": 0,
+        "talentGuts": 0,
+        "talentWiz": 30,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 2,
+        "aptitudeMile": 6,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 6,
+        "aptitudeRunner": 2,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 5,
+        "rank": 3,
+        "title": "[Universe-Naut]",
+        "limited": false,
+        "characterId": 1105,
+        "commonName": "ネオユニ",
+        "dressId": 110501,
+        "ev": false
+      },
+      {
+        "id": "110502",
+        "publishedAt": "$D2024-08-30T03:00:00.000Z",
+        "talentSpeed": 0,
+        "talentStamina": 0,
+        "talentPow": 7,
+        "talentGuts": 10,
+        "talentWiz": 13,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 2,
+        "aptitudeMile": 6,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 6,
+        "aptitudeRunner": 2,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 5,
+        "rank": 3,
+        "title": "[Like “ZEER”]",
+        "limited": false,
+        "characterId": 1105,
+        "commonName": "メガユニ",
+        "dressId": 110523,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 92,
+      "birthYear": 2000,
+      "birthMonth": 5,
+      "birthDate": 21,
+      "description": "非常に頭脳明晰で成績優秀なウマ娘。唯一の欠点は『普通の会話ができないこと』。あまりに頭がよすぎるためか、難解で独特な発言や行動が目立つ。そのため周囲から『まるで宇宙人』と評されることもあるが......?",
+      "height": 160,
+      "weight": "宇宙の神秘",
+      "dormitory": "",
+      "threesize": "B79・W52・H77",
+      "schoolGrade": "",
+      "characterId": 1105,
+      "prizeMoney": 613370000,
+      "bad": "『ふつう』の会話、わさび",
+      "ear": "“シグナル”受信に最適なパラボラ形状",
+      "family": "パパとは54%くらいは会話が通じる",
+      "good": "天気予報、落ち物パズル",
+      "shoes": "左右ともに23.5cm",
+      "tail": "調子が悪いと“ダストテイル”になるらしい",
+      "before": "“コネクト”を『信じる』",
+      "boast": "",
+      "buy": "",
+      "myrule": "レモンは『かじる』をしない",
+      "spbg": "誰が見ても見るたびに“変化”している",
+      "subject": ""
+    }
+  }
+}

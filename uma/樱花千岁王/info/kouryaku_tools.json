@@ -1,0 +1,88 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/sakurachitoseo",
+  "fetched_at_utc": "2026-03-04T08:17:39.515324+00:00",
+  "slug": "sakurachitoseo",
+  "name_ja": "サクラチトセオー",
+  "name_zh": "樱花千岁王",
+  "folder_name": "樱花千岁王",
+  "data": {
+    "id": 1126,
+    "name": "サクラチトセオー",
+    "alphabetId": "sakurachitoseo",
+    "alphabetName": "Sakura Chitose O",
+    "imageColorMain": "FEB8E2",
+    "imageColorSub": "F1DFE9",
+    "uiColorMain": "fa83cb",
+    "uiColorSub": "d8c8d1",
+    "uiTrainingColor1": "4C91F1",
+    "uiTrainingColor2": "2B75DD",
+    "uiBorderColor": "2B75DD",
+    "uiNumColor1": "71ADFF",
+    "uiNumColor2": "1667D9",
+    "uiTurnColor": "1667D9",
+    "uiWipeColor1": "BCD5F5",
+    "uiWipeColor2": "D6E4F6",
+    "uiWipeColor3": "FFEBF6",
+    "uiSpeechColor1": "4C91F1",
+    "uiSpeechColor2": "4C91F1",
+    "uiNameplateColor1": "4C91F1",
+    "uiNameplateColor2": "8DBCFD",
+    "castId": 129,
+    "comics": [],
+    "mainComics": [
+      {
+        "id": "1126_01",
+        "mainCharacterId": 1126,
+        "new": true
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10137,
+        "name": "サクラチトセオー",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 0,
+        "publishedAt": "$D2025-10-10T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 20091,
+        "name": "サクラチトセオー",
+        "title": "[静寂を煎じ]",
+        "rarity": 2,
+        "command": 0,
+        "publishedAt": "$D2025-10-10T03:00:00.000Z",
+        "ev": false
+      }
+    ],
+    "characterCards": [],
+    "characterProfile": {
+      "id": 124,
+      "birthYear": 1990,
+      "birthMonth": 5,
+      "birthDate": 11,
+      "description": "薬食同源の思想。それをもっと世に広め、皆を健康にしたいと願う漢方仙女。 サクラのウマ娘が集うちびっこクラブ『ヴィクトリー倶楽部』出身の中でも異色の存在で、おっとり超然としている。 好きな数字は1と6。",
+      "height": 164,
+      "weight": "すっきり",
+      "dormitory": "",
+      "threesize": "B84・W56・H84",
+      "schoolGrade": "",
+      "characterId": 1126,
+      "prizeMoney": 518600000,
+      "bad": "",
+      "ear": "",
+      "family": "",
+      "good": "",
+      "shoes": "",
+      "tail": "",
+      "before": "",
+      "boast": "",
+      "buy": "",
+      "myrule": "",
+      "spbg": "",
+      "subject": ""
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/admiregroove",
+  "fetched_at_utc": "2026-03-04T08:17:35.293091+00:00",
+  "slug": "admiregroove",
+  "name_ja": "アドマイヤグルーヴ",
+  "name_zh": "爱慕气槽",
+  "folder_name": "爱慕气槽",
+  "data": {
+    "id": 1118,
+    "name": "アドマイヤグルーヴ",
+    "alphabetId": "admiregroove",
+    "alphabetName": "Admire Groove",
+    "imageColorMain": "3954A7",
+    "imageColorSub": "76EEFF",
+    "uiColorMain": "344d99",
+    "uiColorSub": "5cbac8",
+    "uiTrainingColor1": "5876d2",
+    "uiTrainingColor2": "455da6",
+    "uiBorderColor": "455da6",
+    "uiNumColor1": "5876d2",
+    "uiNumColor2": "3353b4",
+    "uiTurnColor": "3353b4",
+    "uiWipeColor1": "aebae1",
+    "uiWipeColor2": "cdd6f5",
+    "uiWipeColor3": "b9eaf1",
+    "uiSpeechColor1": "5876d2",
+    "uiSpeechColor2": "5876d2",
+    "uiNameplateColor1": "5876d2",
+    "uiNameplateColor2": "93adff",
+    "castId": 138,
+    "comics": [],
+    "mainComics": [
+      {
+        "id": "1118_01",
+        "mainCharacterId": 1118,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10133,
+        "name": "アドマイヤグルーヴ",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 0,
+        "publishedAt": "$D2025-08-24T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30265,
+        "name": "アドマイヤグルーヴ",
+        "title": "[氷結晶の静域]",
+        "rarity": 3,
+        "command": 0,
+        "publishedAt": "$D2025-08-24T03:00:00.000Z",
+        "ev": false
+      }
+    ],
+    "characterCards": [],
+    "characterProfile": {
+      "id": 133,
+      "birthYear": 2000,
+      "birthMonth": 4,
+      "birthDate": 30,
+      "description": "幼少期から非常に優秀で、神童ともてはやされてきたエリートウマ娘。 『なれ合いなんて必要ない』『周囲の評価なんて雑音』と今なおストイックに自分を磨き続ける姿は、さながら孤高の華――なのだが。 その凍てつくような美しさの裏には、もっと別の渇望があるようで……？",
+      "height": 165,
+      "weight": "見事な仕上がり",
+      "dormitory": "",
+      "threesize": "B88・W57・H84",
+      "schoolGrade": "",
+      "characterId": 1118,
+      "prizeMoney": 551330000,
+      "bad": "",
+      "ear": "",
+      "family": "",
+      "good": "",
+      "shoes": "",
+      "tail": "",
+      "before": "",
+      "boast": "",
+      "buy": "",
+      "myrule": "",
+      "spbg": "",
+      "subject": ""
+    }
+  }
+}

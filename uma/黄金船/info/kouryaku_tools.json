@@ -1,0 +1,284 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/goldship",
+  "fetched_at_utc": "2026-03-04T08:15:54.342560+00:00",
+  "slug": "goldship",
+  "name_ja": "ゴールドシップ",
+  "name_zh": "黄金船",
+  "folder_name": "黄金船",
+  "data": {
+    "id": 1007,
+    "name": "ゴールドシップ",
+    "alphabetId": "goldship",
+    "alphabetName": "Gold Ship",
+    "imageColorMain": "FFFFFF",
+    "imageColorSub": "F84B40",
+    "uiColorMain": "DA3C57",
+    "uiColorSub": "E9DA36",
+    "uiTrainingColor1": "F56E85",
+    "uiTrainingColor2": "DB4D65",
+    "uiBorderColor": "DB4D65",
+    "uiNumColor1": "FD8297",
+    "uiNumColor2": "DD415B",
+    "uiTurnColor": "DD415B",
+    "uiWipeColor1": "FCCAD2",
+    "uiWipeColor2": "FCE3E7",
+    "uiWipeColor3": "FAF6E1",
+    "uiSpeechColor1": "FB758C",
+    "uiSpeechColor2": "FB758C",
+    "uiNameplateColor1": "FA667F",
+    "uiNameplateColor2": "FF98AA",
+    "castId": 7,
+    "comics": [
+      {
+        "id": "1036_01",
+        "mainCharacterId": 1036,
+        "new": false,
+        "mainCharacter": {
+          "id": 1036,
+          "name": "エアシャカール",
+          "castId": 37,
+          "alphabetId": "airshakur",
+          "uiColorSub": "E1E000",
+          "uiColorMain": "2459B4",
+          "alphabetName": "Air Shakur",
+          "uiSpeechColor1": "2b61bf"
+        }
+      },
+      {
+        "id": "1048_01",
+        "mainCharacterId": 1048,
+        "new": false,
+        "mainCharacter": {
+          "id": 1048,
+          "name": "トーセンジョーダン",
+          "castId": 50,
+          "alphabetId": "tosenjordan",
+          "uiColorSub": "1C57B9",
+          "uiColorMain": "25B8AE",
+          "alphabetName": "Tosen Jordan",
+          "uiSpeechColor1": "1ec0b5"
+        }
+      },
+      {
+        "id": "1127_01",
+        "mainCharacterId": 1127,
+        "new": false,
+        "mainCharacter": {
+          "id": 1127,
+          "name": "フェノーメノ",
+          "castId": 130,
+          "alphabetId": "fenomeno",
+          "uiColorSub": "f4db4e",
+          "uiColorMain": "574a74",
+          "alphabetName": "Fenomeno",
+          "uiSpeechColor1": "765db2"
+        }
+      },
+      {
+        "id": "1130_01",
+        "mainCharacterId": 1130,
+        "new": false,
+        "mainCharacter": {
+          "id": 1130,
+          "name": "ラッキーライラック",
+          "castId": 132,
+          "alphabetId": "luckylilac",
+          "uiColorSub": "907594",
+          "uiColorMain": "454152",
+          "alphabetName": "Lucky Lilac",
+          "uiSpeechColor1": "4C91F1"
+        }
+      },
+      {
+        "id": "1135_01",
+        "mainCharacterId": 1135,
+        "new": false,
+        "mainCharacter": {
+          "id": 1135,
+          "name": "ステイゴールド",
+          "castId": 137,
+          "alphabetId": "staygold",
+          "uiColorSub": "49699c",
+          "uiColorMain": "bfb33e",
+          "alphabetName": "Stay Gold",
+          "uiSpeechColor1": "bfb33e"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1007_01",
+        "mainCharacterId": 1007,
+        "new": false
+      },
+      {
+        "id": "1007_02",
+        "mainCharacterId": 1007,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10006,
+        "name": "ゴールドシップ",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 1,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 20061,
+        "name": "ゴールドシップ",
+        "title": "[ゴルシ印のスペシャリテ]",
+        "rarity": 2,
+        "command": 1,
+        "publishedAt": "$D2023-04-18T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30004,
+        "name": "ゴールドシップ",
+        "title": "[不沈艦の進撃]",
+        "rarity": 3,
+        "command": 1,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30057,
+        "name": "ゴールドシップ",
+        "title": "[ウマ王伝説・最強になった件]",
+        "rarity": 3,
+        "command": 0,
+        "publishedAt": "$D2021-06-29T03:00:00.000Z",
+        "ev": true
+      },
+      {
+        "id": 30168,
+        "name": "ゴールドシップ",
+        "title": "[波をかきわけ夢がゆく]",
+        "rarity": 3,
+        "command": 0,
+        "publishedAt": "$D2023-10-19T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30278,
+        "name": "ゴールドシップ",
+        "title": "[激録！爆走トナカイ事件]",
+        "rarity": 3,
+        "command": 1,
+        "publishedAt": "$D2025-11-28T03:00:00.000Z",
+        "ev": false
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "100703",
+        "publishedAt": "$D2023-08-31T03:00:00.000Z",
+        "talentSpeed": 8,
+        "talentStamina": 14,
+        "talentPow": 8,
+        "talentGuts": 0,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 1,
+        "aptitudeMile": 5,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 7,
+        "aptitudeRunner": 1,
+        "aptitudeLeader": 6,
+        "aptitudeBetweener": 6,
+        "aptitudeChaser": 7,
+        "rank": 3,
+        "title": "[La mode 564]",
+        "limited": false,
+        "characterId": 1007,
+        "commonName": "ドレスゴルシ、凱旋門ゴルシ",
+        "dressId": 100702,
+        "ev": false
+      },
+      {
+        "id": "100701",
+        "publishedAt": "$D2021-02-24T00:00:00.000Z",
+        "talentSpeed": 0,
+        "talentStamina": 20,
+        "talentPow": 10,
+        "talentGuts": 0,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 1,
+        "aptitudeMile": 5,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 7,
+        "aptitudeRunner": 1,
+        "aptitudeLeader": 6,
+        "aptitudeBetweener": 6,
+        "aptitudeChaser": 7,
+        "rank": 2,
+        "title": "[レッドストライフ]",
+        "limited": false,
+        "characterId": 1007,
+        "commonName": "ゴルシ",
+        "dressId": 100701,
+        "ev": false
+      },
+      {
+        "id": "100702",
+        "publishedAt": "$D2022-07-29T03:00:00.000Z",
+        "talentSpeed": 0,
+        "talentStamina": 0,
+        "talentPow": 20,
+        "talentGuts": 0,
+        "talentWiz": 10,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 1,
+        "aptitudeMile": 5,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 7,
+        "aptitudeRunner": 1,
+        "aptitudeLeader": 6,
+        "aptitudeBetweener": 6,
+        "aptitudeChaser": 7,
+        "rank": 3,
+        "title": "[RUN！乱！ランチャー！！]",
+        "limited": false,
+        "characterId": 1007,
+        "commonName": "水着ゴルシ",
+        "dressId": 100730,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 7,
+      "birthYear": 2009,
+      "birthMonth": 3,
+      "birthDate": 6,
+      "description": "思いつくままに行動し、面白おかしく生きる自由人。隙あらばボケ、ツッコみ、熱くなり、すぐ冷める。万人と分け隔てなく絡むが、それはゴルシ劇場を盛り上げるためであり、友情や絆をどれほど感じているかは定かではない。トレセン学園一のトリックスター。",
+      "height": 170,
+      "weight": "測定不能",
+      "dormitory": "",
+      "threesize": "B88・W55・H88",
+      "schoolGrade": "",
+      "characterId": 1007,
+      "prizeMoney": 1397760000,
+      "bad": "じっとしていること",
+      "ear": "突然他人の耳を塞ぎ『だ～れだ？』と尋ねる",
+      "family": "国家レベルの機密事項らしい",
+      "good": "表情筋を動かすこと",
+      "shoes": "左右ともに26.5cm",
+      "tail": "時々部屋に忘れてくることがある（本人談）",
+      "before": "スターティングゲートにガン飛ばし",
+      "boast": "モノマネのレパートリー",
+      "buy": "業務用調味料",
+      "myrule": "マイルールは30秒ごとに改定",
+      "spbg": "『見る度に違いますわね…』（令嬢MM談）",
+      "subject": "超心理学"
+    }
+  }
+}

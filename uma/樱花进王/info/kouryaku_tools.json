@@ -1,0 +1,219 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/sakurabakushino",
+  "fetched_at_utc": "2026-03-04T08:16:26.018149+00:00",
+  "slug": "sakurabakushino",
+  "name_ja": "サクラバクシンオー",
+  "name_zh": "樱花进王",
+  "folder_name": "樱花进王",
+  "data": {
+    "id": 1041,
+    "name": "サクラバクシンオー",
+    "alphabetId": "sakurabakushino",
+    "alphabetName": "Sakura Bakushin O",
+    "imageColorMain": "F595C3",
+    "imageColorSub": "FFDFDF",
+    "uiColorMain": "EE6FAB",
+    "uiColorSub": "F2D4D7",
+    "uiTrainingColor1": "FF8AC1",
+    "uiTrainingColor2": "F2529D",
+    "uiBorderColor": "F2529D",
+    "uiNumColor1": "FF8AC1",
+    "uiNumColor2": "F2529D",
+    "uiTurnColor": "F2529D",
+    "uiWipeColor1": "FCC2DE",
+    "uiWipeColor2": "FCDCEB",
+    "uiWipeColor3": "FCE8EB",
+    "uiSpeechColor1": "FF8AC1",
+    "uiSpeechColor2": "FF8AC1",
+    "uiNameplateColor1": "FF72B4",
+    "uiNameplateColor2": "FFA6D0",
+    "castId": 42,
+    "comics": [
+      {
+        "id": "1068_02",
+        "mainCharacterId": 1068,
+        "new": false,
+        "mainCharacter": {
+          "id": 1068,
+          "name": "キタサンブラック",
+          "castId": 66,
+          "alphabetId": "kitasanblack",
+          "uiColorSub": "fc6d31",
+          "uiColorMain": "5a6065",
+          "alphabetName": "Kitasan Black",
+          "uiSpeechColor1": "e94e35"
+        }
+      },
+      {
+        "id": "1076_01",
+        "mainCharacterId": 1076,
+        "new": false,
+        "mainCharacter": {
+          "id": 1076,
+          "name": "サクラローレル",
+          "castId": 81,
+          "alphabetId": "sakuralaurel",
+          "uiColorSub": "fecdc9",
+          "uiColorMain": "f0638a",
+          "alphabetName": "Sakura Laurel",
+          "uiSpeechColor1": "e65779"
+        }
+      },
+      {
+        "id": "1078_01",
+        "mainCharacterId": 1078,
+        "new": false,
+        "mainCharacter": {
+          "id": 1078,
+          "name": "ヤマニンゼファー",
+          "castId": 77,
+          "alphabetId": "yamaninzephyr",
+          "uiColorSub": "AE4544",
+          "uiColorMain": "5192C1",
+          "alphabetName": "Yamanin Zephyr",
+          "uiSpeechColor1": "4094db"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1041_01",
+        "mainCharacterId": 1041,
+        "new": false
+      },
+      {
+        "id": "1041_02",
+        "mainCharacterId": 1041,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10018,
+        "name": "サクラバクシンオー",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 0,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 20042,
+        "name": "サクラバクシンオー",
+        "title": "[響け！模範的あいさつ！]",
+        "rarity": 2,
+        "command": 2,
+        "publishedAt": "$D2022-02-24T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30015,
+        "name": "サクラバクシンオー",
+        "title": "[はやい！うまい！はやい！]",
+        "rarity": 3,
+        "command": 0,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30083,
+        "name": "サクラバクシンオー",
+        "title": "[爆速！最速！花あらし！]",
+        "rarity": 3,
+        "command": 3,
+        "publishedAt": "$D2022-01-28T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30184,
+        "name": "サクラバクシンオー",
+        "title": "[感謝感謝！サクラ吹雪！！]",
+        "rarity": 3,
+        "command": 0,
+        "publishedAt": "$D2024-01-31T03:00:00.000Z",
+        "ev": false
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "104101",
+        "publishedAt": "$D2021-02-24T00:00:00.000Z",
+        "talentSpeed": 20,
+        "talentStamina": 0,
+        "talentPow": 0,
+        "talentGuts": 0,
+        "talentWiz": 10,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 7,
+        "aptitudeMile": 6,
+        "aptitudeMiddle": 1,
+        "aptitudeLong": 1,
+        "aptitudeRunner": 7,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 2,
+        "aptitudeChaser": 1,
+        "rank": 1,
+        "title": "[サクラ、すすめ！]",
+        "limited": false,
+        "characterId": 1041,
+        "commonName": "バクシン",
+        "dressId": 104101,
+        "ev": false
+      },
+      {
+        "id": "104102",
+        "publishedAt": "$D2023-04-28T03:00:00.000Z",
+        "talentSpeed": 14,
+        "talentStamina": 0,
+        "talentPow": 8,
+        "talentGuts": 0,
+        "talentWiz": 8,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 7,
+        "aptitudeMile": 6,
+        "aptitudeMiddle": 1,
+        "aptitudeLong": 1,
+        "aptitudeRunner": 7,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 2,
+        "aptitudeChaser": 1,
+        "rank": 3,
+        "title": "[レッドホット☆リーダー]",
+        "limited": false,
+        "characterId": 1041,
+        "commonName": "赤バク、チアバクシン",
+        "dressId": 104150,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 41,
+      "birthYear": 1989,
+      "birthMonth": 4,
+      "birthDate": 14,
+      "description": "猪突猛進な学級委員長。思い込んだら一直線に行動し、周りを助けたり迷惑かけたりしながら、気にせずバクシンする。かといって独善のつもりはなく、誰からも頼られないと落ち込む。短距離に圧倒的な適性があり、無敵のスピードで誰より速く駆け抜けることに自信がある。",
+      "height": 158,
+      "weight": "増減なし",
+      "dormitory": "",
+      "threesize": "B83・W55・H83",
+      "schoolGrade": "",
+      "characterId": 1041,
+      "prizeMoney": 515490000,
+      "bad": "手順がたくさん（3つ以上）あること",
+      "ear": "人の話は半分くらいしか聞こえていない",
+      "family": "家訓は『褒めて褒めて褒めて、褒めたい！』",
+      "good": "頼りにされること、人助け",
+      "shoes": "左右ともに24.0cm",
+      "tail": "バクシンしていると、毛先さえも捕まらない",
+      "before": "妹の応援メールに即、通話で返信",
+      "boast": "",
+      "buy": "",
+      "myrule": "クラスの問題は相談される前に解決に走る！",
+      "spbg": "満開の桜並木！！（ブレブレ）",
+      "subject": ""
+    }
+  }
+}

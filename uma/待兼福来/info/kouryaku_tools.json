@@ -1,0 +1,223 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/matikanefukukitaru",
+  "fetched_at_utc": "2026-03-04T08:16:40.940346+00:00",
+  "slug": "matikanefukukitaru",
+  "name_ja": "マチカネフクキタル",
+  "name_zh": "待兼福来",
+  "folder_name": "待兼福来",
+  "data": {
+    "id": 1056,
+    "name": "マチカネフクキタル",
+    "alphabetId": "matikanefukukitaru",
+    "alphabetName": "Matikane Fukukitaru",
+    "imageColorMain": "307FE2",
+    "imageColorSub": "FFFFFF",
+    "uiColorMain": "3D89E9",
+    "uiColorSub": "F8A717",
+    "uiTrainingColor1": "5EA4FD",
+    "uiTrainingColor2": "3B7FD9",
+    "uiBorderColor": "3B7FD9",
+    "uiNumColor1": "5EA4FD",
+    "uiNumColor2": "3B7FD9",
+    "uiTurnColor": "3B7FD9",
+    "uiWipeColor1": "CAE0FC",
+    "uiWipeColor2": "E3EEFC",
+    "uiWipeColor3": "FFF1E0",
+    "uiSpeechColor1": "68AAFF",
+    "uiSpeechColor2": "68AAFF",
+    "uiNameplateColor1": "519EFF",
+    "uiNameplateColor2": "9AC6FF",
+    "castId": 56,
+    "comics": [
+      {
+        "id": "1002_02",
+        "mainCharacterId": 1002,
+        "new": false,
+        "mainCharacter": {
+          "id": 1002,
+          "name": "サイレンススズカ",
+          "castId": 5,
+          "alphabetId": "silencesuzuka",
+          "uiColorSub": "FFCE48",
+          "uiColorMain": "29BD70",
+          "alphabetName": "Silence Suzuka",
+          "uiSpeechColor1": "4BD18C"
+        }
+      },
+      {
+        "id": "1062_01",
+        "mainCharacterId": 1062,
+        "new": false,
+        "mainCharacter": {
+          "id": 1062,
+          "name": "マチカネタンホイザ",
+          "castId": 62,
+          "alphabetId": "matikanetannhauser",
+          "uiColorSub": "ee5b56",
+          "uiColorMain": "0f8dce",
+          "alphabetName": "Matikane Tannhauser",
+          "uiSpeechColor1": "1597da"
+        }
+      },
+      {
+        "id": "1074_01",
+        "mainCharacterId": 1074,
+        "new": false,
+        "mainCharacter": {
+          "id": 1074,
+          "name": "メジロブライト",
+          "castId": 74,
+          "alphabetId": "mejirobright",
+          "uiColorSub": "9F5F54",
+          "uiColorMain": "45C5C1",
+          "alphabetName": "Mejiro Bright",
+          "uiSpeechColor1": "2cbdb8"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1056_01",
+        "mainCharacterId": 1056,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10044,
+        "name": "マチカネフクキタル",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 4,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 20016,
+        "name": "マチカネフクキタル",
+        "title": "[運の行方]",
+        "rarity": 2,
+        "command": 4,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 20078,
+        "name": "マチカネフクキタル",
+        "title": "[お守りパワーで福徳円満！]",
+        "rarity": 2,
+        "command": 0,
+        "publishedAt": "$D2024-07-09T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30078,
+        "name": "マチカネフクキタル",
+        "title": "[袖振り合えば福となる♪]",
+        "rarity": 3,
+        "command": 0,
+        "publishedAt": "$D2021-12-29T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30225,
+        "name": "マチカネフクキタル",
+        "title": "[メークパワートリオ]",
+        "rarity": 3,
+        "command": 3,
+        "publishedAt": "$D2024-09-30T03:00:00.000Z",
+        "ev": true
+      },
+      {
+        "id": 30286,
+        "name": "マチカネフクキタル",
+        "title": "[吉兆招福チョコ来たる]",
+        "rarity": 3,
+        "command": 0,
+        "publishedAt": "$D2026-01-30T03:00:00.000Z",
+        "ev": false
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "105601",
+        "publishedAt": "$D2021-02-24T00:00:00.000Z",
+        "talentSpeed": 0,
+        "talentStamina": 20,
+        "talentPow": 10,
+        "talentGuts": 0,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 2,
+        "aptitudeShort": 2,
+        "aptitudeMile": 5,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 7,
+        "aptitudeRunner": 1,
+        "aptitudeLeader": 6,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 2,
+        "rank": 1,
+        "title": "[運気上昇☆幸福万来]",
+        "limited": false,
+        "characterId": 1056,
+        "commonName": "フクキタル",
+        "dressId": 105601,
+        "ev": false
+      },
+      {
+        "id": "105602",
+        "publishedAt": "$D2021-08-30T03:00:00.000Z",
+        "talentSpeed": 0,
+        "talentStamina": 10,
+        "talentPow": 0,
+        "talentGuts": 10,
+        "talentWiz": 10,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 2,
+        "aptitudeShort": 2,
+        "aptitudeMile": 5,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 7,
+        "aptitudeRunner": 1,
+        "aptitudeLeader": 6,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 2,
+        "rank": 3,
+        "title": "[吉兆・初あらし]",
+        "limited": false,
+        "characterId": 1056,
+        "commonName": "FAフクキタル、フルアーマー",
+        "dressId": 105623,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 56,
+      "birthYear": 1994,
+      "birthMonth": 5,
+      "birthDate": 22,
+      "description": "占い&おまじない頼りのオカルト本願なウマ娘。いつでも占いをしないと気が済ます、自分はもちろん、誰かにしてあげるのも大好き。「走り続ければ道は開ける」という神様のお告げを強く信じている。招き猫の形をしたバッグの名前は『にゃーさん』。",
+      "height": 158,
+      "weight": "本日も大吉なので増減なし",
+      "dormitory": "",
+      "threesize": "B84・W59・H83",
+      "schoolGrade": "",
+      "characterId": 1056,
+      "prizeMoney": 370240000,
+      "bad": "縁起の悪いもの",
+      "ear": "たまに方位占いに使う",
+      "family": "優秀な姉は、妹の明るさに憧れている",
+      "good": "占い",
+      "shoes": "左右ともに23.5cm",
+      "tail": "占いの最中はぴたりと止まる",
+      "before": "シラオキ様に全力で勝利祈願！！",
+      "boast": "",
+      "buy": "",
+      "myrule": "黒猫を見かけると横切られないよう併走する",
+      "spbg": "日本各地のパワースポット写真を日替わりで",
+      "subject": ""
+    }
+  }
+}

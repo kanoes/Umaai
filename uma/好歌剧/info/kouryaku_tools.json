@@ -1,0 +1,180 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/tmoperao",
+  "fetched_at_utc": "2026-03-04T08:16:02.132511+00:00",
+  "slug": "tmoperao",
+  "name_ja": "テイエムオペラオー",
+  "name_zh": "好歌剧",
+  "folder_name": "好歌剧",
+  "data": {
+    "id": 1015,
+    "name": "テイエムオペラオー",
+    "alphabetId": "tmoperao",
+    "alphabetName": "TM Opera O",
+    "imageColorMain": "ECEB61",
+    "imageColorSub": "FF83DA",
+    "uiColorMain": "F271C4",
+    "uiColorSub": "FBE415",
+    "uiTrainingColor1": "f87ecd",
+    "uiTrainingColor2": "ee55b7",
+    "uiBorderColor": "ee55b7",
+    "uiNumColor1": "f87ecd",
+    "uiNumColor2": "e951b2",
+    "uiTurnColor": "e951b2",
+    "uiWipeColor1": "f2c7e3",
+    "uiWipeColor2": "f7dfef",
+    "uiWipeColor3": "faf7dc",
+    "uiSpeechColor1": "f87ecd",
+    "uiSpeechColor2": "f87ecd",
+    "uiNameplateColor1": "f975cb",
+    "uiNameplateColor2": "fdabe0",
+    "castId": 15,
+    "comics": [
+      {
+        "id": "1033_02",
+        "mainCharacterId": 1033,
+        "new": false,
+        "mainCharacter": {
+          "id": 1033,
+          "name": "アドマイヤベガ",
+          "castId": 32,
+          "alphabetId": "admirevega",
+          "uiColorSub": "78D5E1",
+          "uiColorMain": "3865A1",
+          "alphabetName": "Admire Vega",
+          "uiSpeechColor1": "4d7ec0"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1015_01",
+        "mainCharacterId": 1015,
+        "new": false
+      },
+      {
+        "id": "1015_02",
+        "mainCharacterId": 1015,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10012,
+        "name": "テイエムオペラオー",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 1,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 20054,
+        "name": "テイエムオペラオー",
+        "title": "[偉大なるフォトグラフィーア]",
+        "rarity": 2,
+        "command": 1,
+        "publishedAt": "$D2022-12-20T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30152,
+        "name": "テイエムオペラオー",
+        "title": "[All'alba vincerò!]",
+        "rarity": 3,
+        "command": 4,
+        "publishedAt": "$D2023-06-09T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30231,
+        "name": "テイエムオペラオー",
+        "title": "[王を統べて覇す者]",
+        "rarity": 3,
+        "command": 2,
+        "publishedAt": "$D2024-11-28T03:00:00.000Z",
+        "ev": true
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "101502",
+        "publishedAt": "$D2021-12-31T03:00:00.000Z",
+        "talentSpeed": 14,
+        "talentStamina": 8,
+        "talentPow": 0,
+        "talentGuts": 0,
+        "talentWiz": 8,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 3,
+        "aptitudeShort": 1,
+        "aptitudeMile": 3,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 7,
+        "aptitudeRunner": 5,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 1,
+        "rank": 3,
+        "title": "[初晴・青き絢爛]",
+        "limited": false,
+        "characterId": 1015,
+        "commonName": "正月オペ",
+        "dressId": 101510,
+        "ev": false
+      },
+      {
+        "id": "101501",
+        "publishedAt": "$D2021-03-02T03:00:00.000Z",
+        "talentSpeed": 0,
+        "talentStamina": 20,
+        "talentPow": 0,
+        "talentGuts": 0,
+        "talentWiz": 10,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 3,
+        "aptitudeShort": 1,
+        "aptitudeMile": 3,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 7,
+        "aptitudeRunner": 5,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 1,
+        "rank": 3,
+        "title": "[オー・ソレ・スーオ！]",
+        "limited": false,
+        "characterId": 1015,
+        "commonName": "オペ",
+        "dressId": 101501,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 15,
+      "birthYear": 1996,
+      "birthMonth": 3,
+      "birthDate": 13,
+      "description": "大仰なほどナルシストで、どこかコミカルな歌劇王。その挙動はいつも演技過剰で、時に高らかに、時に切々と自己愛を語る。自分の美しさと強さを知らない者は不幸と本気で考えており、日々、啓蒙活動にいそしむ。メイショウドトウから憧れの目で見られている。",
+      "height": 156,
+      "weight": "常に完壁（自称）",
+      "dormitory": "",
+      "threesize": "B76・W55・H80",
+      "schoolGrade": "",
+      "characterId": 1015,
+      "prizeMoney": 1835180000,
+      "bad": "地味な作業",
+      "ear": "どんな言葉も賞賛に聞こえる",
+      "family": "美しい自分を生み育てた親を尊敬している",
+      "good": "即興のオペラを披露すること",
+      "shoes": "左右ともに23.0cm",
+      "tail": "光を当てると煌めいてみえる",
+      "before": "観客1人1人の表情を見る",
+      "boast": "",
+      "buy": "",
+      "myrule": "観劇の際は必ずフラワースタンドを贈る",
+      "spbg": "覇王の肖像（ランダム壁紙設定）",
+      "subject": ""
+    }
+  }
+}

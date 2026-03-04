@@ -1,0 +1,140 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/verxina",
+  "fetched_at_utc": "2026-03-04T08:17:11.382443+00:00",
+  "slug": "verxina",
+  "name_ja": "ヴィルシーナ",
+  "name_zh": "维尔西娜",
+  "folder_name": "维尔西娜",
+  "data": {
+    "id": 1090,
+    "name": "ヴィルシーナ",
+    "alphabetId": "verxina",
+    "alphabetName": "Verxina",
+    "imageColorMain": "0000DD",
+    "imageColorSub": "66CCFF",
+    "uiColorMain": "4747cc",
+    "uiColorSub": "84c6e7",
+    "uiTrainingColor1": "7070ec",
+    "uiTrainingColor2": "5151c9",
+    "uiBorderColor": "5151c9",
+    "uiNumColor1": "7070ec",
+    "uiNumColor2": "5554c9",
+    "uiTurnColor": "5554c9",
+    "uiWipeColor1": "c2c2ff",
+    "uiWipeColor2": "dcdcff",
+    "uiWipeColor3": "ceeeff",
+    "uiSpeechColor1": "7070ec",
+    "uiSpeechColor2": "7070ec",
+    "uiNameplateColor1": "7070ec",
+    "uiNameplateColor2": "acacfe",
+    "castId": 104,
+    "comics": [
+      {
+        "id": "1091_01",
+        "mainCharacterId": 1091,
+        "new": false,
+        "mainCharacter": {
+          "id": 1091,
+          "name": "ヴィブロス",
+          "castId": 105,
+          "alphabetId": "vivlos",
+          "uiColorSub": "84d4e3",
+          "uiColorMain": "404fb1",
+          "alphabetName": "Vivlos",
+          "uiSpeechColor1": "5e6fe1"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1090_01",
+        "mainCharacterId": 1090,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10097,
+        "name": "ヴィルシーナ",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 3,
+        "publishedAt": "$D2023-11-20T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 20070,
+        "name": "ヴィルシーナ",
+        "title": "[長姉は大変？]",
+        "rarity": 2,
+        "command": 3,
+        "publishedAt": "$D2023-11-20T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30205,
+        "name": "ヴィルシーナ",
+        "title": "[紺碧の戴冠式]",
+        "rarity": 3,
+        "command": 0,
+        "publishedAt": "$D2024-05-30T03:00:00.000Z",
+        "ev": true
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "109001",
+        "publishedAt": "$D2025-05-12T03:00:00.000Z",
+        "talentSpeed": 0,
+        "talentStamina": 0,
+        "talentPow": 15,
+        "talentGuts": 15,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 4,
+        "aptitudeMile": 7,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 1,
+        "aptitudeRunner": 7,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 3,
+        "aptitudeChaser": 1,
+        "rank": 3,
+        "title": "[Le beau sommet]",
+        "limited": false,
+        "characterId": 1090,
+        "commonName": "シーナ",
+        "dressId": 109001,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 99,
+      "birthYear": 2009,
+      "birthMonth": 3,
+      "birthDate": 5,
+      "description": "頂点たる女王の座こそ自らにふさわしいと自負する勝ち気なお嬢様。 三姉妹の長姉で妹たちのよき手本となるよう努めている。 裕福な家庭でハイレベルな教育を与えられ、才能もあり優秀。 しかし『2』という数字に呪われ勝ちきれない苦労人でもある。",
+      "height": 158,
+      "weight": "精密",
+      "dormitory": "",
+      "threesize": "B83・W53・H78",
+      "schoolGrade": "",
+      "characterId": 1090,
+      "prizeMoney": 460790000,
+      "bad": "アラザン、固ゆで卵",
+      "ear": "捕球音だけで家族の誰が投げた球かわかる",
+      "family": "相談話はキャッチボール中にしがち",
+      "good": "キックボクシング、野球、バク転",
+      "shoes": "左右ともに23.5cm",
+      "tail": "小さい頃は、母がよく梳かしてくれた",
+      "before": "",
+      "boast": "",
+      "buy": "",
+      "myrule": "",
+      "spbg": "",
+      "subject": ""
+    }
+  }
+}

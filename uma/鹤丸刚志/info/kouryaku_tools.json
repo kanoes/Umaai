@@ -1,0 +1,164 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/tsurumarutsuyoshi",
+  "fetched_at_utc": "2026-03-04T08:16:56.180820+00:00",
+  "slug": "tsurumarutsuyoshi",
+  "name_ja": "ツルマルツヨシ",
+  "name_zh": "鹤丸刚志",
+  "folder_name": "鹤丸刚志",
+  "data": {
+    "id": 1073,
+    "name": "ツルマルツヨシ",
+    "alphabetId": "tsurumarutsuyoshi",
+    "alphabetName": "Tsurumaru Tsuyoshi",
+    "imageColorMain": "A743D1",
+    "imageColorSub": "FDD758",
+    "uiColorMain": "8F4DAC",
+    "uiColorSub": "F5CD47",
+    "uiTrainingColor1": "b56bd5",
+    "uiTrainingColor2": "8f4dac",
+    "uiBorderColor": "8f4dac",
+    "uiNumColor1": "b56bd5",
+    "uiNumColor2": "9c55bc",
+    "uiTurnColor": "9c55bc",
+    "uiWipeColor1": "f1d3ff",
+    "uiWipeColor2": "f7e4ff",
+    "uiWipeColor3": "fff8e1",
+    "uiSpeechColor1": "b56bd5",
+    "uiSpeechColor2": "b56bd5",
+    "uiNameplateColor1": "b56bd5",
+    "uiNameplateColor2": "e1a8fa",
+    "castId": 76,
+    "comics": [
+      {
+        "id": "1017_02",
+        "mainCharacterId": 1017,
+        "new": false,
+        "mainCharacter": {
+          "id": 1017,
+          "name": "シンボリルドルフ",
+          "castId": 20,
+          "alphabetId": "symbolirudolf",
+          "uiColorSub": "C6314B",
+          "uiColorMain": "1C7763",
+          "alphabetName": "Symboli Rudolf",
+          "uiSpeechColor1": "49CDB1"
+        }
+      },
+      {
+        "id": "9042_01",
+        "mainCharacterId": 9042,
+        "new": false,
+        "mainCharacter": {
+          "id": 9042,
+          "name": "バイアリーターク",
+          "castId": null,
+          "alphabetId": "byerleyturk",
+          "uiColorSub": "7874C9",
+          "uiColorMain": "BBA61D",
+          "alphabetName": "byerleyturk",
+          "uiSpeechColor1": "FF7FDD"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1073_01",
+        "mainCharacterId": 1073,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10081,
+        "name": "ツルマルツヨシ",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 3,
+        "publishedAt": "$D2022-07-20T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 20052,
+        "name": "ツルマルツヨシ",
+        "title": "[『フレフレ、ツヨシ！』]",
+        "rarity": 2,
+        "command": 3,
+        "publishedAt": "$D2022-10-19T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30067,
+        "name": "玉座に集いし者たち",
+        "title": "[尊尚親愛]",
+        "rarity": 3,
+        "command": 6,
+        "publishedAt": "$D2022-07-20T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30169,
+        "name": "ツルマルツヨシ",
+        "title": "[天より遣われし微笑み]",
+        "rarity": 3,
+        "command": 2,
+        "publishedAt": "$D2023-10-30T03:00:00.000Z",
+        "ev": false
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "107301",
+        "publishedAt": "$D2025-02-14T03:00:00.000Z",
+        "talentSpeed": 0,
+        "talentStamina": 0,
+        "talentPow": 20,
+        "talentGuts": 10,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 2,
+        "aptitudeShort": 2,
+        "aptitudeMile": 4,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 5,
+        "aptitudeRunner": 1,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 3,
+        "rank": 2,
+        "title": "[志、高し、強し！]",
+        "limited": false,
+        "characterId": 1073,
+        "commonName": "ツヨシ",
+        "dressId": 107301,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 76,
+      "birthYear": 1995,
+      "birthMonth": 4,
+      "birthDate": 6,
+      "description": "元気で前向き、なにごとも精いっぱいなウマ娘。 でもそんな性格に対し体がついてきてくれない。 走りに限らず高いポテンシャルを持つが、いかんせん全力で挑んでは倒れ、結果が出ない。 それでも夢である『三冠ウマ娘』を目指し、今日も精いっぱい走る――その心は強し！",
+      "height": 160,
+      "weight": "増量中",
+      "dormitory": "",
+      "threesize": "B85・W58・H86",
+      "schoolGrade": "",
+      "characterId": 1073,
+      "prizeMoney": 174280000,
+      "bad": "湿布のにおい、低気圧、『絶対安静』",
+      "ear": "人に頼られると嬉しそうにぴよぴよ揺れる",
+      "family": "よく果物を仕送りしてくれている",
+      "good": "オリジナルスムージー開発",
+      "shoes": "左右ともに22.5cm",
+      "tail": "洗ったらすぐ乾かさないと風邪をひく",
+      "before": "",
+      "boast": "",
+      "buy": "",
+      "myrule": "",
+      "spbg": "",
+      "subject": ""
+    }
+  }
+}

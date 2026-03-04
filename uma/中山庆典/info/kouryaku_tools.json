@@ -1,0 +1,195 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/nakayamafesta",
+  "fetched_at_utc": "2026-03-04T08:16:33.625793+00:00",
+  "slug": "nakayamafesta",
+  "name_ja": "ナカヤマフェスタ",
+  "name_zh": "中山庆典",
+  "folder_name": "中山庆典",
+  "data": {
+    "id": 1049,
+    "name": "ナカヤマフェスタ",
+    "alphabetId": "nakayamafesta",
+    "alphabetName": "Nakayama Festa",
+    "imageColorMain": "CF5E59",
+    "imageColorSub": "80A7C3",
+    "uiColorMain": "C0453F",
+    "uiColorSub": "236192",
+    "uiTrainingColor1": "e05b54",
+    "uiTrainingColor2": "be3d3d",
+    "uiBorderColor": "be3d3d",
+    "uiNumColor1": "fc716a",
+    "uiNumColor2": "e15959",
+    "uiTurnColor": "be3d3d",
+    "uiWipeColor1": "e15f6c",
+    "uiWipeColor2": "f0787e",
+    "uiWipeColor3": "428fcc",
+    "uiSpeechColor1": "d9514a",
+    "uiSpeechColor2": "d9514a",
+    "uiNameplateColor1": "e05b54",
+    "uiNameplateColor2": "ffa195",
+    "castId": 46,
+    "comics": [
+      {
+        "id": "1076_02",
+        "mainCharacterId": 1076,
+        "new": false,
+        "mainCharacter": {
+          "id": 1076,
+          "name": "サクラローレル",
+          "castId": 81,
+          "alphabetId": "sakuralaurel",
+          "uiColorSub": "fecdc9",
+          "uiColorMain": "f0638a",
+          "alphabetName": "Sakura Laurel",
+          "uiSpeechColor1": "e65779"
+        }
+      },
+      {
+        "id": "1135_01",
+        "mainCharacterId": 1135,
+        "new": false,
+        "mainCharacter": {
+          "id": 1135,
+          "name": "ステイゴールド",
+          "castId": 137,
+          "alphabetId": "staygold",
+          "uiColorSub": "49699c",
+          "uiColorMain": "bfb33e",
+          "alphabetName": "Stay Gold",
+          "uiSpeechColor1": "bfb33e"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1049_01",
+        "mainCharacterId": 1049,
+        "new": false
+      },
+      {
+        "id": "1049_02",
+        "mainCharacterId": 1049,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10067,
+        "name": "ナカヤマフェスタ",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 1,
+        "publishedAt": "$D2021-10-20T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30043,
+        "name": "ナカヤマフェスタ",
+        "title": "[43、8、1]",
+        "rarity": 3,
+        "command": 1,
+        "publishedAt": "$D2021-10-20T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30108,
+        "name": "ナカヤマフェスタ",
+        "title": "[一天地六に身を任せ]",
+        "rarity": 3,
+        "command": 4,
+        "publishedAt": "$D2022-07-29T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30163,
+        "name": "ナカヤマフェスタ",
+        "title": "[鉄火場に咲く菫]",
+        "rarity": 3,
+        "command": 4,
+        "publishedAt": "$D2023-08-31T03:00:00.000Z",
+        "ev": false
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "104901",
+        "publishedAt": "$D2022-11-09T03:00:00.000Z",
+        "talentSpeed": 10,
+        "talentStamina": 10,
+        "talentPow": 10,
+        "talentGuts": 0,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 1,
+        "aptitudeMile": 5,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 6,
+        "aptitudeRunner": 1,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 4,
+        "rank": 3,
+        "title": "[死中求活]",
+        "limited": false,
+        "characterId": 1049,
+        "commonName": "ナカヤマ、フェスタ",
+        "dressId": 104901,
+        "ev": false
+      },
+      {
+        "id": "104902",
+        "publishedAt": "$D2025-11-28T03:00:00.000Z",
+        "talentSpeed": 10,
+        "talentStamina": 0,
+        "talentPow": 10,
+        "talentGuts": 10,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 1,
+        "aptitudeMile": 5,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 6,
+        "aptitudeRunner": 1,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 4,
+        "rank": 3,
+        "title": "[祝祭遊戯]",
+        "limited": false,
+        "characterId": 1049,
+        "commonName": "クリフェスタ、クリナカヤマ",
+        "dressId": 104946,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 49,
+      "birthYear": 2006,
+      "birthMonth": 4,
+      "birthDate": 5,
+      "description": "アウトロー気質の勝負師。無気力でブラブラしていたが、恩師の導きで、レースに身を投じるスリルに出会う。ギリギリで生きることしかできず、ぬるい状況だと手を抜きがち。古き良き人情派で、よく裏路地で、見知らぬ人とホルモン煮込みをつついている。",
+      "height": 159,
+      "weight": "レースに支障なし",
+      "dormitory": "",
+      "threesize": "B78・W54・H79",
+      "schoolGrade": "",
+      "characterId": 1049,
+      "prizeMoney": 293240000,
+      "bad": "するめ",
+      "ear": "帽子の耳用の穴は、自分で切って縫った",
+      "family": "家族全員、寝相が悪い",
+      "good": "植物と小動物の世話",
+      "shoes": "左右ともに24.0cm",
+      "tail": "賭け事の際は尻尾の動きをブラフに使う",
+      "before": "コインで運試し",
+      "boast": "",
+      "buy": "",
+      "myrule": "もつ煮はじっくり3時間は煮込みたい",
+      "spbg": "ルーレット盤",
+      "subject": ""
+    }
+  }
+}

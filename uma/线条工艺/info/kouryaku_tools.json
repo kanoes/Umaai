@@ -1,0 +1,201 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/rheinkraft",
+  "fetched_at_utc": "2026-03-04T08:17:27.227722+00:00",
+  "slug": "rheinkraft",
+  "name_ja": "ラインクラフト",
+  "name_zh": "线条工艺",
+  "folder_name": "线条工艺",
+  "data": {
+    "id": 1109,
+    "name": "ラインクラフト",
+    "alphabetId": "rheinkraft",
+    "alphabetName": "Rhein Kraft",
+    "imageColorMain": "FFCBD4",
+    "imageColorSub": "3DCEA6",
+    "uiColorMain": "f15b75",
+    "uiColorSub": "2c9679",
+    "uiTrainingColor1": "f36b83",
+    "uiTrainingColor2": "e44460",
+    "uiBorderColor": "e44460",
+    "uiNumColor1": "f36b83",
+    "uiNumColor2": "ec4c68",
+    "uiTurnColor": "ec4c68",
+    "uiWipeColor1": "ffcad4",
+    "uiWipeColor2": "ffe1e6",
+    "uiWipeColor3": "d7fff4",
+    "uiSpeechColor1": "f36b83",
+    "uiSpeechColor2": "f36b83",
+    "uiNameplateColor1": "f36b83",
+    "uiNameplateColor2": "ffb7c4",
+    "castId": 107,
+    "comics": [
+      {
+        "id": "1061_02",
+        "mainCharacterId": 1061,
+        "new": false,
+        "mainCharacter": {
+          "id": 1061,
+          "name": "キングヘイロー",
+          "castId": 63,
+          "alphabetId": "kinghalo",
+          "uiColorSub": "1C57A5",
+          "uiColorMain": "0E9451",
+          "alphabetName": "King Halo",
+          "uiSpeechColor1": "6ECB74"
+        }
+      },
+      {
+        "id": "1112_01",
+        "mainCharacterId": 1112,
+        "new": false,
+        "mainCharacter": {
+          "id": 1112,
+          "name": "デアリングハート",
+          "castId": 110,
+          "alphabetId": "daringheart",
+          "uiColorSub": "38312b",
+          "uiColorMain": "d0ba00",
+          "alphabetName": "Daring Heart",
+          "uiSpeechColor1": "4C91F1"
+        }
+      },
+      {
+        "id": "1113_02",
+        "mainCharacterId": 1113,
+        "new": false,
+        "mainCharacter": {
+          "id": 1113,
+          "name": "フサイチパンドラ",
+          "castId": 127,
+          "alphabetId": "fusaichipandora",
+          "uiColorSub": "fbd872",
+          "uiColorMain": "fd637f",
+          "alphabetName": "Fusaichi Pandora",
+          "uiSpeechColor1": "ff7790"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1109_01",
+        "mainCharacterId": 1109,
+        "new": false
+      },
+      {
+        "id": "1109_02",
+        "mainCharacterId": 1109,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10114,
+        "name": "ラインクラフト",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 3,
+        "publishedAt": "$D2024-03-21T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30194,
+        "name": "ラインクラフト",
+        "title": "[ティアラが描くレイライン]",
+        "rarity": 3,
+        "command": 3,
+        "publishedAt": "$D2024-03-21T03:00:00.000Z",
+        "ev": true
+      },
+      {
+        "id": 30253,
+        "name": "ラインクラフト",
+        "title": "[Unveiled Dream]",
+        "rarity": 3,
+        "command": 0,
+        "publishedAt": "$D2025-05-30T03:00:00.000Z",
+        "ev": false
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "110901",
+        "publishedAt": "$D2024-03-21T03:00:00.000Z",
+        "talentSpeed": 0,
+        "talentStamina": 0,
+        "talentPow": 15,
+        "talentGuts": 15,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 7,
+        "aptitudeMile": 7,
+        "aptitudeMiddle": 6,
+        "aptitudeLong": 1,
+        "aptitudeRunner": 3,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 5,
+        "aptitudeChaser": 1,
+        "rank": 3,
+        "title": "[Dream Successor]",
+        "limited": false,
+        "characterId": 1109,
+        "commonName": "クラフト",
+        "dressId": 110901,
+        "ev": false
+      },
+      {
+        "id": "110902",
+        "publishedAt": "$D2025-07-22T00:00:00.000Z",
+        "talentSpeed": 5,
+        "talentStamina": 0,
+        "talentPow": 15,
+        "talentGuts": 0,
+        "talentWiz": 10,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 6,
+        "aptitudeMile": 7,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 1,
+        "aptitudeRunner": 3,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 5,
+        "aptitudeChaser": 1,
+        "rank": 3,
+        "title": "[Eternal Fairytale]",
+        "limited": true,
+        "characterId": 1109,
+        "commonName": "ドレスクラフト",
+        "dressId": 110902,
+        "ev": true
+      }
+    ],
+    "characterProfile": {
+      "id": 105,
+      "birthYear": 2002,
+      "birthMonth": 4,
+      "birthDate": 4,
+      "description": "日向ぼっこが大好きな、明るく朗らかなウマ娘。 トリプルティアラに並々ならぬ憧れと情熱を抱いており、自分もその道を継ぐ者になりたいと日々努力を重ねている。 頑固さや行動力もありつつも、普段はのほほんとしており、周囲をほっこりとした気分にしてくれる。",
+      "height": 157,
+      "weight": "ほんわか",
+      "dormitory": "",
+      "threesize": "B85・W55・H83",
+      "schoolGrade": "",
+      "characterId": 1109,
+      "prizeMoney": 505630000,
+      "bad": "虫（特にハエ）、演技",
+      "ear": "スキンシップ中はだらんと垂れてリラックス",
+      "family": "家族全員揃ったらみんなでピクニックが定番",
+      "good": "ハンドメイド全般、ロッククライミング",
+      "shoes": "左：23.5cm 右：23.0cm",
+      "tail": "いつもほわほわで柔らかい",
+      "before": "勝負服にも日光浴をさせてパワーチャージ！",
+      "boast": "",
+      "buy": "",
+      "myrule": "テストで答えに迷ったら稲妻ヘアを触る",
+      "spbg": "シーザリオと北海道旅行へ行ったときの写真",
+      "subject": ""
+    }
+  }
+}

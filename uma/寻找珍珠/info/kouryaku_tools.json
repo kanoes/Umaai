@@ -1,0 +1,180 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/seekingthepearl",
+  "fetched_at_utc": "2026-03-04T08:16:27.157927+00:00",
+  "slug": "seekingthepearl",
+  "name_ja": "シーキングザパール",
+  "name_zh": "寻找珍珠",
+  "folder_name": "寻找珍珠",
+  "data": {
+    "id": 1042,
+    "name": "シーキングザパール",
+    "alphabetId": "seekingthepearl",
+    "alphabetName": "Seeking the Pearl",
+    "imageColorMain": "CC5A6B",
+    "imageColorSub": "70E1FA",
+    "uiColorMain": "B02D40",
+    "uiColorSub": "1690D4",
+    "uiTrainingColor1": "de4f64",
+    "uiTrainingColor2": "b61f3f",
+    "uiBorderColor": "b61f3f",
+    "uiNumColor1": "f15f75",
+    "uiNumColor2": "c73e53",
+    "uiTurnColor": "d34a5f",
+    "uiWipeColor1": "ff7e91",
+    "uiWipeColor2": "ff97a6",
+    "uiWipeColor3": "9adbff",
+    "uiSpeechColor1": "d7455b",
+    "uiSpeechColor2": "d7455b",
+    "uiNameplateColor1": "de4f64",
+    "uiNameplateColor2": "ff8689",
+    "castId": 41,
+    "comics": [
+      {
+        "id": "1039_02",
+        "mainCharacterId": 1039,
+        "new": false,
+        "mainCharacter": {
+          "id": 1039,
+          "name": "カワカミプリンセス",
+          "castId": 38,
+          "alphabetId": "kawakamiprincess",
+          "uiColorSub": "00C7B1",
+          "uiColorMain": "E146A7",
+          "alphabetName": "Kawakami Princess",
+          "uiSpeechColor1": "fd66c4"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1042_01",
+        "mainCharacterId": 1042,
+        "new": false
+      },
+      {
+        "id": "1042_02",
+        "mainCharacterId": 1042,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10061,
+        "name": "シーキングザパール",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 3,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 20029,
+        "name": "シーキングザパール",
+        "title": "[世界の真珠、その名は]",
+        "rarity": 2,
+        "command": 3,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30095,
+        "name": "シーキングザパール",
+        "title": "[そのエールは世界を変えた]",
+        "rarity": 3,
+        "command": 0,
+        "publishedAt": "$D2022-04-28T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30236,
+        "name": "シーキングザパール",
+        "title": "[飛び立つヴィーナス]",
+        "rarity": 3,
+        "command": 0,
+        "publishedAt": "$D2025-01-10T03:00:00.000Z",
+        "ev": false
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "104201",
+        "publishedAt": "$D2022-09-20T03:00:00.000Z",
+        "talentSpeed": 10,
+        "talentStamina": 0,
+        "talentPow": 0,
+        "talentGuts": 0,
+        "talentWiz": 20,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 2,
+        "aptitudeShort": 7,
+        "aptitudeMile": 7,
+        "aptitudeMiddle": 3,
+        "aptitudeLong": 1,
+        "aptitudeRunner": 5,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 6,
+        "rank": 3,
+        "title": "[Rocket☆Star]",
+        "limited": false,
+        "characterId": 1042,
+        "commonName": "ザパール",
+        "dressId": 104201,
+        "ev": false
+      },
+      {
+        "id": "104202",
+        "publishedAt": "$D2024-09-30T03:00:00.000Z",
+        "talentSpeed": 10,
+        "talentStamina": 0,
+        "talentPow": 13,
+        "talentGuts": 0,
+        "talentWiz": 7,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 2,
+        "aptitudeShort": 7,
+        "aptitudeMile": 7,
+        "aptitudeMiddle": 3,
+        "aptitudeLong": 1,
+        "aptitudeRunner": 5,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 6,
+        "rank": 3,
+        "title": "[Be♪Witched]",
+        "limited": false,
+        "characterId": 1042,
+        "commonName": "魔女パール、弁当パール、バンドパール",
+        "dressId": 104240,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 42,
+      "birthYear": 1994,
+      "birthMonth": 4,
+      "birthDate": 16,
+      "description": "小さくまとまることを嫌い、世界ではどんなことも起きうると体当たりで示す、アクティブお姉さん。海外を転々としながら育ったゆえ、自信と表現力の塊。笑いを振りまきながらも結果を出す才女である。英語は話せないが、ボディランゲージで悠々カバーする。",
+      "height": 168,
+      "weight": "世界的に完壁",
+      "dormitory": "",
+      "threesize": "B91・W57・H87",
+      "schoolGrade": "",
+      "characterId": 1042,
+      "prizeMoney": 474140000,
+      "bad": "うがい",
+      "ear": "様々な言語の意味を感覚で理解できる",
+      "family": "家族でお揃いのサングラスを持っている",
+      "good": "パントマイム、プレゼン",
+      "shoes": "左右ともに24.5cm",
+      "tail": "海外で披露できるよう尻尾習字を習得済み",
+      "before": "なぜかちょっとお腹がすく",
+      "boast": "",
+      "buy": "",
+      "myrule": "お喋りは、視線を交わすところから",
+      "spbg": "ドーヴィルビーチに書いた『可能性』の文字",
+      "subject": ""
+    }
+  }
+}

@@ -1,0 +1,335 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/tokaiteio",
+  "fetched_at_utc": "2026-03-04T08:15:51.039088+00:00",
+  "slug": "tokaiteio",
+  "name_ja": "トウカイテイオー",
+  "name_zh": "东海帝王",
+  "folder_name": "东海帝王",
+  "data": {
+    "id": 1003,
+    "name": "トウカイテイオー",
+    "alphabetId": "tokaiteio",
+    "alphabetName": "Tokai Teio",
+    "imageColorMain": "A8C6FD",
+    "imageColorSub": "5277D6",
+    "uiColorMain": "3376D2",
+    "uiColorSub": "FF99D0",
+    "uiTrainingColor1": "4C91F1",
+    "uiTrainingColor2": "2B75DD",
+    "uiBorderColor": "2B75DD",
+    "uiNumColor1": "71ADFF",
+    "uiNumColor2": "1667D9",
+    "uiTurnColor": "1667D9",
+    "uiWipeColor1": "BCD5F5",
+    "uiWipeColor2": "D6E4F6",
+    "uiWipeColor3": "FFEBF6",
+    "uiSpeechColor1": "4C91F1",
+    "uiSpeechColor2": "4C91F1",
+    "uiNameplateColor1": "4C91F1",
+    "uiNameplateColor2": "8DBCFD",
+    "castId": 2,
+    "comics": [
+      {
+        "id": "1001_01",
+        "mainCharacterId": 1001,
+        "new": false,
+        "mainCharacter": {
+          "id": 1001,
+          "name": "スペシャルウィーク",
+          "castId": 1,
+          "alphabetId": "specialweek",
+          "uiColorSub": "FFDEF9",
+          "uiColorMain": "EE6DCB",
+          "alphabetName": "Special Week",
+          "uiSpeechColor1": "FF7FDD"
+        }
+      },
+      {
+        "id": "1013_01",
+        "mainCharacterId": 1013,
+        "new": false,
+        "mainCharacter": {
+          "id": 1013,
+          "name": "メジロマックイーン",
+          "castId": 14,
+          "alphabetId": "mejiromcqueen",
+          "uiColorSub": "DFC8E7",
+          "uiColorMain": "00B5BE",
+          "alphabetName": "Mejiro McQueen",
+          "uiSpeechColor1": "3CCFD7"
+        }
+      },
+      {
+        "id": "1026_01",
+        "mainCharacterId": 1026,
+        "new": false,
+        "mainCharacter": {
+          "id": 1026,
+          "name": "ミホノブルボン",
+          "castId": 29,
+          "alphabetId": "mihonobourbon",
+          "uiColorSub": "F0ED41",
+          "uiColorMain": "EE60A1",
+          "alphabetName": "Mihono Bourbon",
+          "uiSpeechColor1": "ff6ade"
+        }
+      },
+      {
+        "id": "1051_01",
+        "mainCharacterId": 1051,
+        "new": false,
+        "mainCharacter": {
+          "id": 1051,
+          "name": "ニシノフラワー",
+          "castId": 54,
+          "alphabetId": "nishinoflower",
+          "uiColorSub": "F6EB61",
+          "uiColorMain": "E26ECB",
+          "alphabetName": "Nishino Flower",
+          "uiSpeechColor1": "ec68d2"
+        }
+      },
+      {
+        "id": "1060_01",
+        "mainCharacterId": 1060,
+        "new": false,
+        "mainCharacter": {
+          "id": 1060,
+          "name": "ナイスネイチャ",
+          "castId": 60,
+          "alphabetId": "nicenature",
+          "uiColorSub": "B82720",
+          "uiColorMain": "28A959",
+          "alphabetName": "Nice Nature",
+          "uiSpeechColor1": "6CCF92"
+        }
+      },
+      {
+        "id": "9042_01",
+        "mainCharacterId": 9042,
+        "new": false,
+        "mainCharacter": {
+          "id": 9042,
+          "name": "バイアリーターク",
+          "castId": null,
+          "alphabetId": "byerleyturk",
+          "uiColorSub": "7874C9",
+          "uiColorMain": "BBA61D",
+          "alphabetName": "byerleyturk",
+          "uiSpeechColor1": "FF7FDD"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1003_01",
+        "mainCharacterId": 1003,
+        "new": false
+      },
+      {
+        "id": "1003_02",
+        "mainCharacterId": 1003,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10003,
+        "name": "トウカイテイオー",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 0,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 20047,
+        "name": "トウカイテイオー",
+        "title": "[Step! Smile! Wink!]",
+        "rarity": 2,
+        "command": 1,
+        "publishedAt": "$D2022-05-10T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30003,
+        "name": "トウカイテイオー",
+        "title": "[夢は掲げるものなのだっ！]",
+        "rarity": 3,
+        "command": 0,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30058,
+        "name": "トウカイテイオー",
+        "title": "[ふたつのノーブルライト]",
+        "rarity": 3,
+        "command": 2,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": true
+      },
+      {
+        "id": 30067,
+        "name": "玉座に集いし者たち",
+        "title": "[尊尚親愛]",
+        "rarity": 3,
+        "command": 6,
+        "publishedAt": "$D2022-07-20T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30111,
+        "name": "トウカイテイオー",
+        "title": "[テイオー・オー・オー！！！]",
+        "rarity": 3,
+        "command": 4,
+        "publishedAt": "$D2022-08-29T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30140,
+        "name": "トウカイテイオー",
+        "title": "[比翼のワルツ]",
+        "rarity": 3,
+        "command": 0,
+        "publishedAt": "$D2023-03-29T03:00:00.000Z",
+        "ev": true
+      },
+      {
+        "id": 30180,
+        "name": "刻み続ける者たち",
+        "title": "[この先も！]",
+        "rarity": 3,
+        "command": 6,
+        "publishedAt": "$D2023-12-28T03:00:00.000Z",
+        "ev": true
+      },
+      {
+        "id": 30213,
+        "name": "トウカイテイオー",
+        "title": "[開催☆ハチャメチャGP！]",
+        "rarity": 3,
+        "command": 0,
+        "publishedAt": "$D2024-08-29T15:00:00.000Z",
+        "ev": true
+      },
+      {
+        "id": 30275,
+        "name": "トウカイテイオー",
+        "title": "[天才的ユートピア]",
+        "rarity": 3,
+        "command": 0,
+        "publishedAt": "$D2025-10-29T03:00:00.000Z",
+        "ev": false
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "100301",
+        "publishedAt": "$D2021-02-24T00:00:00.000Z",
+        "talentSpeed": 20,
+        "talentStamina": 10,
+        "talentPow": 0,
+        "talentGuts": 0,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 2,
+        "aptitudeMile": 3,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 6,
+        "aptitudeRunner": 4,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 5,
+        "aptitudeChaser": 3,
+        "rank": 3,
+        "title": "[トップ・オブ・ジョイフル]",
+        "limited": false,
+        "characterId": 1003,
+        "commonName": "テイオー、青テイオー、白テイオー",
+        "dressId": 100301,
+        "ev": false
+      },
+      {
+        "id": "100302",
+        "publishedAt": "$D2021-03-30T03:00:00.000Z",
+        "talentSpeed": 10,
+        "talentStamina": 10,
+        "talentPow": 0,
+        "talentGuts": 10,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 2,
+        "aptitudeMile": 3,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 6,
+        "aptitudeRunner": 4,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 5,
+        "aptitudeChaser": 3,
+        "rank": 3,
+        "title": "[ビヨンド・ザ・ホライズン]",
+        "limited": false,
+        "characterId": 1003,
+        "commonName": "赤テイオー",
+        "dressId": 100302,
+        "ev": false
+      },
+      {
+        "id": "100303",
+        "publishedAt": "$D2023-10-30T03:00:00.000Z",
+        "talentSpeed": 10,
+        "talentStamina": 10,
+        "talentPow": 0,
+        "talentGuts": 0,
+        "talentWiz": 10,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 2,
+        "aptitudeMile": 3,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 7,
+        "aptitudeRunner": 4,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 5,
+        "aptitudeChaser": 3,
+        "rank": 3,
+        "title": "[紫雲の夢見取り]",
+        "limited": false,
+        "characterId": 1003,
+        "commonName": "和装テイオー、和服テイオー、秋テイオー、紫テイオー",
+        "dressId": 100343,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 3,
+      "birthYear": 1988,
+      "birthMonth": 4,
+      "birthDate": 20,
+      "description": "抜群のセンスと才能を持つ、明朗快活なウマ娘。 生徒会長である皇帝シンボリルドルフに憧れ、レースを志した。自分が1番になることを疑わない無邪気な自信家で、その奔放さは誰からも愛される。 独特の柔らかい歩様は『テイオーステップ』と呼ばれる。",
+      "height": 150,
+      "weight": "増減なし",
+      "dormitory": "",
+      "threesize": "B77・W54・H76",
+      "schoolGrade": "",
+      "characterId": 1003,
+      "prizeMoney": 604700000,
+      "bad": "お医者さん",
+      "ear": "称賛と会長の声は絶対に聴き逃さない",
+      "family": "試しにパパママ呼びをやめたら泣かれた",
+      "good": "誰とでも友達になること",
+      "shoes": "左右ともに22.0cm",
+      "tail": "注目されると、興奮してふぁさふぁさ振る",
+      "before": "屈伸、ストレッチ！膝を重点的に",
+      "boast": "CMに出演した大型テレビが大ヒット！",
+      "buy": "はちみードリンク、ウェットティッシュ",
+      "myrule": "調子のいい時はハチミツ！悪い時もハチミツ",
+      "spbg": "カイチョーとのツーショ（気分で変わる）",
+      "subject": "もちろん全部！！"
+    }
+  }
+}

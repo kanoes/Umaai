@@ -1,0 +1,210 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/mejiroardan",
+  "fetched_at_utc": "2026-03-04T08:16:54.362378+00:00",
+  "slug": "mejiroardan",
+  "name_ja": "メジロアルダン",
+  "name_zh": "目白阿尔丹",
+  "folder_name": "目白阿尔丹",
+  "data": {
+    "id": 1071,
+    "name": "メジロアルダン",
+    "alphabetId": "mejiroardan",
+    "alphabetName": "Mejiro Ardan",
+    "imageColorMain": "269988",
+    "imageColorSub": "94ECFF",
+    "uiColorMain": "28baa5",
+    "uiColorSub": "bfe4eb",
+    "uiTrainingColor1": "1cc7ae",
+    "uiTrainingColor2": "27a4a0",
+    "uiBorderColor": "27a4a0",
+    "uiNumColor1": "34dcd2",
+    "uiNumColor2": "26baa7",
+    "uiTurnColor": "26baa7",
+    "uiWipeColor1": "a5f8ec",
+    "uiWipeColor2": "c0fef5",
+    "uiWipeColor3": "e6fbff",
+    "uiSpeechColor1": "28baa5",
+    "uiSpeechColor2": "28baa5",
+    "uiNameplateColor1": "28baa5",
+    "uiNameplateColor2": "83eadd",
+    "castId": 72,
+    "comics": [
+      {
+        "id": "1064_01",
+        "mainCharacterId": 1064,
+        "new": false,
+        "mainCharacter": {
+          "id": 1064,
+          "name": "メジロパーマー",
+          "castId": 61,
+          "alphabetId": "mejiropalmer",
+          "uiColorSub": "865432",
+          "uiColorMain": "27c79c",
+          "alphabetName": "Mejiro Palmer",
+          "uiSpeechColor1": "0db98b"
+        }
+      },
+      {
+        "id": "1069_01",
+        "mainCharacterId": 1069,
+        "new": false,
+        "mainCharacter": {
+          "id": 1069,
+          "name": "サクラチヨノオー",
+          "castId": 69,
+          "alphabetId": "sakurachiyonoo",
+          "uiColorSub": "f7dde2",
+          "uiColorMain": "f9879d",
+          "alphabetName": "Sakura Chiyono O",
+          "uiSpeechColor1": "e54c6d"
+        }
+      },
+      {
+        "id": "1072_02",
+        "mainCharacterId": 1072,
+        "new": false,
+        "mainCharacter": {
+          "id": 1072,
+          "name": "ヤエノムテキ",
+          "castId": 70,
+          "alphabetId": "yaenomuteki",
+          "uiColorSub": "ffda93",
+          "uiColorMain": "da483a",
+          "alphabetName": "Yaeno Muteki",
+          "uiSpeechColor1": "e55345"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1071_01",
+        "mainCharacterId": 1071,
+        "new": false
+      },
+      {
+        "id": "1071_02",
+        "mainCharacterId": 1071,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10069,
+        "name": "メジロアルダン",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 4,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 20034,
+        "name": "メジロアルダン",
+        "title": "[その心に吹きすさぶ]",
+        "rarity": 2,
+        "command": 4,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30119,
+        "name": "メジロアルダン",
+        "title": "[夜風に舞うは祈りの花]",
+        "rarity": 3,
+        "command": 0,
+        "publishedAt": "$D2022-10-28T03:00:00.000Z",
+        "ev": true
+      },
+      {
+        "id": 30234,
+        "name": "メジロアルダン",
+        "title": "[深窓の少女へ]",
+        "rarity": 3,
+        "command": 2,
+        "publishedAt": "$D2024-12-27T03:00:00.000Z",
+        "ev": false
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "107101",
+        "publishedAt": "$D2022-02-08T03:00:00.000Z",
+        "talentSpeed": 10,
+        "talentStamina": 0,
+        "talentPow": 0,
+        "talentGuts": 0,
+        "talentWiz": 20,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 2,
+        "aptitudeShort": 3,
+        "aptitudeMile": 6,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 4,
+        "aptitudeRunner": 5,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 4,
+        "aptitudeChaser": 1,
+        "rank": 3,
+        "title": "[クリノクロア・ライン]",
+        "limited": false,
+        "characterId": 1071,
+        "commonName": "アルダン",
+        "dressId": 107101,
+        "ev": false
+      },
+      {
+        "id": "107102",
+        "publishedAt": "$D2023-03-29T03:00:00.000Z",
+        "talentSpeed": 8,
+        "talentStamina": 8,
+        "talentPow": 0,
+        "talentGuts": 0,
+        "talentWiz": 14,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 2,
+        "aptitudeShort": 3,
+        "aptitudeMile": 6,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 4,
+        "aptitudeRunner": 5,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 4,
+        "aptitudeChaser": 1,
+        "rank": 3,
+        "title": "[Neige Émeraude]",
+        "limited": false,
+        "characterId": 1071,
+        "commonName": "ダンスアルダン",
+        "dressId": 107120,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 69,
+      "birthYear": 1985,
+      "birthMonth": 3,
+      "birthDate": 28,
+      "description": "夢く、優しく、思慮深く、そして高貴な深窓の令嬢。『ガラスのように繊細な脚』といわれるレースに不利な体で生まれるが、それを悲観することはない。幼いころから体が弱く、遊び慣れていないので、放課後のお喋りなどが大変新鮮らしい。",
+      "height": 162,
+      "weight": "秘密）",
+      "dormitory": "",
+      "threesize": "B87・W56・H85",
+      "schoolGrade": "",
+      "characterId": 1071,
+      "prizeMoney": 241300000,
+      "bad": "喧嘩、揉め事、さくらんぼ",
+      "ear": "ガラスの割れる音がすると耳を伏せてしまう",
+      "family": "母が、学園の友だちを家に招きたがっている",
+      "good": "包帯を綺麗に巻くこと",
+      "shoes": "左右ともに22.5cm",
+      "tail": "特注のオーガニックトリートメントを愛用",
+      "before": "リラックス効果のあるお茶をトレーナーと",
+      "boast": "",
+      "buy": "",
+      "myrule": "薬膳の材料はお気に入りの中華食材店で購入",
+      "spbg": "ばあやとのツーショット",
+      "subject": ""
+    }
+  }
+}

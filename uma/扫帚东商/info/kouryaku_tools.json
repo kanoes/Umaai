@@ -1,0 +1,204 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/sweeptosho",
+  "fetched_at_utc": "2026-03-04T08:16:29.074972+00:00",
+  "slug": "sweeptosho",
+  "name_ja": "スイープトウショウ",
+  "name_zh": "扫帚东商",
+  "folder_name": "扫帚东商",
+  "data": {
+    "id": 1044,
+    "name": "スイープトウショウ",
+    "alphabetId": "sweeptosho",
+    "alphabetName": "Sweep Tosho",
+    "imageColorMain": "957EC0",
+    "imageColorSub": "FFFFFF",
+    "uiColorMain": "926DDA",
+    "uiColorSub": "BC204B",
+    "uiTrainingColor1": "986fe9",
+    "uiTrainingColor2": "7c55c6",
+    "uiBorderColor": "7c55c6",
+    "uiNumColor1": "bd7ff1",
+    "uiNumColor2": "7c55c6",
+    "uiTurnColor": "7c55c6",
+    "uiWipeColor1": "c892ff",
+    "uiWipeColor2": "dba7ff",
+    "uiWipeColor3": "ffc5ee",
+    "uiSpeechColor1": "9065e3",
+    "uiSpeechColor2": "9065e3",
+    "uiNameplateColor1": "9065e3",
+    "uiNameplateColor2": "d88cfb",
+    "castId": 43,
+    "comics": [
+      {
+        "id": "1109_02",
+        "mainCharacterId": 1109,
+        "new": false,
+        "mainCharacter": {
+          "id": 1109,
+          "name": "ラインクラフト",
+          "castId": 107,
+          "alphabetId": "rheinkraft",
+          "uiColorSub": "2c9679",
+          "uiColorMain": "f15b75",
+          "alphabetName": "Rhein Kraft",
+          "uiSpeechColor1": "f36b83"
+        }
+      },
+      {
+        "id": "1130_01",
+        "mainCharacterId": 1130,
+        "new": false,
+        "mainCharacter": {
+          "id": 1130,
+          "name": "ラッキーライラック",
+          "castId": 132,
+          "alphabetId": "luckylilac",
+          "uiColorSub": "907594",
+          "uiColorMain": "454152",
+          "alphabetName": "Lucky Lilac",
+          "uiSpeechColor1": "4C91F1"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1044_01",
+        "mainCharacterId": 1044,
+        "new": false
+      },
+      {
+        "id": "1044_02",
+        "mainCharacterId": 1044,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10050,
+        "name": "スイープトウショウ",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 0,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 20023,
+        "name": "スイープトウショウ",
+        "title": "[見習い魔女と長い夜]",
+        "rarity": 2,
+        "command": 0,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 20046,
+        "name": "スイープトウショウ",
+        "title": "[おてんば魔女、修行中。]",
+        "rarity": 2,
+        "command": 4,
+        "publishedAt": "$D2022-04-11T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30045,
+        "name": "スイープトウショウ",
+        "title": "[ツメたいヒトリジメ？]",
+        "rarity": 3,
+        "command": 0,
+        "publishedAt": "$D2021-07-29T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30128,
+        "name": "スイープトウショウ",
+        "title": "[気まぐれ絶佳]",
+        "rarity": 3,
+        "command": 4,
+        "publishedAt": "$D2022-12-29T03:00:00.000Z",
+        "ev": false
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "104401",
+        "publishedAt": "$D2022-06-20T03:00:00.000Z",
+        "talentSpeed": 10,
+        "talentStamina": 0,
+        "talentPow": 20,
+        "talentGuts": 0,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 3,
+        "aptitudeMile": 7,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 4,
+        "aptitudeRunner": 1,
+        "aptitudeLeader": 1,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 7,
+        "rank": 3,
+        "title": "[プラタナス・ウィッチ]",
+        "limited": false,
+        "characterId": 1044,
+        "commonName": "スイープ",
+        "dressId": 104401,
+        "ev": false
+      },
+      {
+        "id": "104402",
+        "publishedAt": "$D2024-05-30T03:00:00.000Z",
+        "talentSpeed": 10,
+        "talentStamina": 0,
+        "talentPow": 10,
+        "talentGuts": 10,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 3,
+        "aptitudeMile": 7,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 4,
+        "aptitudeRunner": 1,
+        "aptitudeLeader": 1,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 7,
+        "rank": 3,
+        "title": "[リアライズ・ルーン]",
+        "limited": false,
+        "characterId": 1044,
+        "commonName": "嫁スイープ、ドレススイープ",
+        "dressId": 104426,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 44,
+      "birthYear": 2001,
+      "birthMonth": 5,
+      "birthDate": 9,
+      "description": "ツンツン駄々っ子な魔法少女。魔女を名乗る祖母の元で育てられ、その影響で魔法使いを目指すようになった。レースで勝てば魔法を体得できると信じている。今は見習いなので、思い通りにいかないと物理で解決しがち。ワガママで、泣き出すとなかなか泣き止まない。",
+      "height": 139,
+      "weight": "計測断固拒否",
+      "dormitory": "",
+      "threesize": "B72・W53・H73",
+      "schoolGrade": "",
+      "characterId": 1044,
+      "prizeMoney": 744820000,
+      "bad": "箒以外の乗り物",
+      "ear": "知らない単語はすべて呪文に聞こえる",
+      "family": "父親と電話すると、切る前に必ず泣かれる",
+      "good": "草花の名前当て（たまにオリジナル）",
+      "shoes": "左右ともに19.0cm",
+      "tail": "手懐けようとした黒猫に玩具扱いされている",
+      "before": "『今日は走りたくない』気がすることも多い",
+      "boast": "",
+      "buy": "",
+      "myrule": "魔女は夜型だから朝寝坊してもいい",
+      "spbg": "グランマとの笑顔の写真",
+      "subject": ""
+    }
+  }
+}

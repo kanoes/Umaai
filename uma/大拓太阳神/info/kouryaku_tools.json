@@ -1,0 +1,214 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/daitakuhelios",
+  "fetched_at_utc": "2026-03-04T08:16:49.241976+00:00",
+  "slug": "daitakuhelios",
+  "name_ja": "ダイタクヘリオス",
+  "name_zh": "大拓太阳神",
+  "folder_name": "大拓太阳神",
+  "data": {
+    "id": 1065,
+    "name": "ダイタクヘリオス",
+    "alphabetId": "daitakuhelios",
+    "alphabetName": "Daitaku Helios",
+    "imageColorMain": "303AB2",
+    "imageColorSub": "FEDB00",
+    "uiColorMain": "5b64d5",
+    "uiColorSub": "fbe247",
+    "uiTrainingColor1": "6b7bf1",
+    "uiTrainingColor2": "3d4fce",
+    "uiBorderColor": "3d4fce",
+    "uiNumColor1": "809dfa",
+    "uiNumColor2": "6b7bf1",
+    "uiTurnColor": "5a69de",
+    "uiWipeColor1": "8d97fd",
+    "uiWipeColor2": "90aaff",
+    "uiWipeColor3": "fff5b6",
+    "uiSpeechColor1": "6d77f3",
+    "uiSpeechColor2": "6d77f3",
+    "uiNameplateColor1": "6a73e4",
+    "uiNameplateColor2": "98cbf7",
+    "castId": 65,
+    "comics": [
+      {
+        "id": "1051_01",
+        "mainCharacterId": 1051,
+        "new": false,
+        "mainCharacter": {
+          "id": 1051,
+          "name": "ニシノフラワー",
+          "castId": 54,
+          "alphabetId": "nishinoflower",
+          "uiColorSub": "F6EB61",
+          "uiColorMain": "E26ECB",
+          "alphabetName": "Nishino Flower",
+          "uiSpeechColor1": "ec68d2"
+        }
+      },
+      {
+        "id": "1064_01",
+        "mainCharacterId": 1064,
+        "new": false,
+        "mainCharacter": {
+          "id": 1064,
+          "name": "メジロパーマー",
+          "castId": 61,
+          "alphabetId": "mejiropalmer",
+          "uiColorSub": "865432",
+          "uiColorMain": "27c79c",
+          "alphabetName": "Mejiro Palmer",
+          "uiSpeechColor1": "0db98b"
+        }
+      },
+      {
+        "id": "1085_01",
+        "mainCharacterId": 1085,
+        "new": false,
+        "mainCharacter": {
+          "id": 1085,
+          "name": "ダイイチルビー",
+          "castId": 82,
+          "alphabetId": "daiichiruby",
+          "uiColorSub": "6946a9",
+          "uiColorMain": "d2445d",
+          "alphabetName": "Daiichi Ruby",
+          "uiSpeechColor1": "e2556e"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1065_01",
+        "mainCharacterId": 1065,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10052,
+        "name": "ダイタクヘリオス",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 2,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 20024,
+        "name": "ダイタクヘリオス",
+        "title": "[パリピ・ぱーりないと！]",
+        "rarity": 2,
+        "command": 2,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30071,
+        "name": "ダイタクヘリオス",
+        "title": "[おどれ・さわげ・フェスれ！]",
+        "rarity": 3,
+        "command": 2,
+        "publishedAt": "$D2021-11-19T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30116,
+        "name": "ダイタクヘリオス",
+        "title": "[お日さま天使ちゃん♪]",
+        "rarity": 3,
+        "command": 0,
+        "publishedAt": "$D2022-09-29T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30155,
+        "name": "ダイタクヘリオス",
+        "title": "[#夏 #新しい自分]",
+        "rarity": 3,
+        "command": 4,
+        "publishedAt": "$D2023-06-29T03:00:00.000Z",
+        "ev": true
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "106501",
+        "publishedAt": "$D2023-01-20T03:00:00.000Z",
+        "talentSpeed": 15,
+        "talentStamina": 0,
+        "talentPow": 15,
+        "talentGuts": 0,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 6,
+        "aptitudeMile": 7,
+        "aptitudeMiddle": 6,
+        "aptitudeLong": 3,
+        "aptitudeRunner": 7,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 1,
+        "aptitudeChaser": 1,
+        "rank": 3,
+        "title": "[Fun☆Fun☆ぱりない]",
+        "limited": false,
+        "characterId": 1065,
+        "commonName": "ヘリオス",
+        "dressId": 106501,
+        "ev": false
+      },
+      {
+        "id": "106502",
+        "publishedAt": "$D2024-03-29T03:00:00.000Z",
+        "talentSpeed": 8,
+        "talentStamina": 0,
+        "talentPow": 14,
+        "talentGuts": 8,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 6,
+        "aptitudeMile": 7,
+        "aptitudeMiddle": 6,
+        "aptitudeLong": 3,
+        "aptitudeRunner": 7,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 1,
+        "aptitudeChaser": 1,
+        "rank": 3,
+        "title": "[Joyful Jamboree!]",
+        "limited": false,
+        "characterId": 1065,
+        "commonName": "赤ヘリオス、ダンスヘリオス",
+        "dressId": 106520,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 65,
+      "birthYear": 1987,
+      "birthMonth": 4,
+      "birthDate": 10,
+      "description": "調子乗ってる？ノったもん勝ち!うるさい？んじゃもっと盛り上がってこ～ぜ♪……な、お喋り大好きギャル。笑ってないとかありえんてぃ、遊びに誘われたら秒でOK！とにかくなんでも楽しもうとする彼女の周りには、いつだって最高のグルーヴが生まれている。",
+      "height": 156,
+      "weight": "ウェーイ！",
+      "dormitory": "",
+      "threesize": "B82・W53・H85",
+      "schoolGrade": "",
+      "characterId": 1065,
+      "prizeMoney": 683200000,
+      "bad": "静かなのはぴえん、敬語はぱおん",
+      "ear": "晴れの日はどちゃくそ動いてウケる",
+      "family": "死んだフリにいつも騙されるパパママわら",
+      "good": "ババ抜きはレべチ、映える爆盛り",
+      "shoes": "左右ともに23.5cm",
+      "tail": "いつメンとハートマーク作って撮るのエモい",
+      "before": "いっしょに走る子とLANE交換♡",
+      "boast": "",
+      "buy": "",
+      "myrule": "ナシ★",
+      "spbg": "ほぼ通知で埋まってるウケ",
+      "subject": ""
+    }
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/tamamocross",
+  "fetched_at_utc": "2026-03-04T08:16:07.578901+00:00",
+  "slug": "tamamocross",
+  "name_ja": "タマモクロス",
+  "name_zh": "玉藻十字",
+  "folder_name": "玉藻十字",
+  "data": {
+    "id": 1021,
+    "name": "タマモクロス",
+    "alphabetId": "tamamocross",
+    "alphabetName": "Tamamo Cross",
+    "imageColorMain": "5DA9E2",
+    "imageColorSub": "AEFAFF",
+    "uiColorMain": "3290D6",
+    "uiColorSub": "C6DAE7",
+    "uiTrainingColor1": "55a5e1",
+    "uiTrainingColor2": "2d8ad0",
+    "uiBorderColor": "2d8ad0",
+    "uiNumColor1": "70b9ef",
+    "uiNumColor2": "2d8ad0",
+    "uiTurnColor": "2d8ad0",
+    "uiWipeColor1": "b4defe",
+    "uiWipeColor2": "d3ebfd",
+    "uiWipeColor3": "f0f9ff",
+    "uiSpeechColor1": "55a5e1",
+    "uiSpeechColor2": "55a5e1",
+    "uiNameplateColor1": "55a5e1",
+    "uiNameplateColor2": "a0d2f7",
+    "castId": 22,
+    "comics": [
+      {
+        "id": "1006_02",
+        "mainCharacterId": 1006,
+        "new": false,
+        "mainCharacter": {
+          "id": 1006,
+          "name": "オグリキャップ",
+          "castId": 6,
+          "alphabetId": "oguricap",
+          "uiColorSub": "ECE7E7",
+          "uiColorMain": "3A7AD2",
+          "alphabetName": "Oguri Cap",
+          "uiSpeechColor1": "5992DF"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1021_01",
+        "mainCharacterId": 1021,
+        "new": false
+      },
+      {
+        "id": "1021_02",
+        "mainCharacterId": 1021,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10027,
+        "name": "タマモクロス",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 1,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 20022,
+        "name": "タマモクロス",
+        "title": "[これがウチらのいか焼きや！]",
+        "rarity": 2,
+        "command": 3,
+        "publishedAt": "$D2022-01-11T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30009,
+        "name": "タマモクロス",
+        "title": "[天をも切り裂くイナズマ娘！]",
+        "rarity": 3,
+        "command": 1,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30064,
+        "name": "タマモクロス",
+        "title": "[やったれハロウィンナイト！]",
+        "rarity": 3,
+        "command": 2,
+        "publishedAt": "$D2021-09-29T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30256,
+        "name": "タマモクロス",
+        "title": "[白き稲妻の如く]",
+        "rarity": 3,
+        "command": 2,
+        "publishedAt": "$D2025-06-27T03:00:00.000Z",
+        "ev": false
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "102101",
+        "publishedAt": "$D2021-12-22T03:00:00.000Z",
+        "talentSpeed": 0,
+        "talentStamina": 20,
+        "talentPow": 10,
+        "talentGuts": 0,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 2,
+        "aptitudeShort": 1,
+        "aptitudeMile": 3,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 7,
+        "aptitudeRunner": 1,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 7,
+        "rank": 3,
+        "title": "[疾風迅雷]",
+        "limited": false,
+        "characterId": 1021,
+        "commonName": "タマモ、タマ",
+        "dressId": 102101,
+        "ev": false
+      },
+      {
+        "id": "102102",
+        "publishedAt": "$D2022-10-28T03:00:00.000Z",
+        "talentSpeed": 14,
+        "talentStamina": 8,
+        "talentPow": 0,
+        "talentGuts": 8,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 2,
+        "aptitudeShort": 1,
+        "aptitudeMile": 3,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 7,
+        "aptitudeRunner": 1,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 7,
+        "rank": 3,
+        "title": "[猛ル鳴神]",
+        "limited": false,
+        "characterId": 1021,
+        "commonName": "秋タマモ、神タマ",
+        "dressId": 102143,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 21,
+      "birthYear": 1984,
+      "birthMonth": 5,
+      "birthDate": 23,
+      "description": "関西弁バリバリのチビっ娘。体こそ小さいがまさに気力の塊で、日常でもレースでも隙あらばツッこんでくる。金銭的に恵まれない環境で育ったが、それを理由に負けてたまるかと奮起し続けるハングリー精神がパワーの源。ボケ担当のオグリキャップとはいいコンビ。",
+      "height": 140,
+      "weight": "計測不能",
+      "dormitory": "",
+      "threesize": "B71・W52・H73",
+      "schoolGrade": "",
+      "characterId": 1021,
+      "prizeMoney": 489670000,
+      "bad": "こたつ",
+      "ear": "『安売り』、『セール』と聞くとピンと立つ",
+      "family": "弟妹たちといる時は『タマねぇね』になる",
+      "good": "暗算（金額限定）",
+      "shoes": "左：19.5cm 右：20.0cm",
+      "tail": "怒ると、稲妻のようにビリビリ震える",
+      "before": "心なしか静電気の発生が増える",
+      "boast": "",
+      "buy": "",
+      "myrule": "うどんを本気で味わう時は、醤油のみで",
+      "spbg": "こたつでくっついて眠る弟と妹の寝顔",
+      "subject": ""
+    }
+  }
+}

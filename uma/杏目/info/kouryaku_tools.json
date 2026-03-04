@@ -1,0 +1,120 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/almondeye",
+  "fetched_at_utc": "2026-03-04T08:17:42.091562+00:00",
+  "slug": "almondeye",
+  "name_ja": "アーモンドアイ",
+  "name_zh": "杏目",
+  "folder_name": "杏目",
+  "data": {
+    "id": 1129,
+    "name": "アーモンドアイ",
+    "alphabetId": "almondeye",
+    "alphabetName": "Almond Eye",
+    "imageColorMain": "99ccff",
+    "imageColorSub": "cc3300",
+    "uiColorMain": "69a9e9",
+    "uiColorSub": "cc3300",
+    "uiTrainingColor1": "69A9E9",
+    "uiTrainingColor2": "3084D7",
+    "uiBorderColor": "3084D7",
+    "uiNumColor1": "69A9E9",
+    "uiNumColor2": "4292E1",
+    "uiTurnColor": "4292E1",
+    "uiWipeColor1": "B7DBFF",
+    "uiWipeColor2": "D0E8FF",
+    "uiWipeColor3": "FBE6DE",
+    "uiSpeechColor1": "69A9E9",
+    "uiSpeechColor2": "69A9E9",
+    "uiNameplateColor1": "69A9E9",
+    "uiNameplateColor2": "B5DAFF",
+    "castId": 131,
+    "comics": [],
+    "mainComics": [
+      {
+        "id": "1129_01",
+        "mainCharacterId": 1129,
+        "new": false
+      },
+      {
+        "id": "1129_02",
+        "mainCharacterId": 1129,
+        "new": true
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10122,
+        "name": "アーモンドアイ",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 0,
+        "publishedAt": "$D2025-02-24T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30242,
+        "name": "アーモンドアイ",
+        "title": "[世界を変える眼差し]",
+        "rarity": 3,
+        "command": 0,
+        "publishedAt": "$D2025-02-24T03:00:00.000Z",
+        "ev": false
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "112901",
+        "publishedAt": "$D2026-02-24T03:00:00.000Z",
+        "talentSpeed": 10,
+        "talentStamina": 10,
+        "talentPow": 10,
+        "talentGuts": 0,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 1,
+        "aptitudeMile": 7,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 2,
+        "aptitudeRunner": 1,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 4,
+        "rank": 3,
+        "title": "[The Changer]",
+        "limited": false,
+        "characterId": 1129,
+        "commonName": "アモアイ",
+        "dressId": 112901,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 126,
+      "birthYear": 2015,
+      "birthMonth": 3,
+      "birthDate": 10,
+      "description": "文武両道にしてスター性兼備、あらゆる方面で完璧な超絶優等生。 ただしそれは彼女が『超』が9個ほどつくレベルの『負けず嫌い』であるからこその結果。 負けん気が強すぎて完璧主義のきらいがあったり、体力以上の無茶をしがちなのが玉にキズ。",
+      "height": 163,
+      "weight": "完璧、よ",
+      "dormitory": "",
+      "threesize": "B86・W57・H81",
+      "schoolGrade": "",
+      "characterId": 1129,
+      "prizeMoney": 1915263900,
+      "bad": "変装、サウナ",
+      "ear": "日焼け対策は、革製の耳カバー",
+      "family": "家族ドライブ中はヒップホップで盛り上がる",
+      "good": "アイコンタクト、間違い探し",
+      "shoes": "左右ともに24.5cm",
+      "tail": "ヨガの時は結ぶ",
+      "before": "",
+      "boast": "",
+      "buy": "",
+      "myrule": "",
+      "spbg": "",
+      "subject": ""
+    }
+  }
+}

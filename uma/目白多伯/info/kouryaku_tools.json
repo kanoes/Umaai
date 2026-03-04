@@ -1,0 +1,238 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/mejirodober",
+  "fetched_at_utc": "2026-03-04T08:16:43.697102+00:00",
+  "slug": "mejirodober",
+  "name_ja": "メジロドーベル",
+  "name_zh": "目白多伯",
+  "folder_name": "目白多伯",
+  "data": {
+    "id": 1059,
+    "name": "メジロドーベル",
+    "alphabetId": "mejirodober",
+    "alphabetName": "Mejiro Dober",
+    "imageColorMain": "00B097",
+    "imageColorSub": "FFFFFF",
+    "uiColorMain": "19B49E",
+    "uiColorSub": "6F3B42",
+    "uiTrainingColor1": "2fc5b0",
+    "uiTrainingColor2": "20a895",
+    "uiBorderColor": "20a895",
+    "uiNumColor1": "3be0c9",
+    "uiNumColor2": "01b198",
+    "uiTurnColor": "20a895",
+    "uiWipeColor1": "abeee5",
+    "uiWipeColor2": "d6f2ed",
+    "uiWipeColor3": "eaf5f3",
+    "uiSpeechColor1": "16c4ac",
+    "uiSpeechColor2": "16c4ac",
+    "uiNameplateColor1": "16c4ac",
+    "uiNameplateColor2": "7ee0d2",
+    "castId": 59,
+    "comics": [
+      {
+        "id": "1010_02",
+        "mainCharacterId": 1010,
+        "new": true,
+        "mainCharacter": {
+          "id": 1010,
+          "name": "タイキシャトル",
+          "castId": 10,
+          "alphabetId": "taikishuttle",
+          "uiColorSub": "FFAC42",
+          "uiColorMain": "73C032",
+          "alphabetName": "Taiki Shuttle",
+          "uiSpeechColor1": "82D63C"
+        }
+      },
+      {
+        "id": "1014_02",
+        "mainCharacterId": 1014,
+        "new": false,
+        "mainCharacter": {
+          "id": 1014,
+          "name": "エルコンドルパサー",
+          "castId": 13,
+          "alphabetId": "elcondorpasa",
+          "uiColorSub": "EFDB28",
+          "uiColorMain": "DD4E31",
+          "alphabetName": "El Condor Pasa",
+          "uiSpeechColor1": "FE8B64"
+        }
+      },
+      {
+        "id": "1027_02",
+        "mainCharacterId": 1027,
+        "new": false,
+        "mainCharacter": {
+          "id": 1027,
+          "name": "メジロライアン",
+          "castId": 28,
+          "alphabetId": "mejiroryan",
+          "uiColorSub": "7C4D3A",
+          "uiColorMain": "14BAAE",
+          "alphabetName": "Mejiro Ryan",
+          "uiSpeechColor1": "50D9C7"
+        }
+      },
+      {
+        "id": "1086_01",
+        "mainCharacterId": 1086,
+        "new": false,
+        "mainCharacter": {
+          "id": 1086,
+          "name": "メジロラモーヌ",
+          "castId": 87,
+          "alphabetId": "mejiroramonu",
+          "uiColorSub": "3c5161",
+          "uiColorMain": "4bb6af",
+          "alphabetName": "Mejiro Ramonu",
+          "uiSpeechColor1": "229ba6"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1059_01",
+        "mainCharacterId": 1059,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10046,
+        "name": "メジロドーベル",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 4,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 20018,
+        "name": "メジロドーベル",
+        "title": "[目線は気にせず]",
+        "rarity": 2,
+        "command": 4,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 20057,
+        "name": "メジロドーベル",
+        "title": "[ふわり、さらり]",
+        "rarity": 2,
+        "command": 3,
+        "publishedAt": "$D2023-02-24T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 20093,
+        "name": "メジロドーベル",
+        "title": "[ぬくもりフォー・ユー]",
+        "rarity": 2,
+        "command": 0,
+        "publishedAt": "$D2025-12-11T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30041,
+        "name": "メジロドーベル",
+        "title": "[おもい、ねがう]",
+        "rarity": 3,
+        "command": 4,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": true
+      },
+      {
+        "id": 30174,
+        "name": "メジロドーベル",
+        "title": "[聖夜、変わるために]",
+        "rarity": 3,
+        "command": 0,
+        "publishedAt": "$D2023-11-30T03:00:00.000Z",
+        "ev": false
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "105901",
+        "publishedAt": "$D2021-11-19T03:00:00.000Z",
+        "talentSpeed": 10,
+        "talentStamina": 0,
+        "talentPow": 0,
+        "talentGuts": 0,
+        "talentWiz": 20,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 3,
+        "aptitudeMile": 7,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 2,
+        "aptitudeRunner": 5,
+        "aptitudeLeader": 6,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 1,
+        "rank": 3,
+        "title": "[ツイステッド・ライン]",
+        "limited": false,
+        "characterId": 1059,
+        "commonName": "ドーベル",
+        "dressId": 105901,
+        "ev": false
+      },
+      {
+        "id": "105902",
+        "publishedAt": "$D2022-06-30T03:00:00.000Z",
+        "talentSpeed": 20,
+        "talentStamina": 0,
+        "talentPow": 0,
+        "talentGuts": 0,
+        "talentWiz": 10,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 3,
+        "aptitudeMile": 7,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 2,
+        "aptitudeRunner": 5,
+        "aptitudeLeader": 6,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 1,
+        "rank": 3,
+        "title": "[バカンス・サフィール]",
+        "limited": false,
+        "characterId": 1059,
+        "commonName": "夏ドーベル、夏ドベ、軽井沢ドーベル",
+        "dressId": 105923,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 59,
+      "birthYear": 1994,
+      "birthMonth": 5,
+      "birthDate": 6,
+      "description": "卑屈なクールビューティー。人目が苦手で、とくに男性の前では極度に緊張してしまう。メジロ家という社交必須の環境に生まれながら、ずっと奥まったところで暮らしてきた、孤立の令嬢である。打ち解けた相手に対しては、そこまでドライではないという噂もあるが……。",
+      "height": 157,
+      "weight": "増減なし",
+      "dormitory": "",
+      "threesize": "B83・W57・H81",
+      "schoolGrade": "",
+      "characterId": 1059,
+      "prizeMoney": 733420000,
+      "bad": "男性、雷",
+      "ear": "男性の声を聞くと固まってしまう",
+      "family": "『ベルちゃん』呼び禁止令に、父は凹みがち",
+      "good": "紅茶の銘柄に詳しい",
+      "shoes": "左右ともに22.0cm",
+      "tail": "ブランド物より毛質に合うアイテムを愛用中",
+      "before": "観客席のトレーナーと目を合わせる",
+      "boast": "",
+      "buy": "",
+      "myrule": "小さい子と話す時は目線を合わせる",
+      "spbg": "元チーフと現トレーナーの3人で撮った写真",
+      "subject": ""
+    }
+  }
+}

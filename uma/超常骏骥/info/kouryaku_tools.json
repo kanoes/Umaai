@@ -1,0 +1,131 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/fenomeno",
+  "fetched_at_utc": "2026-03-04T08:27:16.327628+00:00",
+  "slug": "fenomeno",
+  "name_ja": "フェノーメノ",
+  "name_zh": "超常骏骥",
+  "folder_name": "超常骏骥",
+  "data": {
+    "id": 1127,
+    "name": "フェノーメノ",
+    "alphabetId": "fenomeno",
+    "alphabetName": "Fenomeno",
+    "imageColorMain": "574B72",
+    "imageColorSub": "FFE652",
+    "uiColorMain": "574a74",
+    "uiColorSub": "f4db4e",
+    "uiTrainingColor1": "765db2",
+    "uiTrainingColor2": "5c478a",
+    "uiBorderColor": "5c478a",
+    "uiNumColor1": "9376d3",
+    "uiNumColor2": "63508f",
+    "uiTurnColor": "63508f",
+    "uiWipeColor1": "d1ccdc",
+    "uiWipeColor2": "e6e3ec",
+    "uiWipeColor3": "fbf4ce",
+    "uiSpeechColor1": "765db2",
+    "uiSpeechColor2": "765db2",
+    "uiNameplateColor1": "765db2",
+    "uiNameplateColor2": "bcaae6",
+    "castId": 130,
+    "comics": [
+      {
+        "id": "1135_01",
+        "mainCharacterId": 1135,
+        "new": false,
+        "mainCharacter": {
+          "id": 1135,
+          "name": "ステイゴールド",
+          "castId": 137,
+          "alphabetId": "staygold",
+          "uiColorSub": "49699c",
+          "uiColorMain": "bfb33e",
+          "alphabetName": "Stay Gold",
+          "uiSpeechColor1": "bfb33e"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1127_01",
+        "mainCharacterId": 1127,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10139,
+        "name": "フェノーメノ",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 1,
+        "publishedAt": "$D2025-11-28T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30279,
+        "name": "フェノーメノ",
+        "title": "[ぬくもりのノエル]",
+        "rarity": 3,
+        "command": 1,
+        "publishedAt": "$D2025-11-28T03:00:00.000Z",
+        "ev": false
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "112701",
+        "publishedAt": "$D2025-04-21T03:00:00.000Z",
+        "talentSpeed": 0,
+        "talentStamina": 10,
+        "talentPow": 0,
+        "talentGuts": 20,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 1,
+        "aptitudeMile": 1,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 7,
+        "aptitudeRunner": 5,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 3,
+        "aptitudeChaser": 1,
+        "rank": 3,
+        "title": "[義心の黒焔]",
+        "limited": false,
+        "characterId": 1127,
+        "commonName": "メノ",
+        "dressId": 112701,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 125,
+      "birthYear": 2009,
+      "birthMonth": 4,
+      "birthDate": 20,
+      "description": "風紀委員会に所属する正義感が強いウマ娘。 日々パトロールや地域のボランティア活動に精を出しており、その姿はさながら優しく頼れる皆のお巡りさん……と言いたいところだが、鋭すぎる眼光のせいか近所の子どもたちからは、すごーく怖がられてしまっているそうな。",
+      "height": 171,
+      "weight": "怪物的",
+      "dormitory": "",
+      "threesize": "B81・W59・H82",
+      "schoolGrade": "",
+      "characterId": 1127,
+      "prizeMoney": 629100000,
+      "bad": "ヘアワックス、ハッカ飴",
+      "ear": "威厳のある毛並みはひそかなお気に入り",
+      "family": "一家揃ってつぶあん派",
+      "good": "書道、感謝状を書くこと",
+      "shoes": "左右ともに26.0cm",
+      "tail": "ボスの前ではたいてい揺れている",
+      "before": "",
+      "boast": "",
+      "buy": "",
+      "myrule": "",
+      "spbg": "",
+      "subject": ""
+    }
+  }
+}

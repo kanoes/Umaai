@@ -1,0 +1,88 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/blastonepiece",
+  "fetched_at_utc": "2026-03-04T08:17:41.241119+00:00",
+  "slug": "blastonepiece",
+  "name_ja": "ブラストワンピース",
+  "name_zh": "爆裂一击",
+  "folder_name": "爆裂一击",
+  "data": {
+    "id": 1128,
+    "name": "ブラストワンピース",
+    "alphabetId": "blastonepiece",
+    "alphabetName": "Blast Onepiece",
+    "imageColorMain": "A8C6FD",
+    "imageColorSub": "5277D6",
+    "uiColorMain": "009cbd",
+    "uiColorSub": "0cb85f",
+    "uiTrainingColor1": "4C91F1",
+    "uiTrainingColor2": "2B75DD",
+    "uiBorderColor": "2B75DD",
+    "uiNumColor1": "71ADFF",
+    "uiNumColor2": "1667D9",
+    "uiTurnColor": "1667D9",
+    "uiWipeColor1": "BCD5F5",
+    "uiWipeColor2": "D6E4F6",
+    "uiWipeColor3": "FFEBF6",
+    "uiSpeechColor1": "4C91F1",
+    "uiSpeechColor2": "4C91F1",
+    "uiNameplateColor1": "4C91F1",
+    "uiNameplateColor2": "8DBCFD",
+    "castId": 128,
+    "comics": [],
+    "mainComics": [
+      {
+        "id": "1128_01",
+        "mainCharacterId": 1128,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10116,
+        "name": "ブラストワンピース",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 3,
+        "publishedAt": "$D2024-12-10T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30232,
+        "name": "ブラストワンピース",
+        "title": "[Blast Off!]",
+        "rarity": 3,
+        "command": 3,
+        "publishedAt": "$D2024-12-10T03:00:00.000Z",
+        "ev": false
+      }
+    ],
+    "characterCards": [],
+    "characterProfile": {
+      "id": 123,
+      "birthYear": 2015,
+      "birthMonth": 4,
+      "birthDate": 2,
+      "description": "人懐っこさ全開の天真爛漫ウマ娘。 ヒトの姿を見つけると、嬉しさいっぱいにワフワフと駆け寄ってくる。 小さい頃、脚のケアをしてもらったため、ウマ娘と繋がりのあるヒトがとくに大好き。 ヒトの文化、歴史などなどに興味津々！",
+      "height": 174,
+      "weight": "どっかん！",
+      "dormitory": "",
+      "threesize": "B93・W63・H90",
+      "schoolGrade": "",
+      "characterId": 1128,
+      "prizeMoney": 589420000,
+      "bad": "",
+      "ear": "",
+      "family": "",
+      "good": "",
+      "shoes": "",
+      "tail": "",
+      "before": "",
+      "boast": "",
+      "buy": "",
+      "myrule": "",
+      "spbg": "",
+      "subject": ""
+    }
+  }
+}

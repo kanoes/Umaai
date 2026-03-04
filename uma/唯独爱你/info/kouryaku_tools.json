@@ -1,0 +1,147 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/lovesonlyyou",
+  "fetched_at_utc": "2026-03-04T08:17:44.765259+00:00",
+  "slug": "lovesonlyyou",
+  "name_ja": "ラヴズオンリーユー",
+  "name_zh": "唯独爱你",
+  "folder_name": "唯独爱你",
+  "data": {
+    "id": 1132,
+    "name": "ラヴズオンリーユー",
+    "alphabetId": "lovesonlyyou",
+    "alphabetName": "Loves Only You",
+    "imageColorMain": "373A37",
+    "imageColorSub": "399857",
+    "uiColorMain": "424840",
+    "uiColorSub": "268745",
+    "uiTrainingColor1": "29aa50",
+    "uiTrainingColor2": "278846",
+    "uiBorderColor": "278846",
+    "uiNumColor1": "1bbf4e",
+    "uiNumColor2": "1ea448",
+    "uiTurnColor": "1ea448",
+    "uiWipeColor1": "858b83",
+    "uiWipeColor2": "9da89a",
+    "uiWipeColor3": "8bbd9a",
+    "uiSpeechColor1": "29aa50",
+    "uiSpeechColor2": "29aa50",
+    "uiNameplateColor1": "29aa50",
+    "uiNameplateColor2": "7ef1a1",
+    "castId": 134,
+    "comics": [
+      {
+        "id": "1133_01",
+        "mainCharacterId": 1133,
+        "new": false,
+        "mainCharacter": {
+          "id": 1133,
+          "name": "クロノジェネシス",
+          "castId": 135,
+          "alphabetId": "chronogenesis",
+          "uiColorSub": "50a19f",
+          "uiColorMain": "464647",
+          "alphabetName": "Chrono Genesis",
+          "uiSpeechColor1": "60B9B7"
+        }
+      },
+      {
+        "id": "1134_01",
+        "mainCharacterId": 1134,
+        "new": false,
+        "mainCharacter": {
+          "id": 1134,
+          "name": "カレンブーケドール",
+          "castId": 136,
+          "alphabetId": "currenbouquetdor",
+          "uiColorSub": "473d3c",
+          "uiColorMain": "8e8180",
+          "alphabetName": "Curren Bouquetdor",
+          "uiSpeechColor1": "4C91F1"
+        }
+      },
+      {
+        "id": "1138_01",
+        "mainCharacterId": 1138,
+        "new": true,
+        "mainCharacter": {
+          "id": 1138,
+          "name": "フォーエバーヤング",
+          "castId": 141,
+          "alphabetId": "foreveryoung",
+          "uiColorSub": "d8ced2",
+          "uiColorMain": "822b4a",
+          "alphabetName": "Forever Young",
+          "uiSpeechColor1": "bc4D75"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1132_01",
+        "mainCharacterId": 1132,
+        "new": false
+      },
+      {
+        "id": "1132_02",
+        "mainCharacterId": 1132,
+        "new": true
+      }
+    ],
+    "supportCards": [],
+    "characterCards": [
+      {
+        "id": "113201",
+        "publishedAt": "$D2025-05-21T03:00:00.000Z",
+        "talentSpeed": 10,
+        "talentStamina": 10,
+        "talentPow": 0,
+        "talentGuts": 10,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 1,
+        "aptitudeMile": 5,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 2,
+        "aptitudeRunner": 1,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 1,
+        "rank": 3,
+        "title": "[9927 Wishes]",
+        "limited": false,
+        "characterId": 1132,
+        "commonName": "ラヴズ",
+        "dressId": 113201,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 129,
+      "birthYear": 2016,
+      "birthMonth": 3,
+      "birthDate": 26,
+      "description": "ネット上で自分のファンクラブを運営しており、会員登録してくれているファンのために、よく動画配信などの活動をしている。 夢は世界中のファンと『愛』を分かち合うこと♡ ファンからは応援という名の『愛』をもらい、自分は勝利という名の『愛』を返すのだとか。",
+      "height": 158,
+      "weight": "メン限公開中",
+      "dormitory": "",
+      "threesize": "B88・W58・H88",
+      "schoolGrade": "",
+      "characterId": 1132,
+      "prizeMoney": 913948700,
+      "bad": "お絵かき、ホラーゲーム、何もしない休み",
+      "ear": "配信ノイズは360度、聞き逃さない",
+      "family": "記念日の撮影は、写真ではなく動画",
+      "good": "映像編集、いろんな人とコラボすること",
+      "shoes": "左右ともに25.5cm",
+      "tail": "猫の注意を引き、配信に飛び入りはさせない",
+      "before": "",
+      "boast": "",
+      "buy": "",
+      "myrule": "",
+      "spbg": "",
+      "subject": ""
+    }
+  }
+}

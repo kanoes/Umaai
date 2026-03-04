@@ -1,0 +1,88 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/reddesire",
+  "fetched_at_utc": "2026-03-04T08:17:48.125386+00:00",
+  "slug": "reddesire",
+  "name_ja": "レッドディザイア",
+  "name_zh": "赤色欲望",
+  "folder_name": "赤色欲望",
+  "data": {
+    "id": 1136,
+    "name": "レッドディザイア",
+    "alphabetId": "reddesire",
+    "alphabetName": "Red Desire",
+    "imageColorMain": "D32630",
+    "imageColorSub": "802F2D",
+    "uiColorMain": "cb3a43",
+    "uiColorSub": "802f2d",
+    "uiTrainingColor1": "FFFFFF",
+    "uiTrainingColor2": "FFFFFF",
+    "uiBorderColor": "FFFFFF",
+    "uiNumColor1": "FFFFFF",
+    "uiNumColor2": "FFFFFF",
+    "uiTurnColor": "FFFFFF",
+    "uiWipeColor1": "FFFFFF",
+    "uiWipeColor2": "FFFFFF",
+    "uiWipeColor3": "FFFFFF",
+    "uiSpeechColor1": "FFFFFF",
+    "uiSpeechColor2": "FFFFFF",
+    "uiNameplateColor1": "FFFFFF",
+    "uiNameplateColor2": "FFFFFF",
+    "castId": 139,
+    "comics": [],
+    "mainComics": [
+      {
+        "id": "1136_01",
+        "mainCharacterId": 1136,
+        "new": true
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10142,
+        "name": "レッドディザイア",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 3,
+        "publishedAt": "$D2026-02-24T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 20095,
+        "name": "レッドディザイア",
+        "title": "[Fervent Yearning]",
+        "rarity": 2,
+        "command": 3,
+        "publishedAt": "$D2026-02-24T03:00:00.000Z",
+        "ev": false
+      }
+    ],
+    "characterCards": [],
+    "characterProfile": {
+      "id": 134,
+      "birthYear": 2006,
+      "birthMonth": 4,
+      "birthDate": 19,
+      "description": "いずれ遥かなる“異セカイ”へ到り、崇め奉られる聖女となる宿命を背負いしウマ娘（自称）。 『嗚呼、きっと全てはかの“セカイ”へ昇るための“聖女の試練”――必ずや乗り越えてみせます』なんて話を、憧れの先輩が淹れてくれたカフェラテを飲みながら語る姿がよく目撃されている。",
+      "height": 160,
+      "weight": "神聖なるヒミツ",
+      "dormitory": "",
+      "threesize": "B74・W55・H79",
+      "schoolGrade": "",
+      "characterId": 1136,
+      "prizeMoney": 328110000,
+      "bad": "",
+      "ear": "",
+      "family": "",
+      "good": "",
+      "shoes": "",
+      "tail": "",
+      "before": "",
+      "boast": "",
+      "buy": "",
+      "myrule": "",
+      "spbg": "",
+      "subject": ""
+    }
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/cesario",
+  "fetched_at_utc": "2026-03-04T08:17:28.119023+00:00",
+  "slug": "cesario",
+  "name_ja": "シーザリオ",
+  "name_zh": "凯撒利亚",
+  "folder_name": "凯撒利亚",
+  "data": {
+    "id": 1110,
+    "name": "シーザリオ",
+    "alphabetId": "cesario",
+    "alphabetName": "Cesario",
+    "imageColorMain": "E7E4F2",
+    "imageColorSub": "004399",
+    "uiColorMain": "948eab",
+    "uiColorSub": "0a3874",
+    "uiTrainingColor1": "849cc3",
+    "uiTrainingColor2": "657193",
+    "uiBorderColor": "657193",
+    "uiNumColor1": "a0b3d3",
+    "uiNumColor2": "707e9f",
+    "uiTurnColor": "6a799a",
+    "uiWipeColor1": "c9d7f7",
+    "uiWipeColor2": "e6edff",
+    "uiWipeColor3": "b9cee6",
+    "uiSpeechColor1": "849cc3",
+    "uiSpeechColor2": "849cc3",
+    "uiNameplateColor1": "7b89b3",
+    "uiNameplateColor2": "b5c7e4",
+    "castId": 108,
+    "comics": [
+      {
+        "id": "1061_02",
+        "mainCharacterId": 1061,
+        "new": false,
+        "mainCharacter": {
+          "id": 1061,
+          "name": "キングヘイロー",
+          "castId": 63,
+          "alphabetId": "kinghalo",
+          "uiColorSub": "1C57A5",
+          "uiColorMain": "0E9451",
+          "alphabetName": "King Halo",
+          "uiSpeechColor1": "6ECB74"
+        }
+      },
+      {
+        "id": "1109_01",
+        "mainCharacterId": 1109,
+        "new": false,
+        "mainCharacter": {
+          "id": 1109,
+          "name": "ラインクラフト",
+          "castId": 107,
+          "alphabetId": "rheinkraft",
+          "uiColorSub": "2c9679",
+          "uiColorMain": "f15b75",
+          "alphabetName": "Rhein Kraft",
+          "uiSpeechColor1": "f36b83"
+        }
+      },
+      {
+        "id": "1114_01",
+        "mainCharacterId": 1114,
+        "new": false,
+        "mainCharacter": {
+          "id": 1114,
+          "name": "ブエナビスタ",
+          "castId": 122,
+          "alphabetId": "buenavista",
+          "uiColorSub": "583d3e",
+          "uiColorMain": "c0af3b",
+          "alphabetName": "Buena Vista",
+          "uiSpeechColor1": "c2b246"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1110_01",
+        "mainCharacterId": 1110,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10115,
+        "name": "シーザリオ",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 4,
+        "publishedAt": "$D2024-09-20T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30217,
+        "name": "シーザリオ",
+        "title": "[慈恵のMother Sea]",
+        "rarity": 3,
+        "command": 4,
+        "publishedAt": "$D2024-09-20T03:00:00.000Z",
+        "ev": true
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "111001",
+        "publishedAt": "$D2024-09-10T03:00:00.000Z",
+        "talentSpeed": 10,
+        "talentStamina": 0,
+        "talentPow": 10,
+        "talentGuts": 0,
+        "talentWiz": 10,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 1,
+        "aptitudeMile": 7,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 2,
+        "aptitudeRunner": 1,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 5,
+        "rank": 3,
+        "title": "[Future Weaver]",
+        "limited": false,
+        "characterId": 1110,
+        "commonName": "ザリオ",
+        "dressId": 111001,
+        "ev": false
+      },
+      {
+        "id": "111002",
+        "publishedAt": "$D2025-05-30T03:00:00.000Z",
+        "talentSpeed": 0,
+        "talentStamina": 0,
+        "talentPow": 10,
+        "talentGuts": 20,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 1,
+        "aptitudeMile": 7,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 2,
+        "aptitudeRunner": 1,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 5,
+        "rank": 3,
+        "title": "[Twinbell Queen]",
+        "limited": false,
+        "characterId": 1110,
+        "commonName": "嫁ザリオ",
+        "dressId": 111026,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 102,
+      "birthYear": 2002,
+      "birthMonth": 3,
+      "birthDate": 31,
+      "description": "理知的で懐が深いウマ娘。名トレーナーの父と教育熱心な母の影響で、後進の育成に興味を持つ。 ティアラウマ娘は引退後に後進育成に注力することが多いと知り、自分の理想そのものだと憧れている。 同室の親友いわくオンオフが非常にはっきりしているらしい。",
+      "height": 167,
+      "weight": "微減（レース前で節制気味）",
+      "dormitory": "",
+      "threesize": "B80・W53・H84",
+      "schoolGrade": "",
+      "characterId": 1110,
+      "prizeMoney": 278920000,
+      "bad": "悲恋物語、冬の朝",
+      "ear": "甘えてもらえないと、時折イカ耳になる",
+      "family": "にんじんグラッセは母直伝のレシピ",
+      "good": "歌、手分量、変装",
+      "shoes": "左右ともに24.5cm",
+      "tail": "海洋深層水のシャンプーを使っている",
+      "before": "後進に伝えられるよう心情などメモしている",
+      "boast": "",
+      "buy": "",
+      "myrule": "冬場は首の上までしっかり毛布をかけて眠る",
+      "spbg": "レースクラブを訪問した時の集合写真",
+      "subject": ""
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/gentildonna",
+  "fetched_at_utc": "2026-03-04T08:17:33.449459+00:00",
+  "slug": "gentildonna",
+  "name_ja": "ジェンティルドンナ",
+  "name_zh": "贵妇人",
+  "folder_name": "贵妇人",
+  "data": {
+    "id": 1116,
+    "name": "ジェンティルドンナ",
+    "alphabetId": "gentildonna",
+    "alphabetName": "Gentildonna",
+    "imageColorMain": "C4352D",
+    "imageColorSub": "4C1E21",
+    "uiColorMain": "cf2f2b",
+    "uiColorSub": "533c3d",
+    "uiTrainingColor1": "f05252",
+    "uiTrainingColor2": "cc3c37",
+    "uiBorderColor": "cc3c37",
+    "uiNumColor1": "f05252",
+    "uiNumColor2": "d62f40",
+    "uiTurnColor": "d62f40",
+    "uiWipeColor1": "f7a7a6",
+    "uiWipeColor2": "fabbb6",
+    "uiWipeColor3": "deada0",
+    "uiSpeechColor1": "f05252",
+    "uiSpeechColor2": "f05252",
+    "uiNameplateColor1": "f05252",
+    "uiNameplateColor2": "fc9692",
+    "castId": 118,
+    "comics": [
+      {
+        "id": "1090_01",
+        "mainCharacterId": 1090,
+        "new": false,
+        "mainCharacter": {
+          "id": 1090,
+          "name": "ヴィルシーナ",
+          "castId": 104,
+          "alphabetId": "verxina",
+          "uiColorSub": "84c6e7",
+          "uiColorMain": "4747cc",
+          "alphabetName": "Verxina",
+          "uiSpeechColor1": "7070ec"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1116_01",
+        "mainCharacterId": 1116,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10113,
+        "name": "ジェンティルドンナ",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 0,
+        "publishedAt": "$D2024-02-24T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30186,
+        "name": "ジェンティルドンナ",
+        "title": "[Balliamo?]",
+        "rarity": 3,
+        "command": 0,
+        "publishedAt": "$D2024-02-24T03:00:00.000Z",
+        "ev": true
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "111601",
+        "publishedAt": "$D2024-08-24T03:00:00.000Z",
+        "talentSpeed": 10,
+        "talentStamina": 10,
+        "talentPow": 10,
+        "talentGuts": 0,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 1,
+        "aptitudeMile": 7,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 7,
+        "aptitudeRunner": 3,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 4,
+        "rank": 3,
+        "title": "[Regina dei fiori]",
+        "limited": false,
+        "characterId": 1116,
+        "commonName": "ドンナ、ジェンティル",
+        "dressId": 111601,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 113,
+      "birthYear": 2009,
+      "birthMonth": 2,
+      "birthDate": 20,
+      "description": "強さこそが正義、実力至上主義のウマ娘。 自身に対してはもちろんのこと、他者に対しても一切の甘さはなく、冷徹にすら感じられるほど。 敗者に語る言葉なし――それこそが、剛毅なる貴婦人、ジェンティルドンナである。",
+      "height": 167,
+      "weight": "パワフル",
+      "dormitory": "",
+      "threesize": "B95・W63・H87",
+      "schoolGrade": "",
+      "characterId": 1116,
+      "prizeMoney": 1326210000,
+      "bad": "ヒョウ柄、タピオカ",
+      "ear": "メンコに合わせて服を決めるほど、こだわる",
+      "family": "3歳3合目、5歳5合目、7歳で富士登頂が掟",
+      "good": "潜水、装蹄、マスカラ",
+      "shoes": "左右ともに26.5cm",
+      "tail": "就寝時はニードルレースの尻尾カバーを使用",
+      "before": "",
+      "boast": "",
+      "buy": "",
+      "myrule": "",
+      "spbg": "",
+      "subject": ""
+    }
+  }
+}

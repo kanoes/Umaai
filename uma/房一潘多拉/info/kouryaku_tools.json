@@ -1,0 +1,151 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/fusaichipandora",
+  "fetched_at_utc": "2026-03-04T08:17:30.748597+00:00",
+  "slug": "fusaichipandora",
+  "name_ja": "フサイチパンドラ",
+  "name_zh": "房一潘多拉",
+  "folder_name": "房一潘多拉",
+  "data": {
+    "id": 1113,
+    "name": "フサイチパンドラ",
+    "alphabetId": "fusaichipandora",
+    "alphabetName": "Fusaichi Pandora",
+    "imageColorMain": "FB637E",
+    "imageColorSub": "FFE085",
+    "uiColorMain": "fd637f",
+    "uiColorSub": "fbd872",
+    "uiTrainingColor1": "ff7790",
+    "uiTrainingColor2": "f8516f",
+    "uiBorderColor": "f8516f",
+    "uiNumColor1": "ff7790",
+    "uiNumColor2": "f95d7a",
+    "uiTurnColor": "f95d7a",
+    "uiWipeColor1": "ffc6d0",
+    "uiWipeColor2": "ffe2e7",
+    "uiWipeColor3": "fff4d3",
+    "uiSpeechColor1": "ff7790",
+    "uiSpeechColor2": "ff7790",
+    "uiNameplateColor1": "ff7790",
+    "uiNameplateColor2": "ffc2cd",
+    "castId": 127,
+    "comics": [
+      {
+        "id": "1061_02",
+        "mainCharacterId": 1061,
+        "new": false,
+        "mainCharacter": {
+          "id": 1061,
+          "name": "キングヘイロー",
+          "castId": 63,
+          "alphabetId": "kinghalo",
+          "uiColorSub": "1C57A5",
+          "uiColorMain": "0E9451",
+          "alphabetName": "King Halo",
+          "uiSpeechColor1": "6ECB74"
+        }
+      },
+      {
+        "id": "1129_02",
+        "mainCharacterId": 1129,
+        "new": true,
+        "mainCharacter": {
+          "id": 1129,
+          "name": "アーモンドアイ",
+          "castId": 131,
+          "alphabetId": "almondeye",
+          "uiColorSub": "cc3300",
+          "uiColorMain": "69a9e9",
+          "alphabetName": "Almond Eye",
+          "uiSpeechColor1": "69A9E9"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1113_01",
+        "mainCharacterId": 1113,
+        "new": false
+      },
+      {
+        "id": "1113_02",
+        "mainCharacterId": 1113,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10129,
+        "name": "フサイチパンドラ",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 0,
+        "publishedAt": "$D2025-07-22T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30259,
+        "name": "フサイチパンドラ",
+        "title": "[ゼッタイ☆天才伝説]",
+        "rarity": 3,
+        "command": 0,
+        "publishedAt": "$D2025-07-22T03:00:00.000Z",
+        "ev": true
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "111301",
+        "publishedAt": "$D2025-07-22T03:00:00.000Z",
+        "talentSpeed": 0,
+        "talentStamina": 10,
+        "talentPow": 0,
+        "talentGuts": 10,
+        "talentWiz": 10,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 3,
+        "aptitudeShort": 1,
+        "aptitudeMile": 6,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 1,
+        "aptitudeRunner": 5,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 6,
+        "aptitudeChaser": 2,
+        "rank": 3,
+        "title": "[Assorted Cuteness♡]",
+        "limited": false,
+        "characterId": 1113,
+        "commonName": "パンドラ",
+        "dressId": 111301,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 122,
+      "birthYear": 2003,
+      "birthMonth": 2,
+      "birthDate": 27,
+      "description": "生まれた時から周りに『天才』と褒めそやされ、すくすく健やかに、身も心も自信も成長したラブリーウマ娘。 入学後もその自信と素質が陰ることなく、のびのびと過ごしているが…… ちょっぴり自分に甘すぎるのかもしれない。 嫌いなものは反省会。",
+      "height": 165,
+      "weight": "いーかんじ♡",
+      "dormitory": "",
+      "threesize": "B92・W61・H86",
+      "schoolGrade": "",
+      "characterId": 1113,
+      "prizeMoney": 378110000,
+      "bad": "キツすぎちゃうのはイヤ",
+      "ear": "ガチおねだりのときは極限まで垂らす",
+      "family": "家族全員、旅行前日は眠れないタイプ",
+      "good": "だいたいぜ～んぶ♡（早着替え、口笛）",
+      "shoes": "左右ともに24.0cm",
+      "tail": "寝ているときの荒ぶり方が恐れられている",
+      "before": "",
+      "boast": "",
+      "buy": "",
+      "myrule": "",
+      "spbg": "",
+      "subject": ""
+    }
+  }
+}

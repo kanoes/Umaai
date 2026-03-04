@@ -1,0 +1,201 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/sakurachiyonoo",
+  "fetched_at_utc": "2026-03-04T08:16:52.765343+00:00",
+  "slug": "sakurachiyonoo",
+  "name_ja": "サクラチヨノオー",
+  "name_zh": "樱花千代王",
+  "folder_name": "樱花千代王",
+  "data": {
+    "id": 1069,
+    "name": "サクラチヨノオー",
+    "alphabetId": "sakurachiyonoo",
+    "alphabetName": "Sakura Chiyono O",
+    "imageColorMain": "FFA3B5",
+    "imageColorSub": "F5DADF",
+    "uiColorMain": "f9879d",
+    "uiColorSub": "f7dde2",
+    "uiTrainingColor1": "ff7892",
+    "uiTrainingColor2": "e54c6d",
+    "uiBorderColor": "e54c6d",
+    "uiNumColor1": "ff829a",
+    "uiNumColor2": "e54c6d",
+    "uiTurnColor": "e54c6d",
+    "uiWipeColor1": "ffbbc8",
+    "uiWipeColor2": "ffdae1",
+    "uiWipeColor3": "ffeef1",
+    "uiSpeechColor1": "e54c6d",
+    "uiSpeechColor2": "e54c6d",
+    "uiNameplateColor1": "e54c6d",
+    "uiNameplateColor2": "ffa9ba",
+    "castId": 69,
+    "comics": [
+      {
+        "id": "1071_02",
+        "mainCharacterId": 1071,
+        "new": false,
+        "mainCharacter": {
+          "id": 1071,
+          "name": "メジロアルダン",
+          "castId": 72,
+          "alphabetId": "mejiroardan",
+          "uiColorSub": "bfe4eb",
+          "uiColorMain": "28baa5",
+          "alphabetName": "Mejiro Ardan",
+          "uiSpeechColor1": "28baa5"
+        }
+      },
+      {
+        "id": "1072_01",
+        "mainCharacterId": 1072,
+        "new": false,
+        "mainCharacter": {
+          "id": 1072,
+          "name": "ヤエノムテキ",
+          "castId": 70,
+          "alphabetId": "yaenomuteki",
+          "uiColorSub": "ffda93",
+          "uiColorMain": "da483a",
+          "alphabetName": "Yaeno Muteki",
+          "uiSpeechColor1": "e55345"
+        }
+      },
+      {
+        "id": "1076_01",
+        "mainCharacterId": 1076,
+        "new": false,
+        "mainCharacter": {
+          "id": 1076,
+          "name": "サクラローレル",
+          "castId": 81,
+          "alphabetId": "sakuralaurel",
+          "uiColorSub": "fecdc9",
+          "uiColorMain": "f0638a",
+          "alphabetName": "Sakura Laurel",
+          "uiSpeechColor1": "e65779"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1069_01",
+        "mainCharacterId": 1069,
+        "new": false
+      },
+      {
+        "id": "1069_02",
+        "mainCharacterId": 1069,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10062,
+        "name": "サクラチヨノオー",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 1,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30038,
+        "name": "サクラチヨノオー",
+        "title": "[今ぞ盛りのさくら花]",
+        "rarity": 3,
+        "command": 1,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30109,
+        "name": "サクラチヨノオー",
+        "title": "[チョベリグ心あれば桜心]",
+        "rarity": 3,
+        "command": 3,
+        "publishedAt": "$D2022-07-29T03:00:00.000Z",
+        "ev": true
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "106901",
+        "publishedAt": "$D2022-01-20T03:00:00.000Z",
+        "talentSpeed": 10,
+        "talentStamina": 0,
+        "talentPow": 0,
+        "talentGuts": 10,
+        "talentWiz": 10,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 3,
+        "aptitudeMile": 7,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 3,
+        "aptitudeRunner": 6,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 2,
+        "aptitudeChaser": 1,
+        "rank": 3,
+        "title": "[日下開山・花あかり]",
+        "limited": false,
+        "characterId": 1069,
+        "commonName": "チヨノオー、チヨちゃん",
+        "dressId": 106901,
+        "ev": false
+      },
+      {
+        "id": "106902",
+        "publishedAt": "$D2023-03-29T03:00:00.000Z",
+        "talentSpeed": 8,
+        "talentStamina": 0,
+        "talentPow": 14,
+        "talentGuts": 0,
+        "talentWiz": 8,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 3,
+        "aptitudeMile": 7,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 3,
+        "aptitudeRunner": 6,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 2,
+        "aptitudeChaser": 1,
+        "rank": 3,
+        "title": "[Fleur Enneigée]",
+        "limited": false,
+        "characterId": 1069,
+        "commonName": "ドレスチヨ、ダンスチヨ、ドレスチヨちゃん",
+        "dressId": 106920,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 70,
+      "birthYear": 1985,
+      "birthMonth": 2,
+      "birthDate": 19,
+      "description": "素直で良い子で普通なウマ娘。マルゼンスキーに憧れており、彼女に挑戦できる自分になるため、ひたむきに努力を重ねている。日課は、日々の気づきを格言にして記録すること。気づきがしたためられた通称·チヨノートには、絶妙に伝わらない例えが書き連ねられている。",
+      "height": 156,
+      "weight": "微減",
+      "dormitory": "",
+      "threesize": "B80・W55・H83",
+      "schoolGrade": "",
+      "characterId": 1069,
+      "prizeMoney": 208900000,
+      "bad": "車や飛行機（酔いやすい）",
+      "ear": "いい格言が思い浮かぶとピクンと震える",
+      "family": "夕飯は家族でよく鍋を囲んでいた",
+      "good": "和菓子作り、整理整頓",
+      "shoes": "左右ともに22.0cm",
+      "tail": "マルゼンスキーと同じオイルでケアしている",
+      "before": "トレーナーさんと『チヨノ・オー！』",
+      "boast": "",
+      "buy": "",
+      "myrule": "寝る前にマイスケジュール帳の更新！",
+      "spbg": "マルゼンさんとのナウいツーショット！",
+      "subject": ""
+    }
+  }
+}

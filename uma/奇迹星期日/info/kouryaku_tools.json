@@ -1,0 +1,198 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/marveloussunday",
+  "fetched_at_utc": "2026-03-04T08:16:40.007443+00:00",
+  "slug": "marveloussunday",
+  "name_ja": "マーベラスサンデー",
+  "name_zh": "奇迹星期日",
+  "folder_name": "奇迹星期日",
+  "data": {
+    "id": 1055,
+    "name": "マーベラスサンデー",
+    "alphabetId": "marveloussunday",
+    "alphabetName": "Marvelous Sunday",
+    "imageColorMain": "A30083",
+    "imageColorSub": "FFF200",
+    "uiColorMain": "CA46B0",
+    "uiColorSub": "B52542",
+    "uiTrainingColor1": "d660bf",
+    "uiTrainingColor2": "a4318d",
+    "uiBorderColor": "c434a8",
+    "uiNumColor1": "f271da",
+    "uiNumColor2": "d858bf",
+    "uiTurnColor": "bb34a1",
+    "uiWipeColor1": "d867bc",
+    "uiWipeColor2": "e177c7",
+    "uiWipeColor3": "faa6b6",
+    "uiSpeechColor1": "ac3a96",
+    "uiSpeechColor2": "ac3a96",
+    "uiNameplateColor1": "da52bf",
+    "uiNameplateColor2": "f998fd",
+    "castId": 55,
+    "comics": [
+      {
+        "id": "1024_02",
+        "mainCharacterId": 1024,
+        "new": false,
+        "mainCharacter": {
+          "id": 1024,
+          "name": "マヤノトップガン",
+          "castId": 24,
+          "alphabetId": "mayanotopgun",
+          "uiColorSub": "FFC845",
+          "uiColorMain": "F57D38",
+          "alphabetName": "Mayano Top Gun",
+          "uiSpeechColor1": "FF9D47"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1055_01",
+        "mainCharacterId": 1055,
+        "new": false
+      },
+      {
+        "id": "1055_02",
+        "mainCharacterId": 1055,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10043,
+        "name": "マーベラスサンデー",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 4,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 20015,
+        "name": "マーベラスサンデー",
+        "title": "[マーベラス☆大作戦]",
+        "rarity": 2,
+        "command": 4,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 20079,
+        "name": "マーベラスサンデー",
+        "title": "[みんなにグッドマーベラス☆]",
+        "rarity": 2,
+        "command": 3,
+        "publishedAt": "$D2024-08-24T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30074,
+        "name": "マーベラスサンデー",
+        "title": "[スノウクリスタル・デイ]",
+        "rarity": 3,
+        "command": 2,
+        "publishedAt": "$D2021-11-29T03:00:00.000Z",
+        "ev": true
+      },
+      {
+        "id": 30089,
+        "name": "マーベラスサンデー",
+        "title": "[世界にもっと☆マーベラス]",
+        "rarity": 3,
+        "command": 3,
+        "publishedAt": "$D2022-03-07T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30131,
+        "name": "マーベラスサンデー",
+        "title": "[マーベラス☆ショコラSHOW]",
+        "rarity": 3,
+        "command": 0,
+        "publishedAt": "$D2023-01-30T03:00:00.000Z",
+        "ev": false
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "105501",
+        "publishedAt": "$D2023-06-19T03:00:00.000Z",
+        "talentSpeed": 0,
+        "talentStamina": 0,
+        "talentPow": 15,
+        "talentGuts": 0,
+        "talentWiz": 15,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 2,
+        "aptitudeShort": 1,
+        "aptitudeMile": 5,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 6,
+        "aptitudeRunner": 1,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 5,
+        "rank": 3,
+        "title": "[☆キラ★ドキ☆ワク∞マベ∞]",
+        "limited": false,
+        "characterId": 1055,
+        "commonName": "マベサン",
+        "dressId": 105501,
+        "ev": false
+      },
+      {
+        "id": "105502",
+        "publishedAt": "$D2025-09-29T03:00:00.000Z",
+        "talentSpeed": 0,
+        "talentStamina": 16,
+        "talentPow": 7,
+        "talentGuts": 7,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 2,
+        "aptitudeShort": 1,
+        "aptitudeMile": 5,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 6,
+        "aptitudeRunner": 1,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 5,
+        "rank": 3,
+        "title": "[トリック☆リボネッタ]",
+        "limited": false,
+        "characterId": 1055,
+        "commonName": "サーカスマベ",
+        "dressId": 105540,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 55,
+      "birthYear": 1992,
+      "birthMonth": 5,
+      "birthDate": 31,
+      "description": "元気いっぱいな不思議ちゃん。掴みどころのない子だったが、マーベラス=「素晴らしさ」「驚き」というキーワードを祖母から教わったその日から、もう目の前はマーベラス1色に!マーベラスを探し、マーベラスを広め、マーベラスに生き、つまりマーベラス☆",
+      "height": 145,
+      "weight": "マーベラス！",
+      "dormitory": "",
+      "threesize": "B87・W52・H77",
+      "schoolGrade": "",
+      "characterId": 1055,
+      "prizeMoney": 606860000,
+      "bad": "お茶やコーヒー",
+      "ear": "マーベラスな音を聞き分けられる☆",
+      "family": "お婆ちゃん子で、秋には共に紅葉狩りをする",
+      "good": "多くの人の話を一度に聞くこと",
+      "shoes": "左右ともに22.0cm",
+      "tail": "マーベラスな物を発見するアンテナ☆らしい",
+      "before": "おなかをくるくる右回りに撫でる",
+      "boast": "",
+      "buy": "",
+      "myrule": "道に迷ったら地図より地形で考える☆",
+      "spbg": "アレシボ・メッセージ風の自己紹介アート",
+      "subject": ""
+    }
+  }
+}

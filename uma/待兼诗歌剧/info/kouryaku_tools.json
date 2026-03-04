@@ -1,0 +1,180 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/matikanetannhauser",
+  "fetched_at_utc": "2026-03-04T08:16:46.449780+00:00",
+  "slug": "matikanetannhauser",
+  "name_ja": "マチカネタンホイザ",
+  "name_zh": "待兼诗歌剧",
+  "folder_name": "待兼诗歌剧",
+  "data": {
+    "id": 1062,
+    "name": "マチカネタンホイザ",
+    "alphabetId": "matikanetannhauser",
+    "alphabetName": "Matikane Tannhauser",
+    "imageColorMain": "0085CA",
+    "imageColorSub": "FF668C",
+    "uiColorMain": "0f8dce",
+    "uiColorSub": "ee5b56",
+    "uiTrainingColor1": "32a0e5",
+    "uiTrainingColor2": "1d76d1",
+    "uiBorderColor": "1d76d1",
+    "uiNumColor1": "48afff",
+    "uiNumColor2": "1f80db",
+    "uiTurnColor": "1d76d1",
+    "uiWipeColor1": "b1ddff",
+    "uiWipeColor2": "b6e4ff",
+    "uiWipeColor3": "d2f0ff",
+    "uiSpeechColor1": "1597da",
+    "uiSpeechColor2": "1597da",
+    "uiNameplateColor1": "1597da",
+    "uiNameplateColor2": "59c7ff",
+    "castId": 62,
+    "comics": [
+      {
+        "id": "1026_01",
+        "mainCharacterId": 1026,
+        "new": false,
+        "mainCharacter": {
+          "id": 1026,
+          "name": "ミホノブルボン",
+          "castId": 29,
+          "alphabetId": "mihonobourbon",
+          "uiColorSub": "F0ED41",
+          "uiColorMain": "EE60A1",
+          "alphabetName": "Mihono Bourbon",
+          "uiSpeechColor1": "ff6ade"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1062_01",
+        "mainCharacterId": 1062,
+        "new": false
+      },
+      {
+        "id": "1062_02",
+        "mainCharacterId": 1062,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10057,
+        "name": "マチカネタンホイザ",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 3,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 20069,
+        "name": "マチカネタンホイザ",
+        "title": "[あくもー退散！？]",
+        "rarity": 2,
+        "command": 0,
+        "publishedAt": "$D2023-11-09T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30030,
+        "name": "マチカネタンホイザ",
+        "title": "[Just keep going.]",
+        "rarity": 3,
+        "command": 3,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": true
+      },
+      {
+        "id": 30103,
+        "name": "マチカネタンホイザ",
+        "title": "[マチタン☆アドベンチャー]",
+        "rarity": 3,
+        "command": 4,
+        "publishedAt": "$D2022-06-30T03:00:00.000Z",
+        "ev": false
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "106201",
+        "publishedAt": "$D2022-02-24T03:00:00.000Z",
+        "talentSpeed": 0,
+        "talentStamina": 20,
+        "talentPow": 0,
+        "talentGuts": 10,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 1,
+        "aptitudeMile": 4,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 7,
+        "aptitudeRunner": 2,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 3,
+        "rank": 2,
+        "title": "[ぱんぱかティルトット]",
+        "limited": false,
+        "characterId": 1062,
+        "commonName": "マチタン",
+        "dressId": 106201,
+        "ev": false
+      },
+      {
+        "id": "106202",
+        "publishedAt": "$D2023-04-28T03:00:00.000Z",
+        "talentSpeed": 10,
+        "talentStamina": 0,
+        "talentPow": 20,
+        "talentGuts": 0,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 1,
+        "aptitudeMile": 4,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 7,
+        "aptitudeRunner": 2,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 3,
+        "rank": 3,
+        "title": "[ブルー・タービュランス]",
+        "limited": false,
+        "characterId": 1062,
+        "commonName": "青マチ、チアマチタン",
+        "dressId": 106250,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 62,
+      "birthYear": 1989,
+      "birthMonth": 5,
+      "birthDate": 7,
+      "description": "真面目で前向き、いつでも全力の優等生な性格……なのにイマイチ勝ちきれなかったり、肝心な部分でポカをするなど、天然なところも。そんな彼女の自分への評価は……『普通』な子。個性の強い子たちに憧れたりもするけれど、自分らしさを大事に、ひたむきに頑張ります!",
+      "height": 155,
+      "weight": "微増（食べすぎちゃった）",
+      "dormitory": "",
+      "threesize": "B80・W55・H80",
+      "schoolGrade": "",
+      "characterId": 1062,
+      "prizeMoney": 507200000,
+      "bad": "本物のクモ、トマトジュース",
+      "ear": "周りが騒がしくても聞き流せる",
+      "family": "帰省すると実家の定食屋に横断幕がかかる",
+      "good": "綱引き、恋のアドバイス（本人談）",
+      "shoes": "左：24.5cm 右：25.5cm",
+      "tail": "自分でカットすると斜めにパッツンになる",
+      "before": "フクちゃん先輩謹製お守りに必勝祈願",
+      "boast": "",
+      "buy": "",
+      "myrule": "ポテトサラダはきゅうりを入れる派！",
+      "spbg": "カラフルなクモのぬいぐるみ",
+      "subject": ""
+    }
+  }
+}

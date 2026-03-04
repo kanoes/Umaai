@@ -1,0 +1,223 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/vodka",
+  "fetched_at_utc": "2026-03-04T08:15:55.467811+00:00",
+  "slug": "vodka",
+  "name_ja": "ウオッカ",
+  "name_zh": "伏特加",
+  "folder_name": "伏特加",
+  "data": {
+    "id": 1008,
+    "name": "ウオッカ",
+    "alphabetId": "vodka",
+    "alphabetName": "Vodka",
+    "imageColorMain": "FFEF72",
+    "imageColorSub": "2CD9B4",
+    "uiColorMain": "D4C200",
+    "uiColorSub": "3DD1D7",
+    "uiTrainingColor1": "EECF02",
+    "uiTrainingColor2": "D2AE08",
+    "uiBorderColor": "DCAB00",
+    "uiNumColor1": "EDCF02",
+    "uiNumColor2": "EBB600",
+    "uiTurnColor": "EBB600",
+    "uiWipeColor1": "FAEEB1",
+    "uiWipeColor2": "FBF3CC",
+    "uiWipeColor3": "E0F4F5",
+    "uiSpeechColor1": "F8D90D",
+    "uiSpeechColor2": "F8D90D",
+    "uiNameplateColor1": "F3C801",
+    "uiNameplateColor2": "F5E15F",
+    "castId": 9,
+    "comics": [
+      {
+        "id": "1009_01",
+        "mainCharacterId": 1009,
+        "new": false,
+        "mainCharacter": {
+          "id": 1009,
+          "name": "ダイワスカーレット",
+          "castId": 8,
+          "alphabetId": "daiwascarlet",
+          "uiColorSub": "E73472",
+          "uiColorMain": "4F64D8",
+          "alphabetName": "Daiwa Scarlet",
+          "uiSpeechColor1": "7C9EFC"
+        }
+      },
+      {
+        "id": "1024_01",
+        "mainCharacterId": 1024,
+        "new": false,
+        "mainCharacter": {
+          "id": 1024,
+          "name": "マヤノトップガン",
+          "castId": 24,
+          "alphabetId": "mayanotopgun",
+          "uiColorSub": "FFC845",
+          "uiColorMain": "F57D38",
+          "alphabetName": "Mayano Top Gun",
+          "uiSpeechColor1": "FF9D47"
+        }
+      },
+      {
+        "id": "1087_01",
+        "mainCharacterId": 1087,
+        "new": false,
+        "mainCharacter": {
+          "id": 1087,
+          "name": "アストンマーチャン",
+          "castId": 83,
+          "alphabetId": "astonmachan",
+          "uiColorSub": "E1DCCB",
+          "uiColorMain": "CF4436",
+          "alphabetName": "Aston Machan",
+          "uiSpeechColor1": "e44a3e"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1008_01",
+        "mainCharacterId": 1008,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10007,
+        "name": "ウオッカ",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 2,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 20039,
+        "name": "ウオッカ",
+        "title": "[うるさい監視役]",
+        "rarity": 2,
+        "command": 0,
+        "publishedAt": "$D2021-11-19T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30005,
+        "name": "ウオッカ",
+        "title": "[ロード・オブ・ウオッカ]",
+        "rarity": 3,
+        "command": 2,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30150,
+        "name": "ウオッカ",
+        "title": "[ハート・イグニッション！！]",
+        "rarity": 3,
+        "command": 1,
+        "publishedAt": "$D2023-05-29T03:00:00.000Z",
+        "ev": true
+      },
+      {
+        "id": 30202,
+        "name": "ウオッカ",
+        "title": "[明日のライド・オン]",
+        "rarity": 3,
+        "command": 3,
+        "publishedAt": "$D2024-05-10T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30245,
+        "name": "ウオッカ",
+        "title": "[Ballroom Tempest]",
+        "rarity": 3,
+        "command": 2,
+        "publishedAt": "$D2025-03-31T03:00:00.000Z",
+        "ev": false
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "100802",
+        "publishedAt": "$D2022-11-28T03:00:00.000Z",
+        "talentSpeed": 20,
+        "talentStamina": 0,
+        "talentPow": 0,
+        "talentGuts": 10,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 2,
+        "aptitudeMile": 7,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 3,
+        "aptitudeRunner": 5,
+        "aptitudeLeader": 6,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 2,
+        "rank": 3,
+        "title": "[不凍のアクア・ウィタエ]",
+        "limited": false,
+        "characterId": 1008,
+        "commonName": "クリウオッカ、クリスマスウオッカ",
+        "dressId": 100846,
+        "ev": false
+      },
+      {
+        "id": "100801",
+        "publishedAt": "$D2021-02-24T00:00:00.000Z",
+        "talentSpeed": 10,
+        "talentStamina": 0,
+        "talentPow": 20,
+        "talentGuts": 0,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 2,
+        "aptitudeMile": 7,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 2,
+        "aptitudeRunner": 5,
+        "aptitudeLeader": 6,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 2,
+        "rank": 2,
+        "title": "[ワイルドトップギア]",
+        "limited": false,
+        "characterId": 1008,
+        "commonName": "ウオッカ",
+        "dressId": 100801,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 8,
+      "birthYear": 2004,
+      "birthMonth": 4,
+      "birthDate": 4,
+      "description": "カッコよく生きることを第一に掲げる、不良気取りのウマ娘。バイク好きの父の影響で、趣味もポリシーもまったく一緒。いつでも精一杯の見栄を張り、どんな無謀な挑戦にも恐れずに突っ込む、生粋の挑戦者である。同室のダイワスカーレットとは犬猿の仲。",
+      "height": 165,
+      "weight": "増減なし",
+      "dormitory": "",
+      "threesize": "B76・W55・H78",
+      "schoolGrade": "",
+      "characterId": 1008,
+      "prizeMoney": 1304870000,
+      "bad": "恋バナ",
+      "ear": "触れられると異様に照れるらしい",
+      "family": "よく父とヤンチャして、母に叱られている",
+      "good": "エアバイク",
+      "shoes": "左：24.5cm 右：24.0cm",
+      "tail": "カッコいい尻尾の揺らし方を練習している",
+      "before": "『血が騒いじまうぜ…』※稀に鼻血が出る",
+      "boast": "",
+      "buy": "",
+      "myrule": "迷ったら誰も選んでない方を行く",
+      "spbg": "父ちゃんのバイクの写真",
+      "subject": ""
+    }
+  }
+}

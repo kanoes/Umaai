@@ -1,0 +1,223 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/airgroove",
+  "fetched_at_utc": "2026-03-04T08:16:04.629062+00:00",
+  "slug": "airgroove",
+  "name_ja": "エアグルーヴ",
+  "name_zh": "气槽",
+  "folder_name": "气槽",
+  "data": {
+    "id": 1018,
+    "name": "エアグルーヴ",
+    "alphabetId": "airgroove",
+    "alphabetName": "Air Groove",
+    "imageColorMain": "27A1B7",
+    "imageColorSub": "FFE672",
+    "uiColorMain": "0092CB",
+    "uiColorSub": "FAE053",
+    "uiTrainingColor1": "54C5F1",
+    "uiTrainingColor2": "34A5D1",
+    "uiBorderColor": "34A5D1",
+    "uiNumColor1": "54C5F1",
+    "uiNumColor2": "34A5D1",
+    "uiTurnColor": "34A5D1",
+    "uiWipeColor1": "CAECFA",
+    "uiWipeColor2": "E3F3FA",
+    "uiWipeColor3": "FCF7D9",
+    "uiSpeechColor1": "5FCCF7",
+    "uiSpeechColor2": "5FCCF7",
+    "uiNameplateColor1": "3CB6E6",
+    "uiNameplateColor2": "8EDEFD",
+    "castId": 19,
+    "comics": [
+      {
+        "id": "1017_01",
+        "mainCharacterId": 1017,
+        "new": false,
+        "mainCharacter": {
+          "id": 1017,
+          "name": "シンボリルドルフ",
+          "castId": 20,
+          "alphabetId": "symbolirudolf",
+          "uiColorSub": "C6314B",
+          "uiColorMain": "1C7763",
+          "alphabetName": "Symboli Rudolf",
+          "uiSpeechColor1": "49CDB1"
+        }
+      },
+      {
+        "id": "1099_01",
+        "mainCharacterId": 1099,
+        "new": false,
+        "mainCharacter": {
+          "id": 1099,
+          "name": "ホッコータルマエ",
+          "castId": 79,
+          "alphabetId": "hokkotarumae",
+          "uiColorSub": "cddee0",
+          "uiColorMain": "d94149",
+          "alphabetName": "Hokko Tarumae",
+          "uiSpeechColor1": "f1646c"
+        }
+      },
+      {
+        "id": "1104_01",
+        "mainCharacterId": 1104,
+        "new": false,
+        "mainCharacter": {
+          "id": 1104,
+          "name": "カツラギエース",
+          "castId": 91,
+          "alphabetId": "katsuragiace",
+          "uiColorSub": "f77696",
+          "uiColorMain": "7db0e0",
+          "alphabetName": "Katsuragi Ace",
+          "uiSpeechColor1": "6fa8e0"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1018_01",
+        "mainCharacterId": 1018,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10025,
+        "name": "エアグルーヴ",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 3,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 20004,
+        "name": "エアグルーヴ",
+        "title": "[副会長の一刺し]",
+        "rarity": 2,
+        "command": 3,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30106,
+        "name": "エアグルーヴ",
+        "title": "[理想へ向かう青嵐]",
+        "rarity": 3,
+        "command": 2,
+        "publishedAt": "$D2022-07-11T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30124,
+        "name": "エアグルーヴ",
+        "title": "[Are you merry?]",
+        "rarity": 3,
+        "command": 4,
+        "publishedAt": "$D2022-11-28T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30159,
+        "name": "エアグルーヴ",
+        "title": "[Seaside Bloom]",
+        "rarity": 3,
+        "command": 0,
+        "publishedAt": "$D2023-07-31T03:00:00.000Z",
+        "ev": true
+      },
+      {
+        "id": 30282,
+        "name": "エアグルーヴ",
+        "title": "[心覚えし、京の華]",
+        "rarity": 3,
+        "command": 0,
+        "publishedAt": "$D2025-12-26T03:00:00.000Z",
+        "ev": false
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "101801",
+        "publishedAt": "$D2021-02-24T00:00:00.000Z",
+        "talentSpeed": 10,
+        "talentStamina": 0,
+        "talentPow": 20,
+        "talentGuts": 0,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 5,
+        "aptitudeMile": 6,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 3,
+        "aptitudeRunner": 4,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 1,
+        "rank": 2,
+        "title": "[エンプレスロード]",
+        "limited": false,
+        "characterId": 1018,
+        "commonName": "グルーヴ",
+        "dressId": 101801,
+        "ev": false
+      },
+      {
+        "id": "101802",
+        "publishedAt": "$D2021-05-28T03:00:00.000Z",
+        "talentSpeed": 10,
+        "talentStamina": 0,
+        "talentPow": 10,
+        "talentGuts": 10,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 5,
+        "aptitudeMile": 6,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 3,
+        "aptitudeRunner": 4,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 1,
+        "rank": 3,
+        "title": "[クエルクス・キウィーリス]",
+        "limited": false,
+        "characterId": 1018,
+        "commonName": "嫁グルーヴ",
+        "dressId": 101826,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 18,
+      "birthYear": 1993,
+      "birthMonth": 4,
+      "birthDate": 6,
+      "description": "“女帝”と呼ばれる生徒会の副会長。母は数々の偉業を成し遂げたウマ娘で、後進をも育成し、理想を示してくれた。その薫陶を受け、自分も理想となりたいと考えている。じつは花が好きという意外な一面も。生徒会長シンボリルドルフは同志と思っている。",
+      "height": 165,
+      "weight": "見事な仕上がり",
+      "dormitory": "",
+      "threesize": "B90・W57・H86",
+      "schoolGrade": "",
+      "characterId": 1018,
+      "prizeMoney": 821960000,
+      "bad": "いきなり光るもの、いきなり動くもの",
+      "ear": "花の世話をする時は優しくかすかに垂れる",
+      "family": "母の誕生会は、1年かけ緻密に計画している",
+      "good": "花を育てること",
+      "shoes": "左右ともに24.5cm",
+      "tail": "母親と同じテールオイルを使っている",
+      "before": "アイシャドウを塗り直し、気合いを入れる",
+      "boast": "",
+      "buy": "",
+      "myrule": "好き嫌いはしない。珍味、失敗作も食べきる",
+      "spbg": "母が“女王”の名を戴冠した瞬間の写真",
+      "subject": ""
+    }
+  }
+}

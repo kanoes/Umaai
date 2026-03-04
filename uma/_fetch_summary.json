@@ -1,0 +1,570 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_list_url": "https://ウマ娘.攻略.tools/characters",
+  "fetched_at_utc": "2026-03-04T08:27:16.533728+00:00",
+  "total_slugs": 141,
+  "success_count": 2,
+  "skipped_count": 139,
+  "failure_count": 0,
+  "missing_name_map_count": 0,
+  "skipped": [
+    {
+      "slug": "specialweek",
+      "path": "uma/特别周/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "silencesuzuka",
+      "path": "uma/无声铃鹿/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "tokaiteio",
+      "path": "uma/东海帝王/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "maruzensky",
+      "path": "uma/丸善斯基/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "fujikiseki",
+      "path": "uma/富士奇石/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "oguricap",
+      "path": "uma/小栗帽/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "goldship",
+      "path": "uma/黄金船/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "vodka",
+      "path": "uma/伏特加/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "daiwascarlet",
+      "path": "uma/大和赤骥/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "taikishuttle",
+      "path": "uma/大树快车/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "grasswonder",
+      "path": "uma/草上飞/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "hishiamazon",
+      "path": "uma/菱亚马逊/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "mejiromcqueen",
+      "path": "uma/目白麦昆/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "elcondorpasa",
+      "path": "uma/神鹰/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "tmoperao",
+      "path": "uma/好歌剧/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "naritabrian",
+      "path": "uma/成田白仁/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "symbolirudolf",
+      "path": "uma/鲁道夫象征/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "airgroove",
+      "path": "uma/气槽/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "agnesdigital",
+      "path": "uma/爱丽数码/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "seiunsky",
+      "path": "uma/星云天空/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "tamamocross",
+      "path": "uma/玉藻十字/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "finemotion",
+      "path": "uma/细腻动力/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "biwahayahide",
+      "path": "uma/琵琶晨光/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "mayanotopgun",
+      "path": "uma/摩耶重炮/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "manhattancafe",
+      "path": "uma/曼城茶座/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "mihonobourbon",
+      "path": "uma/美浦波旁/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "mejiroryan",
+      "path": "uma/目白赖恩/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "hishiakebono",
+      "path": "uma/菱曙/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "yukinobijin",
+      "path": "uma/雪之美人/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "riceshower",
+      "path": "uma/米浴/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "inesfujin",
+      "path": "uma/艾尼斯风神/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "agnestachyon",
+      "path": "uma/爱丽速子/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "admirevega",
+      "path": "uma/爱慕织姬/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "inarione",
+      "path": "uma/稻荷一/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "winningticket",
+      "path": "uma/胜利奖券/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "airshakur",
+      "path": "uma/气槽沙卡/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "eishinflash",
+      "path": "uma/荣进闪耀/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "currenchan",
+      "path": "uma/爱如往昔/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "kawakamiprincess",
+      "path": "uma/川上公主/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "goldcity",
+      "path": "uma/黄金城/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "sakurabakushino",
+      "path": "uma/樱花进王/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "seekingthepearl",
+      "path": "uma/寻找珍珠/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "shinkowindy",
+      "path": "uma/新光风/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "sweeptosho",
+      "path": "uma/扫帚东商/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "supercreek",
+      "path": "uma/超级溪流/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "smartfalcon",
+      "path": "uma/真机伶/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "zennorobroy",
+      "path": "uma/善信罗布罗伊/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "tosenjordan",
+      "path": "uma/东瀛佐敦/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "nakayamafesta",
+      "path": "uma/中山庆典/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "naritataishin",
+      "path": "uma/成田大进/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "nishinoflower",
+      "path": "uma/西野花/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "haruurara",
+      "path": "uma/春乌拉拉/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "bamboomemory",
+      "path": "uma/竹纪念/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "bikopegasus",
+      "path": "uma/美驹飞鹰/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "marveloussunday",
+      "path": "uma/奇迹星期日/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "matikanefukukitaru",
+      "path": "uma/待兼福来/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "mrcb",
+      "path": "uma/Mr.CB/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "meishodoto",
+      "path": "uma/名将怒涛/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "mejirodober",
+      "path": "uma/目白多伯/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "nicenature",
+      "path": "uma/优秀素质/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "kinghalo",
+      "path": "uma/帝王光辉/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "matikanetannhauser",
+      "path": "uma/待兼诗歌剧/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "ikunodictus",
+      "path": "uma/生野狄克达/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "mejiropalmer",
+      "path": "uma/目白善信/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "daitakuhelios",
+      "path": "uma/大拓太阳神/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "twinturbo",
+      "path": "uma/双涡轮/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "satonodiamond",
+      "path": "uma/里见光钻/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "kitasanblack",
+      "path": "uma/北部玄驹/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "sakurachiyonoo",
+      "path": "uma/樱花千代王/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "siriussymboli",
+      "path": "uma/天狼象征/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "mejiroardan",
+      "path": "uma/目白阿尔丹/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "yaenomuteki",
+      "path": "uma/八重无敌/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "tsurumarutsuyoshi",
+      "path": "uma/鹤丸刚志/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "mejirobright",
+      "path": "uma/目白光明/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "daringtact",
+      "path": "uma/无畏契约/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "sakuralaurel",
+      "path": "uma/樱花桂冠/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "naritatoproad",
+      "path": "uma/成田路/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "yamaninzephyr",
+      "path": "uma/山人西风/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "furioso",
+      "path": "uma/狂怒乐章/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "transcend",
+      "path": "uma/超越/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "espoircity",
+      "path": "uma/希望城/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "northflight",
+      "path": "uma/北方飞翔/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "symbolikriss",
+      "path": "uma/克莉丝象征/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "taninogimlet",
+      "path": "uma/谷野美酒/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "daiichiruby",
+      "path": "uma/第一红宝石/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "mejiroramonu",
+      "path": "uma/目白拉莫努/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "astonmachan",
+      "path": "uma/阿斯顿马丁/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "satonocrown",
+      "path": "uma/里见皇冠/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "chevalgrand",
+      "path": "uma/高尚骏逸/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "verxina",
+      "path": "uma/维尔西娜/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "vivlos",
+      "path": "uma/维布洛斯/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "dantsuflame",
+      "path": "uma/丹次火焰/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "ksmiracle",
+      "path": "uma/KS奇迹/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "junglepocket",
+      "path": "uma/森林宝穴/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "believe",
+      "path": "uma/信念/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "noreason",
+      "path": "uma/毫无理由/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "stillinlove",
+      "path": "uma/依然爱你/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "copanorickey",
+      "path": "uma/理科先生/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "hokkotarumae",
+      "path": "uma/北港火山/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "soundsofearth",
+      "path": "uma/大地之声/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "royceandroyce",
+      "path": "uma/罗伊斯/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "katsuragiace",
+      "path": "uma/桂冠战士/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "neouniverse",
+      "path": "uma/新宇宙/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "hishimiracle",
+      "path": "uma/菱亚奇迹/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "tapdancecity",
+      "path": "uma/踢踏城/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "duramente",
+      "path": "uma/大鸣大放/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "rheinkraft",
+      "path": "uma/线条工艺/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "cesario",
+      "path": "uma/凯撒利亚/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "airmessiah",
+      "path": "uma/气槽弥赛亚/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "daringheart",
+      "path": "uma/勇敢之心/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "fusaichipandora",
+      "path": "uma/房一潘多拉/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "buenavista",
+      "path": "uma/迷人景致/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "orfevre",
+      "path": "uma/黄金巨匠/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "gentildonna",
+      "path": "uma/贵妇人/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "winvariation",
+      "path": "uma/胜利障壁/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "admiregroove",
+      "path": "uma/爱慕气槽/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "dreamjourney",
+      "path": "uma/梦想旅程/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "calstonelighto",
+      "path": "uma/卡尔斯顿闪电/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "durandal",
+      "path": "uma/杜兰达尔/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "bubblegumfellow",
+      "path": "uma/泡泡糖伙伴/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "sakurachitoseo",
+      "path": "uma/樱花千岁王/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "blastonepiece",
+      "path": "uma/爆裂一击/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "almondeye",
+      "path": "uma/杏目/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "luckylilac",
+      "path": "uma/幸运丁香/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "granalegria",
+      "path": "uma/大欢喜/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "lovesonlyyou",
+      "path": "uma/唯独爱你/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "chronogenesis",
+      "path": "uma/创世驹/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "currenbouquetdor",
+      "path": "uma/花束爱恋/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "staygold",
+      "path": "uma/黄金旅程/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "reddesire",
+      "path": "uma/赤色欲望/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "kiseki",
+      "path": "uma/奇迹/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "foreveryoung",
+      "path": "uma/永远年轻/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "marchelorraine",
+      "path": "uma/玛修罗蕾娜/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "epiphaneia",
+      "path": "uma/神威启示/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "logotype",
+      "path": "uma/标志名驹/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "victoirepisa",
+      "path": "uma/比萨胜驹/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "rosekingdom",
+      "path": "uma/玫瑰王国/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "rulership",
+      "path": "uma/统治地位/info/kouryaku_tools.json"
+    },
+    {
+      "slug": "samsonbig",
+      "path": "uma/森逊巨人/info/kouryaku_tools.json"
+    }
+  ],
+  "failures": [],
+  "missing_name_map": []
+}

@@ -1,0 +1,193 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/ikunodictus",
+  "fetched_at_utc": "2026-03-04T08:16:47.306372+00:00",
+  "slug": "ikunodictus",
+  "name_ja": "イクノディクタス",
+  "name_zh": "生野狄克达",
+  "folder_name": "生野狄克达",
+  "data": {
+    "id": 1063,
+    "name": "イクノディクタス",
+    "alphabetId": "ikunodictus",
+    "alphabetName": "Ikuno Dictus",
+    "imageColorMain": "47A23F",
+    "imageColorSub": "C1C6C8",
+    "uiColorMain": "49b73f",
+    "uiColorSub": "c6d1d5",
+    "uiTrainingColor1": "62d358",
+    "uiTrainingColor2": "49b73f",
+    "uiBorderColor": "49b73f",
+    "uiNumColor1": "78ec6d",
+    "uiNumColor2": "62d358",
+    "uiTurnColor": "49b73f",
+    "uiWipeColor1": "bbffb5",
+    "uiWipeColor2": "dafad7",
+    "uiWipeColor3": "bde3c3",
+    "uiSpeechColor1": "62d358",
+    "uiSpeechColor2": "62d358",
+    "uiNameplateColor1": "62d358",
+    "uiNameplateColor2": "8df783",
+    "castId": 64,
+    "comics": [
+      {
+        "id": "1066_01",
+        "mainCharacterId": 1066,
+        "new": false,
+        "mainCharacter": {
+          "id": 1066,
+          "name": "ツインターボ",
+          "castId": 67,
+          "alphabetId": "twinturbo",
+          "uiColorSub": "27b784",
+          "uiColorMain": "1985d2",
+          "alphabetName": "Twin Turbo",
+          "uiSpeechColor1": "0d7dcd"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1063_01",
+        "mainCharacterId": 1063,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10053,
+        "name": "イクノディクタス",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 4,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 20025,
+        "name": "イクノディクタス",
+        "title": "[準備運動は怠るべからず]",
+        "rarity": 2,
+        "command": 4,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30063,
+        "name": "イクノディクタス",
+        "title": "[心と足元は温かく]",
+        "rarity": 3,
+        "command": 3,
+        "publishedAt": "$D2021-09-20T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30099,
+        "name": "イクノディクタス",
+        "title": "[愛すべき金蘭のつどい]",
+        "rarity": 3,
+        "command": 1,
+        "publishedAt": "$D2022-05-30T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30143,
+        "name": "イクノディクタス",
+        "title": "[たどり着いた景色]",
+        "rarity": 3,
+        "command": 2,
+        "publishedAt": "$D2023-04-28T03:00:00.000Z",
+        "ev": true
+      },
+      {
+        "id": 30238,
+        "name": "イクノディクタス",
+        "title": "[鉄の乙女も微笑んで]",
+        "rarity": 3,
+        "command": 4,
+        "publishedAt": "$D2025-01-31T03:00:00.000Z",
+        "ev": false
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "106302",
+        "publishedAt": "$D2025-12-26T03:00:00.000Z",
+        "talentSpeed": 0,
+        "talentStamina": 10,
+        "talentPow": 10,
+        "talentGuts": 10,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 4,
+        "aptitudeMile": 7,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 4,
+        "aptitudeRunner": 4,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 4,
+        "rank": 3,
+        "title": "[逍遥、整然たる路を]",
+        "limited": false,
+        "characterId": 1063,
+        "commonName": "正月イクノ",
+        "dressId": 106310,
+        "ev": false
+      },
+      {
+        "id": "106301",
+        "publishedAt": "$D2024-02-24T03:00:00.000Z",
+        "talentSpeed": 0,
+        "talentStamina": 0,
+        "talentPow": 0,
+        "talentGuts": 20,
+        "talentWiz": 10,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 1,
+        "aptitudeShort": 4,
+        "aptitudeMile": 7,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 4,
+        "aptitudeRunner": 4,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 4,
+        "rank": 2,
+        "title": "[Mantle of Steel]",
+        "limited": false,
+        "characterId": 1063,
+        "commonName": "イクノ",
+        "dressId": 106301,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 63,
+      "birthYear": 1987,
+      "birthMonth": 4,
+      "birthDate": 16,
+      "description": "真面目できっちりしている秘書タイプのウマ娘……と思いきや、意外とノリがよかったりする。 常に冷静で、体調も含め管理することが上手。 そんな彼女の目標は、「徹底して自分を管理し、できるだけ長く走ること」。 情熱の理由は、走れなかった過去から来ているようで……。",
+      "height": 163,
+      "weight": "完璧な仕上がり",
+      "dormitory": "",
+      "threesize": "B75・W53・H82",
+      "schoolGrade": "",
+      "characterId": 1063,
+      "prizeMoney": 526600000,
+      "bad": "賭け事、自撮り",
+      "ear": "左右の毛並みが必ず均等にそろえられている",
+      "family": "家族会議ではいつも進行役を任せられる",
+      "good": "皆勤賞を取ること、割り箸を綺麗に割ること",
+      "shoes": "左右ともに23.0cm",
+      "tail": "指し棒の代わりに使うことがある",
+      "before": "頂物のヘアオイルで、三つ編みを結いなおす",
+      "boast": "",
+      "buy": "",
+      "myrule": "自転車の高価なパーツ交換は、二晩寝て決断",
+      "spbg": "天気、気温、湿度、気圧が表示される壁紙",
+      "subject": ""
+    }
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/elcondorpasa",
+  "fetched_at_utc": "2026-03-04T08:16:01.277545+00:00",
+  "slug": "elcondorpasa",
+  "name_ja": "エルコンドルパサー",
+  "name_zh": "神鹰",
+  "folder_name": "神鹰",
+  "data": {
+    "id": 1014,
+    "name": "エルコンドルパサー",
+    "alphabetId": "elcondorpasa",
+    "alphabetName": "El Condor Pasa",
+    "imageColorMain": "D64F3E",
+    "imageColorSub": "FDCE46",
+    "uiColorMain": "DD4E31",
+    "uiColorSub": "EFDB28",
+    "uiTrainingColor1": "FF8960",
+    "uiTrainingColor2": "F26A3D",
+    "uiBorderColor": "F26A3D",
+    "uiNumColor1": "FF8960",
+    "uiNumColor2": "F26A3D",
+    "uiTurnColor": "F26A3D",
+    "uiWipeColor1": "FCD4BD",
+    "uiWipeColor2": "FCE1DC",
+    "uiWipeColor3": "FBF3CC",
+    "uiSpeechColor1": "FE8B64",
+    "uiSpeechColor2": "FE8B64",
+    "uiNameplateColor1": "FF8358",
+    "uiNameplateColor2": "FEAD91",
+    "castId": 13,
+    "comics": [
+      {
+        "id": "1002_01",
+        "mainCharacterId": 1002,
+        "new": false,
+        "mainCharacter": {
+          "id": 1002,
+          "name": "サイレンススズカ",
+          "castId": 5,
+          "alphabetId": "silencesuzuka",
+          "uiColorSub": "FFCE48",
+          "uiColorMain": "29BD70",
+          "alphabetName": "Silence Suzuka",
+          "uiSpeechColor1": "4BD18C"
+        }
+      },
+      {
+        "id": "1006_01",
+        "mainCharacterId": 1006,
+        "new": false,
+        "mainCharacter": {
+          "id": 1006,
+          "name": "オグリキャップ",
+          "castId": 6,
+          "alphabetId": "oguricap",
+          "uiColorSub": "ECE7E7",
+          "uiColorMain": "3A7AD2",
+          "alphabetName": "Oguri Cap",
+          "uiSpeechColor1": "5992DF"
+        }
+      },
+      {
+        "id": "1011_01",
+        "mainCharacterId": 1011,
+        "new": false,
+        "mainCharacter": {
+          "id": 1011,
+          "name": "グラスワンダー",
+          "castId": 12,
+          "alphabetId": "grasswonder",
+          "uiColorSub": "E3493F",
+          "uiColorMain": "3A34AC",
+          "alphabetName": "Grass Wonder",
+          "uiSpeechColor1": "8F8AF7"
+        }
+      },
+      {
+        "id": "1016_02",
+        "mainCharacterId": 1016,
+        "new": false,
+        "mainCharacter": {
+          "id": 1016,
+          "name": "ナリタブライアン",
+          "castId": 16,
+          "alphabetId": "naritabrian",
+          "uiColorSub": "D638A3",
+          "uiColorMain": "75358C",
+          "alphabetName": "Narita Brian",
+          "uiSpeechColor1": "e18bff"
+        }
+      },
+      {
+        "id": "1076_02",
+        "mainCharacterId": 1076,
+        "new": false,
+        "mainCharacter": {
+          "id": 1076,
+          "name": "サクラローレル",
+          "castId": 81,
+          "alphabetId": "sakuralaurel",
+          "uiColorSub": "fecdc9",
+          "uiColorMain": "f0638a",
+          "alphabetName": "Sakura Laurel",
+          "uiSpeechColor1": "e65779"
+        }
+      },
+      {
+        "id": "1126_01",
+        "mainCharacterId": 1126,
+        "new": true,
+        "mainCharacter": {
+          "id": 1126,
+          "name": "サクラチトセオー",
+          "castId": 129,
+          "alphabetId": "sakurachitoseo",
+          "uiColorSub": "d8c8d1",
+          "uiColorMain": "fa83cb",
+          "alphabetName": "Sakura Chitose O",
+          "uiSpeechColor1": "4C91F1"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1014_01",
+        "mainCharacterId": 1014,
+        "new": false
+      },
+      {
+        "id": "1014_02",
+        "mainCharacterId": 1014,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10011,
+        "name": "エルコンドルパサー",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 2,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 20033,
+        "name": "エルコンドルパサー",
+        "title": "[泥まみれのコンパネーロ]",
+        "rarity": 2,
+        "command": 0,
+        "publishedAt": "$D2022-07-20T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30007,
+        "name": "エルコンドルパサー",
+        "title": "[パッションチャンピオーナ！]",
+        "rarity": 3,
+        "command": 2,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30102,
+        "name": "エルコンドルパサー",
+        "title": "[キラキラカケル∞]",
+        "rarity": 3,
+        "command": 3,
+        "publishedAt": "$D2022-06-30T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30161,
+        "name": "エルコンドルパサー",
+        "title": "[大望は飛んでいく]",
+        "rarity": 3,
+        "command": 0,
+        "publishedAt": "$D2023-08-24T03:00:00.000Z",
+        "ev": false
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "101402",
+        "publishedAt": "$D2021-06-29T03:00:00.000Z",
+        "talentSpeed": 15,
+        "talentStamina": 0,
+        "talentPow": 0,
+        "talentGuts": 15,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 6,
+        "aptitudeShort": 2,
+        "aptitudeMile": 7,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 6,
+        "aptitudeRunner": 3,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 5,
+        "rank": 3,
+        "title": "[ククルカン・モンク]",
+        "limited": false,
+        "characterId": 1014,
+        "commonName": "モンクエル",
+        "dressId": 101416,
+        "ev": false
+      },
+      {
+        "id": "101401",
+        "publishedAt": "$D2021-02-24T00:00:00.000Z",
+        "talentSpeed": 20,
+        "talentStamina": 0,
+        "talentPow": 0,
+        "talentGuts": 0,
+        "talentWiz": 10,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 6,
+        "aptitudeShort": 2,
+        "aptitudeMile": 7,
+        "aptitudeMiddle": 7,
+        "aptitudeLong": 6,
+        "aptitudeRunner": 3,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 5,
+        "rank": 2,
+        "title": "[エル☆Número 1]",
+        "limited": false,
+        "characterId": 1014,
+        "commonName": "エル",
+        "dressId": 101401,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 14,
+      "birthYear": 1995,
+      "birthMonth": 3,
+      "birthDate": 17,
+      "description": "覆面をかぶった、ラテン系の情熱ウマ娘。自分こそ世界最強と信じており、それを証明するためにビックマウスで勇躍する。マスクはレスラーの父から譲り受けたもので、これがないと普段の調子が……。親友グラスワンダーとは同室で、よく注意される。",
+      "height": 163,
+      "weight": "微増（筋トレ効果）",
+      "dormitory": "",
+      "threesize": "B89・W58・H86",
+      "schoolGrade": "",
+      "characterId": 1014,
+      "prizeMoney": 376070000,
+      "bad": "静かにすること",
+      "ear": "カウントを聴くと身構えてしまう",
+      "family": "マンボという鷹と、姉弟のように育った",
+      "good": "プロレス",
+      "shoes": "左右ともに24.0cm",
+      "tail": "尻尾を掴むのは反則らしい",
+      "before": "ガウンを投げ捨てて、自分で拾う",
+      "boast": "",
+      "buy": "",
+      "myrule": "カラオケで歌う前は、必ずセリフを入れる",
+      "spbg": "『闘志よ、奮い立て！』などのアツい言葉集",
+      "subject": ""
+    }
+  }
+}

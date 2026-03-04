@@ -1,0 +1,199 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/nishinoflower",
+  "fetched_at_utc": "2026-03-04T08:16:35.421145+00:00",
+  "slug": "nishinoflower",
+  "name_ja": "ニシノフラワー",
+  "name_zh": "西野花",
+  "folder_name": "西野花",
+  "data": {
+    "id": 1051,
+    "name": "ニシノフラワー",
+    "alphabetId": "nishinoflower",
+    "alphabetName": "Nishino Flower",
+    "imageColorMain": "E0D773",
+    "imageColorSub": "E08ED0",
+    "uiColorMain": "E26ECB",
+    "uiColorSub": "F6EB61",
+    "uiTrainingColor1": "f177d9",
+    "uiTrainingColor2": "dd50c1",
+    "uiBorderColor": "dd50c1",
+    "uiNumColor1": "ff88e7",
+    "uiNumColor2": "dd50c1",
+    "uiTurnColor": "dd50c1",
+    "uiWipeColor1": "ffccf5",
+    "uiWipeColor2": "ffdaf4",
+    "uiWipeColor3": "fffcdb",
+    "uiSpeechColor1": "ec68d2",
+    "uiSpeechColor2": "ec68d2",
+    "uiNameplateColor1": "ec68d2",
+    "uiNameplateColor2": "ffafe4",
+    "castId": 54,
+    "comics": [
+      {
+        "id": "1041_02",
+        "mainCharacterId": 1041,
+        "new": false,
+        "mainCharacter": {
+          "id": 1041,
+          "name": "サクラバクシンオー",
+          "castId": 42,
+          "alphabetId": "sakurabakushino",
+          "uiColorSub": "F2D4D7",
+          "uiColorMain": "EE6FAB",
+          "alphabetName": "Sakura Bakushin O",
+          "uiSpeechColor1": "FF8AC1"
+        }
+      },
+      {
+        "id": "1078_01",
+        "mainCharacterId": 1078,
+        "new": false,
+        "mainCharacter": {
+          "id": 1078,
+          "name": "ヤマニンゼファー",
+          "castId": 77,
+          "alphabetId": "yamaninzephyr",
+          "uiColorSub": "AE4544",
+          "uiColorMain": "5192C1",
+          "alphabetName": "Yamanin Zephyr",
+          "uiSpeechColor1": "4094db"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1051_01",
+        "mainCharacterId": 1051,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10041,
+        "name": "ニシノフラワー",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 0,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 20027,
+        "name": "ニシノフラワー",
+        "title": "[あなたにささげる]",
+        "rarity": 2,
+        "command": 2,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30018,
+        "name": "ニシノフラワー",
+        "title": "[まだ小さな蕾でも]",
+        "rarity": 3,
+        "command": 0,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30082,
+        "name": "ニシノフラワー",
+        "title": "[小さなカップに想いをこめて]",
+        "rarity": 3,
+        "command": 4,
+        "publishedAt": "$D2022-01-28T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30208,
+        "name": "ニシノフラワー",
+        "title": "[朝焼け苺の畑にて]",
+        "rarity": 3,
+        "command": 2,
+        "publishedAt": "$D2024-06-26T03:00:00.000Z",
+        "ev": false
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "105101",
+        "publishedAt": "$D2022-04-11T03:00:00.000Z",
+        "talentSpeed": 15,
+        "talentStamina": 0,
+        "talentPow": 15,
+        "talentGuts": 0,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 2,
+        "aptitudeShort": 7,
+        "aptitudeMile": 7,
+        "aptitudeMiddle": 3,
+        "aptitudeLong": 1,
+        "aptitudeRunner": 2,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 1,
+        "rank": 3,
+        "title": "[ティアード・ペタル]",
+        "limited": false,
+        "characterId": 1051,
+        "commonName": "ニシノ",
+        "dressId": 105101,
+        "ev": false
+      },
+      {
+        "id": "105102",
+        "publishedAt": "$D2023-05-29T03:00:00.000Z",
+        "talentSpeed": 10,
+        "talentStamina": 0,
+        "talentPow": 0,
+        "talentGuts": 0,
+        "talentWiz": 20,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 2,
+        "aptitudeShort": 7,
+        "aptitudeMile": 7,
+        "aptitudeMiddle": 3,
+        "aptitudeLong": 1,
+        "aptitudeRunner": 2,
+        "aptitudeLeader": 7,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 1,
+        "rank": 3,
+        "title": "[Sweet Juneberry]",
+        "limited": false,
+        "characterId": 1051,
+        "commonName": "嫁ニシノ",
+        "dressId": 105126,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 51,
+      "birthYear": 1989,
+      "birthMonth": 4,
+      "birthDate": 19,
+      "description": "大人しくて愛らしい、純真無垢な少女。まだまだ咲きはじめで自信もなく、一人前めざして準備中である。一方でよく気が利き、たとえ自分のことで手一杯でも、周りへの思いやりを忘れない優しい心根の持ち主。いつか大輪の花を咲かせるため、頑張っている。",
+      "height": 135,
+      "weight": "増減なし",
+      "dormitory": "",
+      "threesize": "B67・W48・H70",
+      "schoolGrade": "",
+      "characterId": 1051,
+      "prizeMoney": 435900000,
+      "bad": "炭酸ジュース",
+      "ear": "さわると安心感に包まれ、癒されると評判",
+      "family": "両親からもらったじょうろは今も宝物",
+      "good": "家事全般、園芸",
+      "shoes": "左右ともに18.5cm",
+      "tail": "太陽と、四季折々の花の香りがする",
+      "before": "両親が喜ぶ顔を想像して、気合いを入れる",
+      "boast": "",
+      "buy": "",
+      "myrule": "授業で読めなかった漢字はすぐに調べる",
+      "spbg": "道端に健気に咲いていた、一輪のお花",
+      "subject": ""
+    }
+  }
+}

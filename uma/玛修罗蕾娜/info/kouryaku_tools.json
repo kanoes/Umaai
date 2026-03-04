@@ -1,0 +1,85 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/marchelorraine",
+  "fetched_at_utc": "2026-03-04T08:17:50.675414+00:00",
+  "slug": "marchelorraine",
+  "name_ja": "マルシュロレーヌ",
+  "name_zh": "玛修罗蕾娜",
+  "folder_name": "玛修罗蕾娜",
+  "data": {
+    "id": 1140,
+    "name": "マルシュロレーヌ",
+    "alphabetId": "marchelorraine",
+    "alphabetName": "Marche Lorraine",
+    "imageColorMain": "8A1538",
+    "imageColorSub": "E9A2B2",
+    "uiColorMain": "8b1538",
+    "uiColorSub": "e9a2b2",
+    "uiTrainingColor1": "c5355f",
+    "uiTrainingColor2": "b21845",
+    "uiBorderColor": "b21845",
+    "uiNumColor1": "e43f6f",
+    "uiNumColor2": "c5355f",
+    "uiTurnColor": "c5355f",
+    "uiWipeColor1": "d9a3b3",
+    "uiWipeColor2": "f0c4d1",
+    "uiWipeColor3": "f8d9e0",
+    "uiSpeechColor1": "c5355f",
+    "uiSpeechColor2": "c5355f",
+    "uiNameplateColor1": "c5355f",
+    "uiNameplateColor2": "ed6b91",
+    "castId": 142,
+    "comics": [
+      {
+        "id": "1132_02",
+        "mainCharacterId": 1132,
+        "new": true,
+        "mainCharacter": {
+          "id": 1132,
+          "name": "ラヴズオンリーユー",
+          "castId": 134,
+          "alphabetId": "lovesonlyyou",
+          "uiColorSub": "268745",
+          "uiColorMain": "424840",
+          "alphabetName": "Loves Only You",
+          "uiSpeechColor1": "29aa50"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1140_01",
+        "mainCharacterId": 1140,
+        "new": true
+      }
+    ],
+    "supportCards": [],
+    "characterCards": [],
+    "characterProfile": {
+      "id": 137,
+      "birthYear": 2016,
+      "birthMonth": 2,
+      "birthDate": 4,
+      "description": "極度の引っ込み思案ゆえ、自作のパペットを通じてでないと周囲と会話することもままならない。 反面パペットを通しての言動は非常に陽気で社交的。 クリエイティブ系の技能に長けており、それを活かしたイラストやデザインの提供で幼馴染の配信活動を支えている。",
+      "height": 157,
+      "weight": "黙秘",
+      "dormitory": "",
+      "threesize": "B90・W59・H89",
+      "schoolGrade": "",
+      "characterId": 1140,
+      "prizeMoney": 193270000,
+      "bad": "",
+      "ear": "",
+      "family": "",
+      "good": "",
+      "shoes": "",
+      "tail": "",
+      "before": "",
+      "boast": "",
+      "buy": "",
+      "myrule": "",
+      "spbg": "",
+      "subject": ""
+    }
+  }
+}
