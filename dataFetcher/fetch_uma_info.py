@@ -213,6 +213,107 @@ def build_existing_slug_index(out_root: Path) -> dict[str, Path]:
     return index
 
 
+def load_existing_index_chara(index_path: Path) -> dict[str, dict[str, str]]:
+    if not index_path.exists():
+        return {}
+
+    try:
+        payload = json.loads(index_path.read_text(encoding="utf-8"))
+    except Exception:
+        return {}
+
+    if isinstance(payload, dict):
+        entries = payload.get("uma_list")
+    elif isinstance(payload, list):
+        entries = payload
+    else:
+        return {}
+
+    if not isinstance(entries, list):
+        return {}
+
+    out: dict[str, dict[str, str]] = {}
+    for item in entries:
+        if not isinstance(item, dict):
+            continue
+        slug = item.get("slug")
+        if not isinstance(slug, str) or not slug:
+            continue
+        chara_img = item.get("chara_img")
+        if isinstance(chara_img, str):
+            out[slug] = {"chara_img": chara_img}
+            chara_img_source = item.get("chara_img_source")
+            if isinstance(chara_img_source, str):
+                out[slug]["chara_img_source"] = chara_img_source
+    return out
+
+
+def build_index_list(out_root: Path) -> list[dict[str, Any]]:
+    existing = load_existing_index_chara(out_root / "index.json")
+    items: list[dict[str, Any]] = []
+
+    for info_file in out_root.glob("*/info/kouryaku_tools.json"):
+        try:
+            payload = json.loads(info_file.read_text(encoding="utf-8"))
+        except Exception:
+            continue
+        if not isinstance(payload, dict):
+            continue
+
+        slug = payload.get("slug")
+        if not isinstance(slug, str) or not slug:
+            continue
+
+        data = payload.get("data")
+        name_en = None
+        if isinstance(data, dict):
+            alphabet_name = data.get("alphabetName")
+            if isinstance(alphabet_name, str) and alphabet_name.strip():
+                name_en = alphabet_name
+
+        folder_name = payload.get("folder_name")
+        if not isinstance(folder_name, str) or not folder_name.strip():
+            folder_name = info_file.parent.parent.name
+
+        item = {
+            "slug": slug,
+            "name_ja": payload.get("name_ja"),
+            "name_zh": payload.get("name_zh"),
+            "name_en": name_en,
+            "folder_name": folder_name,
+            "info_path": info_file.as_posix(),
+            "chara_img": "No",
+        }
+
+        existing_chara = existing.get(slug)
+        if existing_chara:
+            chara_img = existing_chara.get("chara_img")
+            if isinstance(chara_img, str) and chara_img:
+                item["chara_img"] = chara_img
+            chara_img_source = existing_chara.get("chara_img_source")
+            if isinstance(chara_img_source, str) and chara_img_source:
+                item["chara_img_source"] = chara_img_source
+
+        items.append(item)
+
+    items.sort(key=lambda x: str(x.get("slug") or ""))
+    return items
+
+
+def write_index_file(out_root: Path) -> Path:
+    items = build_index_list(out_root)
+    payload = {
+        "source": "local uma/*/info/kouryaku_tools.json",
+        "updated_at_utc": datetime.now(timezone.utc).isoformat(),
+        "count": len(items),
+        "uma_list": items,
+    }
+    out_root.mkdir(parents=True, exist_ok=True)
+    index_path = out_root / "index.json"
+    index_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+    return index_path
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(
         description=(
@@ -265,7 +366,6 @@ def main() -> None:
     success = 0
     skipped = 0
     failures: list[dict[str, str]] = []
-    skipped_items: list[dict[str, str]] = []
     missing_name_map: list[dict[str, str]] = []
     existing_slug_index = build_existing_slug_index(out_root) if args.skip_existing else {}
 
@@ -273,7 +373,6 @@ def main() -> None:
         if args.skip_existing and slug in existing_slug_index:
             skipped += 1
             skip_path = existing_slug_index[slug]
-            skipped_items.append({"slug": slug, "path": str(skip_path)})
             print(f"[{index}/{len(slugs)}] SKIP {slug} -> {skip_path}")
             continue
 
@@ -299,28 +398,12 @@ def main() -> None:
         if args.sleep > 0:
             time.sleep(args.sleep)
 
-    summary = {
-        "source_site": UNICODE_BASE_URL,
-        "source_list_url": f"{UNICODE_BASE_URL}/characters",
-        "fetched_at_utc": datetime.now(timezone.utc).isoformat(),
-        "total_slugs": len(slugs),
-        "success_count": success,
-        "skipped_count": skipped,
-        "failure_count": len(failures),
-        "missing_name_map_count": len(missing_name_map),
-        "skipped": skipped_items,
-        "failures": failures,
-        "missing_name_map": missing_name_map,
-    }
-
-    out_root.mkdir(parents=True, exist_ok=True)
-    summary_path = out_root / "_fetch_summary.json"
-    summary_path.write_text(json.dumps(summary, ensure_ascii=False, indent=2), encoding="utf-8")
+    index_path = write_index_file(out_root)
     print(
         f"Done. Success={success}, Skipped={skipped}, "
         f"Failed={len(failures)}, MissingMap={len(missing_name_map)}"
     )
-    print(f"Summary: {summary_path}")
+    print(f"Index: {index_path}")
 
 
 if __name__ == "__main__":
