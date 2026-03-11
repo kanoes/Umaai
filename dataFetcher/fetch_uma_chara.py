@@ -8,6 +8,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import re
 import time
 from datetime import datetime, timezone
@@ -18,7 +19,7 @@ from urllib.parse import urlencode, urlparse
 from urllib.request import Request, urlopen
 
 MICROCMS_API_BASE = "https://6azuq3sitt-aw4monxblm4y4x0oos66.microcms.io/api/v1/character"
-MICROCMS_API_KEY = "xCZfLPNnbazeFHih87prlh1pomFsB1LFq6qZ"
+MICROCMS_API_KEY_ENV = "UMA_MICROCMS_API_KEY"
 USER_AGENT = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
     "AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -261,7 +262,7 @@ def main() -> None:
     parser.add_argument("--index", default="uma/index.json", help="Path to index.json")
     parser.add_argument("--out-root", default="uma", help="Output root for image files")
     parser.add_argument("--api-base", default=MICROCMS_API_BASE, help="microCMS character endpoint")
-    parser.add_argument("--api-key", default=MICROCMS_API_KEY, help="microCMS API key")
+    parser.add_argument("--api-key", default="", help=f"microCMS API key (default: ${MICROCMS_API_KEY_ENV})")
     parser.add_argument("--api-limit", type=int, default=100, help="Page size for character API")
     parser.add_argument("--timeout", type=int, default=30, help="HTTP timeout in seconds")
     parser.add_argument("--retries", type=int, default=3, help="HTTP retry count")
@@ -275,6 +276,11 @@ def main() -> None:
 
     index_path = Path(args.index)
     out_root = Path(args.out_root)
+    api_key = args.api_key or os.getenv(MICROCMS_API_KEY_ENV, "").strip()
+    if not api_key:
+        raise RuntimeError(
+            f"microCMS API key is required. Pass --api-key or set environment variable {MICROCMS_API_KEY_ENV}."
+        )
 
     index_payload = load_index(index_path)
     entries_raw = index_payload.get("uma_list")
@@ -297,7 +303,7 @@ def main() -> None:
 
     characters = fetch_all_characters(
         api_base=args.api_base,
-        api_key=args.api_key,
+        api_key=api_key,
         timeout=args.timeout,
         retries=args.retries,
         sleep_seconds=args.sleep,

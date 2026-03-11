@@ -30,6 +30,10 @@ def parse_threesize(value: Any) -> tuple[int, int, int] | None:
 
 
 def parse_height_cm(value: Any) -> int | None:
+    if isinstance(value, int):
+        return value
+    if isinstance(value, float):
+        return int(value)
     if not isinstance(value, str):
         return None
     matched = HEIGHT_PATTERN.search(value)

@@ -1,0 +1,88 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/foreveryoung",
+  "fetched_at_utc": "2026-03-04T08:17:49.760342+00:00",
+  "slug": "foreveryoung",
+  "name_ja": "フォーエバーヤング",
+  "name_zh": "青春永驻",
+  "folder_name": "青春永驻",
+  "data": {
+    "id": 1138,
+    "name": "フォーエバーヤング",
+    "alphabetId": "foreveryoung",
+    "alphabetName": "Forever Young",
+    "imageColorMain": "6F1F3C",
+    "imageColorSub": "EAE5E7",
+    "uiColorMain": "822b4a",
+    "uiColorSub": "d8ced2",
+    "uiTrainingColor1": "bc4D75",
+    "uiTrainingColor2": "9a254f",
+    "uiBorderColor": "9a254f",
+    "uiNumColor1": "bc4D75",
+    "uiNumColor2": "98244e",
+    "uiTurnColor": "98244e",
+    "uiWipeColor1": "ce91a7",
+    "uiWipeColor2": "d8b0bf",
+    "uiWipeColor3": "d8ced8",
+    "uiSpeechColor1": "bc4D75",
+    "uiSpeechColor2": "bc4D75",
+    "uiNameplateColor1": "bc4D75",
+    "uiNameplateColor2": "de97b0",
+    "castId": 141,
+    "comics": [],
+    "mainComics": [
+      {
+        "id": "1138_01",
+        "mainCharacterId": 1138,
+        "new": true
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10140,
+        "name": "フォーエバーヤング",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 4,
+        "publishedAt": "$D2026-02-24T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30289,
+        "name": "フォーエバーヤング",
+        "title": "[Innovator]",
+        "rarity": 3,
+        "command": 4,
+        "publishedAt": "$D2026-02-24T03:00:00.000Z",
+        "ev": false
+      }
+    ],
+    "characterCards": [],
+    "characterProfile": {
+      "id": 136,
+      "birthYear": 2021,
+      "birthMonth": 2,
+      "birthDate": 24,
+      "description": "『ウマ娘界にイノベーションを起こす』と豪語するイノベーター系ウマ娘。 ギャルいバイタリティと、幼い頃から世界中のレースやビジネスを見て培ったロジカル思考、そして常識破りの発想力を武器に、日々プロジェクトを進行中。 ちなみに、彼女の誕生日はこの世界のある祝日と同じなのだとか。",
+      "height": 167,
+      "weight": "予想外",
+      "dormitory": "",
+      "threesize": "B90・W60・H89",
+      "schoolGrade": "",
+      "characterId": 1138,
+      "prizeMoney": 294200000,
+      "bad": "",
+      "ear": "",
+      "family": "",
+      "good": "",
+      "shoes": "",
+      "tail": "",
+      "before": "",
+      "boast": "",
+      "buy": "",
+      "myrule": "",
+      "spbg": "",
+      "subject": ""
+    }
+  }
+}

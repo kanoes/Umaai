@@ -1,0 +1,9 @@
+[project]
+name = "umaai"
+version = "0.1.0"
+description = "Uma Musume data platform with public site and admin console"
+requires-python = ">=3.9"
+dependencies = []
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

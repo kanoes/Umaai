@@ -1,0 +1,195 @@
+{
+  "source_site": "https://ウマ娘.攻略.tools",
+  "source_url": "https://ウマ娘.攻略.tools/characters/bamboomemory",
+  "fetched_at_utc": "2026-03-04T08:16:37.677717+00:00",
+  "slug": "bamboomemory",
+  "name_ja": "バンブーメモリー",
+  "name_zh": "青竹回忆",
+  "folder_name": "青竹回忆",
+  "data": {
+    "id": 1053,
+    "name": "バンブーメモリー",
+    "alphabetId": "bamboomemory",
+    "alphabetName": "Bamboo Memory",
+    "imageColorMain": "29504D",
+    "imageColorSub": "FFFFFF",
+    "uiColorMain": "366965",
+    "uiColorSub": "2D2926",
+    "uiTrainingColor1": "29a89e",
+    "uiTrainingColor2": "217873",
+    "uiBorderColor": "217873",
+    "uiNumColor1": "2ebeab",
+    "uiNumColor2": "1e9a90",
+    "uiTurnColor": "1e9a90",
+    "uiWipeColor1": "6aebe1",
+    "uiWipeColor2": "81f6ed",
+    "uiWipeColor3": "c5ffed",
+    "uiSpeechColor1": "29a89e",
+    "uiSpeechColor2": "29a89e",
+    "uiNameplateColor1": "2b9c93",
+    "uiNameplateColor2": "45d5b5",
+    "castId": 53,
+    "comics": [
+      {
+        "id": "1036_01",
+        "mainCharacterId": 1036,
+        "new": false,
+        "mainCharacter": {
+          "id": 1036,
+          "name": "エアシャカール",
+          "castId": 37,
+          "alphabetId": "airshakur",
+          "uiColorSub": "E1E000",
+          "uiColorMain": "2459B4",
+          "alphabetName": "Air Shakur",
+          "uiSpeechColor1": "2b61bf"
+        }
+      },
+      {
+        "id": "1040_02",
+        "mainCharacterId": 1040,
+        "new": false,
+        "mainCharacter": {
+          "id": 1040,
+          "name": "ゴールドシチー",
+          "castId": 39,
+          "alphabetId": "goldcity",
+          "uiColorSub": "E63C5C",
+          "uiColorMain": "245099",
+          "alphabetName": "Gold City",
+          "uiSpeechColor1": "5294FF"
+        }
+      }
+    ],
+    "mainComics": [
+      {
+        "id": "1053_01",
+        "mainCharacterId": 1053,
+        "new": false
+      },
+      {
+        "id": "1053_02",
+        "mainCharacterId": 1053,
+        "new": false
+      }
+    ],
+    "supportCards": [
+      {
+        "id": 10065,
+        "name": "バンブーメモリー",
+        "title": "[トレセン学園]",
+        "rarity": 1,
+        "command": 2,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30042,
+        "name": "バンブーメモリー",
+        "title": "[Head-on fight！]",
+        "rarity": 3,
+        "command": 2,
+        "publishedAt": "$D2021-02-23T15:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30094,
+        "name": "バンブーメモリー",
+        "title": "[届け、このオモイ！]",
+        "rarity": 3,
+        "command": 3,
+        "publishedAt": "$D2022-04-28T03:00:00.000Z",
+        "ev": false
+      },
+      {
+        "id": 30197,
+        "name": "バンブーメモリー",
+        "title": "[Burning!!]",
+        "rarity": 3,
+        "command": 2,
+        "publishedAt": "$D2024-03-29T03:00:00.000Z",
+        "ev": true
+      }
+    ],
+    "characterCards": [
+      {
+        "id": "105301",
+        "publishedAt": "$D2022-08-10T03:00:00.000Z",
+        "talentSpeed": 10,
+        "talentStamina": 0,
+        "talentPow": 10,
+        "talentGuts": 10,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 4,
+        "aptitudeShort": 7,
+        "aptitudeMile": 7,
+        "aptitudeMiddle": 5,
+        "aptitudeLong": 1,
+        "aptitudeRunner": 1,
+        "aptitudeLeader": 3,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 5,
+        "rank": 3,
+        "title": "[黒鉄の大志]",
+        "limited": false,
+        "characterId": 1053,
+        "commonName": "バンブー",
+        "dressId": 105301,
+        "ev": false
+      },
+      {
+        "id": "105302",
+        "publishedAt": "$D2023-06-29T03:00:00.000Z",
+        "talentSpeed": 14,
+        "talentStamina": 0,
+        "talentPow": 8,
+        "talentGuts": 8,
+        "talentWiz": 0,
+        "aptitudeTurf": 7,
+        "aptitudeDirt": 4,
+        "aptitudeShort": 7,
+        "aptitudeMile": 7,
+        "aptitudeMiddle": 5,
+        "aptitudeLong": 1,
+        "aptitudeRunner": 1,
+        "aptitudeLeader": 3,
+        "aptitudeBetweener": 7,
+        "aptitudeChaser": 5,
+        "rank": 3,
+        "title": "[Ultra☆Marine]",
+        "limited": false,
+        "characterId": 1053,
+        "commonName": "夏バンブー",
+        "dressId": 105323,
+        "ev": false
+      }
+    ],
+    "characterProfile": {
+      "id": 53,
+      "birthYear": 1985,
+      "birthMonth": 5,
+      "birthDate": 14,
+      "description": "情熱のままに突き進む熱血タイプ。好敵手と激しくやりあった父の武勇伝に感動し、自分もそんなライバルに巡り合いたいと血潮を燃やす。風紀委員長を務めているが、そのきっかけは、TVドラマで竹刀を握る風紀委員長役がカッコいいと思ったからである。",
+      "height": 157,
+      "weight": "増減なし",
+      "dormitory": "",
+      "threesize": "B77・W57・H81",
+      "schoolGrade": "",
+      "characterId": 1053,
+      "prizeMoney": 507160000,
+      "bad": "よく噛んで食べること",
+      "ear": "ハチマキを外すと垂れそうになる",
+      "family": "熱血体育教師の父は、師匠であり原点",
+      "good": "早寝早起き、即断即決！",
+      "shoes": "左：22.5cm 右：23.0cm",
+      "tail": "とりあえず尻尾も毎日鍛えている",
+      "before": "気合いが入り、いつも以上に声が大きくなる",
+      "boast": "",
+      "buy": "",
+      "myrule": "まずは『信じる』ことから始める",
+      "spbg": "『一脚入魂』と達筆で書かれた画像",
+      "subject": ""
+    }
+  }
+}

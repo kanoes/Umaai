@@ -175,12 +175,12 @@
     },
     {
       "slug": "astonmachan",
-      "name_zh": "阿斯顿马丁",
+      "name_zh": "麻酱",
       "name_ja": "アストンマーチャン",
       "name_en": "Aston Machan",
-      "folder_name": "阿斯顿马丁",
-      "info_path": "uma/阿斯顿马丁/info/kouryaku_tools.json",
-      "chara_img": "uma/阿斯顿马丁/images/chara.png",
+      "folder_name": "麻酱",
+      "info_path": "uma/麻酱/info/kouryaku_tools.json",
+      "chara_img": "uma/麻酱/images/chara.png",
       "threesize_text": "B86・W55・H80",
       "bust_cm": 86,
       "waist_cm": 55,
@@ -192,12 +192,12 @@
     },
     {
       "slug": "bamboomemory",
-      "name_zh": "竹纪念",
+      "name_zh": "青竹回忆",
       "name_ja": "バンブーメモリー",
       "name_en": "Bamboo Memory",
-      "folder_name": "竹纪念",
-      "info_path": "uma/竹纪念/info/kouryaku_tools.json",
-      "chara_img": "uma/竹纪念/images/chara.png",
+      "folder_name": "青竹回忆",
+      "info_path": "uma/青竹回忆/info/kouryaku_tools.json",
+      "chara_img": "uma/青竹回忆/images/chara.png",
       "threesize_text": "B77・W57・H81",
       "bust_cm": 77,
       "waist_cm": 57,
@@ -277,12 +277,12 @@
     },
     {
       "slug": "bubblegumfellow",
-      "name_zh": "泡泡糖伙伴",
+      "name_zh": "吹波糖",
       "name_ja": "バブルガムフェロー",
       "name_en": "Bubble Gum Fellow",
-      "folder_name": "泡泡糖伙伴",
-      "info_path": "uma/泡泡糖伙伴/info/kouryaku_tools.json",
-      "chara_img": "uma/泡泡糖伙伴/images/chara.png",
+      "folder_name": "吹波糖",
+      "info_path": "uma/吹波糖/info/kouryaku_tools.json",
+      "chara_img": "uma/吹波糖/images/chara.png",
       "threesize_text": "B82・W58・H84",
       "bust_cm": 82,
       "waist_cm": 58,
@@ -379,12 +379,12 @@
     },
     {
       "slug": "copanorickey",
-      "name_zh": "理科先生",
+      "name_zh": "小林历奇",
       "name_ja": "コパノリッキー",
       "name_en": "Copano Rickey",
-      "folder_name": "理科先生",
-      "info_path": "uma/理科先生/info/kouryaku_tools.json",
-      "chara_img": "uma/理科先生/images/chara.png",
+      "folder_name": "小林历奇",
+      "info_path": "uma/小林历奇/info/kouryaku_tools.json",
+      "chara_img": "uma/小林历奇/images/chara.png",
       "threesize_text": "B83・W55・H87",
       "bust_cm": 83,
       "waist_cm": 55,
@@ -413,12 +413,12 @@
     },
     {
       "slug": "currenchan",
-      "name_zh": "爱如往昔",
+      "name_zh": "真机伶",
       "name_ja": "カレンチャン",
       "name_en": "Curren Chan",
-      "folder_name": "爱如往昔",
-      "info_path": "uma/爱如往昔/info/kouryaku_tools.json",
-      "chara_img": "uma/爱如往昔/images/chara.png",
+      "folder_name": "真机伶",
+      "info_path": "uma/真机伶/info/kouryaku_tools.json",
+      "chara_img": "uma/真机伶/images/chara.png",
       "threesize_text": "B83・W55・H79",
       "bust_cm": 83,
       "waist_cm": 55,
@@ -668,12 +668,12 @@
     },
     {
       "slug": "finemotion",
-      "name_zh": "细腻动力",
+      "name_zh": "美妙姿势",
       "name_ja": "ファインモーション",
       "name_en": "Fine Motion",
-      "folder_name": "细腻动力",
-      "info_path": "uma/细腻动力/info/kouryaku_tools.json",
-      "chara_img": "uma/细腻动力/images/chara.png",
+      "folder_name": "美妙姿势",
+      "info_path": "uma/美妙姿势/info/kouryaku_tools.json",
+      "chara_img": "uma/美妙姿势/images/chara.png",
       "threesize_text": "B79・W56・H83",
       "bust_cm": 79,
       "waist_cm": 56,
@@ -685,12 +685,12 @@
     },
     {
       "slug": "foreveryoung",
-      "name_zh": "永远年轻",
+      "name_zh": "青春永驻",
       "name_ja": "フォーエバーヤング",
       "name_en": "Forever Young",
-      "folder_name": "永远年轻",
-      "info_path": "uma/永远年轻/info/kouryaku_tools.json",
-      "chara_img": "uma/永远年轻/images/chara.png",
+      "folder_name": "青春永驻",
+      "info_path": "uma/青春永驻/info/kouryaku_tools.json",
+      "chara_img": "uma/青春永驻/images/chara.png",
       "threesize_text": "B90・W60・H89",
       "bust_cm": 90,
       "waist_cm": 60,
@@ -702,12 +702,12 @@
     },
     {
       "slug": "fujikiseki",
-      "name_zh": "富士奇石",
+      "name_zh": "富士奇迹",
       "name_ja": "フジキセキ",
       "name_en": "Fuji Kiseki",
-      "folder_name": "富士奇石",
-      "info_path": "uma/富士奇石/info/kouryaku_tools.json",
-      "chara_img": "uma/富士奇石/images/chara.png",
+      "folder_name": "富士奇迹",
+      "info_path": "uma/富士奇迹/info/kouryaku_tools.json",
+      "chara_img": "uma/富士奇迹/images/chara.png",
       "threesize_text": "B84・W58・H82",
       "bust_cm": 84,
       "waist_cm": 58,
@@ -1076,12 +1076,12 @@
     },
     {
       "slug": "ksmiracle",
-      "name_zh": "KS奇迹",
+      "name_zh": "凯斯奇迹",
       "name_ja": "ケイエスミラクル",
       "name_en": "K.S. Miracle",
-      "folder_name": "KS奇迹",
-      "info_path": "uma/KS奇迹/info/kouryaku_tools.json",
-      "chara_img": "uma/KS奇迹/images/chara.png",
+      "folder_name": "凯斯奇迹",
+      "info_path": "uma/凯斯奇迹/info/kouryaku_tools.json",
+      "chara_img": "uma/凯斯奇迹/images/chara.png",
       "threesize_text": "B79・W51・H77",
       "bust_cm": 79,
       "waist_cm": 51,
@@ -1841,12 +1841,12 @@
     },
     {
       "slug": "seekingthepearl",
-      "name_zh": "寻找珍珠",
+      "name_zh": "采珠",
       "name_ja": "シーキングザパール",
       "name_en": "Seeking the Pearl",
-      "folder_name": "寻找珍珠",
-      "info_path": "uma/寻找珍珠/info/kouryaku_tools.json",
-      "chara_img": "uma/寻找珍珠/images/chara.png",
+      "folder_name": "采珠",
+      "info_path": "uma/采珠/info/kouryaku_tools.json",
+      "chara_img": "uma/采珠/images/chara.png",
       "threesize_text": "B91・W57・H87",
       "bust_cm": 91,
       "waist_cm": 57,
@@ -1926,12 +1926,12 @@
     },
     {
       "slug": "smartfalcon",
-      "name_zh": "真机伶",
+      "name_zh": "醒目飞鹰 ",
       "name_ja": "スマートファルコン",
       "name_en": "Smart Falcon",
-      "folder_name": "真机伶",
-      "info_path": "uma/真机伶/info/kouryaku_tools.json",
-      "chara_img": "uma/真机伶/images/chara.png",
+      "folder_name": "醒目飞鹰 ",
+      "info_path": "uma/醒目飞鹰 /info/kouryaku_tools.json",
+      "chara_img": "uma/醒目飞鹰 /images/chara.png",
       "threesize_text": "B78・W55・H80",
       "bust_cm": 78,
       "waist_cm": 55,
@@ -1994,12 +1994,12 @@
     },
     {
       "slug": "stillinlove",
-      "name_zh": "依然爱你",
-      "name_ja": "スティルインラブ",
+      "name_zh": "爱如往昔",
+      "name_ja": "ルインラブ",
       "name_en": "Still In Love",
-      "folder_name": "依然爱你",
-      "info_path": "uma/依然爱你/info/kouryaku_tools.json",
-      "chara_img": "uma/依然爱你/images/chara.png",
+      "folder_name": "爱如往昔",
+      "info_path": "uma/爱如往昔/info/kouryaku_tools.json",
+      "chara_img": "uma/爱如往昔/images/chara.png",
       "threesize_text": "B72・W50・H76",
       "bust_cm": 72,
       "waist_cm": 50,
@@ -2283,12 +2283,12 @@
     },
     {
       "slug": "vivlos",
-      "name_zh": "维布洛斯",
+      "name_zh": "强击",
       "name_ja": "ヴィブロス",
       "name_en": "Vivlos",
-      "folder_name": "维布洛斯",
-      "info_path": "uma/维布洛斯/info/kouryaku_tools.json",
-      "chara_img": "uma/维布洛斯/images/chara.png",
+      "folder_name": "强击",
+      "info_path": "uma/强击/info/kouryaku_tools.json",
+      "chara_img": "uma/强击/images/chara.png",
       "threesize_text": "B81・W51・H86",
       "bust_cm": 81,
       "waist_cm": 51,
@@ -2419,12 +2419,12 @@
     },
     {
       "slug": "zennorobroy",
-      "name_zh": "善信罗布罗伊",
+      "name_zh": "荒漠英雄",
       "name_ja": "ゼンノロブロイ",
       "name_en": "Zenno Rob Roy",
-      "folder_name": "善信罗布罗伊",
-      "info_path": "uma/善信罗布罗伊/info/kouryaku_tools.json",
-      "chara_img": "uma/善信罗布罗伊/images/chara.png",
+      "folder_name": "荒漠英雄",
+      "info_path": "uma/荒漠英雄/info/kouryaku_tools.json",
+      "chara_img": "uma/荒漠英雄/images/chara.png",
       "threesize_text": "B89・W56・H78",
       "bust_cm": 89,
       "waist_cm": 56,
@@ -2440,11 +2440,11 @@
       {
         "rank": 1,
         "slug": "vivlos",
-        "name_zh": "维布洛斯",
+        "name_zh": "强击",
         "name_ja": "ヴィブロス",
         "name_en": "Vivlos",
         "value": 0.593,
-        "chara_img": "uma/维布洛斯/images/chara.png"
+        "chara_img": "uma/强击/images/chara.png"
       },
       {
         "rank": 2,
@@ -2512,11 +2512,11 @@
       {
         "rank": 9,
         "slug": "copanorickey",
-        "name_zh": "理科先生",
+        "name_zh": "小林历奇",
         "name_ja": "コパノリッキー",
         "name_en": "Copano Rickey",
         "value": 0.6322,
-        "chara_img": "uma/理科先生/images/chara.png"
+        "chara_img": "uma/小林历奇/images/chara.png"
       },
       {
         "rank": 10,
@@ -2620,11 +2620,11 @@
       {
         "rank": 21,
         "slug": "seekingthepearl",
-        "name_zh": "寻找珍珠",
+        "name_zh": "采珠",
         "name_ja": "シーキングザパール",
         "name_en": "Seeking the Pearl",
         "value": 0.6552,
-        "chara_img": "uma/寻找珍珠/images/chara.png"
+        "chara_img": "uma/采珠/images/chara.png"
       },
       {
         "rank": 22,
@@ -2638,11 +2638,11 @@
       {
         "rank": 23,
         "slug": "stillinlove",
-        "name_zh": "依然爱你",
+        "name_zh": "爱如往昔",
         "name_ja": "スティルインラブ",
         "name_en": "Still In Love",
         "value": 0.6579,
-        "chara_img": "uma/依然爱你/images/chara.png"
+        "chara_img": "uma/爱如往昔/images/chara.png"
       },
       {
         "rank": 24,
@@ -2719,11 +2719,11 @@
       {
         "rank": 32,
         "slug": "ksmiracle",
-        "name_zh": "KS奇迹",
+        "name_zh": "凯斯奇迹",
         "name_ja": "ケイエスミラクル",
         "name_en": "K.S. Miracle",
         "value": 0.6623,
-        "chara_img": "uma/KS奇迹/images/chara.png"
+        "chara_img": "uma/凯斯奇迹/images/chara.png"
       },
       {
         "rank": 33,
@@ -2926,11 +2926,11 @@
       {
         "rank": 55,
         "slug": "foreveryoung",
-        "name_zh": "永远年轻",
+        "name_zh": "青春永驻",
         "name_ja": "フォーエバーヤング",
         "name_en": "Forever Young",
         "value": 0.6742,
-        "chara_img": "uma/永远年轻/images/chara.png"
+        "chara_img": "uma/青春永驻/images/chara.png"
       },
       {
         "rank": 56,
@@ -2971,11 +2971,11 @@
       {
         "rank": 60,
         "slug": "finemotion",
-        "name_zh": "细腻动力",
+        "name_zh": "美妙姿势",
         "name_ja": "ファインモーション",
         "name_en": "Fine Motion",
         "value": 0.6747,
-        "chara_img": "uma/细腻动力/images/chara.png"
+        "chara_img": "uma/美妙姿势/images/chara.png"
       },
       {
         "rank": 61,
@@ -3160,11 +3160,11 @@
       {
         "rank": 81,
         "slug": "astonmachan",
-        "name_zh": "阿斯顿马丁",
+        "name_zh": "麻酱",
         "name_ja": "アストンマーチャン",
         "name_en": "Aston Machan",
         "value": 0.6875,
-        "chara_img": "uma/阿斯顿马丁/images/chara.png"
+        "chara_img": "uma/麻酱/images/chara.png"
       },
       {
         "rank": 82,
@@ -3214,11 +3214,11 @@
       {
         "rank": 87,
         "slug": "smartfalcon",
-        "name_zh": "真机伶",
+        "name_zh": "醒目飞鹰 ",
         "name_ja": "スマートファルコン",
         "name_en": "Smart Falcon",
         "value": 0.6875,
-        "chara_img": "uma/真机伶/images/chara.png"
+        "chara_img": "uma/醒目飞鹰 /images/chara.png"
       },
       {
         "rank": 88,
@@ -3277,11 +3277,11 @@
       {
         "rank": 94,
         "slug": "bubblegumfellow",
-        "name_zh": "泡泡糖伙伴",
+        "name_zh": "吹波糖",
         "name_ja": "バブルガムフェロー",
         "name_en": "Bubble Gum Fellow",
         "value": 0.6905,
-        "chara_img": "uma/泡泡糖伙伴/images/chara.png"
+        "chara_img": "uma/吹波糖/images/chara.png"
       },
       {
         "rank": 95,
@@ -3376,11 +3376,11 @@
       {
         "rank": 105,
         "slug": "currenchan",
-        "name_zh": "爱如往昔",
+        "name_zh": "真机伶",
         "name_ja": "カレンチャン",
         "name_en": "Curren Chan",
         "value": 0.6962,
-        "chara_img": "uma/爱如往昔/images/chara.png"
+        "chara_img": "uma/真机伶/images/chara.png"
       },
       {
         "rank": 106,
@@ -3502,11 +3502,11 @@
       {
         "rank": 119,
         "slug": "bamboomemory",
-        "name_zh": "竹纪念",
+        "name_zh": "青竹回忆",
         "name_ja": "バンブーメモリー",
         "name_en": "Bamboo Memory",
         "value": 0.7037,
-        "chara_img": "uma/竹纪念/images/chara.png"
+        "chara_img": "uma/青竹回忆/images/chara.png"
       },
       {
         "rank": 120,
@@ -3547,11 +3547,11 @@
       {
         "rank": 124,
         "slug": "fujikiseki",
-        "name_zh": "富士奇石",
+        "name_zh": "富士奇迹",
         "name_ja": "フジキセキ",
         "name_en": "Fuji Kiseki",
         "value": 0.7073,
-        "chara_img": "uma/富士奇石/images/chara.png"
+        "chara_img": "uma/富士奇迹/images/chara.png"
       },
       {
         "rank": 125,
@@ -3637,11 +3637,11 @@
       {
         "rank": 134,
         "slug": "zennorobroy",
-        "name_zh": "善信罗布罗伊",
+        "name_zh": "荒漠英雄",
         "name_ja": "ゼンノロブロイ",
         "name_en": "Zenno Rob Roy",
         "value": 0.7179,
-        "chara_img": "uma/善信罗布罗伊/images/chara.png"
+        "chara_img": "uma/荒漠英雄/images/chara.png"
       },
       {
         "rank": 135,
@@ -3810,11 +3810,11 @@
       {
         "rank": 12,
         "slug": "seekingthepearl",
-        "name_zh": "寻找珍珠",
+        "name_zh": "采珠",
         "name_ja": "シーキングザパール",
         "name_en": "Seeking the Pearl",
         "value": 0.6264,
-        "chara_img": "uma/寻找珍珠/images/chara.png"
+        "chara_img": "uma/采珠/images/chara.png"
       },
       {
         "rank": 13,
@@ -3855,20 +3855,20 @@
       {
         "rank": 17,
         "slug": "zennorobroy",
-        "name_zh": "善信罗布罗伊",
+        "name_zh": "荒漠英雄",
         "name_ja": "ゼンノロブロイ",
         "name_en": "Zenno Rob Roy",
         "value": 0.6292,
-        "chara_img": "uma/善信罗布罗伊/images/chara.png"
+        "chara_img": "uma/荒漠英雄/images/chara.png"
       },
       {
         "rank": 18,
         "slug": "vivlos",
-        "name_zh": "维布洛斯",
+        "name_zh": "强击",
         "name_ja": "ヴィブロス",
         "name_en": "Vivlos",
         "value": 0.6296,
-        "chara_img": "uma/维布洛斯/images/chara.png"
+        "chara_img": "uma/强击/images/chara.png"
       },
       {
         "rank": 19,
@@ -3936,11 +3936,11 @@
       {
         "rank": 26,
         "slug": "astonmachan",
-        "name_zh": "阿斯顿马丁",
+        "name_zh": "麻酱",
         "name_ja": "アストンマーチャン",
         "name_en": "Aston Machan",
         "value": 0.6395,
-        "chara_img": "uma/阿斯顿马丁/images/chara.png"
+        "chara_img": "uma/麻酱/images/chara.png"
       },
       {
         "rank": 27,
@@ -3972,11 +3972,11 @@
       {
         "rank": 30,
         "slug": "ksmiracle",
-        "name_zh": "KS奇迹",
+        "name_zh": "凯斯奇迹",
         "name_ja": "ケイエスミラクル",
         "name_en": "K.S. Miracle",
         "value": 0.6456,
-        "chara_img": "uma/KS奇迹/images/chara.png"
+        "chara_img": "uma/凯斯奇迹/images/chara.png"
       },
       {
         "rank": 31,
@@ -4233,20 +4233,20 @@
       {
         "rank": 59,
         "slug": "copanorickey",
-        "name_zh": "理科先生",
+        "name_zh": "小林历奇",
         "name_ja": "コパノリッキー",
         "name_en": "Copano Rickey",
         "value": 0.6627,
-        "chara_img": "uma/理科先生/images/chara.png"
+        "chara_img": "uma/小林历奇/images/chara.png"
       },
       {
         "rank": 60,
         "slug": "currenchan",
-        "name_zh": "爱如往昔",
+        "name_zh": "真机伶",
         "name_ja": "カレンチャン",
         "name_en": "Curren Chan",
         "value": 0.6627,
-        "chara_img": "uma/爱如往昔/images/chara.png"
+        "chara_img": "uma/真机伶/images/chara.png"
       },
       {
         "rank": 61,
@@ -4305,11 +4305,11 @@
       {
         "rank": 67,
         "slug": "foreveryoung",
-        "name_zh": "永远年轻",
+        "name_zh": "青春永驻",
         "name_ja": "フォーエバーヤング",
         "name_en": "Forever Young",
         "value": 0.6667,
-        "chara_img": "uma/永远年轻/images/chara.png"
+        "chara_img": "uma/青春永驻/images/chara.png"
       },
       {
         "rank": 68,
@@ -4548,11 +4548,11 @@
       {
         "rank": 94,
         "slug": "fujikiseki",
-        "name_zh": "富士奇石",
+        "name_zh": "富士奇迹",
         "name_ja": "フジキセキ",
         "name_en": "Fuji Kiseki",
         "value": 0.6905,
-        "chara_img": "uma/富士奇石/images/chara.png"
+        "chara_img": "uma/富士奇迹/images/chara.png"
       },
       {
         "rank": 95,
@@ -4620,11 +4620,11 @@
       {
         "rank": 102,
         "slug": "stillinlove",
-        "name_zh": "依然爱你",
+        "name_zh": "爱如往昔",
         "name_ja": "スティルインラブ",
         "name_en": "Still In Love",
         "value": 0.6944,
-        "chara_img": "uma/依然爱你/images/chara.png"
+        "chara_img": "uma/爱如往昔/images/chara.png"
       },
       {
         "rank": 103,
@@ -4692,11 +4692,11 @@
       {
         "rank": 110,
         "slug": "smartfalcon",
-        "name_zh": "真机伶",
+        "name_zh": "醒目飞鹰 ",
         "name_ja": "スマートファルコン",
         "name_en": "Smart Falcon",
         "value": 0.7051,
-        "chara_img": "uma/真机伶/images/chara.png"
+        "chara_img": "uma/醒目飞鹰 /images/chara.png"
       },
       {
         "rank": 111,
@@ -4719,11 +4719,11 @@
       {
         "rank": 113,
         "slug": "bubblegumfellow",
-        "name_zh": "泡泡糖伙伴",
+        "name_zh": "吹波糖",
         "name_ja": "バブルガムフェロー",
         "name_en": "Bubble Gum Fellow",
         "value": 0.7073,
-        "chara_img": "uma/泡泡糖伙伴/images/chara.png"
+        "chara_img": "uma/吹波糖/images/chara.png"
       },
       {
         "rank": 114,
@@ -4746,11 +4746,11 @@
       {
         "rank": 116,
         "slug": "finemotion",
-        "name_zh": "细腻动力",
+        "name_zh": "美妙姿势",
         "name_ja": "ファインモーション",
         "name_en": "Fine Motion",
         "value": 0.7089,
-        "chara_img": "uma/细腻动力/images/chara.png"
+        "chara_img": "uma/美妙姿势/images/chara.png"
       },
       {
         "rank": 117,
@@ -4917,11 +4917,11 @@
       {
         "rank": 135,
         "slug": "bamboomemory",
-        "name_zh": "竹纪念",
+        "name_zh": "青竹回忆",
         "name_ja": "バンブーメモリー",
         "name_en": "Bamboo Memory",
         "value": 0.7403,
-        "chara_img": "uma/竹纪念/images/chara.png"
+        "chara_img": "uma/青竹回忆/images/chara.png"
       },
       {
         "rank": 136,
@@ -5090,11 +5090,11 @@
       {
         "rank": 13,
         "slug": "seekingthepearl",
-        "name_zh": "寻找珍珠",
+        "name_zh": "采珠",
         "name_ja": "シーキングザパール",
         "name_en": "Seeking the Pearl",
         "value": 91,
-        "chara_img": "uma/寻找珍珠/images/chara.png"
+        "chara_img": "uma/采珠/images/chara.png"
       },
       {
         "rank": 14,
@@ -5135,11 +5135,11 @@
       {
         "rank": 18,
         "slug": "foreveryoung",
-        "name_zh": "永远年轻",
+        "name_zh": "青春永驻",
         "name_ja": "フォーエバーヤング",
         "name_en": "Forever Young",
         "value": 90,
-        "chara_img": "uma/永远年轻/images/chara.png"
+        "chara_img": "uma/青春永驻/images/chara.png"
       },
       {
         "rank": 19,
@@ -5207,11 +5207,11 @@
       {
         "rank": 26,
         "slug": "zennorobroy",
-        "name_zh": "善信罗布罗伊",
+        "name_zh": "荒漠英雄",
         "name_ja": "ゼンノロブロイ",
         "name_en": "Zenno Rob Roy",
         "value": 89,
-        "chara_img": "uma/善信罗布罗伊/images/chara.png"
+        "chara_img": "uma/荒漠英雄/images/chara.png"
       },
       {
         "rank": 27,
@@ -5333,11 +5333,11 @@
       {
         "rank": 40,
         "slug": "astonmachan",
-        "name_zh": "阿斯顿马丁",
+        "name_zh": "麻酱",
         "name_ja": "アストンマーチャン",
         "name_en": "Aston Machan",
         "value": 86,
-        "chara_img": "uma/阿斯顿马丁/images/chara.png"
+        "chara_img": "uma/麻酱/images/chara.png"
       },
       {
         "rank": 41,
@@ -5486,11 +5486,11 @@
       {
         "rank": 57,
         "slug": "fujikiseki",
-        "name_zh": "富士奇石",
+        "name_zh": "富士奇迹",
         "name_ja": "フジキセキ",
         "name_en": "Fuji Kiseki",
         "value": 84,
-        "chara_img": "uma/富士奇石/images/chara.png"
+        "chara_img": "uma/富士奇迹/images/chara.png"
       },
       {
         "rank": 58,
@@ -5567,20 +5567,20 @@
       {
         "rank": 66,
         "slug": "copanorickey",
-        "name_zh": "理科先生",
+        "name_zh": "小林历奇",
         "name_ja": "コパノリッキー",
         "name_en": "Copano Rickey",
         "value": 83,
-        "chara_img": "uma/理科先生/images/chara.png"
+        "chara_img": "uma/小林历奇/images/chara.png"
       },
       {
         "rank": 67,
         "slug": "currenchan",
-        "name_zh": "爱如往昔",
+        "name_zh": "真机伶",
         "name_ja": "カレンチャン",
         "name_en": "Curren Chan",
         "value": 83,
-        "chara_img": "uma/爱如往昔/images/chara.png"
+        "chara_img": "uma/真机伶/images/chara.png"
       },
       {
         "rank": 68,
@@ -5630,11 +5630,11 @@
       {
         "rank": 73,
         "slug": "bubblegumfellow",
-        "name_zh": "泡泡糖伙伴",
+        "name_zh": "吹波糖",
         "name_ja": "バブルガムフェロー",
         "name_en": "Bubble Gum Fellow",
         "value": 82,
-        "chara_img": "uma/泡泡糖伙伴/images/chara.png"
+        "chara_img": "uma/吹波糖/images/chara.png"
       },
       {
         "rank": 74,
@@ -5756,11 +5756,11 @@
       {
         "rank": 87,
         "slug": "vivlos",
-        "name_zh": "维布洛斯",
+        "name_zh": "强击",
         "name_ja": "ヴィブロス",
         "name_en": "Vivlos",
         "value": 81,
-        "chara_img": "uma/维布洛斯/images/chara.png"
+        "chara_img": "uma/强击/images/chara.png"
       },
       {
         "rank": 88,
@@ -5855,20 +5855,20 @@
       {
         "rank": 98,
         "slug": "finemotion",
-        "name_zh": "细腻动力",
+        "name_zh": "美妙姿势",
         "name_ja": "ファインモーション",
         "name_en": "Fine Motion",
         "value": 79,
-        "chara_img": "uma/细腻动力/images/chara.png"
+        "chara_img": "uma/美妙姿势/images/chara.png"
       },
       {
         "rank": 99,
         "slug": "ksmiracle",
-        "name_zh": "KS奇迹",
+        "name_zh": "凯斯奇迹",
         "name_ja": "ケイエスミラクル",
         "name_en": "K.S. Miracle",
         "value": 79,
-        "chara_img": "uma/KS奇迹/images/chara.png"
+        "chara_img": "uma/凯斯奇迹/images/chara.png"
       },
       {
         "rank": 100,
@@ -5918,11 +5918,11 @@
       {
         "rank": 105,
         "slug": "smartfalcon",
-        "name_zh": "真机伶",
+        "name_zh": "醒目飞鹰 ",
         "name_ja": "スマートファルコン",
         "name_en": "Smart Falcon",
         "value": 78,
-        "chara_img": "uma/真机伶/images/chara.png"
+        "chara_img": "uma/醒目飞鹰 /images/chara.png"
       },
       {
         "rank": 106,
@@ -5945,11 +5945,11 @@
       {
         "rank": 108,
         "slug": "bamboomemory",
-        "name_zh": "竹纪念",
+        "name_zh": "青竹回忆",
         "name_ja": "バンブーメモリー",
         "name_en": "Bamboo Memory",
         "value": 77,
-        "chara_img": "uma/竹纪念/images/chara.png"
+        "chara_img": "uma/青竹回忆/images/chara.png"
       },
       {
         "rank": 109,
@@ -6161,11 +6161,11 @@
       {
         "rank": 132,
         "slug": "stillinlove",
-        "name_zh": "依然爱你",
+        "name_zh": "爱如往昔",
         "name_ja": "スティルインラブ",
         "name_en": "Still In Love",
         "value": 72,
-        "chara_img": "uma/依然爱你/images/chara.png"
+        "chara_img": "uma/爱如往昔/images/chara.png"
       },
       {
         "rank": 133,
@@ -6289,11 +6289,11 @@
       {
         "rank": 5,
         "slug": "foreveryoung",
-        "name_zh": "永远年轻",
+        "name_zh": "青春永驻",
         "name_ja": "フォーエバーヤング",
         "name_en": "Forever Young",
         "value": 89,
-        "chara_img": "uma/永远年轻/images/chara.png"
+        "chara_img": "uma/青春永驻/images/chara.png"
       },
       {
         "rank": 6,
@@ -6424,11 +6424,11 @@
       {
         "rank": 20,
         "slug": "copanorickey",
-        "name_zh": "理科先生",
+        "name_zh": "小林历奇",
         "name_ja": "コパノリッキー",
         "name_en": "Copano Rickey",
         "value": 87,
-        "chara_img": "uma/理科先生/images/chara.png"
+        "chara_img": "uma/小林历奇/images/chara.png"
       },
       {
         "rank": 21,
@@ -6460,11 +6460,11 @@
       {
         "rank": 24,
         "slug": "seekingthepearl",
-        "name_zh": "寻找珍珠",
+        "name_zh": "采珠",
         "name_ja": "シーキングザパール",
         "name_en": "Seeking the Pearl",
         "value": 87,
-        "chara_img": "uma/寻找珍珠/images/chara.png"
+        "chara_img": "uma/采珠/images/chara.png"
       },
       {
         "rank": 25,
@@ -6550,11 +6550,11 @@
       {
         "rank": 34,
         "slug": "vivlos",
-        "name_zh": "维布洛斯",
+        "name_zh": "强击",
         "name_ja": "ヴィブロス",
         "name_en": "Vivlos",
         "value": 86,
-        "chara_img": "uma/维布洛斯/images/chara.png"
+        "chara_img": "uma/强击/images/chara.png"
       },
       {
         "rank": 35,
@@ -6685,11 +6685,11 @@
       {
         "rank": 49,
         "slug": "bubblegumfellow",
-        "name_zh": "泡泡糖伙伴",
+        "name_zh": "吹波糖",
         "name_ja": "バブルガムフェロー",
         "name_en": "Bubble Gum Fellow",
         "value": 84,
-        "chara_img": "uma/泡泡糖伙伴/images/chara.png"
+        "chara_img": "uma/吹波糖/images/chara.png"
       },
       {
         "rank": 50,
@@ -6793,11 +6793,11 @@
       {
         "rank": 61,
         "slug": "finemotion",
-        "name_zh": "细腻动力",
+        "name_zh": "美妙姿势",
         "name_ja": "ファインモーション",
         "name_en": "Fine Motion",
         "value": 83,
-        "chara_img": "uma/细腻动力/images/chara.png"
+        "chara_img": "uma/美妙姿势/images/chara.png"
       },
       {
         "rank": 62,
@@ -6883,11 +6883,11 @@
       {
         "rank": 71,
         "slug": "fujikiseki",
-        "name_zh": "富士奇石",
+        "name_zh": "富士奇迹",
         "name_ja": "フジキセキ",
         "name_en": "Fuji Kiseki",
         "value": 82,
-        "chara_img": "uma/富士奇石/images/chara.png"
+        "chara_img": "uma/富士奇迹/images/chara.png"
       },
       {
         "rank": 72,
@@ -6955,11 +6955,11 @@
       {
         "rank": 79,
         "slug": "bamboomemory",
-        "name_zh": "竹纪念",
+        "name_zh": "青竹回忆",
         "name_ja": "バンブーメモリー",
         "name_en": "Bamboo Memory",
         "value": 81,
-        "chara_img": "uma/竹纪念/images/chara.png"
+        "chara_img": "uma/青竹回忆/images/chara.png"
       },
       {
         "rank": 80,
@@ -7027,11 +7027,11 @@
       {
         "rank": 87,
         "slug": "astonmachan",
-        "name_zh": "阿斯顿马丁",
+        "name_zh": "麻酱",
         "name_ja": "アストンマーチャン",
         "name_en": "Aston Machan",
         "value": 80,
-        "chara_img": "uma/阿斯顿马丁/images/chara.png"
+        "chara_img": "uma/麻酱/images/chara.png"
       },
       {
         "rank": 88,
@@ -7126,11 +7126,11 @@
       {
         "rank": 98,
         "slug": "smartfalcon",
-        "name_zh": "真机伶",
+        "name_zh": "醒目飞鹰 ",
         "name_ja": "スマートファルコン",
         "name_en": "Smart Falcon",
         "value": 80,
-        "chara_img": "uma/真机伶/images/chara.png"
+        "chara_img": "uma/醒目飞鹰 /images/chara.png"
       },
       {
         "rank": 99,
@@ -7162,11 +7162,11 @@
       {
         "rank": 102,
         "slug": "currenchan",
-        "name_zh": "爱如往昔",
+        "name_zh": "真机伶",
         "name_ja": "カレンチャン",
         "name_en": "Curren Chan",
         "value": 79,
-        "chara_img": "uma/爱如往昔/images/chara.png"
+        "chara_img": "uma/真机伶/images/chara.png"
       },
       {
         "rank": 103,
@@ -7270,11 +7270,11 @@
       {
         "rank": 114,
         "slug": "zennorobroy",
-        "name_zh": "善信罗布罗伊",
+        "name_zh": "荒漠英雄",
         "name_ja": "ゼンノロブロイ",
         "name_en": "Zenno Rob Roy",
         "value": 78,
-        "chara_img": "uma/善信罗布罗伊/images/chara.png"
+        "chara_img": "uma/荒漠英雄/images/chara.png"
       },
       {
         "rank": 115,
@@ -7306,11 +7306,11 @@
       {
         "rank": 118,
         "slug": "ksmiracle",
-        "name_zh": "KS奇迹",
+        "name_zh": "凯斯奇迹",
         "name_ja": "ケイエスミラクル",
         "name_en": "K.S. Miracle",
         "value": 77,
-        "chara_img": "uma/KS奇迹/images/chara.png"
+        "chara_img": "uma/凯斯奇迹/images/chara.png"
       },
       {
         "rank": 119,
@@ -7387,11 +7387,11 @@
       {
         "rank": 127,
         "slug": "stillinlove",
-        "name_zh": "依然爱你",
+        "name_zh": "爱如往昔",
         "name_ja": "スティルインラブ",
         "name_en": "Still In Love",
         "value": 76,
-        "chara_img": "uma/依然爱你/images/chara.png"
+        "chara_img": "uma/爱如往昔/images/chara.png"
       },
       {
         "rank": 128,
@@ -7560,11 +7560,11 @@
       {
         "rank": 5,
         "slug": "stillinlove",
-        "name_zh": "依然爱你",
+        "name_zh": "爱如往昔",
         "name_ja": "スティルインラブ",
         "name_en": "Still In Love",
         "value": 50,
-        "chara_img": "uma/依然爱你/images/chara.png"
+        "chara_img": "uma/爱如往昔/images/chara.png"
       },
       {
         "rank": 6,
@@ -7596,11 +7596,11 @@
       {
         "rank": 9,
         "slug": "ksmiracle",
-        "name_zh": "KS奇迹",
+        "name_zh": "凯斯奇迹",
         "name_ja": "ケイエスミラクル",
         "name_en": "K.S. Miracle",
         "value": 51,
-        "chara_img": "uma/KS奇迹/images/chara.png"
+        "chara_img": "uma/凯斯奇迹/images/chara.png"
       },
       {
         "rank": 10,
@@ -7650,11 +7650,11 @@
       {
         "rank": 15,
         "slug": "vivlos",
-        "name_zh": "维布洛斯",
+        "name_zh": "强击",
         "name_ja": "ヴィブロス",
         "name_en": "Vivlos",
         "value": 51,
-        "chara_img": "uma/维布洛斯/images/chara.png"
+        "chara_img": "uma/强击/images/chara.png"
       },
       {
         "rank": 16,
@@ -7956,11 +7956,11 @@
       {
         "rank": 49,
         "slug": "astonmachan",
-        "name_zh": "阿斯顿马丁",
+        "name_zh": "麻酱",
         "name_ja": "アストンマーチャン",
         "name_en": "Aston Machan",
         "value": 55,
-        "chara_img": "uma/阿斯顿马丁/images/chara.png"
+        "chara_img": "uma/麻酱/images/chara.png"
       },
       {
         "rank": 50,
@@ -7974,20 +7974,20 @@
       {
         "rank": 51,
         "slug": "copanorickey",
-        "name_zh": "理科先生",
+        "name_zh": "小林历奇",
         "name_ja": "コパノリッキー",
         "name_en": "Copano Rickey",
         "value": 55,
-        "chara_img": "uma/理科先生/images/chara.png"
+        "chara_img": "uma/小林历奇/images/chara.png"
       },
       {
         "rank": 52,
         "slug": "currenchan",
-        "name_zh": "爱如往昔",
+        "name_zh": "真机伶",
         "name_ja": "カレンチャン",
         "name_en": "Curren Chan",
         "value": 55,
-        "chara_img": "uma/爱如往昔/images/chara.png"
+        "chara_img": "uma/真机伶/images/chara.png"
       },
       {
         "rank": 53,
@@ -8109,11 +8109,11 @@
       {
         "rank": 66,
         "slug": "smartfalcon",
-        "name_zh": "真机伶",
+        "name_zh": "醒目飞鹰 ",
         "name_ja": "スマートファルコン",
         "name_en": "Smart Falcon",
         "value": 55,
-        "chara_img": "uma/真机伶/images/chara.png"
+        "chara_img": "uma/醒目飞鹰 /images/chara.png"
       },
       {
         "rank": 67,
@@ -8226,11 +8226,11 @@
       {
         "rank": 79,
         "slug": "finemotion",
-        "name_zh": "细腻动力",
+        "name_zh": "美妙姿势",
         "name_ja": "ファインモーション",
         "name_en": "Fine Motion",
         "value": 56,
-        "chara_img": "uma/细腻动力/images/chara.png"
+        "chara_img": "uma/美妙姿势/images/chara.png"
       },
       {
         "rank": 80,
@@ -8361,11 +8361,11 @@
       {
         "rank": 94,
         "slug": "zennorobroy",
-        "name_zh": "善信罗布罗伊",
+        "name_zh": "荒漠英雄",
         "name_ja": "ゼンノロブロイ",
         "name_en": "Zenno Rob Roy",
         "value": 56,
-        "chara_img": "uma/善信罗布罗伊/images/chara.png"
+        "chara_img": "uma/荒漠英雄/images/chara.png"
       },
       {
         "rank": 95,
@@ -8406,11 +8406,11 @@
       {
         "rank": 99,
         "slug": "bamboomemory",
-        "name_zh": "竹纪念",
+        "name_zh": "青竹回忆",
         "name_ja": "バンブーメモリー",
         "name_en": "Bamboo Memory",
         "value": 57,
-        "chara_img": "uma/竹纪念/images/chara.png"
+        "chara_img": "uma/青竹回忆/images/chara.png"
       },
       {
         "rank": 100,
@@ -8496,11 +8496,11 @@
       {
         "rank": 109,
         "slug": "seekingthepearl",
-        "name_zh": "寻找珍珠",
+        "name_zh": "采珠",
         "name_ja": "シーキングザパール",
         "name_en": "Seeking the Pearl",
         "value": 57,
-        "chara_img": "uma/寻找珍珠/images/chara.png"
+        "chara_img": "uma/采珠/images/chara.png"
       },
       {
         "rank": 110,
@@ -8532,11 +8532,11 @@
       {
         "rank": 113,
         "slug": "bubblegumfellow",
-        "name_zh": "泡泡糖伙伴",
+        "name_zh": "吹波糖",
         "name_ja": "バブルガムフェロー",
         "name_en": "Bubble Gum Fellow",
         "value": 58,
-        "chara_img": "uma/泡泡糖伙伴/images/chara.png"
+        "chara_img": "uma/吹波糖/images/chara.png"
       },
       {
         "rank": 114,
@@ -8559,11 +8559,11 @@
       {
         "rank": 116,
         "slug": "fujikiseki",
-        "name_zh": "富士奇石",
+        "name_zh": "富士奇迹",
         "name_ja": "フジキセキ",
         "name_en": "Fuji Kiseki",
         "value": 58,
-        "chara_img": "uma/富士奇石/images/chara.png"
+        "chara_img": "uma/富士奇迹/images/chara.png"
       },
       {
         "rank": 117,
@@ -8703,11 +8703,11 @@
       {
         "rank": 132,
         "slug": "foreveryoung",
-        "name_zh": "永远年轻",
+        "name_zh": "青春永驻",
         "name_ja": "フォーエバーヤング",
         "name_en": "Forever Young",
         "value": 60,
-        "chara_img": "uma/永远年轻/images/chara.png"
+        "chara_img": "uma/青春永驻/images/chara.png"
       },
       {
         "rank": 133,

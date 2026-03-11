@@ -1,38 +1,110 @@
 # Umaai
 
-马娘数据库项目（数据抓取 + 数据生成 + 前端控制台）。
+赛马娘资料站与后台工具的单仓库项目。
 
-## 目录
+现在仓库被拆成两层产品：
 
-- `dataFetcher/`
-  - `fetch_uma_info.py`：抓取基础角色数据并更新 `uma/index.json`
-  - `fetch_uma_chara.py`：补齐 `chara_img == "No"` 的角色立绘（优先胜负服）
-- `dataGenerator/`
-  - `build_body_metrics.py`：生成 `data/body_metrics.json`（含腰臀比、腰乳比等排行）
+- 公开站：角色发现页、详情页、排行页、对比页
+- 后台：`/admin` 下的数据抓取、生成与任务日志
+
+## 目录结构
+
+- `frontend/`
+  - React + Vite + TypeScript 前端
+  - 构建产物输出到 `static/`
 - `backend/`
-  - `server.py`：本地 API 服务，前端按钮可直接触发 3 个模块任务
-- `web/`
-  - 前端页面（赛马娘主题控制台）
+  - Python 本地服务
+  - 提供公开站 API、后台任务 API、SPA 静态托管
+- `dataFetcher/`
+  - 原始数据抓取脚本
+- `dataGenerator/`
+  - 派生数据生成脚本
 - `uma/`
   - 角色原始资料与立绘
 - `data/`
-  - 前端直接使用的数据产物（当前：`body_metrics.json`）
+  - 生成出的数据文件
+- `tests/`
+  - 当前最小单元测试
+
+## 首次安装
+
+### 前端
+
+```bash
+cd frontend
+npm install
+```
+
+### 抓图环境变量
+
+`fetch_uma_chara` 不再把 microCMS key 写死在仓库里。
+
+```bash
+cp .env.example .env
+export UMA_MICROCMS_API_KEY=你的_key
+```
 
 ## 运行方式
 
-1. 启动前后端一体服务：
+### 方式 1：构建后由 Python 服务统一托管
 
 ```bash
+cd frontend
+npm run build
+cd ..
 python3 -m backend.server --host 127.0.0.1 --port 8787
 ```
 
-2. 浏览器打开：
+打开：
 
 ```text
 http://127.0.0.1:8787
 ```
 
-## 可单独运行的模块
+### 方式 2：前端开发模式
+
+终端 1：
+
+```bash
+python3 -m backend.server --host 127.0.0.1 --port 8787
+```
+
+终端 2：
+
+```bash
+cd frontend
+npm run dev
+```
+
+Vite 会把 `/api` 和 `/uma` 代理到本地 Python 服务。
+
+## 页面路由
+
+- `/`
+- `/characters/:slug`
+- `/rankings`
+- `/compare`
+- `/admin`
+
+## 公开站 API
+
+- `GET /api/health`
+- `GET /api/site/overview`
+- `GET /api/site/characters`
+- `GET /api/site/characters/{slug}`
+- `GET /api/site/rankings`
+- `GET /api/site/compare?slugs=a,b`
+
+## 后台 API
+
+- `GET /api/admin/overview`
+- `GET /api/admin/jobs`
+- `GET /api/admin/jobs/{id}`
+- `POST /api/admin/actions/fetch_info`
+- `POST /api/admin/actions/fetch_chara`
+- `POST /api/admin/actions/build_body_metrics`
+
+## 数据脚本
 
 ```bash
 python3 -m dataFetcher.fetch_uma_info
@@ -40,13 +112,8 @@ python3 -m dataFetcher.fetch_uma_chara
 python3 -m dataGenerator.build_body_metrics
 ```
 
-## API（供前端使用）
+## 测试
 
-- `GET /api/health`
-- `GET /api/data/index`
-- `GET /api/data/body-metrics`
-- `POST /api/actions/fetch_info`
-- `POST /api/actions/fetch_chara`
-- `POST /api/actions/build_body_metrics`
-- `GET /api/jobs`
-- `GET /api/jobs/{id}`
+```bash
+python3 -m unittest discover -s tests
+```
