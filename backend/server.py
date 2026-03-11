@@ -6,7 +6,6 @@ import subprocess
 import sys
 import threading
 import uuid
-from dataclasses import dataclass, field
 from datetime import datetime, timezone
 from http import HTTPStatus
 from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
@@ -14,10 +13,15 @@ from pathlib import Path
 from typing import Any
 from urllib.parse import parse_qs, urlparse
 
-from backend.site_data import INDEX_PATH, ROOT, STORE
+if __package__ in {None, ""}:
+    sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+
+from backend.job_store import JobStore
+from backend.site_data import INDEX_PATH, ROOT, STORE, filter_summaries
 
 BODY_METRICS_PATH = ROOT / "data" / "body_metrics.json"
 FRONTEND_INDEX_PATH = ROOT / "static" / "index.html"
+JOB_DB_PATH = ROOT / "data" / "umaai_jobs.sqlite3"
 
 
 def now_iso() -> str:
@@ -60,86 +64,66 @@ def action_commands() -> dict[str, list[str]]:
             "--output",
             "data/body_metrics.json",
         ],
+        "build_site_bundle": [
+            py,
+            "-m",
+            "dataGenerator.build_site_bundle",
+            "--output-dir",
+            "data",
+        ],
     }
 
 
-@dataclass
-class Job:
-    id: str
-    action: str
-    command: list[str]
-    status: str = "queued"
-    created_at_utc: str = field(default_factory=now_iso)
-    started_at_utc: str | None = None
-    finished_at_utc: str | None = None
-    return_code: int | None = None
-    error: str | None = None
-    logs: list[str] = field(default_factory=list)
-
-    def to_dict(self) -> dict[str, Any]:
-        return {
-            "id": self.id,
-            "action": self.action,
-            "command": self.command,
-            "status": self.status,
-            "created_at_utc": self.created_at_utc,
-            "started_at_utc": self.started_at_utc,
-            "finished_at_utc": self.finished_at_utc,
-            "return_code": self.return_code,
-            "error": self.error,
-            "logs": self.logs[-500:],
-        }
-
-
 class JobManager:
-    def __init__(self) -> None:
-        self._jobs: dict[str, Job] = {}
+    def __init__(self, store: JobStore) -> None:
+        self._store = store
         self._lock = threading.Lock()
 
     def list_jobs(self) -> list[dict[str, Any]]:
-        with self._lock:
-            jobs = list(self._jobs.values())
-        jobs.sort(key=lambda item: item.created_at_utc, reverse=True)
-        return [job.to_dict() for job in jobs]
+        return self._store.list_jobs(limit=300, with_logs=False)
 
     def get_job(self, job_id: str) -> dict[str, Any] | None:
-        with self._lock:
-            job = self._jobs.get(job_id)
-            return None if job is None else job.to_dict()
+        return self._store.get_job(job_id, with_logs=True, log_limit=500)
+
+    def list_failed_jobs(self, *, limit: int = 20) -> list[dict[str, Any]]:
+        return self._store.list_failed_jobs(limit=limit)
 
     def _append_log(self, job_id: str, line: str) -> None:
-        with self._lock:
-            job = self._jobs.get(job_id)
-            if job is None:
-                return
-            job.logs.append(line.rstrip("\n"))
-            if len(job.logs) > 5000:
-                job.logs = job.logs[-2000:]
+        self._store.append_log(job_id, line)
 
     def _set_fields(self, job_id: str, **kwargs: Any) -> None:
-        with self._lock:
-            job = self._jobs.get(job_id)
-            if job is None:
-                return
-            for key, value in kwargs.items():
-                setattr(job, key, value)
+        self._store.update_job(job_id, **kwargs)
 
-    def start(self, action: str, command: list[str]) -> dict[str, Any]:
+    def start(self, action: str, command: list[str], *, retried_from_job_id: str | None = None) -> dict[str, Any]:
         job_id = uuid.uuid4().hex[:12]
-        job = Job(id=job_id, action=action, command=command)
-        with self._lock:
-            self._jobs[job_id] = job
+        created_at_utc = now_iso()
+        self._store.create_job(
+            job_id=job_id,
+            action=action,
+            command=command,
+            status="queued",
+            created_at_utc=created_at_utc,
+            retried_from_job_id=retried_from_job_id,
+        )
 
         thread = threading.Thread(target=self._run, args=(job_id,), daemon=True)
         thread.start()
-        return job.to_dict()
+        job = self._store.get_job(job_id, with_logs=True, log_limit=20)
+        assert job is not None
+        return job
+
+    def retry(self, job_id: str) -> dict[str, Any] | None:
+        retry_source = self._store.get_job_command(job_id)
+        if retry_source is None:
+            return None
+        action, command = retry_source
+        return self.start(action, command, retried_from_job_id=job_id)
 
     def _run(self, job_id: str) -> None:
-        with self._lock:
-            job = self._jobs.get(job_id)
-            if job is None:
-                return
-            command = job.command
+        job = self._store.get_job(job_id, with_logs=False, log_limit=0)
+        if job is None:
+            return
+        command = job["command"]
 
         self._set_fields(job_id, status="running", started_at_utc=now_iso())
         try:
@@ -183,7 +167,8 @@ class JobManager:
         STORE.invalidate()
 
 
-JOB_MANAGER = JobManager()
+JOB_STORE = JobStore(JOB_DB_PATH)
+JOB_MANAGER = JobManager(JOB_STORE)
 ACTION_COMMANDS = action_commands()
 
 
@@ -241,13 +226,25 @@ class UmaAIHandler(SimpleHTTPRequestHandler):
                     "ok": True,
                     "overview": dataset["overview"],
                     "stats": dataset["stats"],
+                    "filters": dataset.get("manifest", {}).get("filter_meta", {}),
+                    "manifest": dataset.get("manifest"),
                     "updated_at_utc": dataset["updated_at_utc"],
                 },
             )
             return True
 
+        if path == "/api/site/filter-meta":
+            self._send_json(
+                HTTPStatus.OK,
+                {
+                    "ok": True,
+                    "filters": dataset.get("manifest", {}).get("filter_meta", {}),
+                    "manifest": dataset.get("manifest"),
+                },
+            )
+            return True
+
         if path == "/api/site/characters":
-            search = (query.get("query") or [""])[0].strip()
             limit_raw = (query.get("limit") or ["200"])[0]
             offset_raw = (query.get("offset") or ["0"])[0]
             try:
@@ -259,9 +256,8 @@ class UmaAIHandler(SimpleHTTPRequestHandler):
             except ValueError:
                 offset = 0
 
-            characters = dataset["summaries"]
-            if search:
-                characters = [item for item in characters if search.lower() in item.get("search_blob", "")]
+            query_payload = {key: values[0] for key, values in query.items() if values}
+            characters = filter_summaries(dataset, query_payload)
             total = len(characters)
             paged = characters[offset : offset + limit]
             self._send_json(
@@ -272,7 +268,8 @@ class UmaAIHandler(SimpleHTTPRequestHandler):
                     "total": total,
                     "limit": limit,
                     "offset": offset,
-                    "query": search,
+                    "query": query_payload.get("query", ""),
+                    "applied_filters": query_payload,
                 },
             )
             return True
@@ -293,8 +290,13 @@ class UmaAIHandler(SimpleHTTPRequestHandler):
                     "ok": True,
                     "meta": dataset["ranking_meta"],
                     "rankings": dataset["rankings"],
+                    "manifest": dataset.get("manifest"),
                 },
             )
+            return True
+
+        if path == "/api/site/relations":
+            self._send_json(HTTPStatus.OK, {"ok": True, "graph": dataset.get("relations", {})})
             return True
 
         if path == "/api/site/compare":
@@ -319,8 +321,25 @@ class UmaAIHandler(SimpleHTTPRequestHandler):
                     "ok": True,
                     "stats": dataset["stats"],
                     "updated_at_utc": dataset["updated_at_utc"],
+                    "manifest": dataset.get("manifest"),
+                    "quality_summary": dataset.get("quality_report", {}).get("summary", {}),
+                    "diff_prompt": dataset.get("quality_report", {}).get("stale_prompt"),
                     "actions": sorted(ACTION_COMMANDS.keys()),
                     "jobs": JOB_MANAGER.list_jobs()[:10],
+                    "failed_jobs": JOB_MANAGER.list_failed_jobs(limit=8),
+                },
+            )
+            return True
+
+        if path == "/api/admin/quality":
+            dataset = self._dataset()
+            self._send_json(
+                HTTPStatus.OK,
+                {
+                    "ok": True,
+                    "report": dataset.get("quality_report", {}),
+                    "failed_jobs": JOB_MANAGER.list_failed_jobs(limit=20),
+                    "manifest": dataset.get("manifest"),
                 },
             )
             return True
@@ -383,6 +402,15 @@ class UmaAIHandler(SimpleHTTPRequestHandler):
         return False
 
     def _handle_api_post(self, path: str) -> bool:
+        if path.startswith("/api/admin/jobs/") and path.endswith("/retry"):
+            job_id = path.split("/")[-2]
+            retried_job = JOB_MANAGER.retry(job_id)
+            if retried_job is None:
+                self._send_json(HTTPStatus.NOT_FOUND, {"error": f"job not found: {job_id}"})
+                return True
+            self._send_json(HTTPStatus.OK, {"ok": True, "job": retried_job})
+            return True
+
         if path.startswith("/api/actions/"):
             action = path.rsplit("/", 1)[-1]
         elif path.startswith("/api/admin/actions/"):
@@ -494,6 +522,7 @@ def main() -> None:
         pass
     finally:
         server.server_close()
+        JOB_STORE.close()
 
 
 if __name__ == "__main__":

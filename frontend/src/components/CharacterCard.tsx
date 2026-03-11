@@ -28,8 +28,10 @@ export function CharacterCard({ character, mode = "grid" }: CharacterCardProps) 
           <span className="character-card__name">{characterName(character)}</span>
           <span className="character-card__name-sub">{character.name_ja || character.name_en}</span>
         </div>
-        <p className="character-card__tagline">{character.tagline || "角色资料已收录，等待你继续深入。"} </p>
+        <p className="character-card__tagline">{character.persona_line || character.tagline || "角色资料已收录，等待你继续深入。"} </p>
         <div className="character-card__chips">
+          <span>{character.theme_group}</span>
+          <span>{character.personality_tags.slice(0, 2).join(" / ")}</span>
           <span>衣装 {character.counts.character_cards}</span>
           <span>支援卡 {character.counts.support_cards}</span>
           <span>关系 {character.counts.relations}</span>

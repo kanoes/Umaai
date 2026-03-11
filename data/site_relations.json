@@ -1,0 +1,3171 @@
+{
+  "nodes": [
+    {
+      "slug": "mrcb",
+      "name": "Mr.CB",
+      "theme": {
+        "main": "#6FC346",
+        "sub": "#FBE122",
+        "border": "#42a624",
+        "speech": "#63bb38",
+        "nameplate_1": "#6fc346",
+        "nameplate_2": "#ccf28a",
+        "image_main": "#77D64A",
+        "image_sub": "#FFF6B2"
+      },
+      "theme_group": "自由灵感"
+    },
+    {
+      "slug": "tokaiteio",
+      "name": "东海帝王",
+      "theme": {
+        "main": "#3376D2",
+        "sub": "#FF99D0",
+        "border": "#2B75DD",
+        "speech": "#4C91F1",
+        "nameplate_1": "#4C91F1",
+        "nameplate_2": "#8DBCFD",
+        "image_main": "#A8C6FD",
+        "image_sub": "#5277D6"
+      },
+      "theme_group": "主角气场"
+    },
+    {
+      "slug": "tosenjordan",
+      "name": "东瀛佐敦",
+      "theme": {
+        "main": "#25B8AE",
+        "sub": "#1C57B9",
+        "border": "#0aaea3",
+        "speech": "#1ec0b5",
+        "nameplate_1": "#1ec0b5",
+        "nameplate_2": "#90e7e1",
+        "image_main": "#3FB7AE",
+        "image_sub": "#3686C0"
+      },
+      "theme_group": "主角气场"
+    },
+    {
+      "slug": "nakayamafesta",
+      "name": "中山庆典",
+      "theme": {
+        "main": "#C0453F",
+        "sub": "#236192",
+        "border": "#be3d3d",
+        "speech": "#d9514a",
+        "nameplate_1": "#e05b54",
+        "nameplate_2": "#ffa195",
+        "image_main": "#CF5E59",
+        "image_sub": "#80A7C3"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "maruzensky",
+      "name": "丸善斯基",
+      "theme": {
+        "main": "#EA504A",
+        "sub": "#FFCD00",
+        "border": "#EB654B",
+        "speech": "#FF7D63",
+        "nameplate_1": "#FF7559",
+        "nameplate_2": "#FFA18E",
+        "image_main": "#F84B40",
+        "image_sub": "#FFCA3B"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "dantsuflame",
+      "name": "丹次火焰",
+      "theme": {
+        "main": "#e97d97",
+        "sub": "#119d76",
+        "border": "#dc466a",
+        "speech": "#f67594",
+        "nameplate_1": "#f67594",
+        "nameplate_2": "#ffc3d1",
+        "image_main": "#FFABBF",
+        "image_sub": "#00B783"
+      },
+      "theme_group": "主角气场"
+    },
+    {
+      "slug": "vodka",
+      "name": "伏特加",
+      "theme": {
+        "main": "#D4C200",
+        "sub": "#3DD1D7",
+        "border": "#DCAB00",
+        "speech": "#F8D90D",
+        "nameplate_1": "#F3C801",
+        "nameplate_2": "#F5E15F",
+        "image_main": "#FFEF72",
+        "image_sub": "#2CD9B4"
+      },
+      "theme_group": "主角气场"
+    },
+    {
+      "slug": "nicenature",
+      "name": "优秀素质",
+      "theme": {
+        "main": "#28A959",
+        "sub": "#B82720",
+        "border": "#3EA365",
+        "speech": "#6CCF92",
+        "nameplate_1": "#4DC87C",
+        "nameplate_2": "#92E0B0",
+        "image_main": "#009639",
+        "image_sub": "#FFFFFF"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "believe",
+      "name": "信念",
+      "theme": {
+        "main": "#4baece",
+        "sub": "#c63663",
+        "border": "#009aca",
+        "speech": "#41b7de",
+        "nameplate_1": "#41b7de",
+        "nameplate_2": "#a1e8ff",
+        "image_main": "#A7EAFF",
+        "image_sub": "#FF4680"
+      },
+      "theme_group": "主角气场"
+    },
+    {
+      "slug": "symbolikriss",
+      "name": "克莉丝象征",
+      "theme": {
+        "main": "#12762f",
+        "sub": "#292d45",
+        "border": "#428d5c",
+        "speech": "#368f4b",
+        "nameplate_1": "#3d9356",
+        "nameplate_2": "#7bd583",
+        "image_main": "#174C28",
+        "image_sub": "#1D1F2B"
+      },
+      "theme_group": "冷静知性"
+    },
+    {
+      "slug": "yaenomuteki",
+      "name": "八重无敌",
+      "theme": {
+        "main": "#da483a",
+        "sub": "#ffda93",
+        "border": "#bd372a",
+        "speech": "#e55345",
+        "nameplate_1": "#e55345",
+        "nameplate_2": "#ff9f75",
+        "image_main": "#CB2819",
+        "image_sub": "#FFC658"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "cesario",
+      "name": "凯撒利亚",
+      "theme": {
+        "main": "#948eab",
+        "sub": "#0a3874",
+        "border": "#657193",
+        "speech": "#849cc3",
+        "nameplate_1": "#7b89b3",
+        "nameplate_2": "#b5c7e4",
+        "image_main": "#E7E4F2",
+        "image_sub": "#004399"
+      },
+      "theme_group": "主角气场"
+    },
+    {
+      "slug": "ksmiracle",
+      "name": "凯斯奇迹",
+      "theme": {
+        "main": "#85aae1",
+        "sub": "#ebd64a",
+        "border": "#4d7cca",
+        "speech": "#5b8de0",
+        "nameplate_1": "#699be2",
+        "nameplate_2": "#b2d7fd",
+        "image_main": "#ADCBEF",
+        "image_sub": "#FEF38A"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "chronogenesis",
+      "name": "创世驹",
+      "theme": {
+        "main": "#464647",
+        "sub": "#50a19f",
+        "border": "#409593",
+        "speech": "#60B9B7",
+        "nameplate_1": "#60B9B7",
+        "nameplate_2": "#A2E8E6",
+        "image_main": "#464647",
+        "image_sub": "#71E3E0"
+      },
+      "theme_group": "亲和偶像"
+    },
+    {
+      "slug": "daringheart",
+      "name": "勇敢之心",
+      "theme": {
+        "main": "#d0ba00",
+        "sub": "#38312b",
+        "border": "#2B75DD",
+        "speech": "#4C91F1",
+        "nameplate_1": "#4C91F1",
+        "nameplate_2": "#8DBCFD",
+        "image_main": "#FFFA1C",
+        "image_sub": "#3B3632"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "northflight",
+      "name": "北方飞翔",
+      "theme": {
+        "main": "#ca3b61",
+        "sub": "#32b5d6",
+        "border": "#d3335e",
+        "speech": "#e75078",
+        "nameplate_1": "#e75078",
+        "nameplate_2": "#ffa2bb",
+        "image_main": "#D82050",
+        "image_sub": "#00ADD8"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "hokkotarumae",
+      "name": "北港火山",
+      "theme": {
+        "main": "#d94149",
+        "sub": "#cddee0",
+        "border": "#c74545",
+        "speech": "#f1646c",
+        "nameplate_1": "#e7676e",
+        "nameplate_2": "#ff969c",
+        "image_main": "#DFF0F2",
+        "image_sub": "#F0444D"
+      },
+      "theme_group": "主角气场"
+    },
+    {
+      "slug": "kitasanblack",
+      "name": "北部玄驹",
+      "theme": {
+        "main": "#5a6065",
+        "sub": "#fc6d31",
+        "border": "#e94e35",
+        "speech": "#e94e35",
+        "nameplate_1": "#e94e35",
+        "nameplate_2": "#ffac88",
+        "image_main": "#25282A",
+        "image_sub": "#FC4C02"
+      },
+      "theme_group": "主角气场"
+    },
+    {
+      "slug": "calstonelighto",
+      "name": "卡尔斯顿闪电",
+      "theme": {
+        "main": "#131b4c",
+        "sub": "#f7eb49",
+        "border": "#2A3881",
+        "speech": "#3A4CAD",
+        "nameplate_1": "#3A4CAD",
+        "nameplate_2": "#7F92FF",
+        "image_main": "#131B4C",
+        "image_sub": "#FFEF1A"
+      },
+      "theme_group": "主角气场"
+    },
+    {
+      "slug": "twinturbo",
+      "name": "双涡轮",
+      "theme": {
+        "main": "#1985d2",
+        "sub": "#27b784",
+        "border": "#2061b2",
+        "speech": "#0d7dcd",
+        "nameplate_1": "#1985d2",
+        "nameplate_2": "#81ceff",
+        "image_main": "#0050C8",
+        "image_sub": "#FF5FCC"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "meishodoto",
+      "name": "名将怒涛",
+      "theme": {
+        "main": "#46449B",
+        "sub": "#D64388",
+        "border": "#4b5acb",
+        "speech": "#617cf5",
+        "nameplate_1": "#617cf5",
+        "nameplate_2": "#a5b6ff",
+        "image_main": "#06038D",
+        "image_sub": "#FFFFFF"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "bubblegumfellow",
+      "name": "吹波糖",
+      "theme": {
+        "main": "#e5bd00",
+        "sub": "#0047bb",
+        "border": "#AC8E00",
+        "speech": "#E5BD00",
+        "nameplate_1": "#E5BD00",
+        "nameplate_2": "#FFE568",
+        "image_main": "#FEE600",
+        "image_sub": "#0055FF"
+      },
+      "theme_group": "主角气场"
+    },
+    {
+      "slug": "lovesonlyyou",
+      "name": "唯独爱你",
+      "theme": {
+        "main": "#424840",
+        "sub": "#268745",
+        "border": "#278846",
+        "speech": "#29aa50",
+        "nameplate_1": "#29aa50",
+        "nameplate_2": "#7ef1a1",
+        "image_main": "#373A37",
+        "image_sub": "#399857"
+      },
+      "theme_group": "亲和偶像"
+    },
+    {
+      "slug": "daiwascarlet",
+      "name": "大和赤骥",
+      "theme": {
+        "main": "#4F64D8",
+        "sub": "#E73472",
+        "border": "#4D75E3",
+        "speech": "#7C9EFC",
+        "nameplate_1": "#648BF9",
+        "nameplate_2": "#9CB6FC",
+        "image_main": "#8DA3E7",
+        "image_sub": "#3B61FF"
+      },
+      "theme_group": "主角气场"
+    },
+    {
+      "slug": "soundsofearth",
+      "name": "大地之声",
+      "theme": {
+        "main": "#ca4640",
+        "sub": "#305991",
+        "border": "#c23b35",
+        "speech": "#e5443d",
+        "nameplate_1": "#e5443d",
+        "nameplate_2": "#f98f8b",
+        "image_main": "#D12F29",
+        "image_sub": "#003273"
+      },
+      "theme_group": "主角气场"
+    },
+    {
+      "slug": "daitakuhelios",
+      "name": "大拓太阳神",
+      "theme": {
+        "main": "#5b64d5",
+        "sub": "#fbe247",
+        "border": "#3d4fce",
+        "speech": "#6d77f3",
+        "nameplate_1": "#6a73e4",
+        "nameplate_2": "#98cbf7",
+        "image_main": "#303AB2",
+        "image_sub": "#FEDB00"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "taikishuttle",
+      "name": "大树快车",
+      "theme": {
+        "main": "#73C032",
+        "sub": "#FFAC42",
+        "border": "#67BD1C",
+        "speech": "#82D63C",
+        "nameplate_1": "#76CC2B",
+        "nameplate_2": "#A5EA6A",
+        "image_main": "#CBFF9E",
+        "image_sub": "#33B042"
+      },
+      "theme_group": "亲和偶像"
+    },
+    {
+      "slug": "granalegria",
+      "name": "大欢喜",
+      "theme": {
+        "main": "#53565a",
+        "sub": "#ef4d60",
+        "border": "#eb3147",
+        "speech": "#ff6173",
+        "nameplate_1": "#ff6173",
+        "nameplate_2": "#ffb5be",
+        "image_main": "#5F6266",
+        "image_sub": "#FF384F"
+      },
+      "theme_group": "主角气场"
+    },
+    {
+      "slug": "duramente",
+      "name": "大鸣大放",
+      "theme": {
+        "main": "#bf3344",
+        "sub": "#4e4e4e",
+        "border": "#c73143",
+        "speech": "#cd355c",
+        "nameplate_1": "#bf3344",
+        "nameplate_2": "#f57282",
+        "image_main": "#A60014",
+        "image_sub": "#0D0D0D"
+      },
+      "theme_group": "主角气场"
+    },
+    {
+      "slug": "siriussymboli",
+      "name": "天狼象征",
+      "theme": {
+        "main": "#248379",
+        "sub": "#e3628c",
+        "border": "#1b756b",
+        "speech": "#2a988c",
+        "nameplate_1": "#2a9388",
+        "nameplate_2": "#6bc8be",
+        "image_main": "#007763",
+        "image_sub": "#A6093C"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "kiseki",
+      "name": "奇迹",
+      "theme": {
+        "main": "#2c9c46",
+        "sub": "#c8dbe9",
+        "border": "#0F952E",
+        "speech": "#2ABE4D",
+        "nameplate_1": "#2ABE4D",
+        "nameplate_2": "#91F4A9",
+        "image_main": "#2FA74B",
+        "image_sub": "#EEF8FF"
+      },
+      "theme_group": "自由灵感"
+    },
+    {
+      "slug": "marveloussunday",
+      "name": "奇迹星期日",
+      "theme": {
+        "main": "#CA46B0",
+        "sub": "#B52542",
+        "border": "#c434a8",
+        "speech": "#ac3a96",
+        "nameplate_1": "#da52bf",
+        "nameplate_2": "#f998fd",
+        "image_main": "#A30083",
+        "image_sub": "#FFF200"
+      },
+      "theme_group": "主角气场"
+    },
+    {
+      "slug": "wonderacute",
+      "name": "奇锐骏",
+      "theme": {
+        "main": "#d85081",
+        "sub": "#d8d2d9",
+        "border": "#c53d77",
+        "speech": "#d85081",
+        "nameplate_1": "#e55589",
+        "nameplate_2": "#fea4be",
+        "image_main": "#D792A9",
+        "image_sub": "#E6E2E7"
+      },
+      "theme_group": "主角气场"
+    },
+    {
+      "slug": "tmoperao",
+      "name": "好歌剧",
+      "theme": {
+        "main": "#F271C4",
+        "sub": "#FBE415",
+        "border": "#ee55b7",
+        "speech": "#f87ecd",
+        "nameplate_1": "#f975cb",
+        "nameplate_2": "#fdabe0",
+        "image_main": "#ECEB61",
+        "image_sub": "#FF83DA"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "fujikiseki",
+      "name": "富士奇迹",
+      "theme": {
+        "main": "#444745",
+        "sub": "#33B839",
+        "border": "#28A853",
+        "speech": "#41CC70",
+        "nameplate_1": "#41CC70",
+        "nameplate_2": "#7AF5A3",
+        "image_main": "#6C6C6C",
+        "image_sub": "#181818"
+      },
+      "theme_group": "名门优雅"
+    },
+    {
+      "slug": "copanorickey",
+      "name": "小林历奇",
+      "theme": {
+        "main": "#eeb42a",
+        "sub": "#d93c49",
+        "border": "#cf8b20",
+        "speech": "#d39318",
+        "nameplate_1": "#ed9a0a",
+        "nameplate_2": "#fcd049",
+        "image_main": "#FDDA26",
+        "image_sub": "#ED2736"
+      },
+      "theme_group": "主角气场"
+    },
+    {
+      "slug": "oguricap",
+      "name": "小栗帽",
+      "theme": {
+        "main": "#3A7AD2",
+        "sub": "#ECE7E7",
+        "border": "#3B76C4",
+        "speech": "#5992DF",
+        "nameplate_1": "#5992DF",
+        "nameplate_2": "#87B7F8",
+        "image_main": "#7991EC",
+        "image_sub": "#293CB2"
+      },
+      "theme_group": "自由灵感"
+    },
+    {
+      "slug": "yamaninzephyr",
+      "name": "山人西风",
+      "theme": {
+        "main": "#5192C1",
+        "sub": "#AE4544",
+        "border": "#347cce",
+        "speech": "#4094db",
+        "nameplate_1": "#5ca8df",
+        "nameplate_2": "#b1e6ff",
+        "image_main": "#639CCC",
+        "image_sub": "#FF3C3C"
+      },
+      "theme_group": "亲和偶像"
+    },
+    {
+      "slug": "kawakamiprincess",
+      "name": "川上公主",
+      "theme": {
+        "main": "#E146A7",
+        "sub": "#00C7B1",
+        "border": "#f440b1",
+        "speech": "#fd66c4",
+        "nameplate_1": "#fd66c4",
+        "nameplate_2": "#fd9bd8",
+        "image_main": "#EC77C0",
+        "image_sub": "#4AD6C7"
+      },
+      "theme_group": "主角气场"
+    },
+    {
+      "slug": "espoircity",
+      "name": "希望城",
+      "theme": {
+        "main": "#d93842",
+        "sub": "#293aab",
+        "border": "#D5313B",
+        "speech": "#F15660",
+        "nameplate_1": "#F15660",
+        "nameplate_2": "#FFA9B5",
+        "image_main": "#F2303B",
+        "image_sub": "#1630DE"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "kinghalo",
+      "name": "帝王光辉",
+      "theme": {
+        "main": "#0E9451",
+        "sub": "#1C57A5",
+        "border": "#43B04A",
+        "speech": "#6ECB74",
+        "nameplate_1": "#58CD5F",
+        "nameplate_2": "#9CE4A0",
+        "image_main": "#007B3E",
+        "image_sub": "#FFFFFF"
+      },
+      "theme_group": "名门优雅"
+    },
+    {
+      "slug": "luckylilac",
+      "name": "幸运丁香",
+      "theme": {
+        "main": "#454152",
+        "sub": "#907594",
+        "border": "#2B75DD",
+        "speech": "#4C91F1",
+        "nameplate_1": "#4C91F1",
+        "nameplate_2": "#8DBCFD",
+        "image_main": "#403C49",
+        "image_sub": "#B492B9"
+      },
+      "theme_group": "主角气场"
+    },
+    {
+      "slug": "vivlos",
+      "name": "强击",
+      "theme": {
+        "main": "#404fb1",
+        "sub": "#84d4e3",
+        "border": "#4456cb",
+        "speech": "#5e6fe1",
+        "nameplate_1": "#5e6fe1",
+        "nameplate_2": "#a6b2ff",
+        "image_main": "#162ECC",
+        "image_sub": "#8BD9E7"
+      },
+      "theme_group": "名门优雅"
+    },
+    {
+      "slug": "matikanefukukitaru",
+      "name": "待兼福来",
+      "theme": {
+        "main": "#3D89E9",
+        "sub": "#F8A717",
+        "border": "#3B7FD9",
+        "speech": "#68AAFF",
+        "nameplate_1": "#519EFF",
+        "nameplate_2": "#9AC6FF",
+        "image_main": "#307FE2",
+        "image_sub": "#FFFFFF"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "matikanetannhauser",
+      "name": "待兼诗歌剧",
+      "theme": {
+        "main": "#0f8dce",
+        "sub": "#ee5b56",
+        "border": "#1d76d1",
+        "speech": "#1597da",
+        "nameplate_1": "#1597da",
+        "nameplate_2": "#59c7ff",
+        "image_main": "#0085CA",
+        "image_sub": "#FF668C"
+      },
+      "theme_group": "主角气场"
+    },
+    {
+      "slug": "naritataishin",
+      "name": "成田大进",
+      "theme": {
+        "main": "#E575CE",
+        "sub": "#F3DD6D",
+        "border": "#ed55cf",
+        "speech": "#f777de",
+        "nameplate_1": "#f777de",
+        "nameplate_2": "#ffa5ed",
+        "image_main": "#E3ACD6",
+        "image_sub": "#F3DD6D"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "naritabrian",
+      "name": "成田白仁",
+      "theme": {
+        "main": "#75358C",
+        "sub": "#D638A3",
+        "border": "#bf39ef",
+        "speech": "#e18bff",
+        "nameplate_1": "#ce6bf1",
+        "nameplate_2": "#e8a7ff",
+        "image_main": "#FFACE1",
+        "image_sub": "#A037BE"
+      },
+      "theme_group": "冷静知性"
+    },
+    {
+      "slug": "naritatoproad",
+      "name": "成田路",
+      "theme": {
+        "main": "#ea5bc0",
+        "sub": "#8f3d7d",
+        "border": "#cb4faf",
+        "speech": "#cb4faf",
+        "nameplate_1": "#f166c8",
+        "nameplate_2": "#ffb1d6",
+        "image_main": "#E280D2",
+        "image_sub": "#863586"
+      },
+      "theme_group": "主角气场"
+    },
+    {
+      "slug": "fusaichipandora",
+      "name": "房一潘多拉",
+      "theme": {
+        "main": "#fd637f",
+        "sub": "#fbd872",
+        "border": "#f8516f",
+        "speech": "#ff7790",
+        "nameplate_1": "#ff7790",
+        "nameplate_2": "#ffc2cd",
+        "image_main": "#FB637E",
+        "image_sub": "#FFE085"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "sweeptosho",
+      "name": "扫帚东商",
+      "theme": {
+        "main": "#926DDA",
+        "sub": "#BC204B",
+        "border": "#7c55c6",
+        "speech": "#9065e3",
+        "nameplate_1": "#9065e3",
+        "nameplate_2": "#d88cfb",
+        "image_main": "#957EC0",
+        "image_sub": "#FFFFFF"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "mayanotopgun",
+      "name": "摩耶重炮",
+      "theme": {
+        "main": "#F57D38",
+        "sub": "#FFC845",
+        "border": "#F27318",
+        "speech": "#FF9D47",
+        "nameplate_1": "#FF9130",
+        "nameplate_2": "#FFB676",
+        "image_main": "#F3E67B",
+        "image_sub": "#FF7770"
+      },
+      "theme_group": "亲和偶像"
+    },
+    {
+      "slug": "shinkowindy",
+      "name": "新光风",
+      "theme": {
+        "main": "#63666A",
+        "sub": "#6F2678",
+        "border": "#9b45ad",
+        "speech": "#b558c0",
+        "nameplate_1": "#a745b3",
+        "nameplate_2": "#ec7fe8",
+        "image_main": "#676767",
+        "image_sub": "#FFFFFF"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "neouniverse",
+      "name": "新宇宙",
+      "theme": {
+        "main": "#5abae6",
+        "sub": "#f8db55",
+        "border": "#1292cd",
+        "speech": "#5ac3f3",
+        "nameplate_1": "#2db1ee",
+        "nameplate_2": "#a8e4ff",
+        "image_main": "#FDF16C",
+        "image_sub": "#6EC0E3"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "silencesuzuka",
+      "name": "无声铃鹿",
+      "theme": {
+        "main": "#29BD70",
+        "sub": "#FFCE48",
+        "border": "#27B36B",
+        "speech": "#4BD18C",
+        "nameplate_1": "#43C883",
+        "nameplate_2": "#82ECB5",
+        "image_main": "#8FE78D",
+        "image_sub": "#FBFF3B"
+      },
+      "theme_group": "亲和偶像"
+    },
+    {
+      "slug": "daringtact",
+      "name": "无畏契约",
+      "theme": {
+        "main": "#79c6db",
+        "sub": "#6c5953",
+        "border": "#2B75DD",
+        "speech": "#4C91F1",
+        "nameplate_1": "#4C91F1",
+        "nameplate_2": "#8DBCFD",
+        "image_main": "#B6F0FF",
+        "image_sub": "#705F5B"
+      },
+      "theme_group": "主角气场"
+    },
+    {
+      "slug": "seiunsky",
+      "name": "星云天空",
+      "theme": {
+        "main": "#65D283",
+        "sub": "#F4DA40",
+        "border": "#3DB35E",
+        "speech": "#6ADE8B",
+        "nameplate_1": "#5CD17D",
+        "nameplate_2": "#AAFAC1",
+        "image_main": "#BDE9C9",
+        "image_sub": "#4CB9A8"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "haruurara",
+      "name": "春乌拉拉",
+      "theme": {
+        "main": "#FA7395",
+        "sub": "#EDE04B",
+        "border": "#F25793",
+        "speech": "#FF8AB9",
+        "nameplate_1": "#FF7FB5",
+        "nameplate_2": "#FFBBD6",
+        "image_main": "#FAADC3",
+        "image_sub": "#FFF040"
+      },
+      "theme_group": "主角气场"
+    },
+    {
+      "slug": "manhattancafe",
+      "name": "曼城茶座",
+      "theme": {
+        "main": "#494541",
+        "sub": "#E8DD4C",
+        "border": "#c79b00",
+        "speech": "#dabe00",
+        "nameplate_1": "#dabe00",
+        "nameplate_2": "#f6e257",
+        "image_main": "#3D3935",
+        "image_sub": "#BBBE6C"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "almondeye",
+      "name": "杏目",
+      "theme": {
+        "main": "#69a9e9",
+        "sub": "#cc3300",
+        "border": "#3084D7",
+        "speech": "#69A9E9",
+        "nameplate_1": "#69A9E9",
+        "nameplate_2": "#B5DAFF",
+        "image_main": "#99ccff",
+        "image_sub": "#cc3300"
+      },
+      "theme_group": "主角气场"
+    },
+    {
+      "slug": "durandal",
+      "name": "杜兰达尔",
+      "theme": {
+        "main": "#efa605",
+        "sub": "#d22630",
+        "border": "#de9118",
+        "speech": "#f3ad11",
+        "nameplate_1": "#f4a800",
+        "nameplate_2": "#ffe185",
+        "image_main": "#F2B730",
+        "image_sub": "#E60B17"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "logotype",
+      "name": "标志名驹",
+      "theme": {
+        "main": "#7e2d40",
+        "sub": "#bd9b60",
+        "border": "#FFFFFF",
+        "speech": "#FFFFFF",
+        "nameplate_1": "#FFFFFF",
+        "nameplate_2": "#FFFFFF",
+        "image_main": "#A8C6FD",
+        "image_sub": "#5277D6"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "katsuragiace",
+      "name": "桂冠战士",
+      "theme": {
+        "main": "#7db0e0",
+        "sub": "#f77696",
+        "border": "#377bbf",
+        "speech": "#6fa8e0",
+        "nameplate_1": "#6caae7",
+        "nameplate_2": "#b4d7f8",
+        "image_main": "#86C4F8",
+        "image_sub": "#FC9BB3"
+      },
+      "theme_group": "主角气场"
+    },
+    {
+      "slug": "dreamjourney",
+      "name": "梦想旅程",
+      "theme": {
+        "main": "#332d1f",
+        "sub": "#e6e08a",
+        "border": "#a49b11",
+        "speech": "#ded214",
+        "nameplate_1": "#ded214",
+        "nameplate_2": "#fff77f",
+        "image_main": "#2E2E27",
+        "image_sub": "#F2E649"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "junglepocket",
+      "name": "森林宝穴",
+      "theme": {
+        "main": "#6ac43c",
+        "sub": "#e6d734",
+        "border": "#49ad15",
+        "speech": "#6fce3e",
+        "nameplate_1": "#6fce3e",
+        "nameplate_2": "#86ed51",
+        "image_main": "#F3EA5D",
+        "image_sub": "#58D916"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "samsonbig",
+      "name": "森逊巨人",
+      "theme": {
+        "main": "#3DC3C2",
+        "sub": "#F0688E",
+        "border": "#FFFFFF",
+        "speech": "#FFFFFF",
+        "nameplate_1": "#FFFFFF",
+        "nameplate_2": "#FFFFFF",
+        "image_main": "#FFFFFF",
+        "image_sub": "#FFFFFF"
+      },
+      "theme_group": "主角气场"
+    },
+    {
+      "slug": "sakurachiyonoo",
+      "name": "樱花千代王",
+      "theme": {
+        "main": "#f9879d",
+        "sub": "#f7dde2",
+        "border": "#e54c6d",
+        "speech": "#e54c6d",
+        "nameplate_1": "#e54c6d",
+        "nameplate_2": "#ffa9ba",
+        "image_main": "#FFA3B5",
+        "image_sub": "#F5DADF"
+      },
+      "theme_group": "主角气场"
+    },
+    {
+      "slug": "sakurachitoseo",
+      "name": "樱花千岁王",
+      "theme": {
+        "main": "#fa83cb",
+        "sub": "#d8c8d1",
+        "border": "#2B75DD",
+        "speech": "#4C91F1",
+        "nameplate_1": "#4C91F1",
+        "nameplate_2": "#8DBCFD",
+        "image_main": "#FEB8E2",
+        "image_sub": "#F1DFE9"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "sakuralaurel",
+      "name": "樱花桂冠",
+      "theme": {
+        "main": "#f0638a",
+        "sub": "#fecdc9",
+        "border": "#d45e85",
+        "speech": "#e65779",
+        "nameplate_1": "#f36083",
+        "nameplate_2": "#ffaec3",
+        "image_main": "#ED7092",
+        "image_sub": "#EBD3CF"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "sakurabakushino",
+      "name": "樱花进王",
+      "theme": {
+        "main": "#EE6FAB",
+        "sub": "#F2D4D7",
+        "border": "#F2529D",
+        "speech": "#FF8AC1",
+        "nameplate_1": "#FF72B4",
+        "nameplate_2": "#FFA6D0",
+        "image_main": "#F595C3",
+        "image_sub": "#FFDFDF"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "victoirepisa",
+      "name": "比萨胜驹",
+      "theme": {
+        "main": "#4146b8",
+        "sub": "#f1eb9d",
+        "border": "#3a40b8",
+        "speech": "#6064c2",
+        "nameplate_1": "#6064c2",
+        "nameplate_2": "#b0b2ec",
+        "image_main": "#1D23AB",
+        "image_sub": "#F1EB9D"
+      },
+      "theme_group": "自由灵感"
+    },
+    {
+      "slug": "noreason",
+      "name": "毫无理由",
+      "theme": {
+        "main": "#cb243e",
+        "sub": "#9ad2f5",
+        "border": "#b6263c",
+        "speech": "#D4364E",
+        "nameplate_1": "#ef5970",
+        "nameplate_2": "#f7a3b0",
+        "image_main": "#E42947",
+        "image_sub": "#A1DBFF"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "airgroove",
+      "name": "气槽",
+      "theme": {
+        "main": "#0092CB",
+        "sub": "#FAE053",
+        "border": "#34A5D1",
+        "speech": "#5FCCF7",
+        "nameplate_1": "#3CB6E6",
+        "nameplate_2": "#8EDEFD",
+        "image_main": "#27A1B7",
+        "image_sub": "#FFE672"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "airmessiah",
+      "name": "气槽弥赛亚",
+      "theme": {
+        "main": "#2c2f9d",
+        "sub": "#fffd8c",
+        "border": "#393cb6",
+        "speech": "#585df0",
+        "nameplate_1": "#585df0",
+        "nameplate_2": "#a8aaff",
+        "image_main": "#272AA4",
+        "image_sub": "#FFFC61"
+      },
+      "theme_group": "主角气场"
+    },
+    {
+      "slug": "airshakur",
+      "name": "气槽沙卡",
+      "theme": {
+        "main": "#2459B4",
+        "sub": "#E1E000",
+        "border": "#2053a9",
+        "speech": "#2b61bf",
+        "nameplate_1": "#2c65c7",
+        "nameplate_2": "#3d9def",
+        "image_main": "#D1D13E",
+        "image_sub": "#679EF1"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "blastonepiece",
+      "name": "爆裂一击",
+      "theme": {
+        "main": "#009cbd",
+        "sub": "#0cb85f",
+        "border": "#2B75DD",
+        "speech": "#4C91F1",
+        "nameplate_1": "#4C91F1",
+        "nameplate_2": "#8DBCFD",
+        "image_main": "#A8C6FD",
+        "image_sub": "#5277D6"
+      },
+      "theme_group": "主角气场"
+    },
+    {
+      "slug": "agnesdigital",
+      "name": "爱丽数码",
+      "theme": {
+        "main": "#F37F96",
+        "sub": "#F9F189",
+        "border": "#f75676",
+        "speech": "#fd738f",
+        "nameplate_1": "#fd738f",
+        "nameplate_2": "#ffafbf",
+        "image_main": "#F7FFAC",
+        "image_sub": "#F5D74B"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "agnestachyon",
+      "name": "爱丽速子",
+      "theme": {
+        "main": "#35B2B6",
+        "sub": "#E2E868",
+        "border": "#1DABB8",
+        "speech": "#56DAE6",
+        "nameplate_1": "#3ACBD8",
+        "nameplate_2": "#7DEFF9",
+        "image_main": "#E9FD89",
+        "image_sub": "#37D4CD"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "stillinlove",
+      "name": "爱如往昔",
+      "theme": {
+        "main": "#d83a43",
+        "sub": "#6fbbf1",
+        "border": "#d4323b",
+        "speech": "#e84a53",
+        "nameplate_1": "#e84a53",
+        "nameplate_2": "#ff9399",
+        "image_main": "#D0383E",
+        "image_sub": "#33CCFF"
+      },
+      "theme_group": "主角气场"
+    },
+    {
+      "slug": "admiregroove",
+      "name": "爱慕气槽",
+      "theme": {
+        "main": "#344d99",
+        "sub": "#5cbac8",
+        "border": "#455da6",
+        "speech": "#5876d2",
+        "nameplate_1": "#5876d2",
+        "nameplate_2": "#93adff",
+        "image_main": "#3954A7",
+        "image_sub": "#76EEFF"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "admirevega",
+      "name": "爱慕织姬",
+      "theme": {
+        "main": "#3865A1",
+        "sub": "#78D5E1",
+        "border": "#3865a1",
+        "speech": "#4d7ec0",
+        "nameplate_1": "#4d7ec0",
+        "nameplate_2": "#83ddea",
+        "image_main": "#6592CC",
+        "image_sub": "#A3EAFF"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "specialweek",
+      "name": "特别周",
+      "theme": {
+        "main": "#EE6DCB",
+        "sub": "#FFDEF9",
+        "border": "#F759CD",
+        "speech": "#FF7FDD",
+        "nameplate_1": "#FF7CDC",
+        "nameplate_2": "#FEB4EA",
+        "image_main": "#FCA7FF",
+        "image_sub": "#FF58D9"
+      },
+      "theme_group": "主角气场"
+    },
+    {
+      "slug": "furioso",
+      "name": "狂怒乐章",
+      "theme": {
+        "main": "#3f54bf",
+        "sub": "#dd3543",
+        "border": "#435acc",
+        "speech": "#5972f0",
+        "nameplate_1": "#5972f0",
+        "nameplate_2": "#a3b2ff",
+        "image_main": "#4E65DA",
+        "image_sub": "#FF2A3C"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "tamamocross",
+      "name": "玉藻十字",
+      "theme": {
+        "main": "#3290D6",
+        "sub": "#C6DAE7",
+        "border": "#2d8ad0",
+        "speech": "#55a5e1",
+        "nameplate_1": "#55a5e1",
+        "nameplate_2": "#a0d2f7",
+        "image_main": "#5DA9E2",
+        "image_sub": "#AEFAFF"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "marchelorraine",
+      "name": "玛修罗蕾娜",
+      "theme": {
+        "main": "#8b1538",
+        "sub": "#e9a2b2",
+        "border": "#b21845",
+        "speech": "#c5355f",
+        "nameplate_1": "#c5355f",
+        "nameplate_2": "#ed6b91",
+        "image_main": "#8A1538",
+        "image_sub": "#E9A2B2"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "rosekingdom",
+      "name": "玫瑰王国",
+      "theme": {
+        "main": "#cb363d",
+        "sub": "#52606b",
+        "border": "#FFFFFF",
+        "speech": "#FFFFFF",
+        "nameplate_1": "#FFFFFF",
+        "nameplate_2": "#FFFFFF",
+        "image_main": "#A8C6FD",
+        "image_sub": "#5277D6"
+      },
+      "theme_group": "主角气场"
+    },
+    {
+      "slug": "biwahayahide",
+      "name": "琵琶晨光",
+      "theme": {
+        "main": "#B03D81",
+        "sub": "#E776B6",
+        "border": "#D05CD6",
+        "speech": "#E279E8",
+        "nameplate_1": "#E279E8",
+        "nameplate_2": "#F6B1FA",
+        "image_main": "#D17F9B",
+        "image_sub": "#C333A8"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "ikunodictus",
+      "name": "生野狄克达",
+      "theme": {
+        "main": "#49b73f",
+        "sub": "#c6d1d5",
+        "border": "#49b73f",
+        "speech": "#62d358",
+        "nameplate_1": "#62d358",
+        "nameplate_2": "#8df783",
+        "image_main": "#47A23F",
+        "image_sub": "#C1C6C8"
+      },
+      "theme_group": "主角气场"
+    },
+    {
+      "slug": "mejirobright",
+      "name": "目白光明",
+      "theme": {
+        "main": "#45C5C1",
+        "sub": "#9F5F54",
+        "border": "#21abad",
+        "speech": "#2cbdb8",
+        "nameplate_1": "#2cbdb8",
+        "nameplate_2": "#65e7dc",
+        "image_main": "#64CCC9",
+        "image_sub": "#FFFFFF"
+      },
+      "theme_group": "名门优雅"
+    },
+    {
+      "slug": "mejiropalmer",
+      "name": "目白善信",
+      "theme": {
+        "main": "#27c79c",
+        "sub": "#865432",
+        "border": "#049989",
+        "speech": "#0db98b",
+        "nameplate_1": "#0db98b",
+        "nameplate_2": "#78fed6",
+        "image_main": "#00A499",
+        "image_sub": "#FFFFFF"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "mejirodober",
+      "name": "目白多伯",
+      "theme": {
+        "main": "#19B49E",
+        "sub": "#6F3B42",
+        "border": "#20a895",
+        "speech": "#16c4ac",
+        "nameplate_1": "#16c4ac",
+        "nameplate_2": "#7ee0d2",
+        "image_main": "#00B097",
+        "image_sub": "#FFFFFF"
+      },
+      "theme_group": "冷静知性"
+    },
+    {
+      "slug": "mejiroramonu",
+      "name": "目白拉莫努",
+      "theme": {
+        "main": "#4bb6af",
+        "sub": "#3c5161",
+        "border": "#229ba6",
+        "speech": "#229ba6",
+        "nameplate_1": "#2db1ac",
+        "nameplate_2": "#80dcba",
+        "image_main": "#2EB8B1",
+        "image_sub": "#183548"
+      },
+      "theme_group": "名门优雅"
+    },
+    {
+      "slug": "mejiroryan",
+      "name": "目白赖恩",
+      "theme": {
+        "main": "#14BAAE",
+        "sub": "#7C4D3A",
+        "border": "#33B8A6",
+        "speech": "#50D9C7",
+        "nameplate_1": "#32CAB5",
+        "nameplate_2": "#8CEBDF",
+        "image_main": "#62D9D1",
+        "image_sub": "#FFFFFF"
+      },
+      "theme_group": "名门优雅"
+    },
+    {
+      "slug": "mejiroardan",
+      "name": "目白阿尔丹",
+      "theme": {
+        "main": "#28baa5",
+        "sub": "#bfe4eb",
+        "border": "#27a4a0",
+        "speech": "#28baa5",
+        "nameplate_1": "#28baa5",
+        "nameplate_2": "#83eadd",
+        "image_main": "#269988",
+        "image_sub": "#94ECFF"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "mejiromcqueen",
+      "name": "目白麦昆",
+      "theme": {
+        "main": "#00B5BE",
+        "sub": "#DFC8E7",
+        "border": "#22B7BF",
+        "speech": "#3CCFD7",
+        "nameplate_1": "#36C7CF",
+        "nameplate_2": "#7CE3E9",
+        "image_main": "#38BDC3",
+        "image_sub": "#FFFFFF"
+      },
+      "theme_group": "名门优雅"
+    },
+    {
+      "slug": "currenchan",
+      "name": "真机伶",
+      "theme": {
+        "main": "#F86669",
+        "sub": "#47423E",
+        "border": "#FF5C5F",
+        "speech": "#FF7D7F",
+        "nameplate_1": "#FF7D7F",
+        "nameplate_2": "#FCA7A8",
+        "image_main": "#FF6D70",
+        "image_sub": "#2E2E2E"
+      },
+      "theme_group": "亲和偶像"
+    },
+    {
+      "slug": "epiphaneia",
+      "name": "神威启示",
+      "theme": {
+        "main": "#17af87",
+        "sub": "#d0dee8",
+        "border": "#0c8666",
+        "speech": "#2dbb96",
+        "nameplate_1": "#2dbb96",
+        "nameplate_2": "#8fd7c4",
+        "image_main": "#A8C6FD",
+        "image_sub": "#5277D6"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "elcondorpasa",
+      "name": "神鹰",
+      "theme": {
+        "main": "#DD4E31",
+        "sub": "#EFDB28",
+        "border": "#F26A3D",
+        "speech": "#FE8B64",
+        "nameplate_1": "#FF8358",
+        "nameplate_2": "#FEAD91",
+        "image_main": "#D64F3E",
+        "image_sub": "#FDCE46"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "inarione",
+      "name": "稻荷一",
+      "theme": {
+        "main": "#AE419E",
+        "sub": "#EC86D0",
+        "border": "#9741a9",
+        "speech": "#c754b6",
+        "nameplate_1": "#c44bb2",
+        "nameplate_2": "#f895db",
+        "image_main": "#CC54BA",
+        "image_sub": "#FF9BE6"
+      },
+      "theme_group": "亲和偶像"
+    },
+    {
+      "slug": "daiichiruby",
+      "name": "第一红宝石",
+      "theme": {
+        "main": "#d2445d",
+        "sub": "#6946a9",
+        "border": "#c14363",
+        "speech": "#e2556e",
+        "nameplate_1": "#ea5d76",
+        "nameplate_2": "#ff9ba4",
+        "image_main": "#E2435F",
+        "image_sub": "#5F4876"
+      },
+      "theme_group": "自由灵感"
+    },
+    {
+      "slug": "riceshower",
+      "name": "米浴",
+      "theme": {
+        "main": "#384A86",
+        "sub": "#CA3E6D",
+        "border": "#546DBF",
+        "speech": "#7F96E2",
+        "nameplate_1": "#6B8AF1",
+        "nameplate_2": "#A3B6F6",
+        "image_main": "#304073",
+        "image_sub": "#BC89B1"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "rheinkraft",
+      "name": "线条工艺",
+      "theme": {
+        "main": "#f15b75",
+        "sub": "#2c9679",
+        "border": "#e44460",
+        "speech": "#f36b83",
+        "nameplate_1": "#f36b83",
+        "nameplate_2": "#ffb7c4",
+        "image_main": "#FFCBD4",
+        "image_sub": "#3DCEA6"
+      },
+      "theme_group": "主角气场"
+    },
+    {
+      "slug": "rulership",
+      "name": "统治地位",
+      "theme": {
+        "main": "#beab08",
+        "sub": "#3a4c5c",
+        "border": "#FFFFFF",
+        "speech": "#FFFFFF",
+        "nameplate_1": "#FFFFFF",
+        "nameplate_2": "#FFFFFF",
+        "image_main": "#A8C6FD",
+        "image_sub": "#5277D6"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "verxina",
+      "name": "维尔西娜",
+      "theme": {
+        "main": "#4747cc",
+        "sub": "#84c6e7",
+        "border": "#5151c9",
+        "speech": "#7070ec",
+        "nameplate_1": "#7070ec",
+        "nameplate_2": "#acacfe",
+        "image_main": "#0000DD",
+        "image_sub": "#66CCFF"
+      },
+      "theme_group": "名门优雅"
+    },
+    {
+      "slug": "royceandroyce",
+      "name": "罗伊斯",
+      "theme": {
+        "main": "#e69a22",
+        "sub": "#cc382e",
+        "border": "#e88f00",
+        "speech": "#fca417",
+        "nameplate_1": "#fca417",
+        "nameplate_2": "#ffcb78",
+        "image_main": "#FFC977",
+        "image_sub": "#FF4436"
+      },
+      "theme_group": "主角气场"
+    },
+    {
+      "slug": "finemotion",
+      "name": "美妙姿势",
+      "theme": {
+        "main": "#20A95C",
+        "sub": "#EE5340",
+        "border": "#18aa58",
+        "speech": "#3cc377",
+        "nameplate_1": "#3cc377",
+        "nameplate_2": "#83e4ae",
+        "image_main": "#71CC99",
+        "image_sub": "#109F42"
+      },
+      "theme_group": "自由灵感"
+    },
+    {
+      "slug": "mihonobourbon",
+      "name": "美浦波旁",
+      "theme": {
+        "main": "#EE60A1",
+        "sub": "#F0ED41",
+        "border": "#ff3ed4",
+        "speech": "#ff6ade",
+        "nameplate_1": "#ff6ade",
+        "nameplate_2": "#ff9ae8",
+        "image_main": "#F177AF",
+        "image_sub": "#E4E94C"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "bikopegasus",
+      "name": "美驹飞鹰",
+      "theme": {
+        "main": "#E7396F",
+        "sub": "#D162B8",
+        "border": "#d1275c",
+        "speech": "#f0467b",
+        "nameplate_1": "#f0467b",
+        "nameplate_2": "#f083d7",
+        "image_main": "#F20C46",
+        "image_sub": "#F2C2E7"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "winningticket",
+      "name": "胜利奖券",
+      "theme": {
+        "main": "#DD3D5B",
+        "sub": "#EDE233",
+        "border": "#E65771",
+        "speech": "#FF7C94",
+        "nameplate_1": "#FF728C",
+        "nameplate_2": "#FFB8C5",
+        "image_main": "#DB5E64",
+        "image_sub": "#FFEA9B"
+      },
+      "theme_group": "主角气场"
+    },
+    {
+      "slug": "winvariation",
+      "name": "胜利障壁",
+      "theme": {
+        "main": "#c1213c",
+        "sub": "#bad7f4",
+        "border": "#ca0c2d",
+        "speech": "#e93856",
+        "nameplate_1": "#e93856",
+        "nameplate_2": "#ffaab9",
+        "image_main": "#C10016",
+        "image_sub": "#DDE5ED"
+      },
+      "theme_group": "主角气场"
+    },
+    {
+      "slug": "inesfujin",
+      "name": "艾尼斯风神",
+      "theme": {
+        "main": "#F078C5",
+        "sub": "#54AE1B",
+        "border": "#c53b8c",
+        "speech": "#fa65c4",
+        "nameplate_1": "#f05fba",
+        "nameplate_2": "#ffbeda",
+        "image_main": "#FD89D5",
+        "image_sub": "#37D4A0"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "currenbouquetdor",
+      "name": "花束爱恋",
+      "theme": {
+        "main": "#8e8180",
+        "sub": "#473d3c",
+        "border": "#2B75DD",
+        "speech": "#4C91F1",
+        "nameplate_1": "#4C91F1",
+        "nameplate_2": "#8DBCFD",
+        "image_main": "#E6E6E3",
+        "image_sub": "#47443E"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "grasswonder",
+      "name": "草上飞",
+      "theme": {
+        "main": "#3A34AC",
+        "sub": "#E3493F",
+        "border": "#736DED",
+        "speech": "#8F8AF7",
+        "nameplate_1": "#8F8AFB",
+        "nameplate_2": "#AFABFC",
+        "image_main": "#A3B2D6",
+        "image_sub": "#3357B0"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "zennorobroy",
+      "name": "荒漠英雄",
+      "theme": {
+        "main": "#5F9B26",
+        "sub": "#F3EA5D",
+        "border": "#408f24",
+        "speech": "#51a028",
+        "nameplate_1": "#57ac2a",
+        "nameplate_2": "#97e148",
+        "image_main": "#639337",
+        "image_sub": "#D9D15F"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "eishinflash",
+      "name": "荣进闪耀",
+      "theme": {
+        "main": "#3D3B3A",
+        "sub": "#E33067",
+        "border": "#e52f67",
+        "speech": "#f85889",
+        "nameplate_1": "#f85889",
+        "nameplate_2": "#f795b4",
+        "image_main": "#413D39",
+        "image_sub": "#F34178"
+      },
+      "theme_group": "主角气场"
+    },
+    {
+      "slug": "hishimiracle",
+      "name": "菱亚奇迹",
+      "theme": {
+        "main": "#4a71b2",
+        "sub": "#bdd1e9",
+        "border": "#416aae",
+        "speech": "#4a71b2",
+        "nameplate_1": "#5986d1",
+        "nameplate_2": "#bdd1e9",
+        "image_main": "#487BCC",
+        "image_sub": "#CFD9E5"
+      },
+      "theme_group": "主角气场"
+    },
+    {
+      "slug": "hishiamazon",
+      "name": "菱亚马逊",
+      "theme": {
+        "main": "#2185D0",
+        "sub": "#E6453A",
+        "border": "#3e7dd6",
+        "speech": "#3a9ef0",
+        "nameplate_1": "#3795fa",
+        "nameplate_2": "#7acaff",
+        "image_main": "#5BA5DD",
+        "image_sub": "#FFFFFF"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "hishiakebono",
+      "name": "菱曙",
+      "theme": {
+        "main": "#208BCD",
+        "sub": "#FA6F8B",
+        "border": "#0a81ca",
+        "speech": "#269fe9",
+        "nameplate_1": "#269fe9",
+        "nameplate_2": "#71c7fc",
+        "image_main": "#61AAD9",
+        "image_sub": "#FFFFFF"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "nishinoflower",
+      "name": "西野花",
+      "theme": {
+        "main": "#E26ECB",
+        "sub": "#F6EB61",
+        "border": "#dd50c1",
+        "speech": "#ec68d2",
+        "nameplate_1": "#ec68d2",
+        "nameplate_2": "#ffafe4",
+        "image_main": "#E0D773",
+        "image_sub": "#E08ED0"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "taninogimlet",
+      "name": "谷野美酒",
+      "theme": {
+        "main": "#dab610",
+        "sub": "#173061",
+        "border": "#c5963a",
+        "speech": "#e2ac38",
+        "nameplate_1": "#d4a914",
+        "nameplate_2": "#fddf66",
+        "image_main": "#F3E972",
+        "image_sub": "#0A2966"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "gentildonna",
+      "name": "贵妇人",
+      "theme": {
+        "main": "#cf2f2b",
+        "sub": "#533c3d",
+        "border": "#cc3c37",
+        "speech": "#f05252",
+        "nameplate_1": "#f05252",
+        "nameplate_2": "#fc9692",
+        "image_main": "#C4352D",
+        "image_sub": "#4C1E21"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "reddesire",
+      "name": "赤色欲望",
+      "theme": {
+        "main": "#cb3a43",
+        "sub": "#802f2d",
+        "border": "#FFFFFF",
+        "speech": "#FFFFFF",
+        "nameplate_1": "#FFFFFF",
+        "nameplate_2": "#FFFFFF",
+        "image_main": "#D32630",
+        "image_sub": "#802F2D"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "fenomeno",
+      "name": "超常骏骥",
+      "theme": {
+        "main": "#574a74",
+        "sub": "#f4db4e",
+        "border": "#5c478a",
+        "speech": "#765db2",
+        "nameplate_1": "#765db2",
+        "nameplate_2": "#bcaae6",
+        "image_main": "#574B72",
+        "image_sub": "#FFE652"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "supercreek",
+      "name": "超级溪流",
+      "theme": {
+        "main": "#5693DA",
+        "sub": "#C8C9C7",
+        "border": "#408DE6",
+        "speech": "#67AAF8",
+        "nameplate_1": "#5EA4F5",
+        "nameplate_2": "#93C5FE",
+        "image_main": "#7FADE3",
+        "image_sub": "#FFFFFF"
+      },
+      "theme_group": "主角气场"
+    },
+    {
+      "slug": "transcend",
+      "name": "超越",
+      "theme": {
+        "main": "#13a9b0",
+        "sub": "#f8475f",
+        "border": "#00abb3",
+        "speech": "#00c3cd",
+        "nameplate_1": "#00c3cd",
+        "nameplate_2": "#92ecf1",
+        "image_main": "#28F4FF",
+        "image_sub": "#FF2A58"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "tapdancecity",
+      "name": "踢踏城",
+      "theme": {
+        "main": "#d44853",
+        "sub": "#4840ad",
+        "border": "#cf2f3c",
+        "speech": "#d1313e",
+        "nameplate_1": "#ee4d5a",
+        "nameplate_2": "#ee969d",
+        "image_main": "#EF3340",
+        "image_sub": "#10069F"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "buenavista",
+      "name": "迷人景致",
+      "theme": {
+        "main": "#c0af3b",
+        "sub": "#583d3e",
+        "border": "#a99300",
+        "speech": "#c2b246",
+        "nameplate_1": "#c2b246",
+        "nameplate_2": "#ebda61",
+        "image_main": "#E5D77E",
+        "image_sub": "#66292B"
+      },
+      "theme_group": "亲和偶像"
+    },
+    {
+      "slug": "seekingthepearl",
+      "name": "采珠",
+      "theme": {
+        "main": "#B02D40",
+        "sub": "#1690D4",
+        "border": "#b61f3f",
+        "speech": "#d7455b",
+        "nameplate_1": "#de4f64",
+        "nameplate_2": "#ff8689",
+        "image_main": "#CC5A6B",
+        "image_sub": "#70E1FA"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "satonodiamond",
+      "name": "里见光钻",
+      "theme": {
+        "main": "#94bf01",
+        "sub": "#f9eb39",
+        "border": "#6ca90b",
+        "speech": "#74c401",
+        "nameplate_1": "#74c401",
+        "nameplate_2": "#b6e92e",
+        "image_main": "#90AA6B",
+        "image_sub": "#FFF994"
+      },
+      "theme_group": "主角气场"
+    },
+    {
+      "slug": "satonocrown",
+      "name": "里见皇冠",
+      "theme": {
+        "main": "#21713A",
+        "sub": "#F3F19D",
+        "border": "#097a2c",
+        "speech": "#06812b",
+        "nameplate_1": "#06812b",
+        "nameplate_2": "#77d995",
+        "image_main": "#225D39",
+        "image_sub": "#F4F0A2"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "yukinobijin",
+      "name": "雪之美人",
+      "theme": {
+        "main": "#AF7E51",
+        "sub": "#C8D8EB",
+        "border": "#5688c5",
+        "speech": "#6999d2",
+        "nameplate_1": "#85addd",
+        "nameplate_2": "#b6dfff",
+        "image_main": "#A7DDFF",
+        "image_sub": "#FFFFFF"
+      },
+      "theme_group": "主角气场"
+    },
+    {
+      "slug": "foreveryoung",
+      "name": "青春永驻",
+      "theme": {
+        "main": "#822b4a",
+        "sub": "#d8ced2",
+        "border": "#9a254f",
+        "speech": "#bc4D75",
+        "nameplate_1": "#bc4D75",
+        "nameplate_2": "#de97b0",
+        "image_main": "#6F1F3C",
+        "image_sub": "#EAE5E7"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "bamboomemory",
+      "name": "青竹回忆",
+      "theme": {
+        "main": "#366965",
+        "sub": "#2D2926",
+        "border": "#217873",
+        "speech": "#29a89e",
+        "nameplate_1": "#2b9c93",
+        "nameplate_2": "#45d5b5",
+        "image_main": "#29504D",
+        "image_sub": "#FFFFFF"
+      },
+      "theme_group": "主角气场"
+    },
+    {
+      "slug": "chevalgrand",
+      "name": "高尚骏逸",
+      "theme": {
+        "main": "#64C3C1",
+        "sub": "#1E3872",
+        "border": "#20abbc",
+        "speech": "#19bfb3",
+        "nameplate_1": "#29cbbf",
+        "nameplate_2": "#7ef0e8",
+        "image_main": "#BFFFFE",
+        "image_sub": "#030073"
+      },
+      "theme_group": "主角气场"
+    },
+    {
+      "slug": "symbolirudolf",
+      "name": "鲁道夫象征",
+      "theme": {
+        "main": "#1C7763",
+        "sub": "#C6314B",
+        "border": "#2EB396",
+        "speech": "#49CDB1",
+        "nameplate_1": "#3AC4A6",
+        "nameplate_2": "#78DDC8",
+        "image_main": "#27B798",
+        "image_sub": "#FFFFFF"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "tsurumarutsuyoshi",
+      "name": "鹤丸刚志",
+      "theme": {
+        "main": "#8F4DAC",
+        "sub": "#F5CD47",
+        "border": "#8f4dac",
+        "speech": "#b56bd5",
+        "nameplate_1": "#b56bd5",
+        "nameplate_2": "#e1a8fa",
+        "image_main": "#A743D1",
+        "image_sub": "#FDD758"
+      },
+      "theme_group": "主角气场"
+    },
+    {
+      "slug": "astonmachan",
+      "name": "麻酱",
+      "theme": {
+        "main": "#CF4436",
+        "sub": "#E1DCCB",
+        "border": "#c02530",
+        "speech": "#e44a3e",
+        "nameplate_1": "#e44a3e",
+        "nameplate_2": "#ff926c",
+        "image_main": "#CB3725",
+        "image_sub": "#FFEC8C"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "goldcity",
+      "name": "黄金城",
+      "theme": {
+        "main": "#245099",
+        "sub": "#E63C5C",
+        "border": "#356FCC",
+        "speech": "#5294FF",
+        "nameplate_1": "#5294FF",
+        "nameplate_2": "#99C0FF",
+        "image_main": "#688AD6",
+        "image_sub": "#FFFFFF"
+      },
+      "theme_group": "经典竞马"
+    },
+    {
+      "slug": "orfevre",
+      "name": "黄金巨匠",
+      "theme": {
+        "main": "#be4134",
+        "sub": "#ecd898",
+        "border": "#c94336",
+        "speech": "#ee5e4f",
+        "nameplate_1": "#ee5e4f",
+        "nameplate_2": "#ffbfb8",
+        "image_main": "#CB3E38",
+        "image_sub": "#FFEAA5"
+      },
+      "theme_group": "自由灵感"
+    },
+    {
+      "slug": "staygold",
+      "name": "黄金旅程",
+      "theme": {
+        "main": "#bfb33e",
+        "sub": "#49699c",
+        "border": "#9c8d00",
+        "speech": "#bfb33e",
+        "nameplate_1": "#bfb33e",
+        "nameplate_2": "#e0d358",
+        "image_main": "#BFB876",
+        "image_sub": "#4F72AA"
+      },
+      "theme_group": "自由灵感"
+    },
+    {
+      "slug": "goldship",
+      "name": "黄金船",
+      "theme": {
+        "main": "#DA3C57",
+        "sub": "#E9DA36",
+        "border": "#DB4D65",
+        "speech": "#FB758C",
+        "nameplate_1": "#FA667F",
+        "nameplate_2": "#FF98AA",
+        "image_main": "#FFFFFF",
+        "image_sub": "#F84B40"
+      },
+      "theme_group": "自由灵感"
+    }
+  ],
+  "edges": [
+    {
+      "source": "tokaiteio",
+      "target": "specialweek",
+      "kind": "comic"
+    },
+    {
+      "source": "tokaiteio",
+      "target": "mejiromcqueen",
+      "kind": "comic"
+    },
+    {
+      "source": "tokaiteio",
+      "target": "mihonobourbon",
+      "kind": "comic"
+    },
+    {
+      "source": "tokaiteio",
+      "target": "nishinoflower",
+      "kind": "comic"
+    },
+    {
+      "source": "tokaiteio",
+      "target": "nicenature",
+      "kind": "comic"
+    },
+    {
+      "source": "tokaiteio",
+      "target": "byerleyturk",
+      "kind": "comic"
+    },
+    {
+      "source": "nakayamafesta",
+      "target": "sakuralaurel",
+      "kind": "comic"
+    },
+    {
+      "source": "nakayamafesta",
+      "target": "staygold",
+      "kind": "comic"
+    },
+    {
+      "source": "maruzensky",
+      "target": "specialweek",
+      "kind": "comic"
+    },
+    {
+      "source": "maruzensky",
+      "target": "supercreek",
+      "kind": "comic"
+    },
+    {
+      "source": "dantsuflame",
+      "target": "cesario",
+      "kind": "comic"
+    },
+    {
+      "source": "vodka",
+      "target": "daiwascarlet",
+      "kind": "comic"
+    },
+    {
+      "source": "vodka",
+      "target": "mayanotopgun",
+      "kind": "comic"
+    },
+    {
+      "source": "vodka",
+      "target": "astonmachan",
+      "kind": "comic"
+    },
+    {
+      "source": "nicenature",
+      "target": "twinturbo",
+      "kind": "comic"
+    },
+    {
+      "source": "symbolikriss",
+      "target": "symbolirudolf",
+      "kind": "comic"
+    },
+    {
+      "source": "symbolikriss",
+      "target": "hishimiracle",
+      "kind": "comic"
+    },
+    {
+      "source": "yaenomuteki",
+      "target": "sakurachiyonoo",
+      "kind": "comic"
+    },
+    {
+      "source": "yaenomuteki",
+      "target": "mejiroardan",
+      "kind": "comic"
+    },
+    {
+      "source": "cesario",
+      "target": "kinghalo",
+      "kind": "comic"
+    },
+    {
+      "source": "cesario",
+      "target": "rheinkraft",
+      "kind": "comic"
+    },
+    {
+      "source": "cesario",
+      "target": "buenavista",
+      "kind": "comic"
+    },
+    {
+      "source": "chronogenesis",
+      "target": "currenbouquetdor",
+      "kind": "comic"
+    },
+    {
+      "source": "daringheart",
+      "target": "daringtact",
+      "kind": "comic"
+    },
+    {
+      "source": "daringheart",
+      "target": "rheinkraft",
+      "kind": "comic"
+    },
+    {
+      "source": "hokkotarumae",
+      "target": "goldship",
+      "kind": "comic"
+    },
+    {
+      "source": "hokkotarumae",
+      "target": "smartfalcon",
+      "kind": "comic"
+    },
+    {
+      "source": "hokkotarumae",
+      "target": "yunohanabloom",
+      "kind": "comic"
+    },
+    {
+      "source": "kitasanblack",
+      "target": "tokaiteio",
+      "kind": "comic"
+    },
+    {
+      "source": "kitasanblack",
+      "target": "inarione",
+      "kind": "comic"
+    },
+    {
+      "source": "kitasanblack",
+      "target": "satonodiamond",
+      "kind": "comic"
+    },
+    {
+      "source": "kitasanblack",
+      "target": "chevalgrand",
+      "kind": "comic"
+    },
+    {
+      "source": "meishodoto",
+      "target": "admirevega",
+      "kind": "comic"
+    },
+    {
+      "source": "lovesonlyyou",
+      "target": "chronogenesis",
+      "kind": "comic"
+    },
+    {
+      "source": "lovesonlyyou",
+      "target": "currenbouquetdor",
+      "kind": "comic"
+    },
+    {
+      "source": "lovesonlyyou",
+      "target": "foreveryoung",
+      "kind": "comic"
+    },
+    {
+      "source": "daiwascarlet",
+      "target": "vodka",
+      "kind": "comic"
+    },
+    {
+      "source": "daiwascarlet",
+      "target": "mayanotopgun",
+      "kind": "comic"
+    },
+    {
+      "source": "daiwascarlet",
+      "target": "agnestachyon",
+      "kind": "comic"
+    },
+    {
+      "source": "daiwascarlet",
+      "target": "mejirodober",
+      "kind": "comic"
+    },
+    {
+      "source": "daiwascarlet",
+      "target": "astonmachan",
+      "kind": "comic"
+    },
+    {
+      "source": "daitakuhelios",
+      "target": "nishinoflower",
+      "kind": "comic"
+    },
+    {
+      "source": "daitakuhelios",
+      "target": "mejiropalmer",
+      "kind": "comic"
+    },
+    {
+      "source": "daitakuhelios",
+      "target": "daiichiruby",
+      "kind": "comic"
+    },
+    {
+      "source": "granalegria",
+      "target": "chronogenesis",
+      "kind": "comic"
+    },
+    {
+      "source": "granalegria",
+      "target": "currenbouquetdor",
+      "kind": "comic"
+    },
+    {
+      "source": "siriussymboli",
+      "target": "symbolirudolf",
+      "kind": "comic"
+    },
+    {
+      "source": "siriussymboli",
+      "target": "nakayamafesta",
+      "kind": "comic"
+    },
+    {
+      "source": "siriussymboli",
+      "target": "speedsymboli",
+      "kind": "comic"
+    },
+    {
+      "source": "marveloussunday",
+      "target": "mayanotopgun",
+      "kind": "comic"
+    },
+    {
+      "source": "wonderacute",
+      "target": "hoshinakiyoko",
+      "kind": "comic"
+    },
+    {
+      "source": "tmoperao",
+      "target": "admirevega",
+      "kind": "comic"
+    },
+    {
+      "source": "fujikiseki",
+      "target": "specialweek",
+      "kind": "comic"
+    },
+    {
+      "source": "fujikiseki",
+      "target": "agnestachyon",
+      "kind": "comic"
+    },
+    {
+      "source": "oguricap",
+      "target": "tamamocross",
+      "kind": "comic"
+    },
+    {
+      "source": "oguricap",
+      "target": "supercreek",
+      "kind": "comic"
+    },
+    {
+      "source": "oguricap",
+      "target": "bamboomemory",
+      "kind": "comic"
+    },
+    {
+      "source": "kawakamiprincess",
+      "target": "seekingthepearl",
+      "kind": "comic"
+    },
+    {
+      "source": "kinghalo",
+      "target": "seiunsky",
+      "kind": "comic"
+    },
+    {
+      "source": "kinghalo",
+      "target": "kawakamiprincess",
+      "kind": "comic"
+    },
+    {
+      "source": "kinghalo",
+      "target": "tsurumarutsuyoshi",
+      "kind": "comic"
+    },
+    {
+      "source": "kinghalo",
+      "target": "fusaichipandora",
+      "kind": "comic"
+    },
+    {
+      "source": "matikanefukukitaru",
+      "target": "silencesuzuka",
+      "kind": "comic"
+    },
+    {
+      "source": "matikanefukukitaru",
+      "target": "matikanetannhauser",
+      "kind": "comic"
+    },
+    {
+      "source": "matikanefukukitaru",
+      "target": "mejirobright",
+      "kind": "comic"
+    },
+    {
+      "source": "matikanetannhauser",
+      "target": "mihonobourbon",
+      "kind": "comic"
+    },
+    {
+      "source": "naritataishin",
+      "target": "winningticket",
+      "kind": "comic"
+    },
+    {
+      "source": "naritabrian",
+      "target": "hishiamazon",
+      "kind": "comic"
+    },
+    {
+      "source": "naritabrian",
+      "target": "hokkotarumae",
+      "kind": "comic"
+    },
+    {
+      "source": "naritatoproad",
+      "target": "admirevega",
+      "kind": "comic"
+    },
+    {
+      "source": "fusaichipandora",
+      "target": "kinghalo",
+      "kind": "comic"
+    },
+    {
+      "source": "fusaichipandora",
+      "target": "almondeye",
+      "kind": "comic"
+    },
+    {
+      "source": "sweeptosho",
+      "target": "rheinkraft",
+      "kind": "comic"
+    },
+    {
+      "source": "sweeptosho",
+      "target": "luckylilac",
+      "kind": "comic"
+    },
+    {
+      "source": "mayanotopgun",
+      "target": "mejiromcqueen",
+      "kind": "comic"
+    },
+    {
+      "source": "mayanotopgun",
+      "target": "yukinobijin",
+      "kind": "comic"
+    },
+    {
+      "source": "mayanotopgun",
+      "target": "goldcity",
+      "kind": "comic"
+    },
+    {
+      "source": "neouniverse",
+      "target": "hishimiracle",
+      "kind": "comic"
+    },
+    {
+      "source": "neouniverse",
+      "target": "luckylilac",
+      "kind": "comic"
+    },
+    {
+      "source": "neouniverse",
+      "target": "victoirepisa",
+      "kind": "comic"
+    },
+    {
+      "source": "silencesuzuka",
+      "target": "airgroove",
+      "kind": "comic"
+    },
+    {
+      "source": "haruurara",
+      "target": "riceshower",
+      "kind": "comic"
+    },
+    {
+      "source": "manhattancafe",
+      "target": "airshakur",
+      "kind": "comic"
+    },
+    {
+      "source": "manhattancafe",
+      "target": "dantsuflame",
+      "kind": "comic"
+    },
+    {
+      "source": "manhattancafe",
+      "target": "reddesire",
+      "kind": "comic"
+    },
+    {
+      "source": "dreamjourney",
+      "target": "staygold",
+      "kind": "comic"
+    },
+    {
+      "source": "junglepocket",
+      "target": "dantsuflame",
+      "kind": "comic"
+    },
+    {
+      "source": "sakurachiyonoo",
+      "target": "mejiroardan",
+      "kind": "comic"
+    },
+    {
+      "source": "sakurachiyonoo",
+      "target": "yaenomuteki",
+      "kind": "comic"
+    },
+    {
+      "source": "sakurachiyonoo",
+      "target": "sakuralaurel",
+      "kind": "comic"
+    },
+    {
+      "source": "sakuralaurel",
+      "target": "mayanotopgun",
+      "kind": "comic"
+    },
+    {
+      "source": "sakurabakushino",
+      "target": "kitasanblack",
+      "kind": "comic"
+    },
+    {
+      "source": "sakurabakushino",
+      "target": "sakuralaurel",
+      "kind": "comic"
+    },
+    {
+      "source": "sakurabakushino",
+      "target": "yamaninzephyr",
+      "kind": "comic"
+    },
+    {
+      "source": "victoirepisa",
+      "target": "rulership",
+      "kind": "comic"
+    },
+    {
+      "source": "airgroove",
+      "target": "symbolirudolf",
+      "kind": "comic"
+    },
+    {
+      "source": "airgroove",
+      "target": "hokkotarumae",
+      "kind": "comic"
+    },
+    {
+      "source": "airgroove",
+      "target": "katsuragiace",
+      "kind": "comic"
+    },
+    {
+      "source": "airmessiah",
+      "target": "rheinkraft",
+      "kind": "comic"
+    },
+    {
+      "source": "airshakur",
+      "target": "finemotion",
+      "kind": "comic"
+    },
+    {
+      "source": "airshakur",
+      "target": "meishodoto",
+      "kind": "comic"
+    },
+    {
+      "source": "airshakur",
+      "target": "airmessiah",
+      "kind": "comic"
+    },
+    {
+      "source": "agnesdigital",
+      "target": "hishimiracle",
+      "kind": "comic"
+    },
+    {
+      "source": "agnestachyon",
+      "target": "airshakur",
+      "kind": "comic"
+    },
+    {
+      "source": "agnestachyon",
+      "target": "dantsuflame",
+      "kind": "comic"
+    },
+    {
+      "source": "stillinlove",
+      "target": "admiregroove",
+      "kind": "comic"
+    },
+    {
+      "source": "stillinlove",
+      "target": "lovesonlyyou",
+      "kind": "comic"
+    },
+    {
+      "source": "specialweek",
+      "target": "silencesuzuka",
+      "kind": "comic"
+    },
+    {
+      "source": "specialweek",
+      "target": "maruzensky",
+      "kind": "comic"
+    },
+    {
+      "source": "specialweek",
+      "target": "fujikiseki",
+      "kind": "comic"
+    },
+    {
+      "source": "specialweek",
+      "target": "daiwascarlet",
+      "kind": "comic"
+    },
+    {
+      "source": "specialweek",
+      "target": "grasswonder",
+      "kind": "comic"
+    },
+    {
+      "source": "specialweek",
+      "target": "seiunsky",
+      "kind": "comic"
+    },
+    {
+      "source": "specialweek",
+      "target": "haruurara",
+      "kind": "comic"
+    },
+    {
+      "source": "specialweek",
+      "target": "marveloussunday",
+      "kind": "comic"
+    },
+    {
+      "source": "specialweek",
+      "target": "kinghalo",
+      "kind": "comic"
+    },
+    {
+      "source": "specialweek",
+      "target": "tsurumarutsuyoshi",
+      "kind": "comic"
+    },
+    {
+      "source": "specialweek",
+      "target": "buenavista",
+      "kind": "comic"
+    },
+    {
+      "source": "tamamocross",
+      "target": "oguricap",
+      "kind": "comic"
+    },
+    {
+      "source": "marchelorraine",
+      "target": "lovesonlyyou",
+      "kind": "comic"
+    },
+    {
+      "source": "rosekingdom",
+      "target": "rulership",
+      "kind": "comic"
+    },
+    {
+      "source": "biwahayahide",
+      "target": "tmoperao",
+      "kind": "comic"
+    },
+    {
+      "source": "biwahayahide",
+      "target": "winningticket",
+      "kind": "comic"
+    },
+    {
+      "source": "biwahayahide",
+      "target": "naritataishin",
+      "kind": "comic"
+    },
+    {
+      "source": "ikunodictus",
+      "target": "twinturbo",
+      "kind": "comic"
+    },
+    {
+      "source": "mejirobright",
+      "target": "mejiroryan",
+      "kind": "comic"
+    },
+    {
+      "source": "mejiropalmer",
+      "target": "nishinoflower",
+      "kind": "comic"
+    },
+    {
+      "source": "mejiropalmer",
+      "target": "daitakuhelios",
+      "kind": "comic"
+    },
+    {
+      "source": "mejiropalmer",
+      "target": "mejiroardan",
+      "kind": "comic"
+    },
+    {
+      "source": "mejirodober",
+      "target": "taikishuttle",
+      "kind": "comic"
+    },
+    {
+      "source": "mejirodober",
+      "target": "elcondorpasa",
+      "kind": "comic"
+    },
+    {
+      "source": "mejirodober",
+      "target": "mejiroryan",
+      "kind": "comic"
+    },
+    {
+      "source": "mejirodober",
+      "target": "mejiroramonu",
+      "kind": "comic"
+    },
+    {
+      "source": "mejiroryan",
+      "target": "mihonobourbon",
+      "kind": "comic"
+    },
+    {
+      "source": "mejiroryan",
+      "target": "inesfujin",
+      "kind": "comic"
+    },
+    {
+      "source": "mejiroryan",
+      "target": "mejiroramonu",
+      "kind": "comic"
+    },
+    {
+      "source": "mejiroardan",
+      "target": "mejiropalmer",
+      "kind": "comic"
+    },
+    {
+      "source": "mejiroardan",
+      "target": "sakurachiyonoo",
+      "kind": "comic"
+    },
+    {
+      "source": "mejiroardan",
+      "target": "yaenomuteki",
+      "kind": "comic"
+    },
+    {
+      "source": "mejiromcqueen",
+      "target": "goldship",
+      "kind": "comic"
+    },
+    {
+      "source": "mejiromcqueen",
+      "target": "mejiroryan",
+      "kind": "comic"
+    },
+    {
+      "source": "mejiromcqueen",
+      "target": "sakurabakushino",
+      "kind": "comic"
+    },
+    {
+      "source": "mejiromcqueen",
+      "target": "mejirodober",
+      "kind": "comic"
+    },
+    {
+      "source": "mejiromcqueen",
+      "target": "ikunodictus",
+      "kind": "comic"
+    },
+    {
+      "source": "mejiromcqueen",
+      "target": "satonodiamond",
+      "kind": "comic"
+    },
+    {
+      "source": "mejiromcqueen",
+      "target": "sakurachitoseo",
+      "kind": "comic"
+    },
+    {
+      "source": "currenchan",
+      "target": "admirevega",
+      "kind": "comic"
+    },
+    {
+      "source": "currenchan",
+      "target": "sweeptosho",
+      "kind": "comic"
+    },
+    {
+      "source": "elcondorpasa",
+      "target": "silencesuzuka",
+      "kind": "comic"
+    },
+    {
+      "source": "elcondorpasa",
+      "target": "oguricap",
+      "kind": "comic"
+    },
+    {
+      "source": "elcondorpasa",
+      "target": "grasswonder",
+      "kind": "comic"
+    },
+    {
+      "source": "elcondorpasa",
+      "target": "naritabrian",
+      "kind": "comic"
+    },
+    {
+      "source": "elcondorpasa",
+      "target": "sakuralaurel",
+      "kind": "comic"
+    },
+    {
+      "source": "elcondorpasa",
+      "target": "sakurachitoseo",
+      "kind": "comic"
+    },
+    {
+      "source": "inarione",
+      "target": "supercreek",
+      "kind": "comic"
+    },
+    {
+      "source": "riceshower",
+      "target": "matikanetannhauser",
+      "kind": "comic"
+    },
+    {
+      "source": "rheinkraft",
+      "target": "kinghalo",
+      "kind": "comic"
+    },
+    {
+      "source": "rheinkraft",
+      "target": "daringheart",
+      "kind": "comic"
+    },
+    {
+      "source": "rheinkraft",
+      "target": "fusaichipandora",
+      "kind": "comic"
+    },
+    {
+      "source": "verxina",
+      "target": "vivlos",
+      "kind": "comic"
+    },
+    {
+      "source": "mihonobourbon",
+      "target": "riceshower",
+      "kind": "comic"
+    },
+    {
+      "source": "bikopegasus",
+      "target": "hishiakebono",
+      "kind": "comic"
+    },
+    {
+      "source": "winningticket",
+      "target": "naritataishin",
+      "kind": "comic"
+    },
+    {
+      "source": "winvariation",
+      "target": "lovesonlyyou",
+      "kind": "comic"
+    },
+    {
+      "source": "winvariation",
+      "target": "marchelorraine",
+      "kind": "comic"
+    },
+    {
+      "source": "currenbouquetdor",
+      "target": "granalegria",
+      "kind": "comic"
+    },
+    {
+      "source": "currenbouquetdor",
+      "target": "rosekingdom",
+      "kind": "comic"
+    },
+    {
+      "source": "grasswonder",
+      "target": "oguricap",
+      "kind": "comic"
+    },
+    {
+      "source": "grasswonder",
+      "target": "elcondorpasa",
+      "kind": "comic"
+    },
+    {
+      "source": "grasswonder",
+      "target": "inarione",
+      "kind": "comic"
+    },
+    {
+      "source": "zennorobroy",
+      "target": "riceshower",
+      "kind": "comic"
+    },
+    {
+      "source": "zennorobroy",
+      "target": "symbolikriss",
+      "kind": "comic"
+    },
+    {
+      "source": "zennorobroy",
+      "target": "durandal",
+      "kind": "comic"
+    },
+    {
+      "source": "eishinflash",
+      "target": "smartfalcon",
+      "kind": "comic"
+    },
+    {
+      "source": "hishimiracle",
+      "target": "noreason",
+      "kind": "comic"
+    },
+    {
+      "source": "hishiamazon",
+      "target": "naritabrian",
+      "kind": "comic"
+    },
+    {
+      "source": "hishiamazon",
+      "target": "shinkowindy",
+      "kind": "comic"
+    },
+    {
+      "source": "hishiamazon",
+      "target": "bikopegasus",
+      "kind": "comic"
+    },
+    {
+      "source": "hishiakebono",
+      "target": "sakurachiyonoo",
+      "kind": "comic"
+    },
+    {
+      "source": "nishinoflower",
+      "target": "sakurabakushino",
+      "kind": "comic"
+    },
+    {
+      "source": "nishinoflower",
+      "target": "yamaninzephyr",
+      "kind": "comic"
+    },
+    {
+      "source": "taninogimlet",
+      "target": "noreason",
+      "kind": "comic"
+    },
+    {
+      "source": "taninogimlet",
+      "target": "durandal",
+      "kind": "comic"
+    },
+    {
+      "source": "gentildonna",
+      "target": "verxina",
+      "kind": "comic"
+    },
+    {
+      "source": "fenomeno",
+      "target": "staygold",
+      "kind": "comic"
+    },
+    {
+      "source": "supercreek",
+      "target": "tamamocross",
+      "kind": "comic"
+    },
+    {
+      "source": "transcend",
+      "target": "hoshinakiyoko",
+      "kind": "comic"
+    },
+    {
+      "source": "tapdancecity",
+      "target": "hishimiracle",
+      "kind": "comic"
+    },
+    {
+      "source": "seekingthepearl",
+      "target": "kawakamiprincess",
+      "kind": "comic"
+    },
+    {
+      "source": "satonodiamond",
+      "target": "tokaiteio",
+      "kind": "comic"
+    },
+    {
+      "source": "satonodiamond",
+      "target": "kitasanblack",
+      "kind": "comic"
+    },
+    {
+      "source": "satonodiamond",
+      "target": "sakuralaurel",
+      "kind": "comic"
+    },
+    {
+      "source": "satonodiamond",
+      "target": "satonocrown",
+      "kind": "comic"
+    },
+    {
+      "source": "yukinobijin",
+      "target": "manhattancafe",
+      "kind": "comic"
+    },
+    {
+      "source": "yukinobijin",
+      "target": "goldcity",
+      "kind": "comic"
+    },
+    {
+      "source": "bamboomemory",
+      "target": "airshakur",
+      "kind": "comic"
+    },
+    {
+      "source": "bamboomemory",
+      "target": "goldcity",
+      "kind": "comic"
+    },
+    {
+      "source": "chevalgrand",
+      "target": "vivlos",
+      "kind": "comic"
+    },
+    {
+      "source": "symbolirudolf",
+      "target": "mrcb",
+      "kind": "comic"
+    },
+    {
+      "source": "symbolirudolf",
+      "target": "siriussymboli",
+      "kind": "comic"
+    },
+    {
+      "source": "symbolirudolf",
+      "target": "hokkotarumae",
+      "kind": "comic"
+    },
+    {
+      "source": "symbolirudolf",
+      "target": "logotype",
+      "kind": "comic"
+    },
+    {
+      "source": "symbolirudolf",
+      "target": "speedsymboli",
+      "kind": "comic"
+    },
+    {
+      "source": "tsurumarutsuyoshi",
+      "target": "symbolirudolf",
+      "kind": "comic"
+    },
+    {
+      "source": "tsurumarutsuyoshi",
+      "target": "byerleyturk",
+      "kind": "comic"
+    },
+    {
+      "source": "goldcity",
+      "target": "bamboomemory",
+      "kind": "comic"
+    },
+    {
+      "source": "orfevre",
+      "target": "staygold",
+      "kind": "comic"
+    },
+    {
+      "source": "orfevre",
+      "target": "marchelorraine",
+      "kind": "comic"
+    },
+    {
+      "source": "goldship",
+      "target": "airshakur",
+      "kind": "comic"
+    },
+    {
+      "source": "goldship",
+      "target": "tosenjordan",
+      "kind": "comic"
+    },
+    {
+      "source": "goldship",
+      "target": "fenomeno",
+      "kind": "comic"
+    },
+    {
+      "source": "goldship",
+      "target": "luckylilac",
+      "kind": "comic"
+    },
+    {
+      "source": "goldship",
+      "target": "staygold",
+      "kind": "comic"
+    }
+  ]
+}

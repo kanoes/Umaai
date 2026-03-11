@@ -90,19 +90,24 @@ Vite 会把 `/api` 和 `/uma` 代理到本地 Python 服务。
 
 - `GET /api/health`
 - `GET /api/site/overview`
+- `GET /api/site/filter-meta`
 - `GET /api/site/characters`
 - `GET /api/site/characters/{slug}`
 - `GET /api/site/rankings`
+- `GET /api/site/relations`
 - `GET /api/site/compare?slugs=a,b`
 
 ## 后台 API
 
 - `GET /api/admin/overview`
+- `GET /api/admin/quality`
 - `GET /api/admin/jobs`
 - `GET /api/admin/jobs/{id}`
+- `POST /api/admin/jobs/{id}/retry`
 - `POST /api/admin/actions/fetch_info`
 - `POST /api/admin/actions/fetch_chara`
 - `POST /api/admin/actions/build_body_metrics`
+- `POST /api/admin/actions/build_site_bundle`
 
 ## 数据脚本
 
@@ -110,7 +115,14 @@ Vite 会把 `/api` 和 `/uma` 代理到本地 Python 服务。
 python3 -m dataFetcher.fetch_uma_info
 python3 -m dataFetcher.fetch_uma_chara
 python3 -m dataGenerator.build_body_metrics
+python3 -m dataGenerator.build_site_bundle --output-dir data
 ```
+
+## 持久化任务
+
+- 后台任务现在会写入 `data/umaai_jobs.sqlite3`
+- 服务重启后，历史任务和日志仍然保留
+- 运行中断的任务会在下次启动时被标记为 `error`
 
 ## 测试
 

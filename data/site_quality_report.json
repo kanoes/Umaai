@@ -1,0 +1,73 @@
+{
+  "generated_at_utc": "2026-03-11T06:02:47.198163+00:00",
+  "raw_updated_at_utc": "2026-03-05T06:53:35.291571+00:00",
+  "summary": {
+    "missing_name_zh_count": 0,
+    "duplicate_name_zh_group_count": 0,
+    "image_missing_count": 0,
+    "image_invalid_count": 0,
+    "description_missing_count": 0,
+    "sparse_content_count": 7,
+    "issue_character_count": 7
+  },
+  "duplicate_name_zh_groups": [],
+  "issues": [
+    {
+      "slug": "believe",
+      "name": "信念",
+      "severity": 1,
+      "issues": [
+        "内容较薄，建议补充联动或支援卡数据"
+      ]
+    },
+    {
+      "slug": "epiphaneia",
+      "name": "神威启示",
+      "severity": 1,
+      "issues": [
+        "内容较薄，建议补充联动或支援卡数据"
+      ]
+    },
+    {
+      "slug": "furioso",
+      "name": "狂怒乐章",
+      "severity": 1,
+      "issues": [
+        "内容较薄，建议补充联动或支援卡数据"
+      ]
+    },
+    {
+      "slug": "kiseki",
+      "name": "奇迹",
+      "severity": 1,
+      "issues": [
+        "内容较薄，建议补充联动或支援卡数据"
+      ]
+    },
+    {
+      "slug": "logotype",
+      "name": "标志名驹",
+      "severity": 1,
+      "issues": [
+        "内容较薄，建议补充联动或支援卡数据"
+      ]
+    },
+    {
+      "slug": "rulership",
+      "name": "统治地位",
+      "severity": 1,
+      "issues": [
+        "内容较薄，建议补充联动或支援卡数据"
+      ]
+    },
+    {
+      "slug": "samsonbig",
+      "name": "森逊巨人",
+      "severity": 1,
+      "issues": [
+        "内容较薄，建议补充联动或支援卡数据"
+      ]
+    }
+  ],
+  "stale_prompt": null
+}

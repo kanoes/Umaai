@@ -1,0 +1,117 @@
+{
+  "generated_at_utc": "2026-03-11T06:02:47.198163+00:00",
+  "raw_updated_at_utc": "2026-03-05T06:53:35.291571+00:00",
+  "counts": {
+    "total_characters": 140,
+    "with_images": 140,
+    "with_metrics": 141,
+    "support_card_total": 504,
+    "character_card_total": 241,
+    "relation_total": 213
+  },
+  "filter_meta": {
+    "theme_groups": [
+      "主角气场",
+      "亲和偶像",
+      "冷静知性",
+      "名门优雅",
+      "经典竞马",
+      "自由灵感"
+    ],
+    "personality_tags": [
+      "亲和力",
+      "偶像感",
+      "元气感",
+      "冷静派",
+      "创作者",
+      "努力家",
+      "名门气质",
+      "挑战者",
+      "经典竞马",
+      "自由派"
+    ],
+    "distance_tags": [
+      "long",
+      "middle",
+      "mile",
+      "short"
+    ],
+    "style_tags": [
+      "betweener",
+      "chaser",
+      "leader",
+      "runner"
+    ],
+    "support_command_tags": [
+      "力量",
+      "团队",
+      "智力",
+      "根性",
+      "耐力",
+      "速度"
+    ],
+    "birthday_months": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "numeric_ranges": {
+      "height_cm": {
+        "min": 135,
+        "max": 180
+      },
+      "bust_cm": {
+        "min": 66,
+        "max": 99
+      },
+      "waist_cm": {
+        "min": 48,
+        "max": 64
+      },
+      "hip_cm": {
+        "min": 68,
+        "max": 91
+      },
+      "support_cards": {
+        "min": 0,
+        "max": 10
+      },
+      "character_cards": {
+        "min": 0,
+        "max": 3
+      },
+      "relations": {
+        "min": 0,
+        "max": 11
+      }
+    }
+  },
+  "ranking_keys": [
+    "waist_to_hip_asc",
+    "waist_to_bust_asc",
+    "bust_cm_desc",
+    "hip_cm_desc",
+    "waist_cm_asc",
+    "height_cm_desc",
+    "support_card_count_desc",
+    "character_card_count_desc",
+    "relation_count_desc",
+    "newest_outfit_desc",
+    "content_density_desc",
+    "curve_presence_desc"
+  ],
+  "derived_files": {
+    "manifest": "site_manifest.json",
+    "summaries": "site_characters.json",
+    "details": "site_details.json",
+    "rankings": "site_rankings.json",
+    "search_index": "site_search_index.json",
+    "quality_report": "site_quality_report.json",
+    "relations": "site_relations.json"
+  },
+  "source_mode": "derived",
+  "stale": false
+}
