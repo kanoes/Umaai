@@ -84,6 +84,10 @@ function rangePlaceholder(meta: FilterMeta, key: string, mode: "min" | "max") {
   return mode === "min" ? `≥ ${range.min ?? "-"}` : `≤ ${range.max ?? "-"}`;
 }
 
+function personaSnippet(line?: string) {
+  return line?.split("·").at(-1)?.trim() || "点进去看看";
+}
+
 export function HomePage() {
   const [searchParams, setSearchParams] = useSearchParams();
   const deferredQueryString = useDeferredValue(searchParams.toString());
@@ -117,39 +121,51 @@ export function HomePage() {
   return (
     <div className="page page-home">
       <section className="hero-banner">
-        <div className="hero-banner__copy">
-          <p className="eyebrow">Public Site</p>
-          <h1>把角色发现页真正做成可以筛、可以逛、可以延展的资料站。</h1>
-          <p className="hero-banner__text">
-            现在公开站已经和后台拆开。发现页支持 URL 同步筛选，底层数据也切成了标准化派生文件，后续加专题或新功能不会再卡在原始控制台结构上。
-          </p>
+        <div className="hero-banner__copy hero-banner__copy--showcase">
+          <p className="eyebrow">Umaai Archive</p>
+          <h1>把喜欢的马娘，逛得更轻盈一点。</h1>
+          <p className="hero-banner__lead">筛一筛，点开她，留下心动的那位。</p>
+          <div className="hero-badge-row">
+            <span>{overviewQuery.data?.stats.total_characters ?? "-"} 位角色</span>
+            <span>{overviewQuery.data?.stats.character_card_total ?? "-"} 套衣装</span>
+            <span>{overviewQuery.data?.stats.support_card_total ?? "-"} 张支援卡</span>
+          </div>
           <div className="hero-banner__actions">
             <Link className="primary-link" to="/rankings">
-              查看排行 2.0
+              去逛排行
             </Link>
             <Link className="secondary-link" to="/compare">
               角色对比
             </Link>
           </div>
         </div>
-        <GlowPanel className="hero-banner__stats">
-          <div className="stat-grid">
-            <article>
-              <span>角色总数</span>
-              <strong>{overviewQuery.data?.stats.total_characters ?? "-"}</strong>
+        <GlowPanel className="hero-banner__spotlight">
+          <div className="sparkle-grid">
+            <article className="sparkle-card">
+              <span className="sparkle-card__label">主题页</span>
+              <strong className="sparkle-card__value">角色配色</strong>
+              <p>每位马娘都带自己的主色调。</p>
             </article>
-            <article>
-              <span>派生模式</span>
-              <strong>{manifest?.source_mode === "derived" ? "Derived" : "Runtime"}</strong>
+            <article className="sparkle-card">
+              <span className="sparkle-card__label">发现感</span>
+              <strong className="sparkle-card__value">URL 筛选</strong>
+              <p>筛到喜欢的组合，直接分享出去。</p>
             </article>
-            <article>
-              <span>支援卡总数</span>
-              <strong>{overviewQuery.data?.stats.support_card_total ?? "-"}</strong>
+            <article className="sparkle-card">
+              <span className="sparkle-card__label">当前状态</span>
+              <strong className="sparkle-card__value">{manifest?.stale ? "待重建" : "已同步"}</strong>
+              <p>{manifest?.source_mode === "derived" ? "派生站点模式" : "运行时模式"}</p>
             </article>
-            <article>
-              <span>派生状态</span>
-              <strong>{manifest?.stale ? "待重建" : "最新"}</strong>
-            </article>
+          </div>
+          <div className="hero-mini-gallery">
+            {overviewQuery.data?.overview.latest_outfits.slice(0, 2).map((character, index) => (
+              <Link key={character.slug} className={`hero-mini-card tone-${index + 1}`.trim()} to={`/characters/${character.slug}`}>
+                <span className="hero-mini-card__label">{index === 0 ? "最近上新" : "编辑推荐"}</span>
+                <strong>{characterName(character)}</strong>
+                <p>{personaSnippet(character.persona_line)}</p>
+                <small>{character.theme_group}</small>
+              </Link>
+            ))}
           </div>
         </GlowPanel>
       </section>
@@ -159,7 +175,7 @@ export function HomePage() {
           <div className="section-head">
             <div>
               <p className="eyebrow">Featured</p>
-              <h2>先看最有内容密度的一批角色</h2>
+              <h2>今天先看这几位</h2>
             </div>
           </div>
           <div className="character-grid featured">
@@ -173,7 +189,7 @@ export function HomePage() {
           <div className="section-head">
             <div>
               <p className="eyebrow">Ranking Preview</p>
-              <h2>重点专题</h2>
+              <h2>小排行</h2>
             </div>
             <Link className="inline-link" to="/rankings">
               全部排行
@@ -206,7 +222,7 @@ export function HomePage() {
         <div className="section-head">
           <div>
             <p className="eyebrow">Discovery</p>
-            <h2>高级筛选</h2>
+            <h2>角色发现</h2>
           </div>
           <button
             className="secondary-link"
@@ -440,7 +456,7 @@ export function HomePage() {
           <p className="result-copy">
             当前筛到 <strong>{charactersQuery.data?.total ?? characters.length}</strong> 位角色
           </p>
-          <span className="result-copy subtle">URL 已同步，可直接分享当前筛选结果。</span>
+          <span className="result-copy subtle">筛选链接已同步</span>
         </div>
 
         {charactersQuery.loading ? <p className="empty-state">正在加载角色列表…</p> : null}
@@ -456,14 +472,14 @@ export function HomePage() {
         <div className="section-head">
           <div>
             <p className="eyebrow">Fresh Looks</p>
-            <h2>最近值得点进去看的衣装页</h2>
+            <h2>最近上新</h2>
           </div>
         </div>
         <div className="latest-strip">
           {overviewQuery.data?.overview.latest_outfits.map((character) => (
             <Link key={character.slug} className="latest-strip__item" to={`/characters/${character.slug}`}>
               <span>{characterName(character)}</span>
-              <small>{character.persona_line}</small>
+              <small>{personaSnippet(character.persona_line)}</small>
             </Link>
           ))}
         </div>

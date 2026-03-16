@@ -46,8 +46,8 @@ export function ComparePage() {
     <div className="page page-compare">
       <section className="page-header">
         <p className="eyebrow">Compare</p>
-        <h1>对比不只看三围，还能看衣装量、关系链和角色设定。</h1>
-        <p>先选角色，再横向看她们的资料强度与内容密度。</p>
+        <h1>并排看看，谁更合你的口味。</h1>
+        <p>最多选 3 位，一眼看差别。</p>
       </section>
 
       <GlowPanel>
@@ -95,7 +95,7 @@ export function ComparePage() {
                 <article key={item.slug} className="compare-card">
                   <span className="compare-card__eyebrow">{item.name_ja || item.name_en}</span>
                   <h2>{characterName(item)}</h2>
-                  <p>{item.description}</p>
+                  <p>{item.persona_line || item.description}</p>
                   <div className="compare-card__stats">
                     <span>身高 {item.metrics?.height_cm ?? "-"}</span>
                     <span>衣装 {item.counts.character_cards}</span>

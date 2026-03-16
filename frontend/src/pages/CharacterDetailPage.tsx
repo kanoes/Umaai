@@ -11,9 +11,23 @@ import type { CharacterResponse, RelationGraph, SupportCardGroup } from "../type
 import { hexToRgba } from "../utils/color";
 import { characterName, metricValue } from "../utils/format";
 
+const DISTANCE_LABELS: Record<string, string> = {
+  short: "短距离",
+  mile: "英里",
+  middle: "中距离",
+  long: "长距离",
+};
+
+const STYLE_LABELS: Record<string, string> = {
+  runner: "逃",
+  leader: "先",
+  betweener: "差",
+  chaser: "追",
+};
+
 function RelationGraphView({ graph }: { graph: RelationGraph }) {
   if (graph.nodes.length <= 1) {
-    return <p className="empty-state">当前还没有足够的关系数据。</p>;
+    return <p className="empty-state">关系数据还在补完中。</p>;
   }
 
   return (
@@ -84,25 +98,47 @@ export function CharacterDetailPage() {
     <div className="page page-detail" style={heroStyle}>
       <section className="detail-hero">
         <div className="detail-hero__copy">
-          <p className="eyebrow">Character Detail</p>
+          <p className="eyebrow">Character</p>
           <h1>{characterName(item)}</h1>
-          <p className="detail-hero__sub">{item.name_ja || item.name_en}</p>
+          <p className="detail-hero__sub">{item.persona_line || item.name_ja || item.name_en}</p>
+          <div className="detail-hero__ribbons">
+            <span>{item.theme_group}</span>
+            {item.personality_tags.slice(0, 3).map((tag) => (
+              <span key={tag}>{tag}</span>
+            ))}
+          </div>
+          <div className="detail-hero__mini-stats">
+            <article className="detail-mini-stat">
+              <span>身高</span>
+              <strong>{metricValue(item.metrics?.height_cm, "cm")}</strong>
+            </article>
+            <article className="detail-mini-stat">
+              <span>衣装</span>
+              <strong>{item.counts.character_cards}</strong>
+            </article>
+            <article className="detail-mini-stat">
+              <span>支援</span>
+              <strong>{item.counts.support_cards}</strong>
+            </article>
+            <article className="detail-mini-stat">
+              <span>关系</span>
+              <strong>{item.counts.relations}</strong>
+            </article>
+          </div>
           <p className="detail-hero__text">{item.description}</p>
           <div className="detail-hero__actions">
             <Link className="primary-link" to={`/compare?slugs=${item.slug}`}>
               加入对比
             </Link>
             <Link className="secondary-link" to="/rankings">
-              查看排行
+              看排行
             </Link>
           </div>
           <div className="metric-chip-row">
-            <span>{item.theme_group}</span>
-            <span>{item.personality_tags.join(" / ")}</span>
-            <span>身高 {metricValue(item.metrics?.height_cm, "cm")}</span>
-            <span>三围 B{metricValue(item.metrics?.bust_cm)} / W{metricValue(item.metrics?.waist_cm)} / H{metricValue(item.metrics?.hip_cm)}</span>
-            <span>衣装 {item.counts.character_cards}</span>
-            <span>支援卡 {item.counts.support_cards}</span>
+            <span>B {metricValue(item.metrics?.bust_cm)}</span>
+            <span>W {metricValue(item.metrics?.waist_cm)}</span>
+            <span>H {metricValue(item.metrics?.hip_cm)}</span>
+            <span>{item.name_ja || item.name_en}</span>
           </div>
         </div>
         <div className="detail-hero__art">
@@ -115,7 +151,7 @@ export function CharacterDetailPage() {
           <div className="section-head">
             <div>
               <p className="eyebrow">Persona</p>
-              <h2>人格标签与适性概览</h2>
+              <h2>氛围卡</h2>
             </div>
           </div>
           <div className="persona-grid">
@@ -129,7 +165,7 @@ export function CharacterDetailPage() {
               <div className="aptitude-chip-row">
                 {Object.entries(item.distance_profile).map(([key, value]) => (
                   <span key={key}>
-                    {key} {value || "-"}
+                    {DISTANCE_LABELS[key] || key} {value || "-"}
                   </span>
                 ))}
               </div>
@@ -139,7 +175,7 @@ export function CharacterDetailPage() {
               <div className="aptitude-chip-row">
                 {Object.entries(item.style_profile).map(([key, value]) => (
                   <span key={key}>
-                    {key} {value || "-"}
+                    {STYLE_LABELS[key] || key} {value || "-"}
                   </span>
                 ))}
               </div>
@@ -151,13 +187,16 @@ export function CharacterDetailPage() {
           <div className="section-head">
             <div>
               <p className="eyebrow">Profile</p>
-              <h2>资料卡</h2>
+              <h2>小档案</h2>
             </div>
           </div>
           <div className="profile-sections">
             {item.profile_sections.map((section) => (
               <article key={section.title} className="profile-section">
-                <h3>{section.title}</h3>
+                <div className="profile-section__head">
+                  <h3>{section.title}</h3>
+                  <span>{section.items.length} 条</span>
+                </div>
                 <div className="profile-facts">
                   {section.items.map((fact) => (
                     <div key={fact.key} className="profile-fact">
@@ -175,7 +214,7 @@ export function CharacterDetailPage() {
           <div className="section-head">
             <div>
               <p className="eyebrow">Relations</p>
-              <h2>关系图</h2>
+              <h2>关系圈</h2>
             </div>
           </div>
           <RelationGraphView graph={item.relation_graph} />
@@ -203,7 +242,7 @@ export function CharacterDetailPage() {
           <div className="section-head">
             <div>
               <p className="eyebrow">Dress Timeline</p>
-              <h2>衣装时间线</h2>
+              <h2>衣装轨迹</h2>
             </div>
           </div>
           <div className="timeline-year-groups">
@@ -246,7 +285,7 @@ export function CharacterDetailPage() {
           <div className="section-head">
             <div>
               <p className="eyebrow">Support Cards</p>
-              <h2>支援卡分类</h2>
+              <h2>支援卡册</h2>
             </div>
             <div className="tab-row">
               <button
@@ -296,7 +335,7 @@ export function CharacterDetailPage() {
           <div className="section-head">
             <div>
               <p className="eyebrow">Similar Picks</p>
-              <h2>相似角色推荐</h2>
+              <h2>一起看</h2>
             </div>
           </div>
           <div className="character-grid featured">

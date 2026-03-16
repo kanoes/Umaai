@@ -11,7 +11,7 @@ export function AppShell() {
       <header className="topbar">
         <Link className="brand" to="/">
           <span className="brand__mark">Umaai</span>
-          <span className="brand__copy">赛马娘资料库与灵感工坊</span>
+          <span className="brand__copy">可爱一点的赛马娘资料站</span>
         </Link>
         <nav className="topbar__nav">
           <NavLink to="/">发现</NavLink>
@@ -24,7 +24,7 @@ export function AppShell() {
         <Outlet />
       </main>
       <footer className="footer">
-        <p>公开站负责内容体验，后台只负责采集与维护。</p>
+        <p>发现页负责心动，后台只负责维护。</p>
       </footer>
     </div>
   );
